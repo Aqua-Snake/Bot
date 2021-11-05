@@ -330,9 +330,6 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                       require('./plugins/' + plugin.dataValues.name + '.js');
                   }     
               }
-          } catch {
-              console.log('Some Plugins Are Corrupted: ' + plugin.dataValues.name)
-          }
         });
         // ==================== End External Plugins ====================
 
