@@ -6,4 +6,1612 @@ you may not use this file except in compliance with the License.
 Cyber Bot - Aqua Snake
 */
 
-(function(_0x4c8e8d,_0x512704){function _0x2e76b4(_0x2bcff8,_0x576c1a){return _0x752b(_0x576c1a-0x26d,_0x2bcff8);}var _0x164eb7=_0x4c8e8d();while(!![]){try{var _0x198ca8=-parseInt(_0x2e76b4(0x382,0x34d))/0x1+parseInt(_0x2e76b4(0x358,0x34a))/0x2*(parseInt(_0x2e76b4(0x3d2,0x3e7))/0x3)+parseInt(_0x2e76b4(0x352,0x370))/0x4+parseInt(_0x2e76b4(0x42c,0x3d5))/0x5+-parseInt(_0x2e76b4(0x3a4,0x3d3))/0x6+-parseInt(_0x2e76b4(0x38e,0x3db))/0x7*(-parseInt(_0x2e76b4(0x3bd,0x3a2))/0x8)+parseInt(_0x2e76b4(0x3c7,0x3bf))/0x9*(-parseInt(_0x2e76b4(0x3da,0x3b8))/0xa);if(_0x198ca8===_0x512704)break;else _0x164eb7['push'](_0x164eb7['shift']());}catch(_0x1ccf0a){_0x164eb7['push'](_0x164eb7['shift']());}}}(_0x5e63,0x58dd2));var _0x164995=(function(){var _0x5b97ee=!![];return function(_0x1f6535,_0x273be0){var _0x28daa8=_0x5b97ee?function(){if(_0x273be0){var _0x47ce09=_0x273be0['apply'](_0x1f6535,arguments);return _0x273be0=null,_0x47ce09;}}:function(){};return _0x5b97ee=![],_0x28daa8;};}()),_0x3425f5=_0x164995(this,function(){function _0x12d5b4(_0x5d7837,_0x55d45f){return _0x752b(_0x55d45f- -0x28b,_0x5d7837);}return _0x3425f5[_0x12d5b4(-0x148,-0x150)]()['search']('(((.+)+)+)+$')[_0x12d5b4(-0x194,-0x150)]()['constructor'](_0x3425f5)[_0x12d5b4(-0x13f,-0x19c)]('(((.+)+)+)+$');});function _0x752b(_0x288af2,_0x2bc24a){var _0xc07a08=_0x5e63();return _0x752b=function(_0xf9a689,_0x16e17a){_0xf9a689=_0xf9a689-0xd7;var _0x189610=_0xc07a08[_0xf9a689];if(_0x752b['AUxRuS']===undefined){var _0x38dfc7=function(_0x752b4b){var _0x35f688='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';var _0x368f7e='',_0x2152aa='',_0x1d7f0b=_0x368f7e+_0x38dfc7;for(var _0x1309c9=0x0,_0x3bab50,_0x5b97ee,_0x1f6535=0x0;_0x5b97ee=_0x752b4b['charAt'](_0x1f6535++);~_0x5b97ee&&(_0x3bab50=_0x1309c9%0x4?_0x3bab50*0x40+_0x5b97ee:_0x5b97ee,_0x1309c9++%0x4)?_0x368f7e+=_0x1d7f0b['charCodeAt'](_0x1f6535+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x3bab50>>(-0x2*_0x1309c9&0x6)):_0x1309c9:0x0){_0x5b97ee=_0x35f688['indexOf'](_0x5b97ee);}for(var _0x273be0=0x0,_0x28daa8=_0x368f7e['length'];_0x273be0<_0x28daa8;_0x273be0++){_0x2152aa+='%'+('00'+_0x368f7e['charCodeAt'](_0x273be0)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x2152aa);};_0x752b['WGBxhS']=_0x38dfc7,_0x288af2=arguments,_0x752b['AUxRuS']=!![];}var _0x3425f5=_0xc07a08[0x0],_0x164995=_0xf9a689+_0x3425f5,_0x5e63b3=_0x288af2[_0x164995];if(!_0x5e63b3){var _0x47ce09=function(_0x520402){this['qjGPsG']=_0x520402,this['QXJLcH']=[0x1,0x0,0x0],this['cldYQh']=function(){return'newState';},this['adZqWK']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['RLHaPq']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x47ce09['prototype']['OtcjyQ']=function(){var _0x5899ba=new RegExp(this['adZqWK']+this['RLHaPq']),_0x41635d=_0x5899ba['test'](this['cldYQh']['toString']())?--this['QXJLcH'][0x1]:--this['QXJLcH'][0x0];return this['owxwTy'](_0x41635d);},_0x47ce09['prototype']['owxwTy']=function(_0x11d964){if(!Boolean(~_0x11d964))return _0x11d964;return this['rHNqMI'](this['qjGPsG']);},_0x47ce09['prototype']['rHNqMI']=function(_0x30e733){for(var _0x997329=0x0,_0x4216fe=this['QXJLcH']['length'];_0x997329<_0x4216fe;_0x997329++){this['QXJLcH']['push'](Math['round'](Math['random']())),_0x4216fe=this['QXJLcH']['length'];}return _0x30e733(this['QXJLcH'][0x0]);},new _0x47ce09(_0x752b)['OtcjyQ'](),_0x189610=_0x752b['WGBxhS'](_0x189610),_0x288af2[_0x164995]=_0x189610;}else _0x189610=_0x5e63b3;return _0x189610;},_0x752b(_0x288af2,_0x2bc24a);}_0x3425f5();var _0x16e17a=(function(){var _0x520402=!![];return function(_0x5899ba,_0x41635d){var _0x11d964=_0x520402?function(){function _0x2c9907(_0x4363e6,_0x720916){return _0x752b(_0x4363e6-0x63,_0x720916);}if(_0x41635d){var _0x30e733=_0x41635d[_0x2c9907(0x13d,0xe6)](_0x5899ba,arguments);return _0x41635d=null,_0x30e733;}}:function(){};return _0x520402=![],_0x11d964;};}()),_0xf9a689=_0x16e17a(this,function(){var _0x997329;function _0x298845(_0x48d698,_0x918332){return _0x752b(_0x918332- -0x10a,_0x48d698);}try{var _0x4216fe=Function(_0x298845(0x94,0x63)+'{}.constructor(\x22return\x20this\x22)(\x20)'+');');_0x997329=_0x4216fe();}catch(_0x222241){_0x997329=window;}var _0x864e30=_0x997329['console']=_0x997329[_0x298845(0x64,0x30)]||{},_0x45a131=[_0x298845(-0x57,-0x22),_0x298845(0x58,0x88),'info',_0x298845(0x43,0x33),_0x298845(0xb0,0x8a),_0x298845(0x89,0x6e),_0x298845(0x65,0x5f)];for(var _0x3f0de3=0x0;_0x3f0de3<_0x45a131[_0x298845(0x45,-0x4)];_0x3f0de3++){var _0x57043b=_0x16e17a[_0x298845(0x3c,0x24)][_0x298845(0x6b,0x82)]['bind'](_0x16e17a),_0x329943=_0x45a131[_0x3f0de3],_0x227914=_0x864e30[_0x329943]||_0x57043b;_0x57043b['__proto__']=_0x16e17a[_0x298845(0x2a,0x43)](_0x16e17a),_0x57043b[_0x298845(0x2,0x31)]=_0x227914['toString'][_0x298845(0x14,0x43)](_0x227914),_0x864e30[_0x329943]=_0x57043b;}});_0xf9a689();const {MessageType,GroupSettingChange}=require('@adiwajshing/baileys');function _0x5a0bda(_0x3a1249,_0x5cebdf){return _0x752b(_0x5cebdf- -0x22f,_0x3a1249);}function _0x5e63(){var _0x56af04=['Bg9N','qKfotvnh','mJrT','Bxv0zsa/kc4Qkq','u0fbvejfXz5nvvrf','Aw5JBhvKzxm','mZzT','C2vHCMnO','ruXmXlbzruteSe1vveu','quXsrufewv9quK9nt1rfra','t1rvwLnfs8sWwK1vveu','lI4Vy29UzMLN','s0Lss0tdLLjutvvurq','mZfT','mZDT','igH0DhbZoI8Vy2HHDc53Agf0C2fWCc5JB20V','s0Lss0jfXz5nvvrf','vu5nvvrfx0rfu0m','s0Lss8oCW4Dnvvrf','mZjT','ufjptu9uru1trW','mtfO','mZrT','mtbT','z3jVDxbnzxrHzgf0yq','ruXmXlbeW5zsve1vveu','Bxv0zq','otmZnZu2BhvUzfzb','s0Lss0rps1vAtvvurq','CgfYDgLJAxbHBNq','BgvUz3rO','ywrKkd86ihWKksGUkIK','ndzT','r8oCtKleSfjnvvrf','ndrT','ntjT','mJfT','revnt1rfx0rfu0m','ndnT','ruXmXlbet0TvwK1vveu','u0vlXlbAtvvurq','ntbT','ntfT','ndvT','vu5nvvrftvnh','mtjO','qSsWuK1vveu','ndfT','vmoCuG','u0fbverps1vAtvvurq','mZHT','su1FtK9ux0fetuLo','mJHT','Dgv4Da','AMLK','mZLT','z3jVDxbnywTLqwrTAw4','mJzT','ufjptu9urv9ervnd','ndDT','qurex0rfu0m','s0Lss1LfrmsWtvvurq','t1rvwKrps1vAtvvurq','mJjT','s0Lss1nfs8sWwK1vveu','wCsWuK3eSmoCW4Dnvvrf','u0fbvmsWs8sWtvvurq','u0fbvfnfs8sWwK1vveu','t1rvwK1vveu','z2v0u3rYAw5N','y29UC3rYDwn0B3i','ywrTAw4','u0fbvetdLLjutvvurq','BwfW','t1rvwSsWs8sWtvvurq','s0Lss01vveu','t05zruteSe1vveu','ofjhC3reqW','mJnT','qureruq','BwvUDgLVBG','C3bSAxq','y29UC29Szq','Dg9tDhjPBMC','lI4VzxzLBNrZ','zxjYB3i','mJDT','ruXmXldeSeVeSe1vveu','mtfT','wCsWuK3eSe1vveu','v1jptKC','ruXmXlbnvvrf','BwvZC2fNzvnLBMq','ruXmXlbbtfrjtvvurq','zxHWB3j0CW','mZbT','zgf0yq','CgfYDgLJAxbHBNrZ','CMvWBhLFBwvZC2fNzq','mtiZmteWBengCgLA','ruXmXlbtruVeSfPnvvrf','yMLUza','ntzT','mtzT','mtbO','zgvTB3rLid8OlIOP','mJC5tu9iD2Ph','z3jVDxbezw1VDgvbzg1PBG','mJvT','mtDT','u0fbvmoCW4Dnvvrf','mtLT','revnt1rftvnh','wCsWuK3eSefmveLnvvrf','t1rvwKtdLLjutvvurq','vu5nvvrfra','t1rvwSoCW4Dnvvrf','ntrT','ntnT','y2XPzw50','r0Lwrv9nrv9vu0vs','s0Lss0leSfjnvvrf','ndLT','z3jVDxbtzxr0Aw5Nq2HHBMDL','wCsWuK3eSerps1vAtvvurq','ntHT','nty0nZa4rwzKDgDZ','ywrKq29TBwfUza','mtmZntiZnxPkC2PVvG','DhjHy2u','wCsWuK3eSfLfrmsWtvvurq','ygbG','quXsrufewv9ot1rFqurnsu4','CMv0DxjUicHMDw5JDgLVBIGPia','nJeZnJK3u0Tdv1zp','s0Lss0fmveLnvvrf','ruXmXlddNmohtvvurq','t07dNmohtvvurq','ndHT','ygbGlca','re9lvvPnvvrf','u0fbve9oqSsWuK1vveu','tvvuruq','mZvT','DgfIBgu','mtrT','m2PUvMzfEa','t05cXlbstvvurq','u0fbve9oXlblXlbnvvrf','s0Lss8sWs8sWtvvurq','ufjptu9uruq','wuveXlbnvvrf','ntvT','mtnT','mtvT','mJbT','ntDT','su5wsvrf','wCsWuK3eSfnfs8sWwK1vveu','t1rvwKjfXz5nvvrf','t1rvwKfmveLnvvrf','wCsWuK3eSejfXz5nvvrf','u0fbve9otvvurq','yMfUid8OlIOP','ChjVDg90ExbL','su5wsvrfx0rfu0m','qhmUD2HHDhnHChaUBMv0','mJLT','Dw5TDxrLid8OlIOP','ruXmXlbcrCwEtvvurq','D2fYBG','tvvuru1trW','zxHJzxb0Aw9U','r8oCtSoCW4Dnvvrf','t05crCwEtvvurq','XlblXlbnvvrf','Aw52AxrLid8OlIOP','ndjT','z3jVDxbszw1VDMu','wCsWuK3eSeleSfjnvvrf','mZnT','yxbWBhK','zgvMyxvSDa','mtHT','odu1oty2C2P6EMnm','qKfotKve','t1rvwLLfrmsWtvvurq','mtC2mZK1ywrHs3Ls','ntLT','revnt1rfra','mtjT','ndbT','t05btfrjtvvurq','quretvnh','C2vUze1LC3nHz2u'];_0x5e63=function(){return _0x56af04;};return _0x5e63();}const Asena=require(_0x5a0bda(-0xed,-0xf3)),Config=require(_0x5a0bda(-0xe9,-0x13c)),Language=require('../language'),Lang=Language[_0x5a0bda(-0xd0,-0x102)](_0x5a0bda(-0x101,-0x100)),mut=Language['getString'](_0x5a0bda(-0x16a,-0x12d));async function checkImAdmin(_0x53cfd0,_0x158f36=_0x53cfd0['client']['user'][_0x5a0bda(-0x14c,-0x111)]){var _0x2bc426=await _0x53cfd0[_0x21ded6(-0x229,-0x1e8)][_0x21ded6(-0x288,-0x268)](_0x53cfd0[_0x21ded6(-0x26a,-0x29f)]),_0x164da7=_0x2bc426[_0x21ded6(-0x23f,-0x1e0)]['map'](_0x360674=>{if(_0x360674[_0x3c66ad(-0x134,-0x107)][_0x3c66ad(-0x119,-0x15e)]('@')[0x0]==_0x158f36['split']('@')[0x0]&&_0x360674['isAdmin'])return!![];else;function _0x3c66ad(_0x16d4d9,_0x1bf8d4){return _0x21ded6(_0x16d4d9-0x136,_0x1bf8d4);}return![];});function _0x21ded6(_0x55957e,_0x14db4f){return _0x5a0bda(_0x14db4f,_0x55957e- -0x159);}return _0x164da7[_0x21ded6(-0x29b,-0x243)](!![]);}Asena[_0x5a0bda(-0xee,-0xc8)]({'pattern':_0x5a0bda(-0xe8,-0xa4),'fromMe':!![],'onlyGroup':!![],'desc':Lang['BAN_DESC']},async(_0x1e14c4,_0x176ee0)=>{var _0x5871c1=await checkImAdmin(_0x1e14c4);function _0x551a27(_0xadb258,_0x15f6cc){return _0x5a0bda(_0xadb258,_0x15f6cc- -0xad);}if(!_0x5871c1)return await _0x1e14c4['client'][_0x551a27(-0x1a0,-0x1f5)](_0x1e14c4[_0x551a27(-0x16f,-0x1be)],Lang[_0x551a27(-0x1a9,-0x1c1)],MessageType[_0x551a27(-0x1fd,-0x1bf)]);if(Config[_0x551a27(-0x212,-0x1f3)]==_0x551a27(-0x208,-0x201)){if(_0x1e14c4['reply_message']!==![])await _0x1e14c4[_0x551a27(-0x1b1,-0x17d)][_0x551a27(-0x1a2,-0x1f5)](_0x1e14c4[_0x551a27(-0x1c9,-0x1be)],'@'+_0x1e14c4[_0x551a27(-0x183,-0x192)][_0x551a27(-0x1d2,-0x194)][_0x551a27(-0x231,-0x1d7)][_0x551a27(-0x1e9,-0x1a3)]('@')[0x0]+_0x551a27(-0x199,-0x169)+Lang['BANNED']+_0x551a27(-0x158,-0x171),MessageType['text'],{'contextInfo':{'mentionedJid':[_0x1e14c4[_0x551a27(-0x170,-0x192)][_0x551a27(-0x1cc,-0x194)]['participant']]}}),await _0x1e14c4[_0x551a27(-0x1a2,-0x17d)][_0x551a27(-0x1d8,-0x205)](_0x1e14c4['jid'],[_0x1e14c4[_0x551a27(-0x1b0,-0x192)][_0x551a27(-0x1c9,-0x194)]['participant']]);else{if(_0x1e14c4['reply_message']===![]&&_0x1e14c4[_0x551a27(-0x1e1,-0x1a4)]!==![]){var _0x4d8bf2='';_0x1e14c4[_0x551a27(-0x16c,-0x1a4)]['map'](async _0x183be0=>{function _0x3719c8(_0x2572c7,_0x5b42a1){return _0x551a27(_0x5b42a1,_0x2572c7-0x2e1);}_0x4d8bf2+='@'+_0x183be0[_0x3719c8(0x13e,0xfb)]('@')[0x0]+',';}),await _0x1e14c4[_0x551a27(-0x11f,-0x17d)]['sendMessage'](_0x1e14c4[_0x551a27(-0x1ca,-0x1be)],_0x4d8bf2+_0x551a27(-0x19e,-0x169)+Lang[_0x551a27(-0x1dc,-0x1fe)]+_0x551a27(-0x159,-0x171),MessageType[_0x551a27(-0x1ed,-0x1bf)],{'contextInfo':{'mentionedJid':_0x1e14c4[_0x551a27(-0x1ab,-0x1a4)]}}),await _0x1e14c4[_0x551a27(-0x129,-0x17d)][_0x551a27(-0x1f1,-0x205)](_0x1e14c4[_0x551a27(-0x17f,-0x1be)],_0x1e14c4['mention']);}else return await _0x1e14c4[_0x551a27(-0x1ce,-0x17d)][_0x551a27(-0x243,-0x1f5)](_0x1e14c4[_0x551a27(-0x187,-0x1be)],Lang[_0x551a27(-0x1d4,-0x17c)],MessageType[_0x551a27(-0x1b0,-0x1bf)]);}}else{if(_0x1e14c4['reply_message']!==![])await _0x1e14c4[_0x551a27(-0x154,-0x17d)][_0x551a27(-0x251,-0x1f5)](_0x1e14c4[_0x551a27(-0x1d8,-0x1be)],'@'+_0x1e14c4[_0x551a27(-0x144,-0x192)][_0x551a27(-0x14f,-0x194)][_0x551a27(-0x1bb,-0x1d7)][_0x551a27(-0x1ec,-0x1a3)]('@')[0x0]+Config['BANMSG'],MessageType[_0x551a27(-0x1ff,-0x1bf)],{'contextInfo':{'mentionedJid':[_0x1e14c4[_0x551a27(-0x16f,-0x192)][_0x551a27(-0x194,-0x194)][_0x551a27(-0x1d0,-0x1d7)]]}}),await _0x1e14c4[_0x551a27(-0x175,-0x17d)]['groupRemove'](_0x1e14c4['jid'],[_0x1e14c4[_0x551a27(-0x163,-0x192)][_0x551a27(-0x1e3,-0x194)][_0x551a27(-0x220,-0x1d7)]]);else{if(_0x1e14c4[_0x551a27(-0x1aa,-0x192)]===![]&&_0x1e14c4['mention']!==![]){var _0x4d8bf2='';_0x1e14c4['mention']['map'](async _0xc56aaf=>{function _0x3c09c1(_0x31c7ff,_0x32bb47){return _0x551a27(_0x31c7ff,_0x32bb47-0x6a4);}_0x4d8bf2+='@'+_0xc56aaf[_0x3c09c1(0x4ff,0x501)]('@')[0x0]+',';}),await _0x1e14c4['client'][_0x551a27(-0x1d1,-0x1f5)](_0x1e14c4[_0x551a27(-0x19b,-0x1be)],_0x4d8bf2+Config[_0x551a27(-0x1c8,-0x1f3)],MessageType[_0x551a27(-0x1c1,-0x1bf)],{'contextInfo':{'mentionedJid':_0x1e14c4[_0x551a27(-0x1ab,-0x1a4)]}}),await _0x1e14c4['client']['groupRemove'](_0x1e14c4[_0x551a27(-0x1d2,-0x1be)],_0x1e14c4[_0x551a27(-0x1be,-0x1a4)]);}else return await _0x1e14c4['client']['sendMessage'](_0x1e14c4['jid'],Lang['GIVE_ME_USER'],MessageType['text']);}}}),Asena[_0x5a0bda(-0x94,-0xc8)]({'pattern':_0x5a0bda(-0x114,-0x128),'fromMe':!![],'onlyGroup':!![],'desc':Lang[_0x5a0bda(-0xce,-0x10b)]},async(_0x5f388b,_0x4e352a)=>{var _0x278bf4=await checkImAdmin(_0x5f388b);function _0x4ed2e6(_0x3f92ed,_0x44e57d){return _0x5a0bda(_0x44e57d,_0x3f92ed-0x24d);}if(!_0x278bf4)return await _0x5f388b[_0x4ed2e6(0x17d,0x162)][_0x4ed2e6(0x105,0xcf)](_0x5f388b['jid'],Lang[_0x4ed2e6(0x139,0xda)],MessageType[_0x4ed2e6(0x13b,0x19b)]);if(Config['ADDMSG']==_0x4ed2e6(0xf9,0xe9)){if(_0x4e352a[0x1]!=='')_0x4e352a[0x1][_0x4ed2e6(0x157,0x1af)]('\x20')[_0x4ed2e6(0x14f,0x184)](async _0x5f066b=>{await _0x5f388b[_0x5cc66f(0x34f,0x39d)]['groupAdd'](_0x5f388b[_0x5cc66f(0x382,0x35c)],[_0x5f066b+'@s.whatsapp.net']);function _0x5cc66f(_0x2d1c80,_0x2de596){return _0x4ed2e6(_0x2de596-0x220,_0x2d1c80);}await _0x5f388b[_0x5cc66f(0x37b,0x39d)][_0x5cc66f(0x34e,0x325)](_0x5f388b[_0x5cc66f(0x383,0x35c)],_0x5cc66f(0x370,0x3a9)+_0x5f066b+'\x20'+Lang[_0x5cc66f(0x33e,0x375)]+_0x5cc66f(0x3d7,0x3a9),MessageType[_0x5cc66f(0x300,0x35b)]);});else return _0x4e352a[0x1][_0x4ed2e6(0x10b,0xaa)]('+')?await _0x5f388b['client'][_0x4ed2e6(0x105,0xcc)](_0x5f388b[_0x4ed2e6(0x13c,0x18d)],Lang[_0x4ed2e6(0x160,0x146)],MessageType[_0x4ed2e6(0x13b,0x16a)]):await _0x5f388b[_0x4ed2e6(0x17d,0x14b)][_0x4ed2e6(0x105,0x123)](_0x5f388b[_0x4ed2e6(0x13c,0x18a)],Lang[_0x4ed2e6(0x17e,0x13e)],MessageType[_0x4ed2e6(0x13b,0x183)]);}else{if(_0x4e352a[0x1]!=='')_0x4e352a[0x1][_0x4ed2e6(0x157,0x14a)]('\x20')[_0x4ed2e6(0x14f,0x10d)](async _0x470889=>{await _0x5f388b[_0x7feeb4(-0x6e,-0xc4)]['groupAdd'](_0x5f388b[_0x7feeb4(-0xaf,-0x64)],[_0x470889+_0x7feeb4(-0x3f,-0x6e)]);function _0x7feeb4(_0x2d3af1,_0x1dca38){return _0x4ed2e6(_0x2d3af1- -0x1eb,_0x1dca38);}await _0x5f388b[_0x7feeb4(-0x6e,-0xc8)]['sendMessage'](_0x5f388b[_0x7feeb4(-0xaf,-0x75)],'```'+_0x470889+'```\x20'+Config[_0x7feeb4(-0xe7,-0xa1)],MessageType[_0x7feeb4(-0xb0,-0x61)]);});else return _0x4e352a[0x1][_0x4ed2e6(0x10b,0xf5)]('+')?await _0x5f388b[_0x4ed2e6(0x17d,0x1be)]['sendMessage'](_0x5f388b[_0x4ed2e6(0x13c,0x156)],Lang[_0x4ed2e6(0x160,0x195)],MessageType[_0x4ed2e6(0x13b,0x159)]):await _0x5f388b[_0x4ed2e6(0x17d,0x1b7)]['sendMessage'](_0x5f388b[_0x4ed2e6(0x13c,0x11e)],Lang['GIVE_ME_USER'],MessageType[_0x4ed2e6(0x13b,0xf4)]);}}),Asena[_0x5a0bda(-0x69,-0xc8)]({'pattern':'promote\x20?(.*)','fromMe':!![],'onlyGroup':!![],'desc':Lang[_0x5a0bda(-0x165,-0x10d)]},async(_0x2a5b76,_0x3c7a0a)=>{var _0x3703c2=await checkImAdmin(_0x2a5b76);function _0x3fcfb5(_0x2eddb4,_0x2d5cd7){return _0x5a0bda(_0x2eddb4,_0x2d5cd7-0x50b);}if(!_0x3703c2)return await _0x2a5b76[_0x3fcfb5(0x3da,0x43b)][_0x3fcfb5(0x3f3,0x3c3)](_0x2a5b76['jid'],Lang['IM_NOT_ADMIN'],MessageType[_0x3fcfb5(0x3ad,0x3f9)]);if(Config['PROMOTEMSG']=='default'){if(_0x2a5b76[_0x3fcfb5(0x3d6,0x426)]!==![]){var _0x8a3909=await checkImAdmin(_0x2a5b76,_0x2a5b76[_0x3fcfb5(0x42f,0x426)][_0x3fcfb5(0x43c,0x424)][_0x3fcfb5(0x3f1,0x3e1)]);if(_0x8a3909)return await _0x2a5b76[_0x3fcfb5(0x3f1,0x43b)]['sendMessage'](_0x2a5b76['jid'],Lang[_0x3fcfb5(0x397,0x3cd)],MessageType[_0x3fcfb5(0x406,0x3f9)]);await _0x2a5b76[_0x3fcfb5(0x3f3,0x43b)]['sendMessage'](_0x2a5b76[_0x3fcfb5(0x404,0x3fa)],'@'+_0x2a5b76['reply_message']['data'][_0x3fcfb5(0x3d7,0x3e1)][_0x3fcfb5(0x3d1,0x415)]('@')[0x0]+Lang['PROMOTED'],MessageType[_0x3fcfb5(0x414,0x3f9)],{'contextInfo':{'mentionedJid':[_0x2a5b76[_0x3fcfb5(0x444,0x426)][_0x3fcfb5(0x45e,0x424)][_0x3fcfb5(0x3be,0x3e1)]]}}),await _0x2a5b76[_0x3fcfb5(0x3dc,0x43b)]['groupMakeAdmin'](_0x2a5b76[_0x3fcfb5(0x428,0x3fa)],[_0x2a5b76[_0x3fcfb5(0x47b,0x426)][_0x3fcfb5(0x442,0x424)]['participant']]);}else{if(_0x2a5b76[_0x3fcfb5(0x400,0x426)]===![]&&_0x2a5b76[_0x3fcfb5(0x464,0x414)]!==![]){var _0x3eb80f='';_0x2a5b76[_0x3fcfb5(0x454,0x414)][_0x3fcfb5(0x3e1,0x40d)](async _0x547c47=>{var _0x1062b8=await checkImAdmin(_0x2a5b76,_0x547c47);if(_0x1062b8)return await _0x2a5b76[_0x361c0c(0x276,0x27d)][_0x361c0c(0x1c6,0x205)](_0x2a5b76['jid'],Lang[_0x361c0c(0x264,0x20f)],MessageType[_0x361c0c(0x210,0x23b)]);function _0x361c0c(_0x1c8a2a,_0x156143){return _0x3fcfb5(_0x1c8a2a,_0x156143- -0x1be);}_0x3eb80f+='@'+_0x547c47[_0x361c0c(0x21e,0x257)]('@')[0x0]+',';}),await _0x2a5b76[_0x3fcfb5(0x42c,0x43b)][_0x3fcfb5(0x374,0x3c3)](_0x2a5b76[_0x3fcfb5(0x3b5,0x3fa)],_0x3eb80f+Lang[_0x3fcfb5(0x42b,0x45a)],MessageType[_0x3fcfb5(0x3d2,0x3f9)],{'contextInfo':{'mentionedJid':_0x2a5b76['mention']}}),await _0x2a5b76[_0x3fcfb5(0x45f,0x43b)][_0x3fcfb5(0x3fa,0x3fc)](_0x2a5b76[_0x3fcfb5(0x429,0x3fa)],_0x2a5b76['mention']);}else return await _0x2a5b76[_0x3fcfb5(0x43d,0x43b)][_0x3fcfb5(0x389,0x3c3)](_0x2a5b76['jid'],Lang[_0x3fcfb5(0x486,0x43c)],MessageType['text']);}}else{if(_0x2a5b76['reply_message']!==![]){var _0x8a3909=await checkImAdmin(_0x2a5b76,_0x2a5b76[_0x3fcfb5(0x3d8,0x426)][_0x3fcfb5(0x46a,0x424)]['participant']);if(_0x8a3909)return await _0x2a5b76[_0x3fcfb5(0x456,0x43b)]['sendMessage'](_0x2a5b76[_0x3fcfb5(0x424,0x3fa)],Lang[_0x3fcfb5(0x3d2,0x3cd)],MessageType[_0x3fcfb5(0x40a,0x3f9)]);await _0x2a5b76[_0x3fcfb5(0x453,0x43b)][_0x3fcfb5(0x3e6,0x3c3)](_0x2a5b76['jid'],'@'+_0x2a5b76[_0x3fcfb5(0x3ee,0x426)][_0x3fcfb5(0x424,0x424)][_0x3fcfb5(0x3c0,0x3e1)][_0x3fcfb5(0x3ea,0x415)]('@')[0x0]+Config[_0x3fcfb5(0x41d,0x3d8)],MessageType[_0x3fcfb5(0x3d6,0x3f9)],{'contextInfo':{'mentionedJid':[_0x2a5b76[_0x3fcfb5(0x41c,0x426)]['data'][_0x3fcfb5(0x3ab,0x3e1)]]}}),await _0x2a5b76[_0x3fcfb5(0x496,0x43b)][_0x3fcfb5(0x43f,0x3fc)](_0x2a5b76[_0x3fcfb5(0x437,0x3fa)],[_0x2a5b76['reply_message'][_0x3fcfb5(0x477,0x424)]['participant']]);}else{if(_0x2a5b76['reply_message']===![]&&_0x2a5b76['mention']!==![]){var _0x3eb80f='';_0x2a5b76[_0x3fcfb5(0x454,0x414)][_0x3fcfb5(0x43a,0x40d)](async _0xeed99a=>{var _0x1665e7=await checkImAdmin(_0x2a5b76,_0xeed99a);function _0xe27601(_0x2517a7,_0x3fb0d7){return _0x3fcfb5(_0x2517a7,_0x3fb0d7- -0x5e8);}if(_0x1665e7)return await _0x2a5b76[_0xe27601(-0x1bf,-0x1ad)][_0xe27601(-0x25f,-0x225)](_0x2a5b76[_0xe27601(-0x222,-0x1ee)],Lang['ALREADY_PROMOTED'],MessageType['text']);_0x3eb80f+='@'+_0xeed99a[_0xe27601(-0x213,-0x1d3)]('@')[0x0]+',';}),await _0x2a5b76['client'][_0x3fcfb5(0x36a,0x3c3)](_0x2a5b76[_0x3fcfb5(0x3dc,0x3fa)],_0x3eb80f+Config[_0x3fcfb5(0x430,0x3d8)],MessageType[_0x3fcfb5(0x3fc,0x3f9)],{'contextInfo':{'mentionedJid':_0x2a5b76[_0x3fcfb5(0x3f2,0x414)]}}),await _0x2a5b76[_0x3fcfb5(0x46c,0x43b)][_0x3fcfb5(0x3ba,0x3fc)](_0x2a5b76['jid'],_0x2a5b76[_0x3fcfb5(0x42c,0x414)]);}else return await _0x2a5b76['client']['sendMessage'](_0x2a5b76[_0x3fcfb5(0x3f1,0x3fa)],Lang['GIVE_ME_USER'],MessageType[_0x3fcfb5(0x43f,0x3f9)]);}}}),Asena['addCommand']({'pattern':_0x5a0bda(-0x100,-0xde),'fromMe':!![],'onlyGroup':!![],'desc':Lang[_0x5a0bda(-0x125,-0x122)]},async(_0x464c0e,_0xb7a8d0)=>{function _0x5ceb20(_0x3992a9,_0x1e8f8a){return _0x5a0bda(_0x1e8f8a,_0x3992a9-0x518);}var _0xb88bdb=await checkImAdmin(_0x464c0e);if(!_0xb88bdb)return await _0x464c0e[_0x5ceb20(0x448,0x402)][_0x5ceb20(0x3d0,0x38f)](_0x464c0e[_0x5ceb20(0x407,0x3e0)],Lang[_0x5ceb20(0x404,0x44a)]);if(Config[_0x5ceb20(0x441,0x439)]==_0x5ceb20(0x3c4,0x36f)){if(_0x464c0e[_0x5ceb20(0x433,0x3f3)]!==![]){var _0x3b2890=await checkImAdmin(_0x464c0e,_0x464c0e[_0x5ceb20(0x433,0x45d)][_0x5ceb20(0x431,0x414)][_0x5ceb20(0x3ee,0x3d3)][_0x5ceb20(0x422,0x441)]('@')[0x0]);if(!_0x3b2890)return await _0x464c0e[_0x5ceb20(0x448,0x407)]['sendMessage'](_0x464c0e['jid'],Lang[_0x5ceb20(0x455,0x45c)],MessageType[_0x5ceb20(0x406,0x405)]);await _0x464c0e[_0x5ceb20(0x448,0x43d)][_0x5ceb20(0x3d0,0x40c)](_0x464c0e[_0x5ceb20(0x407,0x3a6)],'@'+_0x464c0e[_0x5ceb20(0x433,0x3ee)][_0x5ceb20(0x431,0x41a)][_0x5ceb20(0x3ee,0x3b9)]['split']('@')[0x0]+Lang['DEMOTED'],MessageType[_0x5ceb20(0x406,0x444)],{'contextInfo':{'mentionedJid':[_0x464c0e[_0x5ceb20(0x433,0x469)][_0x5ceb20(0x431,0x456)][_0x5ceb20(0x3ee,0x44a)]]}}),await _0x464c0e['client'][_0x5ceb20(0x43c,0x3db)](_0x464c0e[_0x5ceb20(0x407,0x3fc)],[_0x464c0e['reply_message'][_0x5ceb20(0x431,0x3fe)]['participant']]);}else{if(_0x464c0e[_0x5ceb20(0x433,0x426)]===![]&&_0x464c0e[_0x5ceb20(0x421,0x400)]!==![]){var _0x1dbda2='';_0x464c0e[_0x5ceb20(0x421,0x44d)][_0x5ceb20(0x41a,0x414)](async _0x1faa0f=>{function _0x373758(_0x59b3e6,_0x25bf1c){return _0x5ceb20(_0x59b3e6- -0x638,_0x25bf1c);}var _0x6cbe4a=await checkImAdmin(_0x464c0e,_0x1faa0f);if(!_0x6cbe4a)return await _0x464c0e['client']['sendMessage'](_0x464c0e['jid'],Lang[_0x373758(-0x1e3,-0x1a7)],MessageType['text']);_0x1dbda2+='@'+_0x1faa0f[_0x373758(-0x216,-0x1fb)]('@')[0x0]+',';}),await _0x464c0e['client'][_0x5ceb20(0x3d0,0x38a)](_0x464c0e[_0x5ceb20(0x407,0x3ba)],_0x1dbda2+Lang[_0x5ceb20(0x3cb,0x3e8)],MessageType['text'],{'contextInfo':{'mentionedJid':_0x464c0e['mention']}}),await _0x464c0e[_0x5ceb20(0x448,0x482)][_0x5ceb20(0x43c,0x496)](_0x464c0e['jid'],_0x464c0e['mention']);}else return await _0x464c0e['client'][_0x5ceb20(0x3d0,0x3cc)](_0x464c0e['jid'],Lang[_0x5ceb20(0x449,0x492)],MessageType[_0x5ceb20(0x406,0x451)]);}}else{if(_0x464c0e[_0x5ceb20(0x433,0x3ff)]!==![]){var _0x3b2890=await checkImAdmin(_0x464c0e,_0x464c0e[_0x5ceb20(0x433,0x3fc)]['data'][_0x5ceb20(0x3ee,0x405)][_0x5ceb20(0x422,0x40f)]('@')[0x0]);if(!_0x3b2890)return await _0x464c0e[_0x5ceb20(0x448,0x461)]['sendMessage'](_0x464c0e[_0x5ceb20(0x407,0x41e)],Lang[_0x5ceb20(0x455,0x42d)],MessageType[_0x5ceb20(0x406,0x3ea)]);await _0x464c0e[_0x5ceb20(0x448,0x4a0)][_0x5ceb20(0x3d0,0x428)](_0x464c0e['jid'],'@'+_0x464c0e['reply_message'][_0x5ceb20(0x431,0x3ec)][_0x5ceb20(0x3ee,0x3ea)][_0x5ceb20(0x422,0x3ef)]('@')[0x0]+Config[_0x5ceb20(0x441,0x401)],MessageType[_0x5ceb20(0x406,0x3f2)],{'contextInfo':{'mentionedJid':[_0x464c0e[_0x5ceb20(0x433,0x46c)]['data'][_0x5ceb20(0x3ee,0x38e)]]}}),await _0x464c0e[_0x5ceb20(0x448,0x41f)][_0x5ceb20(0x43c,0x426)](_0x464c0e[_0x5ceb20(0x407,0x3bc)],[_0x464c0e[_0x5ceb20(0x433,0x3f9)]['data'][_0x5ceb20(0x3ee,0x425)]]);}else{if(_0x464c0e['reply_message']===![]&&_0x464c0e[_0x5ceb20(0x421,0x3e9)]!==![]){var _0x1dbda2='';_0x464c0e[_0x5ceb20(0x421,0x40c)][_0x5ceb20(0x41a,0x41e)](async _0x10f8a4=>{var _0x4d3f0d=await checkImAdmin(_0x464c0e,_0x10f8a4);if(!_0x4d3f0d)return await _0x464c0e['client'][_0x56b785(0x25a,0x285)](_0x464c0e[_0x56b785(0x272,0x2bc)],Lang[_0x56b785(0x2f4,0x30a)],MessageType[_0x56b785(0x2b3,0x2bb)]);function _0x56b785(_0x1c1a12,_0x14f62f){return _0x5ceb20(_0x14f62f- -0x14b,_0x1c1a12);}_0x1dbda2+='@'+_0x10f8a4[_0x56b785(0x285,0x2d7)]('@')[0x0]+',';}),await _0x464c0e[_0x5ceb20(0x448,0x41e)][_0x5ceb20(0x3d0,0x387)](_0x464c0e['jid'],_0x1dbda2+Config['DEMOTEMSG'],MessageType[_0x5ceb20(0x406,0x407)],{'contextInfo':{'mentionedJid':_0x464c0e['mention']}}),await _0x464c0e[_0x5ceb20(0x448,0x473)][_0x5ceb20(0x43c,0x429)](_0x464c0e['jid'],_0x464c0e['mention']);}else return await _0x464c0e[_0x5ceb20(0x448,0x46c)]['sendMessage'](_0x464c0e[_0x5ceb20(0x407,0x3dd)],Lang[_0x5ceb20(0x449,0x441)],MessageType['text']);}}}),Asena[_0x5a0bda(-0x7f,-0xc8)]({'pattern':_0x5a0bda(-0x17d,-0x144),'fromMe':!![],'onlyGroup':!![],'desc':Lang['MUTE_DESC']},async(_0x91dd51,_0x59bd53)=>{var _0x1e3b95=await checkImAdmin(_0x91dd51);if(!_0x1e3b95)return await _0x91dd51[_0x4ec229(0x449,0x409)][_0x4ec229(0x347,0x391)](_0x91dd51[_0x4ec229(0x376,0x3c8)],Lang['IM_NOT_ADMIN'],MessageType[_0x4ec229(0x3c6,0x3c7)]);function _0x4ec229(_0x5c7ec9,_0x413ff){return _0x5a0bda(_0x5c7ec9,_0x413ff-0x4d9);}if(Config[_0x4ec229(0x3f2,0x43d)]==_0x4ec229(0x3c6,0x385)){if(_0x59bd53[0x1]=='')await _0x91dd51[_0x4ec229(0x3b2,0x409)][_0x4ec229(0x3c8,0x40d)](_0x91dd51[_0x4ec229(0x3b3,0x3c8)],GroupSettingChange[_0x4ec229(0x3c7,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x3cf,0x409)][_0x4ec229(0x3ec,0x391)](_0x91dd51[_0x4ec229(0x38f,0x3c8)],Lang[_0x4ec229(0x400,0x420)],MessageType[_0x4ec229(0x37a,0x3c7)]);else{if(_0x59bd53[0x1]=='1m')await _0x91dd51['client']['groupSettingChange'](_0x91dd51[_0x4ec229(0x3de,0x3c8)],GroupSettingChange['messageSend'],!![]),await _0x91dd51[_0x4ec229(0x3b1,0x409)]['sendMessage'](_0x91dd51[_0x4ec229(0x3b7,0x3c8)],mut[_0x4ec229(0x3c5,0x3c0)],MessageType[_0x4ec229(0x38a,0x3c7)]),await new Promise(_0x41819d=>setTimeout(_0x41819d,0xea60)),await _0x91dd51[_0x4ec229(0x430,0x409)][_0x4ec229(0x42c,0x40d)](_0x91dd51[_0x4ec229(0x3cb,0x3c8)],GroupSettingChange[_0x4ec229(0x39a,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x406,0x409)][_0x4ec229(0x336,0x391)](_0x91dd51[_0x4ec229(0x3a3,0x3c8)],Lang[_0x4ec229(0x3ee,0x405)],MessageType[_0x4ec229(0x37d,0x3c7)]);else{if(_0x59bd53[0x1]=='2m')await _0x91dd51[_0x4ec229(0x3fd,0x409)][_0x4ec229(0x44d,0x40d)](_0x91dd51[_0x4ec229(0x378,0x3c8)],GroupSettingChange['messageSend'],!![]),await _0x91dd51[_0x4ec229(0x3ec,0x409)]['sendMessage'](_0x91dd51[_0x4ec229(0x3e6,0x3c8)],mut[_0x4ec229(0x486,0x441)],MessageType['text']),await new Promise(_0x80ebff=>setTimeout(_0x80ebff,0x1d4c0)),await _0x91dd51['client']['groupSettingChange'](_0x91dd51[_0x4ec229(0x426,0x3c8)],GroupSettingChange[_0x4ec229(0x3b5,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x3a8,0x409)][_0x4ec229(0x355,0x391)](_0x91dd51['jid'],Lang['UNMUTED'],MessageType['text']);else{if(_0x59bd53[0x1]=='3m')await _0x91dd51[_0x4ec229(0x3e6,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x3de,0x3c8)],GroupSettingChange[_0x4ec229(0x3bf,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x466,0x409)][_0x4ec229(0x35a,0x391)](_0x91dd51[_0x4ec229(0x3b7,0x3c8)],mut['ÜÇMUTE'],MessageType[_0x4ec229(0x38c,0x3c7)]),await new Promise(_0xa7996d=>setTimeout(_0xa7996d,0x2bf20)),await _0x91dd51['client']['groupSettingChange'](_0x91dd51[_0x4ec229(0x417,0x3c8)],GroupSettingChange[_0x4ec229(0x3d5,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x419,0x409)]['sendMessage'](_0x91dd51[_0x4ec229(0x3bb,0x3c8)],Lang[_0x4ec229(0x3de,0x405)],MessageType[_0x4ec229(0x37d,0x3c7)]);else{if(_0x59bd53[0x1]=='4m')await _0x91dd51[_0x4ec229(0x44e,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x3ba,0x3c8)],GroupSettingChange[_0x4ec229(0x405,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x3b2,0x409)]['sendMessage'](_0x91dd51['jid'],mut['DÖRTMUTE'],MessageType[_0x4ec229(0x392,0x3c7)]),await new Promise(_0xaf1764=>setTimeout(_0xaf1764,0x3a980)),await _0x91dd51['client']['groupSettingChange'](_0x91dd51[_0x4ec229(0x40a,0x3c8)],GroupSettingChange[_0x4ec229(0x42e,0x3ee)],![]),await _0x91dd51['client']['sendMessage'](_0x91dd51[_0x4ec229(0x3d6,0x3c8)],Lang[_0x4ec229(0x3f3,0x405)],MessageType[_0x4ec229(0x368,0x3c7)]);else{if(_0x59bd53[0x1]=='5m')await _0x91dd51[_0x4ec229(0x3bf,0x409)][_0x4ec229(0x3e8,0x40d)](_0x91dd51[_0x4ec229(0x3da,0x3c8)],GroupSettingChange[_0x4ec229(0x3c3,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x3b0,0x409)][_0x4ec229(0x37f,0x391)](_0x91dd51[_0x4ec229(0x3c0,0x3c8)],mut['BEŞMUTE'],MessageType[_0x4ec229(0x3e8,0x3c7)]),await new Promise(_0x3809df=>setTimeout(_0x3809df,0x493e0)),await _0x91dd51[_0x4ec229(0x3ba,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x3e2,0x3c8)],GroupSettingChange['messageSend'],![]),await _0x91dd51[_0x4ec229(0x3fc,0x409)][_0x4ec229(0x3c9,0x391)](_0x91dd51['jid'],Lang[_0x4ec229(0x436,0x405)],MessageType['text']);else{if(_0x59bd53[0x1]=='6m')await _0x91dd51[_0x4ec229(0x3d4,0x409)][_0x4ec229(0x42a,0x40d)](_0x91dd51[_0x4ec229(0x402,0x3c8)],GroupSettingChange['messageSend'],!![]),await _0x91dd51[_0x4ec229(0x3e0,0x409)][_0x4ec229(0x363,0x391)](_0x91dd51[_0x4ec229(0x41e,0x3c8)],mut['ALTIMUTE'],MessageType['text']),await new Promise(_0x2d6153=>setTimeout(_0x2d6153,0x57e40)),await _0x91dd51[_0x4ec229(0x458,0x409)][_0x4ec229(0x430,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x3d1,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x3bd,0x409)]['sendMessage'](_0x91dd51[_0x4ec229(0x3c8,0x3c8)],Lang[_0x4ec229(0x43f,0x405)],MessageType[_0x4ec229(0x3c3,0x3c7)]);else{if(_0x59bd53[0x1]=='7m')await _0x91dd51[_0x4ec229(0x449,0x409)][_0x4ec229(0x414,0x40d)](_0x91dd51[_0x4ec229(0x366,0x3c8)],GroupSettingChange[_0x4ec229(0x44d,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x3d0,0x409)][_0x4ec229(0x3dd,0x391)](_0x91dd51[_0x4ec229(0x36d,0x3c8)],mut[_0x4ec229(0x3f2,0x429)],MessageType['text']),await new Promise(_0x46deba=>setTimeout(_0x46deba,0x668a0)),await _0x91dd51[_0x4ec229(0x43b,0x409)][_0x4ec229(0x403,0x40d)](_0x91dd51[_0x4ec229(0x3bf,0x3c8)],GroupSettingChange[_0x4ec229(0x3a8,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x43a,0x409)][_0x4ec229(0x34b,0x391)](_0x91dd51[_0x4ec229(0x38f,0x3c8)],Lang[_0x4ec229(0x450,0x405)],MessageType['text']);else{if(_0x59bd53[0x1]=='8m')await _0x91dd51[_0x4ec229(0x3c9,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x3cd,0x3c8)],GroupSettingChange[_0x4ec229(0x3e0,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x3dc,0x409)][_0x4ec229(0x3c4,0x391)](_0x91dd51[_0x4ec229(0x3d5,0x3c8)],mut[_0x4ec229(0x3f1,0x3ba)],MessageType['text']),await new Promise(_0x2e4fcf=>setTimeout(_0x2e4fcf,0x75300)),await _0x91dd51[_0x4ec229(0x3e5,0x409)][_0x4ec229(0x3eb,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x422,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x40d,0x409)][_0x4ec229(0x3b5,0x391)](_0x91dd51[_0x4ec229(0x38f,0x3c8)],Lang[_0x4ec229(0x459,0x405)],MessageType[_0x4ec229(0x3cd,0x3c7)]);else{if(_0x59bd53[0x1]=='9m')await _0x91dd51[_0x4ec229(0x463,0x409)][_0x4ec229(0x405,0x40d)](_0x91dd51[_0x4ec229(0x3e6,0x3c8)],GroupSettingChange[_0x4ec229(0x414,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x41f,0x409)][_0x4ec229(0x36f,0x391)](_0x91dd51['jid'],mut[_0x4ec229(0x47a,0x41e)],MessageType[_0x4ec229(0x3bc,0x3c7)]),await new Promise(_0x3931e5=>setTimeout(_0x3931e5,0x83d60)),await _0x91dd51['client']['groupSettingChange'](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x417,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x407,0x409)][_0x4ec229(0x367,0x391)](_0x91dd51[_0x4ec229(0x414,0x3c8)],Lang['UNMUTED'],MessageType[_0x4ec229(0x38f,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x36b,0x3a9))await _0x91dd51[_0x4ec229(0x3e4,0x409)][_0x4ec229(0x3c6,0x40d)](_0x91dd51[_0x4ec229(0x3fd,0x3c8)],GroupSettingChange['messageSend'],!![]),await _0x91dd51[_0x4ec229(0x442,0x409)][_0x4ec229(0x34b,0x391)](_0x91dd51[_0x4ec229(0x39f,0x3c8)],mut['ONMUTE'],MessageType['text']),await new Promise(_0xc7b38f=>setTimeout(_0xc7b38f,0x927c0)),await _0x91dd51['client'][_0x4ec229(0x41b,0x40d)](_0x91dd51[_0x4ec229(0x390,0x3c8)],GroupSettingChange[_0x4ec229(0x44e,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x3e3,0x409)][_0x4ec229(0x37c,0x391)](_0x91dd51[_0x4ec229(0x3b0,0x3c8)],Lang['UNMUTED'],MessageType[_0x4ec229(0x407,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x398,0x3ea))await _0x91dd51['client'][_0x4ec229(0x3d9,0x40d)](_0x91dd51[_0x4ec229(0x3db,0x3c8)],GroupSettingChange['messageSend'],!![]),await _0x91dd51['client']['sendMessage'](_0x91dd51['jid'],mut[_0x4ec229(0x460,0x425)],MessageType[_0x4ec229(0x3a9,0x3c7)]),await new Promise(_0x5ac030=>setTimeout(_0x5ac030,0xa1220)),await _0x91dd51[_0x4ec229(0x3b6,0x409)][_0x4ec229(0x3f6,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x3fa,0x3ee)],![]),await _0x91dd51['client']['sendMessage'](_0x91dd51[_0x4ec229(0x384,0x3c8)],Lang[_0x4ec229(0x412,0x405)],MessageType[_0x4ec229(0x375,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x35d,0x38d))await _0x91dd51[_0x4ec229(0x3cd,0x409)][_0x4ec229(0x435,0x40d)](_0x91dd51['jid'],GroupSettingChange['messageSend'],!![]),await _0x91dd51[_0x4ec229(0x3e7,0x409)][_0x4ec229(0x35b,0x391)](_0x91dd51[_0x4ec229(0x3e3,0x3c8)],mut['ONİKİMUTE'],MessageType[_0x4ec229(0x387,0x3c7)]),await new Promise(_0x58bea2=>setTimeout(_0x58bea2,0xafc80)),await _0x91dd51[_0x4ec229(0x3e1,0x409)][_0x4ec229(0x3dd,0x40d)](_0x91dd51['jid'],GroupSettingChange['messageSend'],![]),await _0x91dd51[_0x4ec229(0x426,0x409)][_0x4ec229(0x3b6,0x391)](_0x91dd51[_0x4ec229(0x392,0x3c8)],Lang['UNMUTED'],MessageType[_0x4ec229(0x38f,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x3f2,0x42b))await _0x91dd51['client'][_0x4ec229(0x43d,0x40d)](_0x91dd51[_0x4ec229(0x37a,0x3c8)],GroupSettingChange['messageSend'],!![]),await _0x91dd51[_0x4ec229(0x418,0x409)]['sendMessage'](_0x91dd51[_0x4ec229(0x3df,0x3c8)],mut[_0x4ec229(0x412,0x41b)],MessageType[_0x4ec229(0x370,0x3c7)]),await new Promise(_0x415746=>setTimeout(_0x415746,0xbe6e0)),await _0x91dd51['client'][_0x4ec229(0x42d,0x40d)](_0x91dd51[_0x4ec229(0x391,0x3c8)],GroupSettingChange['messageSend'],![]),await _0x91dd51['client']['sendMessage'](_0x91dd51['jid'],Lang[_0x4ec229(0x3c9,0x405)],MessageType['text']);else{if(_0x59bd53[0x1]=='14m')await _0x91dd51[_0x4ec229(0x3b3,0x409)][_0x4ec229(0x42e,0x40d)](_0x91dd51['jid'],GroupSettingChange['messageSend'],!![]),await _0x91dd51[_0x4ec229(0x440,0x409)][_0x4ec229(0x342,0x391)](_0x91dd51['jid'],mut['ONDÖRTMUTE'],MessageType[_0x4ec229(0x40e,0x3c7)]),await new Promise(_0x3b2101=>setTimeout(_0x3b2101,0xcd140)),await _0x91dd51[_0x4ec229(0x3e4,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x3cb,0x3c8)],GroupSettingChange['messageSend'],![]),await _0x91dd51[_0x4ec229(0x454,0x409)][_0x4ec229(0x39a,0x391)](_0x91dd51[_0x4ec229(0x38c,0x3c8)],Lang['UNMUTED'],MessageType[_0x4ec229(0x3e5,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x455,0x42c))await _0x91dd51[_0x4ec229(0x405,0x409)][_0x4ec229(0x3f2,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x44e,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x3dc,0x409)][_0x4ec229(0x390,0x391)](_0x91dd51[_0x4ec229(0x3dd,0x3c8)],mut[_0x4ec229(0x496,0x440)],MessageType[_0x4ec229(0x3d1,0x3c7)]),await new Promise(_0x1b2c67=>setTimeout(_0x1b2c67,0xdbba0)),await _0x91dd51[_0x4ec229(0x466,0x409)]['groupSettingChange'](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x3cf,0x3ee)],![]),await _0x91dd51['client']['sendMessage'](_0x91dd51[_0x4ec229(0x3bd,0x3c8)],Lang['UNMUTED'],MessageType[_0x4ec229(0x3fd,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x3c0,0x3f9))await _0x91dd51[_0x4ec229(0x3fa,0x409)][_0x4ec229(0x3f9,0x40d)](_0x91dd51[_0x4ec229(0x3f5,0x3c8)],GroupSettingChange[_0x4ec229(0x3ea,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x407,0x409)]['sendMessage'](_0x91dd51['jid'],mut[_0x4ec229(0x348,0x38f)],MessageType[_0x4ec229(0x41e,0x3c7)]),await new Promise(_0x383ebe=>setTimeout(_0x383ebe,0xea600)),await _0x91dd51[_0x4ec229(0x40d,0x409)][_0x4ec229(0x3ed,0x40d)](_0x91dd51[_0x4ec229(0x3d4,0x3c8)],GroupSettingChange['messageSend'],![]),await _0x91dd51[_0x4ec229(0x3ba,0x409)]['sendMessage'](_0x91dd51['jid'],Lang[_0x4ec229(0x43f,0x405)],MessageType[_0x4ec229(0x3f3,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x45f,0x3ff))await _0x91dd51['client'][_0x4ec229(0x429,0x40d)](_0x91dd51[_0x4ec229(0x38f,0x3c8)],GroupSettingChange['messageSend'],!![]),await _0x91dd51[_0x4ec229(0x448,0x409)]['sendMessage'](_0x91dd51[_0x4ec229(0x3be,0x3c8)],mut[_0x4ec229(0x3a1,0x3de)],MessageType[_0x4ec229(0x407,0x3c7)]),await new Promise(_0x18b99e=>setTimeout(_0x18b99e,0xf9060)),await _0x91dd51['client'][_0x4ec229(0x425,0x40d)](_0x91dd51[_0x4ec229(0x3d5,0x3c8)],GroupSettingChange[_0x4ec229(0x422,0x3ee)],![]),await _0x91dd51['client']['sendMessage'](_0x91dd51['jid'],Lang[_0x4ec229(0x402,0x405)],MessageType[_0x4ec229(0x3e0,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x37a,0x386))await _0x91dd51[_0x4ec229(0x3d9,0x409)][_0x4ec229(0x41b,0x40d)](_0x91dd51[_0x4ec229(0x3c5,0x3c8)],GroupSettingChange[_0x4ec229(0x39f,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x3ee,0x409)][_0x4ec229(0x3c0,0x391)](_0x91dd51[_0x4ec229(0x415,0x3c8)],mut['ONSEKİZMUTE'],MessageType[_0x4ec229(0x3cf,0x3c7)]),await new Promise(_0x2d6de2=>setTimeout(_0x2d6de2,0x107ac0)),await _0x91dd51['client']['groupSettingChange'](_0x91dd51[_0x4ec229(0x3c6,0x3c8)],GroupSettingChange[_0x4ec229(0x3df,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x3be,0x409)][_0x4ec229(0x3ea,0x391)](_0x91dd51[_0x4ec229(0x3fc,0x3c8)],Lang[_0x4ec229(0x3bb,0x405)],MessageType[_0x4ec229(0x3e7,0x3c7)]);else{if(_0x59bd53[0x1]=='19m')await _0x91dd51[_0x4ec229(0x43f,0x409)][_0x4ec229(0x430,0x40d)](_0x91dd51[_0x4ec229(0x420,0x3c8)],GroupSettingChange[_0x4ec229(0x3c9,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x444,0x409)][_0x4ec229(0x3bf,0x391)](_0x91dd51[_0x4ec229(0x40d,0x3c8)],mut['ONDOKUZMUTE'],MessageType[_0x4ec229(0x3f9,0x3c7)]),await new Promise(_0x48431d=>setTimeout(_0x48431d,0x116520)),await _0x91dd51[_0x4ec229(0x417,0x409)][_0x4ec229(0x3f2,0x40d)](_0x91dd51['jid'],GroupSettingChange['messageSend'],![]),await _0x91dd51[_0x4ec229(0x409,0x409)]['sendMessage'](_0x91dd51[_0x4ec229(0x3d7,0x3c8)],Lang[_0x4ec229(0x431,0x405)],MessageType[_0x4ec229(0x3ef,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x41d,0x42d))await _0x91dd51[_0x4ec229(0x3d7,0x409)][_0x4ec229(0x41d,0x40d)](_0x91dd51[_0x4ec229(0x416,0x3c8)],GroupSettingChange[_0x4ec229(0x3f1,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x3aa,0x409)][_0x4ec229(0x37a,0x391)](_0x91dd51[_0x4ec229(0x366,0x3c8)],mut[_0x4ec229(0x3d2,0x3eb)],MessageType[_0x4ec229(0x416,0x3c7)]),await new Promise(_0x548e27=>setTimeout(_0x548e27,0x124f80)),await _0x91dd51[_0x4ec229(0x42f,0x409)][_0x4ec229(0x3e2,0x40d)](_0x91dd51[_0x4ec229(0x409,0x3c8)],GroupSettingChange[_0x4ec229(0x449,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x3d3,0x409)][_0x4ec229(0x334,0x391)](_0x91dd51[_0x4ec229(0x3a9,0x3c8)],Lang[_0x4ec229(0x3a5,0x405)],MessageType[_0x4ec229(0x3e0,0x3c7)]);else{if(_0x59bd53[0x1]=='21m')await _0x91dd51[_0x4ec229(0x3df,0x409)][_0x4ec229(0x3af,0x40d)](_0x91dd51[_0x4ec229(0x385,0x3c8)],GroupSettingChange['messageSend'],!![]),await _0x91dd51['client'][_0x4ec229(0x3df,0x391)](_0x91dd51[_0x4ec229(0x3a4,0x3c8)],mut[_0x4ec229(0x3b7,0x382)],MessageType['text']),await new Promise(_0x2c1352=>setTimeout(_0x2c1352,0x1339e0)),await _0x91dd51[_0x4ec229(0x3e0,0x409)][_0x4ec229(0x42a,0x40d)](_0x91dd51[_0x4ec229(0x3e0,0x3c8)],GroupSettingChange[_0x4ec229(0x392,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x3da,0x409)][_0x4ec229(0x33d,0x391)](_0x91dd51[_0x4ec229(0x419,0x3c8)],Lang['UNMUTED'],MessageType[_0x4ec229(0x3f8,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x370,0x3d1))await _0x91dd51[_0x4ec229(0x42f,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x387,0x3c8)],GroupSettingChange[_0x4ec229(0x3e5,0x3ee)],!![]),await _0x91dd51['client'][_0x4ec229(0x3a8,0x391)](_0x91dd51[_0x4ec229(0x3eb,0x3c8)],mut['YİRMİİKİMUTE'],MessageType[_0x4ec229(0x39a,0x3c7)]),await new Promise(_0x5d1c63=>setTimeout(_0x5d1c63,0x142440)),await _0x91dd51[_0x4ec229(0x3e1,0x409)][_0x4ec229(0x43d,0x40d)](_0x91dd51[_0x4ec229(0x403,0x3c8)],GroupSettingChange[_0x4ec229(0x3e7,0x3ee)],![]),await _0x91dd51['client'][_0x4ec229(0x367,0x391)](_0x91dd51[_0x4ec229(0x3dd,0x3c8)],Lang[_0x4ec229(0x3d1,0x405)],MessageType[_0x4ec229(0x3d4,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x43e,0x3e0))await _0x91dd51['client'][_0x4ec229(0x43b,0x40d)](_0x91dd51[_0x4ec229(0x411,0x3c8)],GroupSettingChange[_0x4ec229(0x417,0x3ee)],!![]),await _0x91dd51['client']['sendMessage'](_0x91dd51[_0x4ec229(0x386,0x3c8)],mut[_0x4ec229(0x3b2,0x3d3)],MessageType['text']),await new Promise(_0x325adc=>setTimeout(_0x325adc,0x150ea0)),await _0x91dd51[_0x4ec229(0x412,0x409)][_0x4ec229(0x416,0x40d)](_0x91dd51[_0x4ec229(0x383,0x3c8)],GroupSettingChange[_0x4ec229(0x3c1,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x3f6,0x409)][_0x4ec229(0x39e,0x391)](_0x91dd51['jid'],Lang[_0x4ec229(0x416,0x405)],MessageType['text']);else{if(_0x59bd53[0x1]==_0x4ec229(0x3a7,0x394))await _0x91dd51[_0x4ec229(0x44c,0x409)][_0x4ec229(0x3e2,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x438,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x45c,0x409)][_0x4ec229(0x3a4,0x391)](_0x91dd51[_0x4ec229(0x3fb,0x3c8)],mut['YİRMİDÖRTMUTE'],MessageType[_0x4ec229(0x37d,0x3c7)]),await new Promise(_0x44d9e4=>setTimeout(_0x44d9e4,0x15f900)),await _0x91dd51[_0x4ec229(0x3cc,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x38a,0x3c8)],GroupSettingChange[_0x4ec229(0x3ef,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x440,0x409)]['sendMessage'](_0x91dd51[_0x4ec229(0x3bb,0x3c8)],Lang[_0x4ec229(0x3ce,0x405)],MessageType[_0x4ec229(0x3cf,0x3c7)]);else{if(_0x59bd53[0x1]=='25m')await _0x91dd51[_0x4ec229(0x420,0x409)][_0x4ec229(0x449,0x40d)](_0x91dd51[_0x4ec229(0x3fa,0x3c8)],GroupSettingChange[_0x4ec229(0x3ed,0x3ee)],!![]),await _0x91dd51['client'][_0x4ec229(0x36d,0x391)](_0x91dd51['jid'],mut[_0x4ec229(0x419,0x433)],MessageType['text']),await new Promise(_0x5cf11d=>setTimeout(_0x5cf11d,0x16e360)),await _0x91dd51['client'][_0x4ec229(0x400,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x3dd,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x463,0x409)][_0x4ec229(0x3ba,0x391)](_0x91dd51[_0x4ec229(0x391,0x3c8)],Lang[_0x4ec229(0x3db,0x405)],MessageType[_0x4ec229(0x373,0x3c7)]);else{if(_0x59bd53[0x1]=='26m')await _0x91dd51['client'][_0x4ec229(0x417,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x3d0,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x41e,0x409)][_0x4ec229(0x390,0x391)](_0x91dd51[_0x4ec229(0x3a7,0x3c8)],mut[_0x4ec229(0x418,0x403)],MessageType['text']),await new Promise(_0x53f531=>setTimeout(_0x53f531,0x17cdc0)),await _0x91dd51[_0x4ec229(0x3ad,0x409)][_0x4ec229(0x456,0x40d)](_0x91dd51[_0x4ec229(0x41e,0x3c8)],GroupSettingChange[_0x4ec229(0x42a,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x44d,0x409)][_0x4ec229(0x368,0x391)](_0x91dd51[_0x4ec229(0x3c0,0x3c8)],Lang[_0x4ec229(0x3d4,0x405)],MessageType[_0x4ec229(0x37b,0x3c7)]);else{if(_0x59bd53[0x1]=='27m')await _0x91dd51['client'][_0x4ec229(0x3c6,0x40d)](_0x91dd51[_0x4ec229(0x400,0x3c8)],GroupSettingChange[_0x4ec229(0x41d,0x3ee)],!![]),await _0x91dd51['client'][_0x4ec229(0x3e2,0x391)](_0x91dd51[_0x4ec229(0x3ae,0x3c8)],mut[_0x4ec229(0x449,0x414)],MessageType[_0x4ec229(0x3f9,0x3c7)]),await new Promise(_0x537e09=>setTimeout(_0x537e09,0x18b820)),await _0x91dd51[_0x4ec229(0x468,0x409)][_0x4ec229(0x3bd,0x40d)](_0x91dd51[_0x4ec229(0x3d8,0x3c8)],GroupSettingChange[_0x4ec229(0x3a5,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x459,0x409)][_0x4ec229(0x363,0x391)](_0x91dd51[_0x4ec229(0x412,0x3c8)],Lang[_0x4ec229(0x3f5,0x405)],MessageType[_0x4ec229(0x3b7,0x3c7)]);else{if(_0x59bd53[0x1]=='28m')await _0x91dd51['client'][_0x4ec229(0x3e3,0x40d)](_0x91dd51[_0x4ec229(0x384,0x3c8)],GroupSettingChange[_0x4ec229(0x44e,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x44e,0x409)][_0x4ec229(0x358,0x391)](_0x91dd51[_0x4ec229(0x3e3,0x3c8)],mut[_0x4ec229(0x437,0x430)],MessageType['text']),await new Promise(_0x34a9e6=>setTimeout(_0x34a9e6,0x19a280)),await _0x91dd51[_0x4ec229(0x3c8,0x409)][_0x4ec229(0x3be,0x40d)](_0x91dd51[_0x4ec229(0x387,0x3c8)],GroupSettingChange['messageSend'],![]),await _0x91dd51[_0x4ec229(0x415,0x409)]['sendMessage'](_0x91dd51[_0x4ec229(0x40d,0x3c8)],Lang['UNMUTED'],MessageType[_0x4ec229(0x3bd,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x45e,0x439))await _0x91dd51[_0x4ec229(0x3b0,0x409)][_0x4ec229(0x407,0x40d)](_0x91dd51[_0x4ec229(0x37e,0x3c8)],GroupSettingChange[_0x4ec229(0x431,0x3ee)],!![]),await _0x91dd51['client'][_0x4ec229(0x3ea,0x391)](_0x91dd51[_0x4ec229(0x428,0x3c8)],mut[_0x4ec229(0x415,0x40e)],MessageType[_0x4ec229(0x373,0x3c7)]),await new Promise(_0x1a86c2=>setTimeout(_0x1a86c2,0x1a8ce0)),await _0x91dd51[_0x4ec229(0x428,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x3d1,0x3c8)],GroupSettingChange[_0x4ec229(0x3b0,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x3f8,0x409)][_0x4ec229(0x3f1,0x391)](_0x91dd51[_0x4ec229(0x3b2,0x3c8)],Lang[_0x4ec229(0x446,0x405)],MessageType[_0x4ec229(0x3ff,0x3c7)]);else{if(_0x59bd53[0x1]=='30m')await _0x91dd51['client'][_0x4ec229(0x425,0x40d)](_0x91dd51[_0x4ec229(0x3ee,0x3c8)],GroupSettingChange[_0x4ec229(0x3ec,0x3ee)],!![]),await _0x91dd51['client'][_0x4ec229(0x3a8,0x391)](_0x91dd51[_0x4ec229(0x3e0,0x3c8)],mut[_0x4ec229(0x411,0x3d6)],MessageType[_0x4ec229(0x425,0x3c7)]),await new Promise(_0x1f5617=>setTimeout(_0x1f5617,0x1b7740)),await _0x91dd51[_0x4ec229(0x41a,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x3fb,0x3c8)],GroupSettingChange['messageSend'],![]),await _0x91dd51[_0x4ec229(0x461,0x409)][_0x4ec229(0x348,0x391)](_0x91dd51['jid'],Lang[_0x4ec229(0x43b,0x405)],MessageType[_0x4ec229(0x3c7,0x3c7)]);else{if(_0x59bd53[0x1]=='31m')await _0x91dd51[_0x4ec229(0x40d,0x409)][_0x4ec229(0x3b2,0x40d)](_0x91dd51['jid'],GroupSettingChange['messageSend'],!![]),await _0x91dd51[_0x4ec229(0x3e6,0x409)][_0x4ec229(0x37d,0x391)](_0x91dd51[_0x4ec229(0x3f1,0x3c8)],mut['OTUZBİRMUTE'],MessageType[_0x4ec229(0x38e,0x3c7)]),await new Promise(_0x57b1ab=>setTimeout(_0x57b1ab,0x1c61a0)),await _0x91dd51[_0x4ec229(0x414,0x409)][_0x4ec229(0x3f8,0x40d)](_0x91dd51[_0x4ec229(0x395,0x3c8)],GroupSettingChange['messageSend'],![]),await _0x91dd51[_0x4ec229(0x426,0x409)][_0x4ec229(0x331,0x391)](_0x91dd51[_0x4ec229(0x3a2,0x3c8)],Lang['UNMUTED'],MessageType[_0x4ec229(0x3da,0x3c7)]);else{if(_0x59bd53[0x1]=='32m')await _0x91dd51[_0x4ec229(0x3ab,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x383,0x3c8)],GroupSettingChange[_0x4ec229(0x3e3,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x3ee,0x409)][_0x4ec229(0x334,0x391)](_0x91dd51[_0x4ec229(0x428,0x3c8)],mut[_0x4ec229(0x3ba,0x3dc)],MessageType[_0x4ec229(0x412,0x3c7)]),await new Promise(_0x53ed53=>setTimeout(_0x53ed53,0x1d4c00)),await _0x91dd51[_0x4ec229(0x409,0x409)][_0x4ec229(0x446,0x40d)](_0x91dd51[_0x4ec229(0x371,0x3c8)],GroupSettingChange[_0x4ec229(0x3c8,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x446,0x409)][_0x4ec229(0x355,0x391)](_0x91dd51[_0x4ec229(0x382,0x3c8)],Lang[_0x4ec229(0x3d0,0x405)],MessageType[_0x4ec229(0x3ab,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x366,0x383))await _0x91dd51[_0x4ec229(0x3b8,0x409)][_0x4ec229(0x434,0x40d)](_0x91dd51[_0x4ec229(0x408,0x3c8)],GroupSettingChange['messageSend'],!![]),await _0x91dd51[_0x4ec229(0x46a,0x409)][_0x4ec229(0x3dd,0x391)](_0x91dd51[_0x4ec229(0x418,0x3c8)],mut[_0x4ec229(0x3f3,0x406)],MessageType[_0x4ec229(0x3c6,0x3c7)]),await new Promise(_0x3c6c5e=>setTimeout(_0x3c6c5e,0x1e3660)),await _0x91dd51[_0x4ec229(0x40e,0x409)][_0x4ec229(0x412,0x40d)](_0x91dd51[_0x4ec229(0x38c,0x3c8)],GroupSettingChange[_0x4ec229(0x390,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x3db,0x409)]['sendMessage'](_0x91dd51[_0x4ec229(0x3f6,0x3c8)],Lang['UNMUTED'],MessageType['text']);else{if(_0x59bd53[0x1]=='34m')await _0x91dd51[_0x4ec229(0x3df,0x409)][_0x4ec229(0x44d,0x40d)](_0x91dd51[_0x4ec229(0x3de,0x3c8)],GroupSettingChange['messageSend'],!![]),await _0x91dd51[_0x4ec229(0x3af,0x409)][_0x4ec229(0x3a7,0x391)](_0x91dd51[_0x4ec229(0x427,0x3c8)],mut[_0x4ec229(0x3ff,0x404)],MessageType['text']),await new Promise(_0x2bf3e6=>setTimeout(_0x2bf3e6,0x1f20c0)),await _0x91dd51[_0x4ec229(0x454,0x409)][_0x4ec229(0x3dd,0x40d)](_0x91dd51['jid'],GroupSettingChange['messageSend'],![]),await _0x91dd51[_0x4ec229(0x461,0x409)][_0x4ec229(0x39d,0x391)](_0x91dd51[_0x4ec229(0x38a,0x3c8)],Lang[_0x4ec229(0x43b,0x405)],MessageType[_0x4ec229(0x3c5,0x3c7)]);else{if(_0x59bd53[0x1]=='35m')await _0x91dd51[_0x4ec229(0x3e7,0x409)][_0x4ec229(0x442,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x42f,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x43b,0x409)][_0x4ec229(0x35c,0x391)](_0x91dd51[_0x4ec229(0x3d1,0x3c8)],mut[_0x4ec229(0x431,0x431)],MessageType[_0x4ec229(0x39c,0x3c7)]),await new Promise(_0x2a2000=>setTimeout(_0x2a2000,0x200b20)),await _0x91dd51[_0x4ec229(0x420,0x409)][_0x4ec229(0x46f,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x450,0x3ee)],![]),await _0x91dd51['client']['sendMessage'](_0x91dd51[_0x4ec229(0x3f5,0x3c8)],Lang[_0x4ec229(0x45f,0x405)],MessageType[_0x4ec229(0x3a6,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x3a1,0x398))await _0x91dd51[_0x4ec229(0x424,0x409)][_0x4ec229(0x3d4,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x3c9,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x41c,0x409)][_0x4ec229(0x340,0x391)](_0x91dd51[_0x4ec229(0x375,0x3c8)],mut[_0x4ec229(0x44b,0x432)],MessageType[_0x4ec229(0x385,0x3c7)]),await new Promise(_0x4724b1=>setTimeout(_0x4724b1,0x20f580)),await _0x91dd51[_0x4ec229(0x3bd,0x409)][_0x4ec229(0x3d7,0x40d)](_0x91dd51[_0x4ec229(0x410,0x3c8)],GroupSettingChange[_0x4ec229(0x412,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x3d9,0x409)][_0x4ec229(0x395,0x391)](_0x91dd51[_0x4ec229(0x382,0x3c8)],Lang[_0x4ec229(0x3f1,0x405)],MessageType[_0x4ec229(0x394,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x3f2,0x3a0))await _0x91dd51[_0x4ec229(0x3c5,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x39a,0x3c8)],GroupSettingChange[_0x4ec229(0x3c9,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x3cc,0x409)]['sendMessage'](_0x91dd51['jid'],mut[_0x4ec229(0x3cc,0x389)],MessageType[_0x4ec229(0x386,0x3c7)]),await new Promise(_0x39ff0c=>setTimeout(_0x39ff0c,0x21dfe0)),await _0x91dd51[_0x4ec229(0x460,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x3c4,0x3c8)],GroupSettingChange['messageSend'],![]),await _0x91dd51[_0x4ec229(0x3cb,0x409)][_0x4ec229(0x372,0x391)](_0x91dd51[_0x4ec229(0x412,0x3c8)],Lang['UNMUTED'],MessageType[_0x4ec229(0x420,0x3c7)]);else{if(_0x59bd53[0x1]=='38m')await _0x91dd51[_0x4ec229(0x43a,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x409,0x3c8)],GroupSettingChange['messageSend'],!![]),await _0x91dd51['client'][_0x4ec229(0x3e8,0x391)](_0x91dd51['jid'],mut[_0x4ec229(0x3bb,0x39c)],MessageType[_0x4ec229(0x406,0x3c7)]),await new Promise(_0x419d07=>setTimeout(_0x419d07,0x22ca40)),await _0x91dd51[_0x4ec229(0x427,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x38d,0x3c8)],GroupSettingChange['messageSend'],![]),await _0x91dd51[_0x4ec229(0x3b5,0x409)][_0x4ec229(0x374,0x391)](_0x91dd51[_0x4ec229(0x3f1,0x3c8)],Lang[_0x4ec229(0x415,0x405)],MessageType[_0x4ec229(0x3ae,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x3fa,0x3c9))await _0x91dd51[_0x4ec229(0x3a8,0x409)][_0x4ec229(0x444,0x40d)](_0x91dd51[_0x4ec229(0x3ce,0x3c8)],GroupSettingChange[_0x4ec229(0x3ae,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x459,0x409)][_0x4ec229(0x372,0x391)](_0x91dd51[_0x4ec229(0x3d9,0x3c8)],mut[_0x4ec229(0x379,0x3d0)],MessageType[_0x4ec229(0x3a0,0x3c7)]),await new Promise(_0x87d553=>setTimeout(_0x87d553,0x23b4a0)),await _0x91dd51['client']['groupSettingChange'](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x38c,0x3ee)],![]),await _0x91dd51['client'][_0x4ec229(0x3ac,0x391)](_0x91dd51[_0x4ec229(0x3b8,0x3c8)],Lang[_0x4ec229(0x401,0x405)],MessageType['text']);else{if(_0x59bd53[0x1]==_0x4ec229(0x38d,0x38e))await _0x91dd51[_0x4ec229(0x3d4,0x409)][_0x4ec229(0x3c8,0x40d)](_0x91dd51[_0x4ec229(0x3f4,0x3c8)],GroupSettingChange[_0x4ec229(0x3ae,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x438,0x409)][_0x4ec229(0x399,0x391)](_0x91dd51[_0x4ec229(0x396,0x3c8)],mut[_0x4ec229(0x38f,0x3dd)],MessageType['text']),await new Promise(_0x8e9ba=>setTimeout(_0x8e9ba,0x249f00)),await _0x91dd51[_0x4ec229(0x44d,0x409)][_0x4ec229(0x411,0x40d)](_0x91dd51[_0x4ec229(0x40f,0x3c8)],GroupSettingChange['messageSend'],![]),await _0x91dd51[_0x4ec229(0x44c,0x409)]['sendMessage'](_0x91dd51[_0x4ec229(0x3bc,0x3c8)],Lang[_0x4ec229(0x463,0x405)],MessageType['text']);else{if(_0x59bd53[0x1]==_0x4ec229(0x397,0x3c1))await _0x91dd51[_0x4ec229(0x462,0x409)][_0x4ec229(0x417,0x40d)](_0x91dd51[_0x4ec229(0x40e,0x3c8)],GroupSettingChange[_0x4ec229(0x3cd,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x468,0x409)][_0x4ec229(0x351,0x391)](_0x91dd51[_0x4ec229(0x3e4,0x3c8)],mut[_0x4ec229(0x3c7,0x40b)],MessageType[_0x4ec229(0x39a,0x3c7)]),await new Promise(_0x33c9ab=>setTimeout(_0x33c9ab,0x258960)),await _0x91dd51[_0x4ec229(0x3d6,0x409)][_0x4ec229(0x3ca,0x40d)](_0x91dd51[_0x4ec229(0x410,0x3c8)],GroupSettingChange['messageSend'],![]),await _0x91dd51[_0x4ec229(0x3e2,0x409)]['sendMessage'](_0x91dd51[_0x4ec229(0x37a,0x3c8)],Lang[_0x4ec229(0x424,0x405)],MessageType[_0x4ec229(0x394,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x49a,0x443))await _0x91dd51[_0x4ec229(0x3e4,0x409)][_0x4ec229(0x408,0x40d)](_0x91dd51[_0x4ec229(0x413,0x3c8)],GroupSettingChange[_0x4ec229(0x3c6,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x421,0x409)][_0x4ec229(0x33a,0x391)](_0x91dd51[_0x4ec229(0x3c0,0x3c8)],mut[_0x4ec229(0x3d9,0x427)],MessageType['text']),await new Promise(_0xd2a153=>setTimeout(_0xd2a153,0x2673c0)),await _0x91dd51[_0x4ec229(0x425,0x409)][_0x4ec229(0x3f1,0x40d)](_0x91dd51[_0x4ec229(0x3be,0x3c8)],GroupSettingChange[_0x4ec229(0x3f5,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x446,0x409)][_0x4ec229(0x33f,0x391)](_0x91dd51['jid'],Lang['UNMUTED'],MessageType[_0x4ec229(0x385,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x3a6,0x3b8))await _0x91dd51[_0x4ec229(0x41c,0x409)][_0x4ec229(0x464,0x40d)](_0x91dd51['jid'],GroupSettingChange['messageSend'],!![]),await _0x91dd51[_0x4ec229(0x3c7,0x409)]['sendMessage'](_0x91dd51['jid'],mut[_0x4ec229(0x37b,0x3a4)],MessageType[_0x4ec229(0x3db,0x3c7)]),await new Promise(_0x2a207a=>setTimeout(_0x2a207a,0x275e20)),await _0x91dd51[_0x4ec229(0x3a9,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x37e,0x3c8)],GroupSettingChange[_0x4ec229(0x44d,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x3ee,0x409)][_0x4ec229(0x3df,0x391)](_0x91dd51[_0x4ec229(0x3a2,0x3c8)],Lang['UNMUTED'],MessageType[_0x4ec229(0x3c9,0x3c7)]);else{if(_0x59bd53[0x1]=='44m')await _0x91dd51[_0x4ec229(0x3dd,0x409)][_0x4ec229(0x44b,0x40d)](_0x91dd51['jid'],GroupSettingChange['messageSend'],!![]),await _0x91dd51[_0x4ec229(0x3da,0x409)][_0x4ec229(0x3bd,0x391)](_0x91dd51[_0x4ec229(0x387,0x3c8)],mut[_0x4ec229(0x3eb,0x39e)],MessageType[_0x4ec229(0x36e,0x3c7)]),await new Promise(_0xef6867=>setTimeout(_0xef6867,0x284880)),await _0x91dd51[_0x4ec229(0x42c,0x409)][_0x4ec229(0x45d,0x40d)](_0x91dd51[_0x4ec229(0x3a2,0x3c8)],GroupSettingChange['messageSend'],![]),await _0x91dd51[_0x4ec229(0x3b9,0x409)][_0x4ec229(0x372,0x391)](_0x91dd51['jid'],Lang[_0x4ec229(0x426,0x405)],MessageType[_0x4ec229(0x3fb,0x3c7)]);else{if(_0x59bd53[0x1]=='45m')await _0x91dd51['client'][_0x4ec229(0x459,0x40d)](_0x91dd51[_0x4ec229(0x3e4,0x3c8)],GroupSettingChange[_0x4ec229(0x44d,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x435,0x409)]['sendMessage'](_0x91dd51[_0x4ec229(0x3aa,0x3c8)],mut[_0x4ec229(0x3a1,0x3a2)],MessageType[_0x4ec229(0x376,0x3c7)]),await new Promise(_0x566353=>setTimeout(_0x566353,0x2932e0)),await _0x91dd51[_0x4ec229(0x3c7,0x409)][_0x4ec229(0x3d3,0x40d)](_0x91dd51[_0x4ec229(0x377,0x3c8)],GroupSettingChange[_0x4ec229(0x3ad,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x44a,0x409)][_0x4ec229(0x3a3,0x391)](_0x91dd51[_0x4ec229(0x3e1,0x3c8)],Lang[_0x4ec229(0x3e7,0x405)],MessageType[_0x4ec229(0x3b5,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x413,0x3b2))await _0x91dd51[_0x4ec229(0x403,0x409)][_0x4ec229(0x3fa,0x40d)](_0x91dd51[_0x4ec229(0x414,0x3c8)],GroupSettingChange[_0x4ec229(0x44b,0x3ee)],!![]),await _0x91dd51['client']['sendMessage'](_0x91dd51[_0x4ec229(0x389,0x3c8)],mut[_0x4ec229(0x437,0x419)],MessageType['text']),await new Promise(_0x910ed3=>setTimeout(_0x910ed3,0x2a1d40)),await _0x91dd51[_0x4ec229(0x3ff,0x409)][_0x4ec229(0x3fd,0x40d)](_0x91dd51[_0x4ec229(0x36f,0x3c8)],GroupSettingChange['messageSend'],![]),await _0x91dd51[_0x4ec229(0x3ae,0x409)]['sendMessage'](_0x91dd51[_0x4ec229(0x410,0x3c8)],Lang[_0x4ec229(0x43f,0x405)],MessageType[_0x4ec229(0x3a9,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x42b,0x3cd))await _0x91dd51[_0x4ec229(0x43f,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x39e,0x3c8)],GroupSettingChange['messageSend'],!![]),await _0x91dd51['client'][_0x4ec229(0x3a2,0x391)](_0x91dd51[_0x4ec229(0x381,0x3c8)],mut[_0x4ec229(0x41e,0x3cf)],MessageType['text']),await new Promise(_0x10eecf=>setTimeout(_0x10eecf,0x2b07a0)),await _0x91dd51['client'][_0x4ec229(0x3b1,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x449,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x3ed,0x409)][_0x4ec229(0x332,0x391)](_0x91dd51['jid'],Lang[_0x4ec229(0x441,0x405)],MessageType[_0x4ec229(0x3c4,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x41e,0x41c))await _0x91dd51['client'][_0x4ec229(0x45e,0x40d)](_0x91dd51[_0x4ec229(0x3c8,0x3c8)],GroupSettingChange['messageSend'],!![]),await _0x91dd51['client']['sendMessage'](_0x91dd51[_0x4ec229(0x3a5,0x3c8)],mut[_0x4ec229(0x3c4,0x3d2)],MessageType[_0x4ec229(0x40c,0x3c7)]),await new Promise(_0x41010a=>setTimeout(_0x41010a,0x2bf200)),await _0x91dd51[_0x4ec229(0x3ff,0x409)][_0x4ec229(0x42f,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x439,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x3b4,0x409)][_0x4ec229(0x383,0x391)](_0x91dd51[_0x4ec229(0x41c,0x3c8)],Lang[_0x4ec229(0x3d4,0x405)],MessageType['text']);else{if(_0x59bd53[0x1]==_0x4ec229(0x412,0x40c))await _0x91dd51[_0x4ec229(0x465,0x409)][_0x4ec229(0x3ee,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x3d3,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x422,0x409)][_0x4ec229(0x3f0,0x391)](_0x91dd51[_0x4ec229(0x410,0x3c8)],mut[_0x4ec229(0x369,0x3ae)],MessageType[_0x4ec229(0x400,0x3c7)]),await new Promise(_0x19beaa=>setTimeout(_0x19beaa,0x2cdc60)),await _0x91dd51['client'][_0x4ec229(0x3ec,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x43f,0x3ee)],![]),await _0x91dd51['client'][_0x4ec229(0x3a9,0x391)](_0x91dd51[_0x4ec229(0x3a0,0x3c8)],Lang['UNMUTED'],MessageType['text']);else{if(_0x59bd53[0x1]==_0x4ec229(0x413,0x3bb))await _0x91dd51[_0x4ec229(0x469,0x409)]['groupSettingChange'](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x448,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x467,0x409)]['sendMessage'](_0x91dd51[_0x4ec229(0x387,0x3c8)],mut[_0x4ec229(0x3af,0x3ed)],MessageType[_0x4ec229(0x428,0x3c7)]),await new Promise(_0x59cc8f=>setTimeout(_0x59cc8f,0x2dc6c0)),await _0x91dd51[_0x4ec229(0x46b,0x409)][_0x4ec229(0x3cd,0x40d)](_0x91dd51[_0x4ec229(0x376,0x3c8)],GroupSettingChange[_0x4ec229(0x39d,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x3d9,0x409)][_0x4ec229(0x345,0x391)](_0x91dd51[_0x4ec229(0x39a,0x3c8)],Lang['UNMUTED'],MessageType[_0x4ec229(0x3b6,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x3f3,0x3bc))await _0x91dd51['client'][_0x4ec229(0x3b1,0x40d)](_0x91dd51[_0x4ec229(0x3f1,0x3c8)],GroupSettingChange['messageSend'],!![]),await _0x91dd51['client'][_0x4ec229(0x337,0x391)](_0x91dd51[_0x4ec229(0x384,0x3c8)],mut['ELLİBİRMUTE'],MessageType['text']),await new Promise(_0x215d1a=>setTimeout(_0x215d1a,0x2eb120)),await _0x91dd51[_0x4ec229(0x3b0,0x409)]['groupSettingChange'](_0x91dd51['jid'],GroupSettingChange['messageSend'],![]),await _0x91dd51[_0x4ec229(0x3a7,0x409)]['sendMessage'](_0x91dd51['jid'],Lang[_0x4ec229(0x413,0x405)],MessageType[_0x4ec229(0x3a1,0x3c7)]);else{if(_0x59bd53[0x1]=='52m')await _0x91dd51[_0x4ec229(0x3ad,0x409)][_0x4ec229(0x426,0x40d)](_0x91dd51[_0x4ec229(0x3e2,0x3c8)],GroupSettingChange[_0x4ec229(0x410,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x3b5,0x409)][_0x4ec229(0x343,0x391)](_0x91dd51[_0x4ec229(0x394,0x3c8)],mut[_0x4ec229(0x3f4,0x3e9)],MessageType[_0x4ec229(0x3af,0x3c7)]),await new Promise(_0x4c1855=>setTimeout(_0x4c1855,0x2f9b80)),await _0x91dd51['client'][_0x4ec229(0x3ae,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x3b1,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x454,0x409)]['sendMessage'](_0x91dd51[_0x4ec229(0x392,0x3c8)],Lang['UNMUTED'],MessageType['text']);else{if(_0x59bd53[0x1]==_0x4ec229(0x40d,0x408))await _0x91dd51[_0x4ec229(0x3c8,0x409)][_0x4ec229(0x433,0x40d)](_0x91dd51[_0x4ec229(0x41c,0x3c8)],GroupSettingChange[_0x4ec229(0x39e,0x3ee)],!![]),await _0x91dd51['client'][_0x4ec229(0x339,0x391)](_0x91dd51[_0x4ec229(0x3ec,0x3c8)],mut[_0x4ec229(0x3df,0x41a)],MessageType['text']),await new Promise(_0x56cb1b=>setTimeout(_0x56cb1b,0x3085e0)),await _0x91dd51[_0x4ec229(0x44a,0x409)][_0x4ec229(0x3e2,0x40d)](_0x91dd51[_0x4ec229(0x3ed,0x3c8)],GroupSettingChange[_0x4ec229(0x3ee,0x3ee)],![]),await _0x91dd51['client']['sendMessage'](_0x91dd51[_0x4ec229(0x3e9,0x3c8)],Lang[_0x4ec229(0x401,0x405)],MessageType[_0x4ec229(0x420,0x3c7)]);else{if(_0x59bd53[0x1]=='54m')await _0x91dd51['client'][_0x4ec229(0x418,0x40d)](_0x91dd51[_0x4ec229(0x3fc,0x3c8)],GroupSettingChange[_0x4ec229(0x411,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x3cc,0x409)][_0x4ec229(0x340,0x391)](_0x91dd51[_0x4ec229(0x429,0x3c8)],mut[_0x4ec229(0x3c4,0x3ab)],MessageType[_0x4ec229(0x3c0,0x3c7)]),await new Promise(_0x494869=>setTimeout(_0x494869,0x317040)),await _0x91dd51['client'][_0x4ec229(0x43c,0x40d)](_0x91dd51[_0x4ec229(0x3ff,0x3c8)],GroupSettingChange[_0x4ec229(0x3c8,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x429,0x409)][_0x4ec229(0x3df,0x391)](_0x91dd51[_0x4ec229(0x3a4,0x3c8)],Lang[_0x4ec229(0x3a4,0x405)],MessageType[_0x4ec229(0x389,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x43d,0x42a))await _0x91dd51[_0x4ec229(0x3ff,0x409)][_0x4ec229(0x3ba,0x40d)](_0x91dd51[_0x4ec229(0x393,0x3c8)],GroupSettingChange[_0x4ec229(0x443,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x3c2,0x409)][_0x4ec229(0x3b1,0x391)](_0x91dd51[_0x4ec229(0x3bd,0x3c8)],mut[_0x4ec229(0x3e7,0x43b)],MessageType['text']),await new Promise(_0xc6fa4=>setTimeout(_0xc6fa4,0x325aa0)),await _0x91dd51[_0x4ec229(0x3bd,0x409)][_0x4ec229(0x463,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x3b7,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x3fb,0x409)]['sendMessage'](_0x91dd51[_0x4ec229(0x379,0x3c8)],Lang[_0x4ec229(0x40f,0x405)],MessageType[_0x4ec229(0x404,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x3cc,0x3f8))await _0x91dd51[_0x4ec229(0x42f,0x409)][_0x4ec229(0x406,0x40d)](_0x91dd51[_0x4ec229(0x3f4,0x3c8)],GroupSettingChange['messageSend'],!![]),await _0x91dd51['client']['sendMessage'](_0x91dd51[_0x4ec229(0x3a8,0x3c8)],mut[_0x4ec229(0x3ca,0x3ef)],MessageType['text']),await new Promise(_0x54a3b7=>setTimeout(_0x54a3b7,0x334500)),await _0x91dd51[_0x4ec229(0x414,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x3d0,0x3c8)],GroupSettingChange[_0x4ec229(0x3ad,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x425,0x409)][_0x4ec229(0x348,0x391)](_0x91dd51[_0x4ec229(0x423,0x3c8)],Lang[_0x4ec229(0x45f,0x405)],MessageType[_0x4ec229(0x41f,0x3c7)]);else{if(_0x59bd53[0x1]=='57m')await _0x91dd51[_0x4ec229(0x3e7,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x41b,0x3c8)],GroupSettingChange[_0x4ec229(0x3a6,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x3e4,0x409)][_0x4ec229(0x3d2,0x391)](_0x91dd51['jid'],mut[_0x4ec229(0x3c4,0x39a)],MessageType[_0x4ec229(0x427,0x3c7)]),await new Promise(_0x20636f=>setTimeout(_0x20636f,0x342f60)),await _0x91dd51[_0x4ec229(0x3ea,0x409)][_0x4ec229(0x445,0x40d)](_0x91dd51[_0x4ec229(0x3d8,0x3c8)],GroupSettingChange[_0x4ec229(0x433,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x3c0,0x409)][_0x4ec229(0x381,0x391)](_0x91dd51['jid'],Lang['UNMUTED'],MessageType[_0x4ec229(0x3e8,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x454,0x40f))await _0x91dd51[_0x4ec229(0x429,0x409)][_0x4ec229(0x3bf,0x40d)](_0x91dd51[_0x4ec229(0x39a,0x3c8)],GroupSettingChange[_0x4ec229(0x3f3,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x3f7,0x409)]['sendMessage'](_0x91dd51[_0x4ec229(0x3ff,0x3c8)],mut[_0x4ec229(0x40e,0x3f6)],MessageType['text']),await new Promise(_0x17ce9d=>setTimeout(_0x17ce9d,0x3519c0)),await _0x91dd51[_0x4ec229(0x3dc,0x409)][_0x4ec229(0x3cd,0x40d)](_0x91dd51[_0x4ec229(0x39e,0x3c8)],GroupSettingChange[_0x4ec229(0x3d9,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x43c,0x409)][_0x4ec229(0x33b,0x391)](_0x91dd51[_0x4ec229(0x407,0x3c8)],Lang['UNMUTED'],MessageType[_0x4ec229(0x3e5,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x3af,0x38b))await _0x91dd51['client'][_0x4ec229(0x3d6,0x40d)](_0x91dd51[_0x4ec229(0x396,0x3c8)],GroupSettingChange[_0x4ec229(0x3dd,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x418,0x409)]['sendMessage'](_0x91dd51[_0x4ec229(0x370,0x3c8)],mut[_0x4ec229(0x38c,0x3b9)],MessageType['text']),await new Promise(_0xbcbdd5=>setTimeout(_0xbcbdd5,0x360420)),await _0x91dd51[_0x4ec229(0x41d,0x409)][_0x4ec229(0x446,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x3a7,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x3b3,0x409)]['sendMessage'](_0x91dd51['jid'],Lang[_0x4ec229(0x460,0x405)],MessageType[_0x4ec229(0x3bc,0x3c7)]);else{if(_0x59bd53[0x1]=='1h')await _0x91dd51[_0x4ec229(0x43e,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x3cf,0x3c8)],GroupSettingChange[_0x4ec229(0x3d1,0x3ee)],!![]),await _0x91dd51['client'][_0x4ec229(0x37d,0x391)](_0x91dd51['jid'],mut['SAATBİRMUTE'],MessageType[_0x4ec229(0x371,0x3c7)]),await new Promise(_0x3910f4=>setTimeout(_0x3910f4,0x36ee80)),await _0x91dd51[_0x4ec229(0x437,0x409)][_0x4ec229(0x3ee,0x40d)](_0x91dd51[_0x4ec229(0x408,0x3c8)],GroupSettingChange[_0x4ec229(0x449,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x3b4,0x409)][_0x4ec229(0x3f3,0x391)](_0x91dd51[_0x4ec229(0x41c,0x3c8)],Lang[_0x4ec229(0x402,0x405)],MessageType['text']);else{if(_0x59bd53[0x1]=='2h')await _0x91dd51[_0x4ec229(0x3e0,0x409)][_0x4ec229(0x415,0x40d)](_0x91dd51[_0x4ec229(0x40b,0x3c8)],GroupSettingChange[_0x4ec229(0x44e,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x45e,0x409)]['sendMessage'](_0x91dd51[_0x4ec229(0x3ae,0x3c8)],mut[_0x4ec229(0x378,0x3d4)],MessageType[_0x4ec229(0x37f,0x3c7)]),await new Promise(_0x4977fa=>setTimeout(_0x4977fa,0x6ddd00)),await _0x91dd51[_0x4ec229(0x41f,0x409)][_0x4ec229(0x3ac,0x40d)](_0x91dd51[_0x4ec229(0x38a,0x3c8)],GroupSettingChange[_0x4ec229(0x3f7,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x44c,0x409)][_0x4ec229(0x36b,0x391)](_0x91dd51[_0x4ec229(0x36f,0x3c8)],Lang[_0x4ec229(0x45c,0x405)],MessageType[_0x4ec229(0x367,0x3c7)]);else{if(_0x59bd53[0x1]=='3h')await _0x91dd51['client'][_0x4ec229(0x3d3,0x40d)](_0x91dd51[_0x4ec229(0x3b2,0x3c8)],GroupSettingChange[_0x4ec229(0x3b5,0x3ee)],!![]),await _0x91dd51['client'][_0x4ec229(0x34c,0x391)](_0x91dd51[_0x4ec229(0x3c1,0x3c8)],mut[_0x4ec229(0x3cc,0x400)],MessageType[_0x4ec229(0x3c5,0x3c7)]),await new Promise(_0x3f9f92=>setTimeout(_0x3f9f92,0xa4cb80)),await _0x91dd51[_0x4ec229(0x44f,0x409)][_0x4ec229(0x3e5,0x40d)](_0x91dd51[_0x4ec229(0x37e,0x3c8)],GroupSettingChange[_0x4ec229(0x3b9,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x43c,0x409)][_0x4ec229(0x363,0x391)](_0x91dd51[_0x4ec229(0x40d,0x3c8)],Lang['UNMUTED'],MessageType[_0x4ec229(0x388,0x3c7)]);else{if(_0x59bd53[0x1]=='4h')await _0x91dd51[_0x4ec229(0x41e,0x409)]['groupSettingChange'](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x3d9,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x3ef,0x409)][_0x4ec229(0x3be,0x391)](_0x91dd51[_0x4ec229(0x3af,0x3c8)],mut[_0x4ec229(0x433,0x3da)],MessageType[_0x4ec229(0x426,0x3c7)]),await new Promise(_0x3f536e=>setTimeout(_0x3f536e,0xdbba00)),await _0x91dd51[_0x4ec229(0x457,0x409)][_0x4ec229(0x3cc,0x40d)](_0x91dd51[_0x4ec229(0x3d3,0x3c8)],GroupSettingChange[_0x4ec229(0x3f7,0x3ee)],![]),await _0x91dd51['client'][_0x4ec229(0x3ea,0x391)](_0x91dd51['jid'],Lang[_0x4ec229(0x434,0x405)],MessageType[_0x4ec229(0x3a6,0x3c7)]);else{if(_0x59bd53[0x1]=='5h')await _0x91dd51[_0x4ec229(0x42f,0x409)]['groupSettingChange'](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x428,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x438,0x409)][_0x4ec229(0x397,0x391)](_0x91dd51[_0x4ec229(0x411,0x3c8)],mut[_0x4ec229(0x387,0x396)],MessageType['text']),await new Promise(_0x3c9d26=>setTimeout(_0x3c9d26,0x112a880)),await _0x91dd51['client'][_0x4ec229(0x3e4,0x40d)](_0x91dd51[_0x4ec229(0x38c,0x3c8)],GroupSettingChange['messageSend'],![]),await _0x91dd51[_0x4ec229(0x40e,0x409)]['sendMessage'](_0x91dd51[_0x4ec229(0x37a,0x3c8)],Lang[_0x4ec229(0x3b2,0x405)],MessageType[_0x4ec229(0x41a,0x3c7)]);else{if(_0x59bd53[0x1]=='6h')await _0x91dd51[_0x4ec229(0x466,0x409)][_0x4ec229(0x423,0x40d)](_0x91dd51[_0x4ec229(0x407,0x3c8)],GroupSettingChange[_0x4ec229(0x3a6,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x3fd,0x409)][_0x4ec229(0x348,0x391)](_0x91dd51[_0x4ec229(0x3ff,0x3c8)],mut['SAATALTIMUTE'],MessageType[_0x4ec229(0x3aa,0x3c7)]),await new Promise(_0x4a9273=>setTimeout(_0x4a9273,0x1499700)),await _0x91dd51[_0x4ec229(0x440,0x409)][_0x4ec229(0x3f5,0x40d)](_0x91dd51[_0x4ec229(0x409,0x3c8)],GroupSettingChange[_0x4ec229(0x423,0x3ee)],![]),await _0x91dd51['client'][_0x4ec229(0x38f,0x391)](_0x91dd51[_0x4ec229(0x40e,0x3c8)],Lang[_0x4ec229(0x426,0x405)],MessageType[_0x4ec229(0x3cd,0x3c7)]);else{if(_0x59bd53[0x1]=='7h')await _0x91dd51[_0x4ec229(0x3f1,0x409)][_0x4ec229(0x466,0x40d)](_0x91dd51[_0x4ec229(0x3c0,0x3c8)],GroupSettingChange[_0x4ec229(0x3fe,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x3ca,0x409)][_0x4ec229(0x34c,0x391)](_0x91dd51[_0x4ec229(0x3ee,0x3c8)],mut['SAATYEDİMUTE'],MessageType['text']),await new Promise(_0x4d4299=>setTimeout(_0x4d4299,0x1808580)),await _0x91dd51[_0x4ec229(0x3e5,0x409)][_0x4ec229(0x3c0,0x40d)](_0x91dd51[_0x4ec229(0x386,0x3c8)],GroupSettingChange[_0x4ec229(0x44c,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x426,0x409)][_0x4ec229(0x36e,0x391)](_0x91dd51[_0x4ec229(0x3c5,0x3c8)],Lang['UNMUTED'],MessageType['text']);else{if(_0x59bd53[0x1]=='8h')await _0x91dd51[_0x4ec229(0x455,0x409)][_0x4ec229(0x3c3,0x40d)](_0x91dd51[_0x4ec229(0x423,0x3c8)],GroupSettingChange[_0x4ec229(0x439,0x3ee)],!![]),await _0x91dd51['client'][_0x4ec229(0x3c4,0x391)](_0x91dd51['jid'],mut[_0x4ec229(0x381,0x3d5)],MessageType[_0x4ec229(0x3e3,0x3c7)]),await new Promise(_0x3ad823=>setTimeout(_0x3ad823,0x1b77400)),await _0x91dd51[_0x4ec229(0x3b7,0x409)][_0x4ec229(0x450,0x40d)](_0x91dd51[_0x4ec229(0x3d7,0x3c8)],GroupSettingChange['messageSend'],![]),await _0x91dd51['client'][_0x4ec229(0x371,0x391)](_0x91dd51[_0x4ec229(0x3f9,0x3c8)],Lang[_0x4ec229(0x3ff,0x405)],MessageType[_0x4ec229(0x370,0x3c7)]);else{if(_0x59bd53[0x1]=='9h')await _0x91dd51['client']['groupSettingChange'](_0x91dd51[_0x4ec229(0x3ee,0x3c8)],GroupSettingChange[_0x4ec229(0x3ea,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x3c4,0x409)][_0x4ec229(0x35c,0x391)](_0x91dd51[_0x4ec229(0x386,0x3c8)],mut[_0x4ec229(0x395,0x3c3)],MessageType['text']),await new Promise(_0x580296=>setTimeout(_0x580296,0x1ee6280)),await _0x91dd51[_0x4ec229(0x41c,0x409)][_0x4ec229(0x411,0x40d)](_0x91dd51['jid'],GroupSettingChange['messageSend'],![]),await _0x91dd51[_0x4ec229(0x40d,0x409)][_0x4ec229(0x3e7,0x391)](_0x91dd51[_0x4ec229(0x40d,0x3c8)],Lang[_0x4ec229(0x407,0x405)],MessageType[_0x4ec229(0x36c,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x413,0x3fa))await _0x91dd51[_0x4ec229(0x3ea,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x3f2,0x3c8)],GroupSettingChange[_0x4ec229(0x3bb,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x41a,0x409)][_0x4ec229(0x34a,0x391)](_0x91dd51['jid'],mut[_0x4ec229(0x406,0x434)],MessageType['text']),await new Promise(_0x142ff0=>setTimeout(_0x142ff0,0x2255100)),await _0x91dd51[_0x4ec229(0x403,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x3e3,0x3c8)],GroupSettingChange[_0x4ec229(0x40c,0x3ee)],![]),await _0x91dd51['client'][_0x4ec229(0x343,0x391)](_0x91dd51[_0x4ec229(0x3c7,0x3c8)],Lang['UNMUTED'],MessageType[_0x4ec229(0x3a5,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x3d4,0x3a7))await _0x91dd51[_0x4ec229(0x3b6,0x409)][_0x4ec229(0x3c7,0x40d)](_0x91dd51[_0x4ec229(0x3bd,0x3c8)],GroupSettingChange['messageSend'],!![]),await _0x91dd51[_0x4ec229(0x3f6,0x409)][_0x4ec229(0x3c8,0x391)](_0x91dd51[_0x4ec229(0x411,0x3c8)],mut[_0x4ec229(0x46c,0x41f)],MessageType[_0x4ec229(0x3a1,0x3c7)]),await new Promise(_0x1a3445=>setTimeout(_0x1a3445,0x25c3f80)),await _0x91dd51[_0x4ec229(0x467,0x409)][_0x4ec229(0x407,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x3ca,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x400,0x409)][_0x4ec229(0x357,0x391)](_0x91dd51[_0x4ec229(0x3e0,0x3c8)],Lang['UNMUTED'],MessageType[_0x4ec229(0x3bd,0x3c7)]);else{if(_0x59bd53[0x1]=='12h')await _0x91dd51[_0x4ec229(0x435,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x40d,0x3c8)],GroupSettingChange[_0x4ec229(0x436,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x3ee,0x409)][_0x4ec229(0x3de,0x391)](_0x91dd51[_0x4ec229(0x3f4,0x3c8)],mut[_0x4ec229(0x47b,0x426)],MessageType[_0x4ec229(0x400,0x3c7)]),await new Promise(_0xacb3a7=>setTimeout(_0xacb3a7,0x2932e00)),await _0x91dd51[_0x4ec229(0x3af,0x409)][_0x4ec229(0x45a,0x40d)](_0x91dd51[_0x4ec229(0x415,0x3c8)],GroupSettingChange[_0x4ec229(0x3ae,0x3ee)],![]),await _0x91dd51['client'][_0x4ec229(0x38b,0x391)](_0x91dd51[_0x4ec229(0x3d8,0x3c8)],Lang[_0x4ec229(0x3d4,0x405)],MessageType[_0x4ec229(0x375,0x3c7)]);else{if(_0x59bd53[0x1]=='1d')await _0x91dd51[_0x4ec229(0x3ba,0x409)][_0x4ec229(0x43a,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x444,0x3ee)],!![]),await _0x91dd51['client'][_0x4ec229(0x37d,0x391)](_0x91dd51[_0x4ec229(0x3fc,0x3c8)],mut[_0x4ec229(0x3ed,0x3b3)],MessageType[_0x4ec229(0x3ab,0x3c7)]),await new Promise(_0x58baa3=>setTimeout(_0x58baa3,0x5265c00)),await _0x91dd51[_0x4ec229(0x434,0x409)][_0x4ec229(0x44b,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x3e1,0x3ee)],![]),await _0x91dd51['client']['sendMessage'](_0x91dd51[_0x4ec229(0x406,0x3c8)],Lang[_0x4ec229(0x44c,0x405)],MessageType['text']);else{if(_0x59bd53[0x1]=='2d')await _0x91dd51[_0x4ec229(0x437,0x409)][_0x4ec229(0x45b,0x40d)](_0x91dd51[_0x4ec229(0x377,0x3c8)],GroupSettingChange[_0x4ec229(0x3d5,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x3dd,0x409)][_0x4ec229(0x383,0x391)](_0x91dd51[_0x4ec229(0x40c,0x3c8)],mut['GÜNİKİMUTE'],MessageType['text']),await new Promise(_0x1b0481=>setTimeout(_0x1b0481,0xa4cb800)),await _0x91dd51[_0x4ec229(0x458,0x409)][_0x4ec229(0x3c4,0x40d)](_0x91dd51[_0x4ec229(0x3b6,0x3c8)],GroupSettingChange[_0x4ec229(0x3de,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x3bf,0x409)][_0x4ec229(0x388,0x391)](_0x91dd51[_0x4ec229(0x3f8,0x3c8)],Lang[_0x4ec229(0x3fb,0x405)],MessageType[_0x4ec229(0x3a6,0x3c7)]);else{if(_0x59bd53[0x1]=='3d')await _0x91dd51[_0x4ec229(0x42c,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x39c,0x3c8)],GroupSettingChange[_0x4ec229(0x40c,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x3aa,0x409)][_0x4ec229(0x36e,0x391)](_0x91dd51[_0x4ec229(0x3bc,0x3c8)],mut[_0x4ec229(0x485,0x43f)],MessageType[_0x4ec229(0x3d7,0x3c7)]),await new Promise(_0x3483ae=>setTimeout(_0x3483ae,0xf731400)),await _0x91dd51['client']['groupSettingChange'](_0x91dd51[_0x4ec229(0x382,0x3c8)],GroupSettingChange[_0x4ec229(0x40a,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x444,0x409)][_0x4ec229(0x38d,0x391)](_0x91dd51['jid'],Lang['UNMUTED'],MessageType[_0x4ec229(0x3c0,0x3c7)]);else{if(_0x59bd53[0x1]!=='1m'||_0x59bd53[0x1]!=='2m'||_0x59bd53[0x1]!=='3m'||_0x59bd53[0x1]!=='4m'||_0x59bd53[0x1]!=='5m'||_0x59bd53[0x1]!=='6m'||_0x59bd53[0x1]!=='7m'||_0x59bd53[0x1]!=='8m'||_0x59bd53[0x1]!=='9m'||_0x59bd53[0x1]!==_0x4ec229(0x3a2,0x3a9)||_0x59bd53[0x1]!==_0x4ec229(0x423,0x3ea)||_0x59bd53[0x1]!=='12m'||_0x59bd53[0x1]!==_0x4ec229(0x3e5,0x42b)||_0x59bd53[0x1]!==_0x4ec229(0x420,0x423)||_0x59bd53[0x1]!==_0x4ec229(0x489,0x42c)||_0x59bd53[0x1]!==_0x4ec229(0x410,0x3f9)||_0x59bd53[0x1]!==_0x4ec229(0x3e0,0x3ff)||_0x59bd53[0x1]!==_0x4ec229(0x329,0x386)||_0x59bd53[0x1]!=='19m'||_0x59bd53[0x1]!==_0x4ec229(0x3de,0x42d)||_0x59bd53[0x1]!=='21m'||_0x59bd53[0x1]!==_0x4ec229(0x405,0x3d1)||_0x59bd53[0x1]!==_0x4ec229(0x3ef,0x3e0)||_0x59bd53[0x1]!==_0x4ec229(0x3bc,0x394)||_0x59bd53[0x1]!=='25m'||_0x59bd53[0x1]!==_0x4ec229(0x403,0x3cb)||_0x59bd53[0x1]!=='27m'||_0x59bd53[0x1]!==_0x4ec229(0x389,0x3c6)||_0x59bd53[0x1]!==_0x4ec229(0x46b,0x439)||_0x59bd53[0x1]!=='30m'||_0x59bd53[0x1]!=='31m'||_0x59bd53[0x1]!==_0x4ec229(0x353,0x3a5)||_0x59bd53[0x1]!==_0x4ec229(0x3a2,0x383)||_0x59bd53[0x1]!==_0x4ec229(0x398,0x3a8)||_0x59bd53[0x1]!==_0x4ec229(0x3c5,0x421)||_0x59bd53[0x1]!==_0x4ec229(0x37d,0x398)||_0x59bd53[0x1]!==_0x4ec229(0x343,0x3a0)||_0x59bd53[0x1]!==_0x4ec229(0x3d8,0x3c4)||_0x59bd53[0x1]!==_0x4ec229(0x380,0x3c9)||_0x59bd53[0x1]!==_0x4ec229(0x395,0x38e)||_0x59bd53[0x1]!=='41m'||_0x59bd53[0x1]!=='42m'||_0x59bd53[0x1]!==_0x4ec229(0x3af,0x3b8)||_0x59bd53[0x1]!==_0x4ec229(0x3c2,0x3b4)||_0x59bd53[0x1]!==_0x4ec229(0x413,0x3bd)||_0x59bd53[0x1]!==_0x4ec229(0x364,0x3b2)||_0x59bd53[0x1]!=='47m'||_0x59bd53[0x1]!==_0x4ec229(0x458,0x41c)||_0x59bd53[0x1]!==_0x4ec229(0x40e,0x40c)||_0x59bd53[0x1]!==_0x4ec229(0x39d,0x3bb)||_0x59bd53[0x1]!==_0x4ec229(0x36b,0x3bc)||_0x59bd53[0x1]!=='52m'||_0x59bd53[0x1]!==_0x4ec229(0x417,0x408)||_0x59bd53[0x1]!==_0x4ec229(0x452,0x407)||_0x59bd53[0x1]!==_0x4ec229(0x431,0x42a)||_0x59bd53[0x1]!==_0x4ec229(0x3c6,0x3f8)||_0x59bd53[0x1]!==_0x4ec229(0x3ea,0x42e)||_0x59bd53[0x1]!==_0x4ec229(0x3f1,0x40f)||_0x59bd53[0x1]!==_0x4ec229(0x3c9,0x38b)||_0x59bd53[0x1]!=='1h'||_0x59bd53[0x1]!=='2h'||_0x59bd53[0x1]!=='3h'||_0x59bd53[0x1]!=='4h'||_0x59bd53[0x1]!=='5h'||_0x59bd53[0x1]!=='6h'||_0x59bd53[0x1]!=='7h'||_0x59bd53[0x1]!=='8h'||_0x59bd53[0x1]!=='9h'||_0x59bd53[0x1]!==_0x4ec229(0x443,0x3fa)||_0x59bd53[0x1]!=='11h'||_0x59bd53[0x1]!==_0x4ec229(0x385,0x3bf)||_0x59bd53[0x1]!=='1d'||_0x59bd53[0x1]!=='2d'||_0x59bd53[0x1]!=='3d')return await _0x91dd51[_0x4ec229(0x41a,0x409)][_0x4ec229(0x39d,0x391)](_0x91dd51['jid'],mut[_0x4ec229(0x3d8,0x3c2)],MessageType[_0x4ec229(0x3c0,0x3c7)]);}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}else{if(_0x59bd53[0x1]=='')await _0x91dd51[_0x4ec229(0x42f,0x409)][_0x4ec229(0x3c6,0x40d)](_0x91dd51[_0x4ec229(0x3f4,0x3c8)],GroupSettingChange[_0x4ec229(0x3c4,0x3ee)],!![]),await _0x91dd51['client'][_0x4ec229(0x36d,0x391)](_0x91dd51[_0x4ec229(0x394,0x3c8)],Config['MUTEMSG'],MessageType['text']);else{if(_0x59bd53[0x1]=='1m')await _0x91dd51['client'][_0x4ec229(0x3df,0x40d)](_0x91dd51[_0x4ec229(0x3e2,0x3c8)],GroupSettingChange['messageSend'],!![]),await _0x91dd51[_0x4ec229(0x3e7,0x409)][_0x4ec229(0x3e2,0x391)](_0x91dd51['jid'],Config[_0x4ec229(0x464,0x43d)],MessageType[_0x4ec229(0x410,0x3c7)]),await new Promise(_0x54a2fa=>setTimeout(_0x54a2fa,0xea60)),await _0x91dd51['client'][_0x4ec229(0x445,0x40d)](_0x91dd51[_0x4ec229(0x3bd,0x3c8)],GroupSettingChange[_0x4ec229(0x3be,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x401,0x409)][_0x4ec229(0x3be,0x391)](_0x91dd51[_0x4ec229(0x412,0x3c8)],Config[_0x4ec229(0x3be,0x3be)],MessageType[_0x4ec229(0x387,0x3c7)]);else{if(_0x59bd53[0x1]=='2m')await _0x91dd51['client'][_0x4ec229(0x3cf,0x40d)](_0x91dd51[_0x4ec229(0x377,0x3c8)],GroupSettingChange[_0x4ec229(0x3d7,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x40d,0x409)][_0x4ec229(0x360,0x391)](_0x91dd51[_0x4ec229(0x3a8,0x3c8)],Config[_0x4ec229(0x424,0x43d)],MessageType[_0x4ec229(0x397,0x3c7)]),await new Promise(_0x2af643=>setTimeout(_0x2af643,0x1d4c0)),await _0x91dd51[_0x4ec229(0x439,0x409)][_0x4ec229(0x3bc,0x40d)](_0x91dd51['jid'],GroupSettingChange['messageSend'],![]),await _0x91dd51[_0x4ec229(0x45d,0x409)][_0x4ec229(0x3b4,0x391)](_0x91dd51[_0x4ec229(0x3fb,0x3c8)],Config[_0x4ec229(0x386,0x3be)],MessageType[_0x4ec229(0x391,0x3c7)]);else{if(_0x59bd53[0x1]=='3m')await _0x91dd51[_0x4ec229(0x3d0,0x409)][_0x4ec229(0x3ef,0x40d)](_0x91dd51[_0x4ec229(0x3e2,0x3c8)],GroupSettingChange[_0x4ec229(0x3c5,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x43e,0x409)][_0x4ec229(0x35a,0x391)](_0x91dd51[_0x4ec229(0x3dc,0x3c8)],Config[_0x4ec229(0x473,0x43d)],MessageType[_0x4ec229(0x429,0x3c7)]),await new Promise(_0x5e1f81=>setTimeout(_0x5e1f81,0x2bf20)),await _0x91dd51[_0x4ec229(0x436,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x367,0x3c8)],GroupSettingChange[_0x4ec229(0x449,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x407,0x409)][_0x4ec229(0x3f1,0x391)](_0x91dd51['jid'],Config['UNMUTEMSG'],MessageType[_0x4ec229(0x3bf,0x3c7)]);else{if(_0x59bd53[0x1]=='4m')await _0x91dd51['client'][_0x4ec229(0x3bf,0x40d)](_0x91dd51[_0x4ec229(0x386,0x3c8)],GroupSettingChange['messageSend'],!![]),await _0x91dd51[_0x4ec229(0x3cb,0x409)][_0x4ec229(0x3de,0x391)](_0x91dd51['jid'],Config[_0x4ec229(0x454,0x43d)],MessageType[_0x4ec229(0x3ce,0x3c7)]),await new Promise(_0x8ba91c=>setTimeout(_0x8ba91c,0x3a980)),await _0x91dd51['client']['groupSettingChange'](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x424,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x42e,0x409)][_0x4ec229(0x39e,0x391)](_0x91dd51['jid'],Config[_0x4ec229(0x386,0x3be)],MessageType[_0x4ec229(0x41f,0x3c7)]);else{if(_0x59bd53[0x1]=='5m')await _0x91dd51[_0x4ec229(0x461,0x409)][_0x4ec229(0x447,0x40d)](_0x91dd51[_0x4ec229(0x3ce,0x3c8)],GroupSettingChange[_0x4ec229(0x3fb,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x3c5,0x409)][_0x4ec229(0x3cc,0x391)](_0x91dd51['jid'],Config['MUTEMSG'],MessageType['text']),await new Promise(_0x1445fe=>setTimeout(_0x1445fe,0x493e0)),await _0x91dd51[_0x4ec229(0x3c8,0x409)][_0x4ec229(0x3d6,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x3dc,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x3c8,0x409)][_0x4ec229(0x3d1,0x391)](_0x91dd51[_0x4ec229(0x401,0x3c8)],Config[_0x4ec229(0x3fa,0x3be)],MessageType[_0x4ec229(0x423,0x3c7)]);else{if(_0x59bd53[0x1]=='6m')await _0x91dd51[_0x4ec229(0x3ed,0x409)][_0x4ec229(0x435,0x40d)](_0x91dd51[_0x4ec229(0x405,0x3c8)],GroupSettingChange[_0x4ec229(0x3eb,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x434,0x409)][_0x4ec229(0x39a,0x391)](_0x91dd51[_0x4ec229(0x421,0x3c8)],Config[_0x4ec229(0x49b,0x43d)],MessageType[_0x4ec229(0x3c7,0x3c7)]),await new Promise(_0x5322bb=>setTimeout(_0x5322bb,0x57e40)),await _0x91dd51['client'][_0x4ec229(0x455,0x40d)](_0x91dd51[_0x4ec229(0x409,0x3c8)],GroupSettingChange[_0x4ec229(0x3d7,0x3ee)],![]),await _0x91dd51['client']['sendMessage'](_0x91dd51['jid'],Config[_0x4ec229(0x401,0x3be)],MessageType[_0x4ec229(0x3b5,0x3c7)]);else{if(_0x59bd53[0x1]=='7m')await _0x91dd51[_0x4ec229(0x444,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x38a,0x3c8)],GroupSettingChange['messageSend'],!![]),await _0x91dd51['client'][_0x4ec229(0x36d,0x391)](_0x91dd51[_0x4ec229(0x389,0x3c8)],Config['MUTEMSG'],MessageType[_0x4ec229(0x425,0x3c7)]),await new Promise(_0x52b356=>setTimeout(_0x52b356,0x668a0)),await _0x91dd51['client'][_0x4ec229(0x3f1,0x40d)](_0x91dd51[_0x4ec229(0x3f9,0x3c8)],GroupSettingChange['messageSend'],![]),await _0x91dd51[_0x4ec229(0x3cc,0x409)][_0x4ec229(0x38f,0x391)](_0x91dd51[_0x4ec229(0x409,0x3c8)],Config[_0x4ec229(0x3c1,0x3be)],MessageType[_0x4ec229(0x3aa,0x3c7)]);else{if(_0x59bd53[0x1]=='8m')await _0x91dd51[_0x4ec229(0x413,0x409)][_0x4ec229(0x41f,0x40d)](_0x91dd51[_0x4ec229(0x40e,0x3c8)],GroupSettingChange['messageSend'],!![]),await _0x91dd51[_0x4ec229(0x3b7,0x409)]['sendMessage'](_0x91dd51[_0x4ec229(0x428,0x3c8)],Config['MUTEMSG'],MessageType[_0x4ec229(0x3e2,0x3c7)]),await new Promise(_0x9d99eb=>setTimeout(_0x9d99eb,0x75300)),await _0x91dd51['client'][_0x4ec229(0x438,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x3c5,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x439,0x409)][_0x4ec229(0x372,0x391)](_0x91dd51['jid'],Config[_0x4ec229(0x36a,0x3be)],MessageType[_0x4ec229(0x3ce,0x3c7)]);else{if(_0x59bd53[0x1]=='9m')await _0x91dd51[_0x4ec229(0x3ca,0x409)][_0x4ec229(0x3c3,0x40d)](_0x91dd51[_0x4ec229(0x36a,0x3c8)],GroupSettingChange[_0x4ec229(0x434,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x432,0x409)][_0x4ec229(0x3ca,0x391)](_0x91dd51[_0x4ec229(0x3c0,0x3c8)],Config[_0x4ec229(0x49b,0x43d)],MessageType[_0x4ec229(0x36c,0x3c7)]),await new Promise(_0x3b2060=>setTimeout(_0x3b2060,0x83d60)),await _0x91dd51[_0x4ec229(0x3c3,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x387,0x3c8)],GroupSettingChange[_0x4ec229(0x3c2,0x3ee)],![]),await _0x91dd51['client'][_0x4ec229(0x389,0x391)](_0x91dd51[_0x4ec229(0x3a2,0x3c8)],Config['UNMUTEMSG'],MessageType[_0x4ec229(0x37e,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x3d1,0x3a9))await _0x91dd51['client'][_0x4ec229(0x3f2,0x40d)](_0x91dd51[_0x4ec229(0x40a,0x3c8)],GroupSettingChange['messageSend'],!![]),await _0x91dd51[_0x4ec229(0x437,0x409)]['sendMessage'](_0x91dd51[_0x4ec229(0x389,0x3c8)],Config[_0x4ec229(0x47a,0x43d)],MessageType[_0x4ec229(0x395,0x3c7)]),await new Promise(_0x10eed9=>setTimeout(_0x10eed9,0x927c0)),await _0x91dd51[_0x4ec229(0x3cc,0x409)][_0x4ec229(0x459,0x40d)](_0x91dd51[_0x4ec229(0x38b,0x3c8)],GroupSettingChange[_0x4ec229(0x39e,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x3db,0x409)]['sendMessage'](_0x91dd51[_0x4ec229(0x3ce,0x3c8)],Config[_0x4ec229(0x3c7,0x3be)],MessageType['text']);else{if(_0x59bd53[0x1]=='11m')await _0x91dd51['client'][_0x4ec229(0x439,0x40d)](_0x91dd51[_0x4ec229(0x415,0x3c8)],GroupSettingChange[_0x4ec229(0x3a7,0x3ee)],!![]),await _0x91dd51['client'][_0x4ec229(0x33b,0x391)](_0x91dd51['jid'],Config[_0x4ec229(0x494,0x43d)],MessageType[_0x4ec229(0x38d,0x3c7)]),await new Promise(_0x422a47=>setTimeout(_0x422a47,0xa1220)),await _0x91dd51[_0x4ec229(0x446,0x409)][_0x4ec229(0x468,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x40a,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x3c6,0x409)]['sendMessage'](_0x91dd51[_0x4ec229(0x3de,0x3c8)],Config[_0x4ec229(0x388,0x3be)],MessageType['text']);else{if(_0x59bd53[0x1]==_0x4ec229(0x3e4,0x38d))await _0x91dd51['client'][_0x4ec229(0x3fd,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x3c1,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x464,0x409)][_0x4ec229(0x3d9,0x391)](_0x91dd51[_0x4ec229(0x3b5,0x3c8)],Config[_0x4ec229(0x43f,0x43d)],MessageType[_0x4ec229(0x3dc,0x3c7)]),await new Promise(_0x44cd0e=>setTimeout(_0x44cd0e,0xafc80)),await _0x91dd51[_0x4ec229(0x3ed,0x409)][_0x4ec229(0x3f4,0x40d)](_0x91dd51['jid'],GroupSettingChange['messageSend'],![]),await _0x91dd51[_0x4ec229(0x462,0x409)]['sendMessage'](_0x91dd51[_0x4ec229(0x377,0x3c8)],Config[_0x4ec229(0x399,0x3be)],MessageType['text']);else{if(_0x59bd53[0x1]==_0x4ec229(0x411,0x42b))await _0x91dd51[_0x4ec229(0x435,0x409)][_0x4ec229(0x3ba,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x443,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x418,0x409)][_0x4ec229(0x3d5,0x391)](_0x91dd51[_0x4ec229(0x3d3,0x3c8)],Config['MUTEMSG'],MessageType[_0x4ec229(0x3ea,0x3c7)]),await new Promise(_0x146173=>setTimeout(_0x146173,0xbe6e0)),await _0x91dd51['client'][_0x4ec229(0x3d3,0x40d)](_0x91dd51['jid'],GroupSettingChange['messageSend'],![]),await _0x91dd51['client'][_0x4ec229(0x34e,0x391)](_0x91dd51[_0x4ec229(0x3b5,0x3c8)],Config[_0x4ec229(0x3e8,0x3be)],MessageType[_0x4ec229(0x3e6,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x474,0x423))await _0x91dd51[_0x4ec229(0x45a,0x409)][_0x4ec229(0x465,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x3c8,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x3d3,0x409)][_0x4ec229(0x3f3,0x391)](_0x91dd51['jid'],Config['MUTEMSG'],MessageType['text']),await new Promise(_0x3a65a7=>setTimeout(_0x3a65a7,0xcd140)),await _0x91dd51[_0x4ec229(0x3ce,0x409)][_0x4ec229(0x407,0x40d)](_0x91dd51[_0x4ec229(0x3e7,0x3c8)],GroupSettingChange[_0x4ec229(0x3a7,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x445,0x409)][_0x4ec229(0x375,0x391)](_0x91dd51[_0x4ec229(0x3e7,0x3c8)],Config[_0x4ec229(0x3d0,0x3be)],MessageType[_0x4ec229(0x36d,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x3e2,0x42c))await _0x91dd51[_0x4ec229(0x3b9,0x409)][_0x4ec229(0x40b,0x40d)](_0x91dd51[_0x4ec229(0x3dc,0x3c8)],GroupSettingChange[_0x4ec229(0x3ce,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x43f,0x409)]['sendMessage'](_0x91dd51[_0x4ec229(0x382,0x3c8)],Config['MUTEMSG'],MessageType[_0x4ec229(0x405,0x3c7)]),await new Promise(_0x55c0bf=>setTimeout(_0x55c0bf,0xdbba0)),await _0x91dd51['client']['groupSettingChange'](_0x91dd51[_0x4ec229(0x36c,0x3c8)],GroupSettingChange['messageSend'],![]),await _0x91dd51[_0x4ec229(0x3b5,0x409)][_0x4ec229(0x3be,0x391)](_0x91dd51[_0x4ec229(0x39f,0x3c8)],Config[_0x4ec229(0x378,0x3be)],MessageType[_0x4ec229(0x3f4,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x3ea,0x3f9))await _0x91dd51[_0x4ec229(0x411,0x409)][_0x4ec229(0x460,0x40d)](_0x91dd51[_0x4ec229(0x3c6,0x3c8)],GroupSettingChange[_0x4ec229(0x3c0,0x3ee)],!![]),await _0x91dd51['client'][_0x4ec229(0x33b,0x391)](_0x91dd51['jid'],Config[_0x4ec229(0x42d,0x43d)],MessageType[_0x4ec229(0x3f7,0x3c7)]),await new Promise(_0x49c600=>setTimeout(_0x49c600,0xea600)),await _0x91dd51[_0x4ec229(0x403,0x409)]['groupSettingChange'](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x39e,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x453,0x409)]['sendMessage'](_0x91dd51[_0x4ec229(0x37a,0x3c8)],Config[_0x4ec229(0x3f0,0x3be)],MessageType[_0x4ec229(0x3d7,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x3b3,0x3ff))await _0x91dd51[_0x4ec229(0x45a,0x409)][_0x4ec229(0x3f3,0x40d)](_0x91dd51[_0x4ec229(0x37c,0x3c8)],GroupSettingChange[_0x4ec229(0x436,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x443,0x409)][_0x4ec229(0x393,0x391)](_0x91dd51['jid'],Config[_0x4ec229(0x3fb,0x43d)],MessageType[_0x4ec229(0x390,0x3c7)]),await new Promise(_0x1665ae=>setTimeout(_0x1665ae,0xf9060)),await _0x91dd51[_0x4ec229(0x3e9,0x409)][_0x4ec229(0x456,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x423,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x3d5,0x409)]['sendMessage'](_0x91dd51[_0x4ec229(0x3b3,0x3c8)],Config[_0x4ec229(0x375,0x3be)],MessageType[_0x4ec229(0x406,0x3c7)]);else{if(_0x59bd53[0x1]=='18m')await _0x91dd51[_0x4ec229(0x40f,0x409)][_0x4ec229(0x3f0,0x40d)](_0x91dd51['jid'],GroupSettingChange['messageSend'],!![]),await _0x91dd51[_0x4ec229(0x3a8,0x409)][_0x4ec229(0x3c9,0x391)](_0x91dd51[_0x4ec229(0x3d4,0x3c8)],Config['MUTEMSG'],MessageType[_0x4ec229(0x3a4,0x3c7)]),await new Promise(_0x3078e6=>setTimeout(_0x3078e6,0x107ac0)),await _0x91dd51[_0x4ec229(0x467,0x409)][_0x4ec229(0x432,0x40d)](_0x91dd51[_0x4ec229(0x3bd,0x3c8)],GroupSettingChange[_0x4ec229(0x3bc,0x3ee)],![]),await _0x91dd51['client'][_0x4ec229(0x3ed,0x391)](_0x91dd51[_0x4ec229(0x3b1,0x3c8)],Config[_0x4ec229(0x40b,0x3be)],MessageType['text']);else{if(_0x59bd53[0x1]==_0x4ec229(0x40c,0x401))await _0x91dd51[_0x4ec229(0x3d5,0x409)]['groupSettingChange'](_0x91dd51['jid'],GroupSettingChange['messageSend'],!![]),await _0x91dd51[_0x4ec229(0x41e,0x409)][_0x4ec229(0x36e,0x391)](_0x91dd51[_0x4ec229(0x377,0x3c8)],Config[_0x4ec229(0x420,0x43d)],MessageType[_0x4ec229(0x36f,0x3c7)]),await new Promise(_0x1ec2ce=>setTimeout(_0x1ec2ce,0x116520)),await _0x91dd51[_0x4ec229(0x419,0x409)][_0x4ec229(0x3b1,0x40d)](_0x91dd51['jid'],GroupSettingChange['messageSend'],![]),await _0x91dd51['client'][_0x4ec229(0x373,0x391)](_0x91dd51[_0x4ec229(0x3d0,0x3c8)],Config[_0x4ec229(0x405,0x3be)],MessageType[_0x4ec229(0x39e,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x480,0x42d))await _0x91dd51[_0x4ec229(0x3af,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x3ea,0x3c8)],GroupSettingChange[_0x4ec229(0x416,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x450,0x409)]['sendMessage'](_0x91dd51['jid'],Config[_0x4ec229(0x40d,0x43d)],MessageType[_0x4ec229(0x41b,0x3c7)]),await new Promise(_0x1cde26=>setTimeout(_0x1cde26,0x124f80)),await _0x91dd51[_0x4ec229(0x3d8,0x409)][_0x4ec229(0x3f0,0x40d)](_0x91dd51[_0x4ec229(0x3dc,0x3c8)],GroupSettingChange[_0x4ec229(0x3f1,0x3ee)],![]),await _0x91dd51['client'][_0x4ec229(0x342,0x391)](_0x91dd51['jid'],Config[_0x4ec229(0x3d0,0x3be)],MessageType['text']);else{if(_0x59bd53[0x1]==_0x4ec229(0x407,0x3b6))await _0x91dd51[_0x4ec229(0x457,0x409)][_0x4ec229(0x457,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x40e,0x3ee)],!![]),await _0x91dd51['client'][_0x4ec229(0x39d,0x391)](_0x91dd51[_0x4ec229(0x417,0x3c8)],Config['MUTEMSG'],MessageType[_0x4ec229(0x419,0x3c7)]),await new Promise(_0x9f3bfb=>setTimeout(_0x9f3bfb,0x1339e0)),await _0x91dd51[_0x4ec229(0x43c,0x409)]['groupSettingChange'](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x450,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x3ec,0x409)][_0x4ec229(0x34d,0x391)](_0x91dd51[_0x4ec229(0x416,0x3c8)],Config['UNMUTEMSG'],MessageType[_0x4ec229(0x3d1,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x40a,0x3d1))await _0x91dd51[_0x4ec229(0x433,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x3c8,0x3c8)],GroupSettingChange[_0x4ec229(0x3e3,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x3ad,0x409)]['sendMessage'](_0x91dd51['jid'],Config[_0x4ec229(0x3dc,0x43d)],MessageType[_0x4ec229(0x37c,0x3c7)]),await new Promise(_0x12abdf=>setTimeout(_0x12abdf,0x142440)),await _0x91dd51[_0x4ec229(0x434,0x409)][_0x4ec229(0x466,0x40d)](_0x91dd51[_0x4ec229(0x403,0x3c8)],GroupSettingChange['messageSend'],![]),await _0x91dd51['client'][_0x4ec229(0x3e2,0x391)](_0x91dd51[_0x4ec229(0x406,0x3c8)],Config[_0x4ec229(0x360,0x3be)],MessageType[_0x4ec229(0x3ca,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x3fc,0x3e0))await _0x91dd51['client']['groupSettingChange'](_0x91dd51[_0x4ec229(0x3b7,0x3c8)],GroupSettingChange[_0x4ec229(0x3b8,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x405,0x409)][_0x4ec229(0x3d3,0x391)](_0x91dd51['jid'],Config[_0x4ec229(0x3ef,0x43d)],MessageType[_0x4ec229(0x411,0x3c7)]),await new Promise(_0x499ddf=>setTimeout(_0x499ddf,0x150ea0)),await _0x91dd51['client'][_0x4ec229(0x447,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x435,0x3ee)],![]),await _0x91dd51['client'][_0x4ec229(0x38d,0x391)](_0x91dd51[_0x4ec229(0x39a,0x3c8)],Config[_0x4ec229(0x3b9,0x3be)],MessageType[_0x4ec229(0x3de,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x369,0x394))await _0x91dd51[_0x4ec229(0x437,0x409)][_0x4ec229(0x467,0x40d)](_0x91dd51[_0x4ec229(0x3bb,0x3c8)],GroupSettingChange[_0x4ec229(0x410,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x3cf,0x409)]['sendMessage'](_0x91dd51[_0x4ec229(0x422,0x3c8)],Config[_0x4ec229(0x3dc,0x43d)],MessageType[_0x4ec229(0x3a9,0x3c7)]),await new Promise(_0x4a14e4=>setTimeout(_0x4a14e4,0x15f900)),await _0x91dd51[_0x4ec229(0x45e,0x409)][_0x4ec229(0x3d5,0x40d)](_0x91dd51[_0x4ec229(0x413,0x3c8)],GroupSettingChange[_0x4ec229(0x44b,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x3d8,0x409)][_0x4ec229(0x3c7,0x391)](_0x91dd51[_0x4ec229(0x3fd,0x3c8)],Config[_0x4ec229(0x3bc,0x3be)],MessageType[_0x4ec229(0x3ff,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x3a5,0x3fe))await _0x91dd51['client'][_0x4ec229(0x43d,0x40d)](_0x91dd51[_0x4ec229(0x3b4,0x3c8)],GroupSettingChange[_0x4ec229(0x3a9,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x3a9,0x409)][_0x4ec229(0x33c,0x391)](_0x91dd51[_0x4ec229(0x408,0x3c8)],Config[_0x4ec229(0x457,0x43d)],MessageType[_0x4ec229(0x3c6,0x3c7)]),await new Promise(_0x2eff92=>setTimeout(_0x2eff92,0x16e360)),await _0x91dd51['client'][_0x4ec229(0x40a,0x40d)](_0x91dd51[_0x4ec229(0x41b,0x3c8)],GroupSettingChange[_0x4ec229(0x401,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x44e,0x409)]['sendMessage'](_0x91dd51['jid'],Config[_0x4ec229(0x3f6,0x3be)],MessageType[_0x4ec229(0x3d5,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x40c,0x3cb))await _0x91dd51[_0x4ec229(0x3f8,0x409)][_0x4ec229(0x3eb,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x40f,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x3d9,0x409)]['sendMessage'](_0x91dd51[_0x4ec229(0x39c,0x3c8)],Config[_0x4ec229(0x42e,0x43d)],MessageType[_0x4ec229(0x409,0x3c7)]),await new Promise(_0x3a4052=>setTimeout(_0x3a4052,0x17cdc0)),await _0x91dd51[_0x4ec229(0x3b2,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x3a7,0x3c8)],GroupSettingChange[_0x4ec229(0x437,0x3ee)],![]),await _0x91dd51['client'][_0x4ec229(0x3da,0x391)](_0x91dd51[_0x4ec229(0x3d6,0x3c8)],Config[_0x4ec229(0x3ce,0x3be)],MessageType[_0x4ec229(0x3ff,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x40a,0x3e8))await _0x91dd51[_0x4ec229(0x3f1,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x426,0x3c8)],GroupSettingChange[_0x4ec229(0x3f9,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x3af,0x409)][_0x4ec229(0x3b3,0x391)](_0x91dd51[_0x4ec229(0x3a7,0x3c8)],Config[_0x4ec229(0x46f,0x43d)],MessageType['text']),await new Promise(_0x44a831=>setTimeout(_0x44a831,0x18b820)),await _0x91dd51[_0x4ec229(0x3ec,0x409)][_0x4ec229(0x3c6,0x40d)](_0x91dd51[_0x4ec229(0x3ea,0x3c8)],GroupSettingChange[_0x4ec229(0x3fd,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x455,0x409)]['sendMessage'](_0x91dd51[_0x4ec229(0x3ec,0x3c8)],Config['UNMUTEMSG'],MessageType[_0x4ec229(0x3a5,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x3d4,0x3c6))await _0x91dd51[_0x4ec229(0x436,0x409)][_0x4ec229(0x459,0x40d)](_0x91dd51['jid'],GroupSettingChange['messageSend'],!![]),await _0x91dd51[_0x4ec229(0x3be,0x409)][_0x4ec229(0x34d,0x391)](_0x91dd51['jid'],Config[_0x4ec229(0x49c,0x43d)],MessageType[_0x4ec229(0x407,0x3c7)]),await new Promise(_0x273d2e=>setTimeout(_0x273d2e,0x19a280)),await _0x91dd51[_0x4ec229(0x46a,0x409)]['groupSettingChange'](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x3e2,0x3ee)],![]),await _0x91dd51['client']['sendMessage'](_0x91dd51[_0x4ec229(0x3f9,0x3c8)],Config[_0x4ec229(0x3fd,0x3be)],MessageType[_0x4ec229(0x39d,0x3c7)]);else{if(_0x59bd53[0x1]=='29m')await _0x91dd51[_0x4ec229(0x3ee,0x409)][_0x4ec229(0x3c7,0x40d)](_0x91dd51[_0x4ec229(0x3e0,0x3c8)],GroupSettingChange[_0x4ec229(0x3a9,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x428,0x409)]['sendMessage'](_0x91dd51['jid'],Config[_0x4ec229(0x458,0x43d)],MessageType[_0x4ec229(0x3df,0x3c7)]),await new Promise(_0x2c2e85=>setTimeout(_0x2c2e85,0x1a8ce0)),await _0x91dd51[_0x4ec229(0x3b2,0x409)][_0x4ec229(0x45e,0x40d)](_0x91dd51[_0x4ec229(0x3ea,0x3c8)],GroupSettingChange[_0x4ec229(0x3c9,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x3f2,0x409)][_0x4ec229(0x3c1,0x391)](_0x91dd51[_0x4ec229(0x3e7,0x3c8)],Config[_0x4ec229(0x3fc,0x3be)],MessageType[_0x4ec229(0x3ac,0x3c7)]);else{if(_0x59bd53[0x1]=='30m')await _0x91dd51['client']['groupSettingChange'](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x391,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x3e6,0x409)]['sendMessage'](_0x91dd51['jid'],Config[_0x4ec229(0x441,0x43d)],MessageType[_0x4ec229(0x382,0x3c7)]),await new Promise(_0x11a84b=>setTimeout(_0x11a84b,0x1b7740)),await _0x91dd51[_0x4ec229(0x3c2,0x409)][_0x4ec229(0x447,0x40d)](_0x91dd51[_0x4ec229(0x394,0x3c8)],GroupSettingChange[_0x4ec229(0x42e,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x3f9,0x409)]['sendMessage'](_0x91dd51[_0x4ec229(0x3ed,0x3c8)],Config[_0x4ec229(0x389,0x3be)],MessageType['text']);else{if(_0x59bd53[0x1]==_0x4ec229(0x3fb,0x39f))await _0x91dd51['client']['groupSettingChange'](_0x91dd51[_0x4ec229(0x415,0x3c8)],GroupSettingChange[_0x4ec229(0x3a4,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x3f1,0x409)]['sendMessage'](_0x91dd51[_0x4ec229(0x3a8,0x3c8)],Config['MUTEMSG'],MessageType[_0x4ec229(0x386,0x3c7)]),await new Promise(_0x6cfddc=>setTimeout(_0x6cfddc,0x1c61a0)),await _0x91dd51[_0x4ec229(0x3e7,0x409)][_0x4ec229(0x41d,0x40d)](_0x91dd51[_0x4ec229(0x3b5,0x3c8)],GroupSettingChange[_0x4ec229(0x3d6,0x3ee)],![]),await _0x91dd51['client'][_0x4ec229(0x3c5,0x391)](_0x91dd51[_0x4ec229(0x388,0x3c8)],Config[_0x4ec229(0x381,0x3be)],MessageType[_0x4ec229(0x3bf,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x3ca,0x3a5))await _0x91dd51[_0x4ec229(0x40e,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x36b,0x3c8)],GroupSettingChange[_0x4ec229(0x3e8,0x3ee)],!![]),await _0x91dd51['client']['sendMessage'](_0x91dd51['jid'],Config[_0x4ec229(0x486,0x43d)],MessageType[_0x4ec229(0x3dd,0x3c7)]),await new Promise(_0x26ec59=>setTimeout(_0x26ec59,0x1d4c00)),await _0x91dd51['client']['groupSettingChange'](_0x91dd51[_0x4ec229(0x3b1,0x3c8)],GroupSettingChange[_0x4ec229(0x404,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x3ee,0x409)][_0x4ec229(0x333,0x391)](_0x91dd51[_0x4ec229(0x3e1,0x3c8)],Config[_0x4ec229(0x364,0x3be)],MessageType[_0x4ec229(0x3ed,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x3b6,0x383))await _0x91dd51[_0x4ec229(0x452,0x409)][_0x4ec229(0x41d,0x40d)](_0x91dd51[_0x4ec229(0x3c9,0x3c8)],GroupSettingChange['messageSend'],!![]),await _0x91dd51[_0x4ec229(0x3db,0x409)]['sendMessage'](_0x91dd51['jid'],Config[_0x4ec229(0x47a,0x43d)],MessageType[_0x4ec229(0x3a2,0x3c7)]),await new Promise(_0x44a48b=>setTimeout(_0x44a48b,0x1e3660)),await _0x91dd51[_0x4ec229(0x3b3,0x409)][_0x4ec229(0x44e,0x40d)](_0x91dd51[_0x4ec229(0x3c6,0x3c8)],GroupSettingChange[_0x4ec229(0x441,0x3ee)],![]),await _0x91dd51['client'][_0x4ec229(0x3c7,0x391)](_0x91dd51['jid'],Config[_0x4ec229(0x40d,0x3be)],MessageType[_0x4ec229(0x3cb,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x36b,0x3a8))await _0x91dd51['client']['groupSettingChange'](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x39e,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x3fd,0x409)][_0x4ec229(0x34e,0x391)](_0x91dd51[_0x4ec229(0x3fa,0x3c8)],Config[_0x4ec229(0x46f,0x43d)],MessageType['text']),await new Promise(_0x3e58ec=>setTimeout(_0x3e58ec,0x1f20c0)),await _0x91dd51[_0x4ec229(0x3e4,0x409)][_0x4ec229(0x45a,0x40d)](_0x91dd51[_0x4ec229(0x427,0x3c8)],GroupSettingChange['messageSend'],![]),await _0x91dd51[_0x4ec229(0x42a,0x409)][_0x4ec229(0x3cd,0x391)](_0x91dd51[_0x4ec229(0x372,0x3c8)],Config[_0x4ec229(0x3df,0x3be)],MessageType[_0x4ec229(0x3f9,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x481,0x421))await _0x91dd51[_0x4ec229(0x3af,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x395,0x3c8)],GroupSettingChange[_0x4ec229(0x3b1,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x3c1,0x409)][_0x4ec229(0x383,0x391)](_0x91dd51[_0x4ec229(0x418,0x3c8)],Config[_0x4ec229(0x467,0x43d)],MessageType[_0x4ec229(0x3a7,0x3c7)]),await new Promise(_0x42ca1a=>setTimeout(_0x42ca1a,0x200b20)),await _0x91dd51[_0x4ec229(0x3c9,0x409)][_0x4ec229(0x3c4,0x40d)](_0x91dd51[_0x4ec229(0x38b,0x3c8)],GroupSettingChange[_0x4ec229(0x447,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x415,0x409)]['sendMessage'](_0x91dd51['jid'],Config[_0x4ec229(0x41a,0x3be)],MessageType[_0x4ec229(0x3c6,0x3c7)]);else{if(_0x59bd53[0x1]=='36m')await _0x91dd51[_0x4ec229(0x3fd,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x3a7,0x3c8)],GroupSettingChange[_0x4ec229(0x39d,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x450,0x409)][_0x4ec229(0x34d,0x391)](_0x91dd51[_0x4ec229(0x40d,0x3c8)],Config[_0x4ec229(0x472,0x43d)],MessageType[_0x4ec229(0x3ff,0x3c7)]),await new Promise(_0x1dd163=>setTimeout(_0x1dd163,0x20f580)),await _0x91dd51[_0x4ec229(0x469,0x409)][_0x4ec229(0x3ff,0x40d)](_0x91dd51[_0x4ec229(0x382,0x3c8)],GroupSettingChange['messageSend'],![]),await _0x91dd51[_0x4ec229(0x430,0x409)][_0x4ec229(0x3c4,0x391)](_0x91dd51[_0x4ec229(0x39a,0x3c8)],Config[_0x4ec229(0x3cc,0x3be)],MessageType['text']);else{if(_0x59bd53[0x1]==_0x4ec229(0x378,0x3a0))await _0x91dd51[_0x4ec229(0x3c4,0x409)][_0x4ec229(0x44a,0x40d)](_0x91dd51[_0x4ec229(0x36e,0x3c8)],GroupSettingChange['messageSend'],!![]),await _0x91dd51['client'][_0x4ec229(0x3e3,0x391)](_0x91dd51['jid'],Config[_0x4ec229(0x46f,0x43d)],MessageType[_0x4ec229(0x378,0x3c7)]),await new Promise(_0x1ee87c=>setTimeout(_0x1ee87c,0x21dfe0)),await _0x91dd51['client'][_0x4ec229(0x40f,0x40d)](_0x91dd51[_0x4ec229(0x36d,0x3c8)],GroupSettingChange[_0x4ec229(0x432,0x3ee)],![]),await _0x91dd51['client'][_0x4ec229(0x398,0x391)](_0x91dd51['jid'],Config['UNMUTEMSG'],MessageType[_0x4ec229(0x3ee,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x3e8,0x3c4))await _0x91dd51[_0x4ec229(0x437,0x409)][_0x4ec229(0x3db,0x40d)](_0x91dd51['jid'],GroupSettingChange['messageSend'],!![]),await _0x91dd51[_0x4ec229(0x45a,0x409)]['sendMessage'](_0x91dd51['jid'],Config[_0x4ec229(0x468,0x43d)],MessageType['text']),await new Promise(_0x232a76=>setTimeout(_0x232a76,0x22ca40)),await _0x91dd51[_0x4ec229(0x421,0x409)]['groupSettingChange'](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x40b,0x3ee)],![]),await _0x91dd51['client'][_0x4ec229(0x342,0x391)](_0x91dd51[_0x4ec229(0x397,0x3c8)],Config[_0x4ec229(0x38d,0x3be)],MessageType[_0x4ec229(0x376,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x41f,0x3c9))await _0x91dd51[_0x4ec229(0x3b7,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x3e4,0x3c8)],GroupSettingChange[_0x4ec229(0x3aa,0x3ee)],!![]),await _0x91dd51['client'][_0x4ec229(0x371,0x391)](_0x91dd51[_0x4ec229(0x407,0x3c8)],Config['MUTEMSG'],MessageType[_0x4ec229(0x3cd,0x3c7)]),await new Promise(_0x2e2525=>setTimeout(_0x2e2525,0x23b4a0)),await _0x91dd51[_0x4ec229(0x429,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x3bf,0x3c8)],GroupSettingChange[_0x4ec229(0x408,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x3b0,0x409)]['sendMessage'](_0x91dd51[_0x4ec229(0x422,0x3c8)],Config['UNMUTEMSG'],MessageType[_0x4ec229(0x3f2,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x37d,0x38e))await _0x91dd51[_0x4ec229(0x410,0x409)][_0x4ec229(0x413,0x40d)](_0x91dd51['jid'],GroupSettingChange['messageSend'],!![]),await _0x91dd51[_0x4ec229(0x400,0x409)][_0x4ec229(0x3ac,0x391)](_0x91dd51[_0x4ec229(0x39e,0x3c8)],Config[_0x4ec229(0x3dd,0x43d)],MessageType['text']),await new Promise(_0x13f41a=>setTimeout(_0x13f41a,0x249f00)),await _0x91dd51[_0x4ec229(0x457,0x409)][_0x4ec229(0x3c3,0x40d)](_0x91dd51[_0x4ec229(0x3ca,0x3c8)],GroupSettingChange['messageSend'],![]),await _0x91dd51[_0x4ec229(0x3d0,0x409)][_0x4ec229(0x389,0x391)](_0x91dd51[_0x4ec229(0x3da,0x3c8)],Config[_0x4ec229(0x3d1,0x3be)],MessageType[_0x4ec229(0x3ed,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x3f7,0x3c1))await _0x91dd51[_0x4ec229(0x3d8,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x3a9,0x3c8)],GroupSettingChange[_0x4ec229(0x40c,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x434,0x409)][_0x4ec229(0x3ad,0x391)](_0x91dd51[_0x4ec229(0x3ee,0x3c8)],Config[_0x4ec229(0x3ec,0x43d)],MessageType['text']),await new Promise(_0x12aeae=>setTimeout(_0x12aeae,0x258960)),await _0x91dd51[_0x4ec229(0x3f0,0x409)][_0x4ec229(0x401,0x40d)](_0x91dd51[_0x4ec229(0x373,0x3c8)],GroupSettingChange[_0x4ec229(0x41c,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x3cc,0x409)][_0x4ec229(0x366,0x391)](_0x91dd51[_0x4ec229(0x3a5,0x3c8)],Config[_0x4ec229(0x3ed,0x3be)],MessageType[_0x4ec229(0x37e,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x456,0x443))await _0x91dd51[_0x4ec229(0x3bc,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x428,0x3c8)],GroupSettingChange[_0x4ec229(0x435,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x409,0x409)][_0x4ec229(0x3ce,0x391)](_0x91dd51[_0x4ec229(0x3b1,0x3c8)],Config[_0x4ec229(0x49d,0x43d)],MessageType[_0x4ec229(0x3ab,0x3c7)]),await new Promise(_0x1b0050=>setTimeout(_0x1b0050,0x2673c0)),await _0x91dd51['client'][_0x4ec229(0x417,0x40d)](_0x91dd51[_0x4ec229(0x41f,0x3c8)],GroupSettingChange[_0x4ec229(0x3ad,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x3df,0x409)][_0x4ec229(0x3a0,0x391)](_0x91dd51[_0x4ec229(0x3b9,0x3c8)],Config[_0x4ec229(0x3ef,0x3be)],MessageType[_0x4ec229(0x370,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x373,0x3b8))await _0x91dd51[_0x4ec229(0x405,0x409)][_0x4ec229(0x3df,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x39e,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x406,0x409)][_0x4ec229(0x353,0x391)](_0x91dd51[_0x4ec229(0x3bd,0x3c8)],Config[_0x4ec229(0x41b,0x43d)],MessageType['text']),await new Promise(_0x30cf9c=>setTimeout(_0x30cf9c,0x275e20)),await _0x91dd51[_0x4ec229(0x456,0x409)][_0x4ec229(0x40b,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x3e9,0x3ee)],![]),await _0x91dd51['client'][_0x4ec229(0x3b3,0x391)](_0x91dd51[_0x4ec229(0x3d4,0x3c8)],Config[_0x4ec229(0x40a,0x3be)],MessageType[_0x4ec229(0x368,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x361,0x3b4))await _0x91dd51[_0x4ec229(0x3ae,0x409)][_0x4ec229(0x3e8,0x40d)](_0x91dd51[_0x4ec229(0x421,0x3c8)],GroupSettingChange['messageSend'],!![]),await _0x91dd51[_0x4ec229(0x457,0x409)]['sendMessage'](_0x91dd51['jid'],Config[_0x4ec229(0x423,0x43d)],MessageType[_0x4ec229(0x3a5,0x3c7)]),await new Promise(_0x580cfc=>setTimeout(_0x580cfc,0x284880)),await _0x91dd51[_0x4ec229(0x3ac,0x409)][_0x4ec229(0x42f,0x40d)](_0x91dd51[_0x4ec229(0x385,0x3c8)],GroupSettingChange[_0x4ec229(0x3ad,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x400,0x409)][_0x4ec229(0x38f,0x391)](_0x91dd51['jid'],Config[_0x4ec229(0x37f,0x3be)],MessageType['text']);else{if(_0x59bd53[0x1]==_0x4ec229(0x38b,0x3bd))await _0x91dd51[_0x4ec229(0x3a9,0x409)]['groupSettingChange'](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x3f1,0x3ee)],!![]),await _0x91dd51['client']['sendMessage'](_0x91dd51[_0x4ec229(0x397,0x3c8)],Config[_0x4ec229(0x447,0x43d)],MessageType[_0x4ec229(0x384,0x3c7)]),await new Promise(_0x1c2565=>setTimeout(_0x1c2565,0x2932e0)),await _0x91dd51[_0x4ec229(0x40a,0x409)][_0x4ec229(0x421,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x3a5,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x434,0x409)][_0x4ec229(0x3eb,0x391)](_0x91dd51['jid'],Config[_0x4ec229(0x3f4,0x3be)],MessageType[_0x4ec229(0x391,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x3af,0x3b2))await _0x91dd51[_0x4ec229(0x459,0x409)][_0x4ec229(0x45f,0x40d)](_0x91dd51['jid'],GroupSettingChange['messageSend'],!![]),await _0x91dd51[_0x4ec229(0x40d,0x409)]['sendMessage'](_0x91dd51[_0x4ec229(0x414,0x3c8)],Config[_0x4ec229(0x416,0x43d)],MessageType[_0x4ec229(0x3d0,0x3c7)]),await new Promise(_0x3ff286=>setTimeout(_0x3ff286,0x2a1d40)),await _0x91dd51['client']['groupSettingChange'](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x3c5,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x3f5,0x409)][_0x4ec229(0x3e2,0x391)](_0x91dd51[_0x4ec229(0x3a7,0x3c8)],Config['UNMUTEMSG'],MessageType['text']);else{if(_0x59bd53[0x1]==_0x4ec229(0x38f,0x3cd))await _0x91dd51['client']['groupSettingChange'](_0x91dd51[_0x4ec229(0x427,0x3c8)],GroupSettingChange[_0x4ec229(0x3ed,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x3ae,0x409)][_0x4ec229(0x3df,0x391)](_0x91dd51[_0x4ec229(0x3ba,0x3c8)],Config[_0x4ec229(0x423,0x43d)],MessageType[_0x4ec229(0x40f,0x3c7)]),await new Promise(_0x792bb2=>setTimeout(_0x792bb2,0x2b07a0)),await _0x91dd51['client'][_0x4ec229(0x442,0x40d)](_0x91dd51[_0x4ec229(0x412,0x3c8)],GroupSettingChange[_0x4ec229(0x42b,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x3d0,0x409)][_0x4ec229(0x334,0x391)](_0x91dd51[_0x4ec229(0x394,0x3c8)],Config[_0x4ec229(0x3c6,0x3be)],MessageType['text']);else{if(_0x59bd53[0x1]==_0x4ec229(0x419,0x41c))await _0x91dd51[_0x4ec229(0x3e8,0x409)][_0x4ec229(0x440,0x40d)](_0x91dd51['jid'],GroupSettingChange['messageSend'],!![]),await _0x91dd51[_0x4ec229(0x3d4,0x409)][_0x4ec229(0x3b1,0x391)](_0x91dd51[_0x4ec229(0x37b,0x3c8)],Config[_0x4ec229(0x3f3,0x43d)],MessageType[_0x4ec229(0x419,0x3c7)]),await new Promise(_0x3a4208=>setTimeout(_0x3a4208,0x2bf200)),await _0x91dd51[_0x4ec229(0x42b,0x409)][_0x4ec229(0x40a,0x40d)](_0x91dd51[_0x4ec229(0x3fa,0x3c8)],GroupSettingChange[_0x4ec229(0x449,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x442,0x409)][_0x4ec229(0x332,0x391)](_0x91dd51['jid'],Config[_0x4ec229(0x369,0x3be)],MessageType[_0x4ec229(0x3af,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x453,0x40c))await _0x91dd51[_0x4ec229(0x3b8,0x409)][_0x4ec229(0x406,0x40d)](_0x91dd51[_0x4ec229(0x3d6,0x3c8)],GroupSettingChange[_0x4ec229(0x42b,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x43b,0x409)]['sendMessage'](_0x91dd51[_0x4ec229(0x411,0x3c8)],Config[_0x4ec229(0x3ee,0x43d)],MessageType[_0x4ec229(0x38b,0x3c7)]),await new Promise(_0x2fa7e7=>setTimeout(_0x2fa7e7,0x2cdc60)),await _0x91dd51[_0x4ec229(0x42f,0x409)][_0x4ec229(0x452,0x40d)](_0x91dd51[_0x4ec229(0x3de,0x3c8)],GroupSettingChange['messageSend'],![]),await _0x91dd51['client'][_0x4ec229(0x3b7,0x391)](_0x91dd51['jid'],Config[_0x4ec229(0x373,0x3be)],MessageType['text']);else{if(_0x59bd53[0x1]==_0x4ec229(0x383,0x3bb))await _0x91dd51[_0x4ec229(0x41c,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x3c7,0x3c8)],GroupSettingChange['messageSend'],!![]),await _0x91dd51[_0x4ec229(0x412,0x409)][_0x4ec229(0x3e5,0x391)](_0x91dd51[_0x4ec229(0x384,0x3c8)],Config[_0x4ec229(0x47d,0x43d)],MessageType[_0x4ec229(0x3f2,0x3c7)]),await new Promise(_0x385c7e=>setTimeout(_0x385c7e,0x2dc6c0)),await _0x91dd51[_0x4ec229(0x44c,0x409)][_0x4ec229(0x431,0x40d)](_0x91dd51[_0x4ec229(0x419,0x3c8)],GroupSettingChange[_0x4ec229(0x3fe,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x45e,0x409)][_0x4ec229(0x35e,0x391)](_0x91dd51[_0x4ec229(0x3f9,0x3c8)],Config[_0x4ec229(0x3aa,0x3be)],MessageType[_0x4ec229(0x3c0,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x3fe,0x3bc))await _0x91dd51[_0x4ec229(0x40e,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x3a8,0x3c8)],GroupSettingChange[_0x4ec229(0x44e,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x43f,0x409)][_0x4ec229(0x380,0x391)](_0x91dd51['jid'],Config['MUTEMSG'],MessageType['text']),await new Promise(_0x17b499=>setTimeout(_0x17b499,0x2eb120)),await _0x91dd51[_0x4ec229(0x3ad,0x409)][_0x4ec229(0x3af,0x40d)](_0x91dd51[_0x4ec229(0x382,0x3c8)],GroupSettingChange['messageSend'],![]),await _0x91dd51[_0x4ec229(0x411,0x409)][_0x4ec229(0x357,0x391)](_0x91dd51[_0x4ec229(0x37a,0x3c8)],Config['UNMUTEMSG'],MessageType[_0x4ec229(0x379,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x3c4,0x3b5))await _0x91dd51[_0x4ec229(0x3e6,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x3bb,0x3c8)],GroupSettingChange['messageSend'],!![]),await _0x91dd51[_0x4ec229(0x3f4,0x409)]['sendMessage'](_0x91dd51['jid'],Config[_0x4ec229(0x488,0x43d)],MessageType[_0x4ec229(0x393,0x3c7)]),await new Promise(_0x4bb9ef=>setTimeout(_0x4bb9ef,0x2f9b80)),await _0x91dd51[_0x4ec229(0x447,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x3c7,0x3c8)],GroupSettingChange['messageSend'],![]),await _0x91dd51['client']['sendMessage'](_0x91dd51[_0x4ec229(0x40a,0x3c8)],Config[_0x4ec229(0x413,0x3be)],MessageType[_0x4ec229(0x3b2,0x3c7)]);else{if(_0x59bd53[0x1]=='53m')await _0x91dd51[_0x4ec229(0x43b,0x409)][_0x4ec229(0x40e,0x40d)](_0x91dd51[_0x4ec229(0x407,0x3c8)],GroupSettingChange[_0x4ec229(0x3cd,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x44c,0x409)][_0x4ec229(0x393,0x391)](_0x91dd51[_0x4ec229(0x3c6,0x3c8)],Config[_0x4ec229(0x3ef,0x43d)],MessageType[_0x4ec229(0x407,0x3c7)]),await new Promise(_0x138224=>setTimeout(_0x138224,0x3085e0)),await _0x91dd51[_0x4ec229(0x444,0x409)][_0x4ec229(0x422,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x41c,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x3e9,0x409)][_0x4ec229(0x381,0x391)](_0x91dd51[_0x4ec229(0x429,0x3c8)],Config[_0x4ec229(0x417,0x3be)],MessageType['text']);else{if(_0x59bd53[0x1]==_0x4ec229(0x465,0x407))await _0x91dd51[_0x4ec229(0x3cf,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x3e0,0x3c8)],GroupSettingChange[_0x4ec229(0x38e,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x3da,0x409)][_0x4ec229(0x361,0x391)](_0x91dd51[_0x4ec229(0x39b,0x3c8)],Config[_0x4ec229(0x461,0x43d)],MessageType['text']),await new Promise(_0x3c92c7=>setTimeout(_0x3c92c7,0x317040)),await _0x91dd51[_0x4ec229(0x3d3,0x409)][_0x4ec229(0x417,0x40d)](_0x91dd51[_0x4ec229(0x3ec,0x3c8)],GroupSettingChange[_0x4ec229(0x39f,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x432,0x409)][_0x4ec229(0x36f,0x391)](_0x91dd51[_0x4ec229(0x380,0x3c8)],Config[_0x4ec229(0x3c6,0x3be)],MessageType[_0x4ec229(0x3f1,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x3cb,0x42a))await _0x91dd51['client'][_0x4ec229(0x466,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x3c1,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x3d4,0x409)][_0x4ec229(0x3eb,0x391)](_0x91dd51[_0x4ec229(0x376,0x3c8)],Config[_0x4ec229(0x42b,0x43d)],MessageType[_0x4ec229(0x3e8,0x3c7)]),await new Promise(_0x5e608e=>setTimeout(_0x5e608e,0x325aa0)),await _0x91dd51[_0x4ec229(0x3e6,0x409)][_0x4ec229(0x428,0x40d)](_0x91dd51[_0x4ec229(0x3e1,0x3c8)],GroupSettingChange[_0x4ec229(0x3ce,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x3e5,0x409)][_0x4ec229(0x333,0x391)](_0x91dd51[_0x4ec229(0x3e6,0x3c8)],Config['UNMUTEMSG'],MessageType[_0x4ec229(0x3c8,0x3c7)]);else{if(_0x59bd53[0x1]=='56m')await _0x91dd51[_0x4ec229(0x3a7,0x409)]['groupSettingChange'](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x3af,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x432,0x409)]['sendMessage'](_0x91dd51[_0x4ec229(0x39f,0x3c8)],Config['MUTEMSG'],MessageType[_0x4ec229(0x3f7,0x3c7)]),await new Promise(_0x481427=>setTimeout(_0x481427,0x334500)),await _0x91dd51['client'][_0x4ec229(0x400,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x3ca,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x3c9,0x409)][_0x4ec229(0x3d3,0x391)](_0x91dd51[_0x4ec229(0x41b,0x3c8)],Config[_0x4ec229(0x41b,0x3be)],MessageType['text']);else{if(_0x59bd53[0x1]==_0x4ec229(0x419,0x42e))await _0x91dd51[_0x4ec229(0x3d2,0x409)]['groupSettingChange'](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x420,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x40a,0x409)][_0x4ec229(0x3ad,0x391)](_0x91dd51[_0x4ec229(0x3eb,0x3c8)],Config[_0x4ec229(0x416,0x43d)],MessageType['text']),await new Promise(_0x1a0b5b=>setTimeout(_0x1a0b5b,0x342f60)),await _0x91dd51['client'][_0x4ec229(0x3ef,0x40d)](_0x91dd51[_0x4ec229(0x3b5,0x3c8)],GroupSettingChange[_0x4ec229(0x3bc,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x466,0x409)][_0x4ec229(0x338,0x391)](_0x91dd51[_0x4ec229(0x3b1,0x3c8)],Config[_0x4ec229(0x3f3,0x3be)],MessageType[_0x4ec229(0x3f7,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x3f9,0x40f))await _0x91dd51[_0x4ec229(0x3f7,0x409)][_0x4ec229(0x443,0x40d)](_0x91dd51[_0x4ec229(0x388,0x3c8)],GroupSettingChange['messageSend'],!![]),await _0x91dd51[_0x4ec229(0x414,0x409)][_0x4ec229(0x344,0x391)](_0x91dd51['jid'],Config[_0x4ec229(0x3e0,0x43d)],MessageType['text']),await new Promise(_0x37f7e2=>setTimeout(_0x37f7e2,0x3519c0)),await _0x91dd51[_0x4ec229(0x42e,0x409)][_0x4ec229(0x46f,0x40d)](_0x91dd51[_0x4ec229(0x3ea,0x3c8)],GroupSettingChange[_0x4ec229(0x3e6,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x420,0x409)][_0x4ec229(0x36c,0x391)](_0x91dd51[_0x4ec229(0x3d1,0x3c8)],Config[_0x4ec229(0x3ed,0x3be)],MessageType['text']);else{if(_0x59bd53[0x1]=='59m')await _0x91dd51[_0x4ec229(0x453,0x409)][_0x4ec229(0x3b0,0x40d)](_0x91dd51[_0x4ec229(0x370,0x3c8)],GroupSettingChange[_0x4ec229(0x399,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x436,0x409)][_0x4ec229(0x3b9,0x391)](_0x91dd51[_0x4ec229(0x37d,0x3c8)],Config['MUTEMSG'],MessageType[_0x4ec229(0x36f,0x3c7)]),await new Promise(_0x27f66=>setTimeout(_0x27f66,0x360420)),await _0x91dd51[_0x4ec229(0x3cc,0x409)][_0x4ec229(0x45c,0x40d)](_0x91dd51[_0x4ec229(0x368,0x3c8)],GroupSettingChange[_0x4ec229(0x3d3,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x468,0x409)][_0x4ec229(0x38c,0x391)](_0x91dd51['jid'],Config[_0x4ec229(0x36a,0x3be)],MessageType[_0x4ec229(0x3e3,0x3c7)]);else{if(_0x59bd53[0x1]=='1h')await _0x91dd51['client'][_0x4ec229(0x3b5,0x40d)](_0x91dd51[_0x4ec229(0x3d2,0x3c8)],GroupSettingChange['messageSend'],!![]),await _0x91dd51[_0x4ec229(0x3c9,0x409)][_0x4ec229(0x39c,0x391)](_0x91dd51[_0x4ec229(0x3ff,0x3c8)],Config[_0x4ec229(0x470,0x43d)],MessageType[_0x4ec229(0x3b6,0x3c7)]),await new Promise(_0x54d7d6=>setTimeout(_0x54d7d6,0x36ee80)),await _0x91dd51['client'][_0x4ec229(0x3c5,0x40d)](_0x91dd51[_0x4ec229(0x3a0,0x3c8)],GroupSettingChange[_0x4ec229(0x3ba,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x3b2,0x409)][_0x4ec229(0x333,0x391)](_0x91dd51[_0x4ec229(0x36e,0x3c8)],Config[_0x4ec229(0x3d6,0x3be)],MessageType['text']);else{if(_0x59bd53[0x1]=='2h')await _0x91dd51[_0x4ec229(0x3b6,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x3ec,0x3c8)],GroupSettingChange[_0x4ec229(0x3a0,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x3d3,0x409)][_0x4ec229(0x356,0x391)](_0x91dd51['jid'],Config[_0x4ec229(0x460,0x43d)],MessageType['text']),await new Promise(_0x2e63dc=>setTimeout(_0x2e63dc,0x6ddd00)),await _0x91dd51[_0x4ec229(0x432,0x409)][_0x4ec229(0x3cd,0x40d)](_0x91dd51[_0x4ec229(0x3e2,0x3c8)],GroupSettingChange['messageSend'],![]),await _0x91dd51['client'][_0x4ec229(0x3c3,0x391)](_0x91dd51[_0x4ec229(0x405,0x3c8)],Config[_0x4ec229(0x3ce,0x3be)],MessageType[_0x4ec229(0x36e,0x3c7)]);else{if(_0x59bd53[0x1]=='3h')await _0x91dd51['client'][_0x4ec229(0x3e9,0x40d)](_0x91dd51[_0x4ec229(0x3de,0x3c8)],GroupSettingChange[_0x4ec229(0x43b,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x3db,0x409)][_0x4ec229(0x3b7,0x391)](_0x91dd51[_0x4ec229(0x3c4,0x3c8)],Config['MUTEMSG'],MessageType[_0x4ec229(0x3fd,0x3c7)]),await new Promise(_0x22a86d=>setTimeout(_0x22a86d,0xa4cb80)),await _0x91dd51['client'][_0x4ec229(0x405,0x40d)](_0x91dd51[_0x4ec229(0x41d,0x3c8)],GroupSettingChange['messageSend'],![]),await _0x91dd51['client'][_0x4ec229(0x3b3,0x391)](_0x91dd51[_0x4ec229(0x3a5,0x3c8)],Config[_0x4ec229(0x41f,0x3be)],MessageType[_0x4ec229(0x393,0x3c7)]);else{if(_0x59bd53[0x1]=='4h')await _0x91dd51[_0x4ec229(0x42c,0x409)][_0x4ec229(0x3d1,0x40d)](_0x91dd51[_0x4ec229(0x3cb,0x3c8)],GroupSettingChange['messageSend'],!![]),await _0x91dd51['client'][_0x4ec229(0x370,0x391)](_0x91dd51['jid'],Config[_0x4ec229(0x3e0,0x43d)],MessageType[_0x4ec229(0x3c9,0x3c7)]),await new Promise(_0x3e8394=>setTimeout(_0x3e8394,0xdbba00)),await _0x91dd51[_0x4ec229(0x44f,0x409)][_0x4ec229(0x45c,0x40d)](_0x91dd51[_0x4ec229(0x3f8,0x3c8)],GroupSettingChange[_0x4ec229(0x41c,0x3ee)],![]),await _0x91dd51['client'][_0x4ec229(0x347,0x391)](_0x91dd51[_0x4ec229(0x3bc,0x3c8)],Config[_0x4ec229(0x413,0x3be)],MessageType['text']);else{if(_0x59bd53[0x1]=='5h')await _0x91dd51[_0x4ec229(0x441,0x409)][_0x4ec229(0x41f,0x40d)](_0x91dd51[_0x4ec229(0x38b,0x3c8)],GroupSettingChange[_0x4ec229(0x3d0,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x422,0x409)][_0x4ec229(0x376,0x391)](_0x91dd51[_0x4ec229(0x422,0x3c8)],Config[_0x4ec229(0x439,0x43d)],MessageType[_0x4ec229(0x3cc,0x3c7)]),await new Promise(_0x232199=>setTimeout(_0x232199,0x112a880)),await _0x91dd51[_0x4ec229(0x402,0x409)][_0x4ec229(0x3e7,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x3d1,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x40c,0x409)][_0x4ec229(0x370,0x391)](_0x91dd51[_0x4ec229(0x41d,0x3c8)],Config[_0x4ec229(0x3f1,0x3be)],MessageType['text']);else{if(_0x59bd53[0x1]=='6h')await _0x91dd51['client'][_0x4ec229(0x3b6,0x40d)](_0x91dd51[_0x4ec229(0x376,0x3c8)],GroupSettingChange[_0x4ec229(0x3e5,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x436,0x409)][_0x4ec229(0x340,0x391)](_0x91dd51[_0x4ec229(0x38c,0x3c8)],Config['MUTEMSG'],MessageType[_0x4ec229(0x3a7,0x3c7)]),await new Promise(_0x81f143=>setTimeout(_0x81f143,0x1499700)),await _0x91dd51[_0x4ec229(0x415,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x3ad,0x3c8)],GroupSettingChange[_0x4ec229(0x3aa,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x452,0x409)][_0x4ec229(0x3bd,0x391)](_0x91dd51[_0x4ec229(0x407,0x3c8)],Config[_0x4ec229(0x3ad,0x3be)],MessageType['text']);else{if(_0x59bd53[0x1]=='7h')await _0x91dd51[_0x4ec229(0x457,0x409)][_0x4ec229(0x458,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x416,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x457,0x409)]['sendMessage'](_0x91dd51['jid'],Config[_0x4ec229(0x3f1,0x43d)],MessageType[_0x4ec229(0x3a6,0x3c7)]),await new Promise(_0x5bb8c4=>setTimeout(_0x5bb8c4,0x1808580)),await _0x91dd51[_0x4ec229(0x42b,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x3ac,0x3c8)],GroupSettingChange[_0x4ec229(0x423,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x3fe,0x409)][_0x4ec229(0x3da,0x391)](_0x91dd51[_0x4ec229(0x3b1,0x3c8)],Config[_0x4ec229(0x3ae,0x3be)],MessageType[_0x4ec229(0x412,0x3c7)]);else{if(_0x59bd53[0x1]=='8h')await _0x91dd51[_0x4ec229(0x3ba,0x409)][_0x4ec229(0x45d,0x40d)](_0x91dd51[_0x4ec229(0x3f9,0x3c8)],GroupSettingChange[_0x4ec229(0x3f7,0x3ee)],!![]),await _0x91dd51['client'][_0x4ec229(0x36e,0x391)](_0x91dd51[_0x4ec229(0x37c,0x3c8)],Config[_0x4ec229(0x47d,0x43d)],MessageType['text']),await new Promise(_0x22a636=>setTimeout(_0x22a636,0x1b77400)),await _0x91dd51[_0x4ec229(0x444,0x409)][_0x4ec229(0x44e,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x422,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x43c,0x409)][_0x4ec229(0x3a3,0x391)](_0x91dd51[_0x4ec229(0x3b3,0x3c8)],Config[_0x4ec229(0x37a,0x3be)],MessageType[_0x4ec229(0x3a2,0x3c7)]);else{if(_0x59bd53[0x1]=='9h')await _0x91dd51['client'][_0x4ec229(0x3b8,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x43c,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x42d,0x409)][_0x4ec229(0x3cd,0x391)](_0x91dd51[_0x4ec229(0x37f,0x3c8)],Config[_0x4ec229(0x486,0x43d)],MessageType[_0x4ec229(0x3ad,0x3c7)]),await new Promise(_0x49abaa=>setTimeout(_0x49abaa,0x1ee6280)),await _0x91dd51[_0x4ec229(0x3d8,0x409)][_0x4ec229(0x3be,0x40d)](_0x91dd51[_0x4ec229(0x424,0x3c8)],GroupSettingChange['messageSend'],![]),await _0x91dd51[_0x4ec229(0x3fa,0x409)][_0x4ec229(0x3d0,0x391)](_0x91dd51['jid'],Config[_0x4ec229(0x38a,0x3be)],MessageType[_0x4ec229(0x3cf,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x3ed,0x3fa))await _0x91dd51[_0x4ec229(0x3b4,0x409)][_0x4ec229(0x3c7,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x3b7,0x3ee)],!![]),await _0x91dd51['client'][_0x4ec229(0x3ef,0x391)](_0x91dd51['jid'],Config[_0x4ec229(0x437,0x43d)],MessageType[_0x4ec229(0x389,0x3c7)]),await new Promise(_0x54228a=>setTimeout(_0x54228a,0x2255100)),await _0x91dd51[_0x4ec229(0x3d0,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x421,0x3c8)],GroupSettingChange[_0x4ec229(0x3b0,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x3fd,0x409)]['sendMessage'](_0x91dd51[_0x4ec229(0x3f1,0x3c8)],Config[_0x4ec229(0x3ab,0x3be)],MessageType[_0x4ec229(0x3fb,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x37a,0x3a7))await _0x91dd51[_0x4ec229(0x3fa,0x409)][_0x4ec229(0x3d8,0x40d)](_0x91dd51[_0x4ec229(0x3db,0x3c8)],GroupSettingChange[_0x4ec229(0x39f,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x420,0x409)][_0x4ec229(0x373,0x391)](_0x91dd51[_0x4ec229(0x377,0x3c8)],Config['MUTEMSG'],MessageType[_0x4ec229(0x410,0x3c7)]),await new Promise(_0x20982e=>setTimeout(_0x20982e,0x25c3f80)),await _0x91dd51[_0x4ec229(0x3e2,0x409)]['groupSettingChange'](_0x91dd51['jid'],GroupSettingChange['messageSend'],![]),await _0x91dd51['client'][_0x4ec229(0x38d,0x391)](_0x91dd51[_0x4ec229(0x3c4,0x3c8)],Config[_0x4ec229(0x3fd,0x3be)],MessageType[_0x4ec229(0x3b6,0x3c7)]);else{if(_0x59bd53[0x1]==_0x4ec229(0x3c7,0x3bf))await _0x91dd51['client'][_0x4ec229(0x3fe,0x40d)](_0x91dd51[_0x4ec229(0x399,0x3c8)],GroupSettingChange[_0x4ec229(0x3c8,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x45e,0x409)][_0x4ec229(0x3dd,0x391)](_0x91dd51[_0x4ec229(0x388,0x3c8)],Config[_0x4ec229(0x48b,0x43d)],MessageType[_0x4ec229(0x41d,0x3c7)]),await new Promise(_0x3dffc4=>setTimeout(_0x3dffc4,0x2932e00)),await _0x91dd51[_0x4ec229(0x427,0x409)]['groupSettingChange'](_0x91dd51[_0x4ec229(0x37f,0x3c8)],GroupSettingChange[_0x4ec229(0x39d,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x403,0x409)][_0x4ec229(0x3d3,0x391)](_0x91dd51[_0x4ec229(0x3e8,0x3c8)],Config[_0x4ec229(0x418,0x3be)],MessageType[_0x4ec229(0x38e,0x3c7)]);else{if(_0x59bd53[0x1]=='1d')await _0x91dd51[_0x4ec229(0x3df,0x409)][_0x4ec229(0x3fb,0x40d)](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x38f,0x3ee)],!![]),await _0x91dd51['client'][_0x4ec229(0x33a,0x391)](_0x91dd51['jid'],Config['MUTEMSG'],MessageType[_0x4ec229(0x420,0x3c7)]),await new Promise(_0x5bbf67=>setTimeout(_0x5bbf67,0x5265c00)),await _0x91dd51['client'][_0x4ec229(0x3b1,0x40d)](_0x91dd51[_0x4ec229(0x383,0x3c8)],GroupSettingChange[_0x4ec229(0x38e,0x3ee)],![]),await _0x91dd51[_0x4ec229(0x43d,0x409)][_0x4ec229(0x376,0x391)](_0x91dd51['jid'],Config[_0x4ec229(0x414,0x3be)],MessageType['text']);else{if(_0x59bd53[0x1]=='2d')await _0x91dd51[_0x4ec229(0x45f,0x409)]['groupSettingChange'](_0x91dd51['jid'],GroupSettingChange[_0x4ec229(0x3ff,0x3ee)],!![]),await _0x91dd51[_0x4ec229(0x45a,0x409)][_0x4ec229(0x385,0x391)](_0x91dd51[_0x4ec229(0x3e0,0x3c8)],Config[_0x4ec229(0x3e9,0x43d)],MessageType[_0x4ec229(0x374,0x3c7)]),await new Promise(_0x553156=>setTimeout(_0x553156,0xa4cb800)),await _0x91dd51['client'][_0x4ec229(0x3cd,0x40d)](_0x91dd51[_0x4ec229(0x37c,0x3c8)],GroupSettingChange['messageSend'],![]),await _0x91dd51[_0x4ec229(0x3d8,0x409)][_0x4ec229(0x3d1,0x391)](_0x91dd51[_0x4ec229(0x3fd,0x3c8)],Config[_0x4ec229(0x38a,0x3be)],MessageType[_0x4ec229(0x3d2,0x3c7)]);else{if(_0x59bd53[0x1]=='3d')await _0x91dd51[_0x4ec229(0x464,0x409)][_0x4ec229(0x3b6,0x40d)](_0x91dd51['jid'],GroupSettingChange['messageSend'],!![]),await _0x91dd51[_0x4ec229(0x45f,0x409)][_0x4ec229(0x3af,0x391)](_0x91dd51[_0x4ec229(0x3ab,0x3c8)],Config['MUTEMSG'],MessageType[_0x4ec229(0x3c4,0x3c7)]),await new Promise(_0x244f32=>setTimeout(_0x244f32,0xf731400)),await _0x91dd51[_0x4ec229(0x3f1,0x409)][_0x4ec229(0x404,0x40d)](_0x91dd51[_0x4ec229(0x403,0x3c8)],GroupSettingChange['messageSend'],![]),await _0x91dd51[_0x4ec229(0x441,0x409)][_0x4ec229(0x367,0x391)](_0x91dd51[_0x4ec229(0x3d3,0x3c8)],Config['UNMUTEMSG'],MessageType['text']);else{if(_0x59bd53[0x1]!=='1m'||_0x59bd53[0x1]!=='2m'||_0x59bd53[0x1]!=='3m'||_0x59bd53[0x1]!=='4m'||_0x59bd53[0x1]!=='5m'||_0x59bd53[0x1]!=='6m'||_0x59bd53[0x1]!=='7m'||_0x59bd53[0x1]!=='8m'||_0x59bd53[0x1]!=='9m'||_0x59bd53[0x1]!=='10m'||_0x59bd53[0x1]!==_0x4ec229(0x440,0x3ea)||_0x59bd53[0x1]!==_0x4ec229(0x33f,0x38d)||_0x59bd53[0x1]!==_0x4ec229(0x41e,0x42b)||_0x59bd53[0x1]!==_0x4ec229(0x3ed,0x423)||_0x59bd53[0x1]!==_0x4ec229(0x3d2,0x42c)||_0x59bd53[0x1]!==_0x4ec229(0x458,0x3f9)||_0x59bd53[0x1]!=='17m'||_0x59bd53[0x1]!==_0x4ec229(0x343,0x386)||_0x59bd53[0x1]!==_0x4ec229(0x3ef,0x401)||_0x59bd53[0x1]!==_0x4ec229(0x423,0x42d)||_0x59bd53[0x1]!=='21m'||_0x59bd53[0x1]!==_0x4ec229(0x3f8,0x3d1)||_0x59bd53[0x1]!==_0x4ec229(0x3a0,0x3e0)||_0x59bd53[0x1]!=='24m'||_0x59bd53[0x1]!==_0x4ec229(0x3c1,0x3fe)||_0x59bd53[0x1]!=='26m'||_0x59bd53[0x1]!==_0x4ec229(0x3a6,0x3e8)||_0x59bd53[0x1]!=='28m'||_0x59bd53[0x1]!=='29m'||_0x59bd53[0x1]!==_0x4ec229(0x398,0x3f1)||_0x59bd53[0x1]!==_0x4ec229(0x3d2,0x39f)||_0x59bd53[0x1]!==_0x4ec229(0x3a6,0x3a5)||_0x59bd53[0x1]!=='33m'||_0x59bd53[0x1]!==_0x4ec229(0x376,0x3a8)||_0x59bd53[0x1]!==_0x4ec229(0x46f,0x421)||_0x59bd53[0x1]!==_0x4ec229(0x395,0x398)||_0x59bd53[0x1]!==_0x4ec229(0x35c,0x3a0)||_0x59bd53[0x1]!==_0x4ec229(0x3f9,0x3c4)||_0x59bd53[0x1]!==_0x4ec229(0x373,0x3c9)||_0x59bd53[0x1]!==_0x4ec229(0x3ee,0x38e)||_0x59bd53[0x1]!==_0x4ec229(0x393,0x3c1)||_0x59bd53[0x1]!==_0x4ec229(0x41d,0x443)||_0x59bd53[0x1]!==_0x4ec229(0x3c4,0x3b8)||_0x59bd53[0x1]!==_0x4ec229(0x3bb,0x3b4)||_0x59bd53[0x1]!==_0x4ec229(0x391,0x3bd)||_0x59bd53[0x1]!==_0x4ec229(0x363,0x3b2)||_0x59bd53[0x1]!==_0x4ec229(0x3d5,0x3cd)||_0x59bd53[0x1]!==_0x4ec229(0x455,0x41c)||_0x59bd53[0x1]!=='49m'||_0x59bd53[0x1]!==_0x4ec229(0x388,0x3bb)||_0x59bd53[0x1]!=='51m'||_0x59bd53[0x1]!==_0x4ec229(0x384,0x3b5)||_0x59bd53[0x1]!==_0x4ec229(0x457,0x408)||_0x59bd53[0x1]!==_0x4ec229(0x3fc,0x407)||_0x59bd53[0x1]!==_0x4ec229(0x45d,0x42a)||_0x59bd53[0x1]!=='56m'||_0x59bd53[0x1]!=='57m'||_0x59bd53[0x1]!=='58m'||_0x59bd53[0x1]!=='59m'||_0x59bd53[0x1]!=='1h'||_0x59bd53[0x1]!=='2h'||_0x59bd53[0x1]!=='3h'||_0x59bd53[0x1]!=='4h'||_0x59bd53[0x1]!=='5h'||_0x59bd53[0x1]!=='6h'||_0x59bd53[0x1]!=='7h'||_0x59bd53[0x1]!=='8h'||_0x59bd53[0x1]!=='9h'||_0x59bd53[0x1]!==_0x4ec229(0x3ec,0x3fa)||_0x59bd53[0x1]!=='11h'||_0x59bd53[0x1]!==_0x4ec229(0x391,0x3bf)||_0x59bd53[0x1]!=='1d'||_0x59bd53[0x1]!=='2d'||_0x59bd53[0x1]!=='3d')return await _0x91dd51['client'][_0x4ec229(0x34a,0x391)](_0x91dd51[_0x4ec229(0x409,0x3c8)],mut[_0x4ec229(0x423,0x3c2)],MessageType['text']);}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}),Asena['addCommand']({'pattern':_0x5a0bda(-0x65,-0x9f),'fromMe':!![],'onlyGroup':!![],'desc':Lang[_0x5a0bda(-0x177,-0x136)]},async(_0x311479,_0xd520b3)=>{function _0x4a9367(_0x470ec8,_0x22df2f){return _0x5a0bda(_0x22df2f,_0x470ec8- -0x116);}var _0x24132b=await checkImAdmin(_0x311479);if(!_0x24132b)return await _0x311479[_0x4a9367(-0x1e6,-0x247)][_0x4a9367(-0x25e,-0x27a)](_0x311479[_0x4a9367(-0x227,-0x250)],Lang[_0x4a9367(-0x22a,-0x1cc)],MessageType[_0x4a9367(-0x228,-0x260)]);Config['UNMUTEMSG']==_0x4a9367(-0x26a,-0x296)?(await _0x311479[_0x4a9367(-0x1e6,-0x1b0)]['groupSettingChange'](_0x311479[_0x4a9367(-0x227,-0x221)],GroupSettingChange[_0x4a9367(-0x201,-0x222)],![]),await _0x311479[_0x4a9367(-0x1e6,-0x1c7)][_0x4a9367(-0x25e,-0x24c)](_0x311479[_0x4a9367(-0x227,-0x268)],Lang[_0x4a9367(-0x1ea,-0x20b)],MessageType[_0x4a9367(-0x228,-0x22b)])):(await _0x311479[_0x4a9367(-0x1e6,-0x1de)]['groupSettingChange'](_0x311479[_0x4a9367(-0x227,-0x202)],GroupSettingChange[_0x4a9367(-0x201,-0x1e7)],![]),await _0x311479[_0x4a9367(-0x1e6,-0x1fa)][_0x4a9367(-0x25e,-0x24f)](_0x311479[_0x4a9367(-0x227,-0x207)],Config[_0x4a9367(-0x231,-0x255)],MessageType[_0x4a9367(-0x228,-0x219)]));}),Asena[_0x5a0bda(-0xe6,-0xc8)]({'pattern':_0x5a0bda(-0xaa,-0x97),'fromMe':!![],'onlyGroup':!![],'desc':Lang[_0x5a0bda(-0x89,-0xa2)]},async(_0xfbdff1,_0x316f8f)=>{var _0x296076=await checkImAdmin(_0xfbdff1);if(!_0x296076)return await _0xfbdff1[_0x384585(0xc,0x51)][_0x384585(-0x6c,-0x91)](_0xfbdff1['jid'],Lang[_0x384585(-0x38,0x6)],MessageType[_0x384585(-0x36,0x26)]);function _0x384585(_0x504f4c,_0xa65d2e){return _0x5a0bda(_0xa65d2e,_0x504f4c-0xdc);}var _0x2abde5=await _0xfbdff1[_0x384585(0xc,-0x33)]['groupInviteCode'](_0xfbdff1['jid']);await _0xfbdff1[_0x384585(0xc,0x2e)]['sendMessage'](_0xfbdff1['jid'],Lang[_0x384585(0x32,0x40)]+_0x384585(-0x5c,-0xa7)+_0x2abde5,MessageType[_0x384585(-0x36,-0x81)]);}),module[_0x5a0bda(-0xc4,-0xe9)]={'checkImAdmin':checkImAdmin};
+/* Copyright (C) 2020 Yusuf Usta.
+
+Licensed under the  GPL-3.0 License;
+you may not use this file except in compliance with the License.
+
+WhatsAsena - Yusuf Usta
+*/
+
+const {MessageType, GroupSettingChange} = require('@adiwajshing/baileys');
+const Asena = require('../events');
+const Config = require('../config');
+
+const Language = require('../language');
+const Lang = Language.getString('admin');
+const mut = Language.getString('mute');
+
+async function checkImAdmin(message, user = message.client.user.jid) {
+    var grup = await message.client.groupMetadata(message.jid);
+    var sonuc = grup['participants'].map((member) => {
+        
+        if (member.jid.split("@")[0] == user.split("@")[0] && member.isAdmin) return true; else; return false;
+    });
+    return sonuc.includes(true);
+}
+
+Asena.addCommand({pattern: 'ban ?(.*)', fromMe: true, onlyGroup: true, desc: Lang.BAN_DESC}, (async (message, match) => {  
+    var im = await checkImAdmin(message);
+    if (!im) return await message.client.sendMessage(message.jid,Lang.IM_NOT_ADMIN,MessageType.text);
+
+    if (Config.BANMSG == 'default') {
+        if (message.reply_message !== false) {
+            await message.client.sendMessage(message.jid,'@' + message.reply_message.data.participant.split('@')[0] + '```, ' + Lang.BANNED + '```', MessageType.text, {contextInfo: {mentionedJid: [message.reply_message.data.participant]}});
+            await message.client.groupRemove(message.jid, [message.reply_message.data.participant]);
+        } else if (message.reply_message === false && message.mention !== false) {
+            var etiketler = '';
+            message.mention.map(async (user) => {
+                etiketler += '@' + user.split('@')[0] + ',';
+            });
+
+            await message.client.sendMessage(message.jid,etiketler + '```, ' + Lang.BANNED + '```', MessageType.text, {contextInfo: {mentionedJid: message.mention}});
+            await message.client.groupRemove(message.jid, message.mention);
+        } else {
+            return await message.client.sendMessage(message.jid,Lang.GIVE_ME_USER,MessageType.text);
+        }
+    }
+    else {
+        if (message.reply_message !== false) {
+            await message.client.sendMessage(message.jid,'@' + message.reply_message.data.participant.split('@')[0] + Config.BANMSG, MessageType.text, {contextInfo: {mentionedJid: [message.reply_message.data.participant]}});
+            await message.client.groupRemove(message.jid, [message.reply_message.data.participant]);
+        } else if (message.reply_message === false && message.mention !== false) {
+            var etiketler = '';
+            message.mention.map(async (user) => {
+                etiketler += '@' + user.split('@')[0] + ',';
+            });
+
+            await message.client.sendMessage(message.jid,etiketler + Config.BANMSG, MessageType.text, {contextInfo: {mentionedJid: message.mention}});
+            await message.client.groupRemove(message.jid, message.mention);
+        } else {
+            return await message.client.sendMessage(message.jid,Lang.GIVE_ME_USER,MessageType.text);
+        }
+    }
+}));
+
+Asena.addCommand({pattern: 'add(?: |$)(.*)', fromMe: true, onlyGroup: true, desc: Lang.ADD_DESC}, (async (message, match) => {  
+    var im = await checkImAdmin(message);
+    if (!im) return await message.client.sendMessage(message.jid,Lang.IM_NOT_ADMIN,MessageType.text);
+
+    if (Config.ADDMSG == 'default') {
+        if (match[1] !== '') {
+            match[1].split(' ').map(async (user) => {
+                await message.client.groupAdd(message.jid, [user + "@s.whatsapp.net"]);
+                await message.client.sendMessage(message.jid,'```' + user + ' ' + Lang.ADDED +'```', MessageType.text);
+            });
+        } 
+        else if (match[1].includes('+')) {
+            return await message.client.sendMessage(message.jid,Lang.WRONG,MessageType.text);
+        }
+        else {
+            return await message.client.sendMessage(message.jid,Lang.GIVE_ME_USER,MessageType.text);
+        }
+    }
+    else {
+        if (match[1] !== '') {
+            match[1].split(' ').map(async (user) => {
+                await message.client.groupAdd(message.jid, [user + "@s.whatsapp.net"]);
+                await message.client.sendMessage(message.jid,'```' + user + '``` ' + Config.ADDMSG, MessageType.text);
+            });
+        }
+        else if (match[1].includes('+')) {
+            return await message.client.sendMessage(message.jid,Lang.WRONG,MessageType.text);
+        }
+        else {
+            return await message.client.sendMessage(message.jid,Lang.GIVE_ME_USER,MessageType.text);
+        }
+    }
+}));
+
+Asena.addCommand({pattern: 'promote ?(.*)', fromMe: true, onlyGroup: true, desc: Lang.PROMOTE_DESC}, (async (message, match) => {    
+    var im = await checkImAdmin(message);
+    if (!im) return await message.client.sendMessage(message.jid,Lang.IM_NOT_ADMIN,MessageType.text);
+
+    if (Config.PROMOTEMSG == 'default') {
+        if (message.reply_message !== false) {
+            var checkAlready = await checkImAdmin(message, message.reply_message.data.participant);
+            if (checkAlready) {
+                return await message.client.sendMessage(message.jid,Lang.ALREADY_PROMOTED, MessageType.text);
+            }
+
+            await message.client.sendMessage(message.jid,'@' + message.reply_message.data.participant.split('@')[0] + Lang.PROMOTED, MessageType.text, {contextInfo: {mentionedJid: [message.reply_message.data.participant]}});
+            await message.client.groupMakeAdmin(message.jid, [message.reply_message.data.participant]);
+        } else if (message.reply_message === false && message.mention !== false) {
+            var etiketler = '';
+            message.mention.map(async (user) => {
+                var checkAlready = await checkImAdmin(message, user);
+                if (checkAlready) {
+                    return await message.client.sendMessage(message.jid,Lang.ALREADY_PROMOTED, MessageType.text);
+                }
+
+                etiketler += '@' + user.split('@')[0] + ',';
+            });
+
+            await message.client.sendMessage(message.jid,etiketler + Lang.PROMOTED, MessageType.text, {contextInfo: {mentionedJid: message.mention}});
+            await message.client.groupMakeAdmin(message.jid, message.mention);
+        } else {
+            return await message.client.sendMessage(message.jid,Lang.GIVE_ME_USER,MessageType.text);
+        }
+    }
+    else {
+        if (message.reply_message !== false) {
+            var checkAlready = await checkImAdmin(message, message.reply_message.data.participant);
+            if (checkAlready) {
+                return await message.client.sendMessage(message.jid,Lang.ALREADY_PROMOTED, MessageType.text);
+            }
+
+            await message.client.sendMessage(message.jid,'@' + message.reply_message.data.participant.split('@')[0] + Config.PROMOTEMSG, MessageType.text, {contextInfo: {mentionedJid: [message.reply_message.data.participant]}});
+            await message.client.groupMakeAdmin(message.jid, [message.reply_message.data.participant]);
+        } else if (message.reply_message === false && message.mention !== false) {
+            var etiketler = '';
+            message.mention.map(async (user) => {
+                var checkAlready = await checkImAdmin(message, user);
+                if (checkAlready) {
+                    return await message.client.sendMessage(message.jid,Lang.ALREADY_PROMOTED, MessageType.text);
+                }
+
+                etiketler += '@' + user.split('@')[0] + ',';
+            });
+
+            await message.client.sendMessage(message.jid,etiketler + Config.PROMOTEMSG, MessageType.text, {contextInfo: {mentionedJid: message.mention}});
+            await message.client.groupMakeAdmin(message.jid, message.mention);
+        } else {
+            return await message.client.sendMessage(message.jid,Lang.GIVE_ME_USER,MessageType.text);
+        }
+    }
+}));
+
+Asena.addCommand({pattern: 'demote ?(.*)', fromMe: true, onlyGroup: true, desc: Lang.DEMOTE_DESC}, (async (message, match) => {    
+    var im = await checkImAdmin(message);
+    if (!im) return await message.client.sendMessage(message.jid,Lang.IM_NOT_ADMIN);
+
+    if (Config.DEMOTEMSG == 'default') {
+        if (message.reply_message !== false) {
+            var checkAlready = await checkImAdmin(message, message.reply_message.data.participant.split('@')[0]);
+            if (!checkAlready) {
+                return await message.client.sendMessage(message.jid,Lang.ALREADY_NOT_ADMIN, MessageType.text);
+            }
+
+            await message.client.sendMessage(message.jid,'@' + message.reply_message.data.participant.split('@')[0] + Lang.DEMOTED, MessageType.text, {contextInfo: {mentionedJid: [message.reply_message.data.participant]}});
+            await message.client.groupDemoteAdmin(message.jid, [message.reply_message.data.participant]);
+        } else if (message.reply_message === false && message.mention !== false) {
+            var etiketler = '';
+            message.mention.map(async (user) => {
+                var checkAlready = await checkImAdmin(message, user);
+                if (!checkAlready) {
+                    return await message.client.sendMessage(message.jid,Lang.ALREADY_NOT_ADMIN, MessageType.text);
+                }
+            
+                etiketler += '@' + user.split('@')[0] + ',';
+            });
+
+            await message.client.sendMessage(message.jid,etiketler + Lang.DEMOTED, MessageType.text, {contextInfo: {mentionedJid: message.mention}});
+            await message.client.groupDemoteAdmin(message.jid, message.mention);
+        } else {
+            return await message.client.sendMessage(message.jid,Lang.GIVE_ME_USER,MessageType.text);
+        }
+    }
+    else {
+        if (message.reply_message !== false) {
+            var checkAlready = await checkImAdmin(message, message.reply_message.data.participant.split('@')[0]);
+            if (!checkAlready) {
+                return await message.client.sendMessage(message.jid,Lang.ALREADY_NOT_ADMIN, MessageType.text);
+            }
+
+            await message.client.sendMessage(message.jid,'@' + message.reply_message.data.participant.split('@')[0] + Config.DEMOTEMSG, MessageType.text, {contextInfo: {mentionedJid: [message.reply_message.data.participant]}});
+            await message.client.groupDemoteAdmin(message.jid, [message.reply_message.data.participant]);
+        } else if (message.reply_message === false && message.mention !== false) {
+            var etiketler = '';
+            message.mention.map(async (user) => {
+                var checkAlready = await checkImAdmin(message, user);
+                if (!checkAlready) {
+                    return await message.client.sendMessage(message.jid,Lang.ALREADY_NOT_ADMIN, MessageType.text);
+                }
+            
+                etiketler += '@' + user.split('@')[0] + ',';
+            });
+
+            await message.client.sendMessage(message.jid,etiketler + Config.DEMOTEMSG, MessageType.text, {contextInfo: {mentionedJid: message.mention}});
+            await message.client.groupDemoteAdmin(message.jid, message.mention);
+        } else {
+            return await message.client.sendMessage(message.jid,Lang.GIVE_ME_USER,MessageType.text);
+        }
+    }
+}));
+
+Asena.addCommand({pattern: 'mute ?(.*)', fromMe: true, onlyGroup: true, desc: Lang.MUTE_DESC}, (async (message, match) => {    
+    var im = await checkImAdmin(message);
+    if (!im) return await message.client.sendMessage(message.jid,Lang.IM_NOT_ADMIN,MessageType.text);
+
+    if (Config.MUTEMSG == 'default') {
+        if (match[1] == '') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Lang.MUTED,MessageType.text);
+        }
+        else if (match[1] == '1m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.BİRMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 60000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '2m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.İKİMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 120000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '3m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.ÜÇMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 180000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '4m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.DÖRTMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 240000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '5m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.BEŞMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 300000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '6m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.ALTIMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 360000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '7m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.YEDİMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 420000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '8m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.SEKİZMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 480000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '9m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.DOKUZMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 540000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '10m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.ONMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 600000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '11m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.ONBİRMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 660000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '12m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.ONİKİMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 720000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '13m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.ONÜÇMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 780000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '14m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.ONDÖRTMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 840000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '15m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.ONBEŞMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 900000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '16m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.ONALTIMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 960000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '17m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.ONYEDİMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 1020000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '18m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.ONSEKİZMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 1080000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '19m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.ONDOKUZMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 1140000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '20m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.YİRMİMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 1200000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '21m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.YİRMİBİRMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 1260000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '22m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.YİRMİİKİMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 1320000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '23m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.YİRMİÜÇMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 1380000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '24m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.YİRMİDÖRTMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 1440000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '25m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.YİRMİBEŞMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 1500000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '26m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.YİRMİALTIMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 1560000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '27m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.YİRMİYEDİMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 1620000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '28m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.YİRMİSEKİZMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 1680000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '29m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.YİRMİDOKUZMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 1740000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '30m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.OTUZMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 1800000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '31m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.OTUZBİRMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 1860000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '32m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.OTUZİKİMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 1920000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '33m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.OTUZÜÇMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 1980000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '34m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.OTUZDÖRTMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 2040000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '35m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.OTUZBEŞMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 2100000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '36m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.OTUZALTIMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 2160000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '37m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.OTUZYEDİMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 2220000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '38m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.OTUZSEKİZMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 2280000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '39m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.OTUZDOKUZMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 2340000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '40m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.KIRKMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 2400000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '41m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.KIRKBİRMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 2460000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '42m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.KIRKİKİMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 2520000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '43m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.KIRKÜÇMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 2580000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '44m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.KIRKDÖRTMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 2640000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '45m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.KIRKBEŞMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 2700000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '46m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.KIRKALTIMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 2760000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '47m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.KIRKYEDİMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 2820000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '48m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.KIRKSEKİZMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 2880000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '49m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.KIRKDOKUZMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 2940000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '50m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.ELLİMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 3000000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '51m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.ELLİBİRMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 3060000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '52m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.ELLİİKİMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 3120000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '53m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.ELLİÜÇMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 3180000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '54m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.ELLİDÖRTMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 3240000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '55m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.ELLİBEŞMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 3300000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '56m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.ELLİALTIMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 3360000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '57m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.ELLİYEDİMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 3420000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '58m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.ELLİSEKİZMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 3480000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '59m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.ELLİDOKUZMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 3540000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '1h') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.SAATBİRMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 3600000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '2h') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.SAATİKİMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 7200000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '3h') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.SAATÜÇMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 10800000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '4h') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.SAATDÖRTMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 14400000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '5h') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.SAATBEŞMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 18000000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '6h') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.SAATALTIMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 21600000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '7h') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.SAATYEDİMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 25200000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '8h') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.SAATSEKİZMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 28800000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '9h') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.SAATDOKUZMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 32400000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '10h') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.SAATONMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 36000000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '11h') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.SAATONBİRMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 39600000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '12h') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.SAATONİKİMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 43200000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '1d') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.GÜNBİRMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 86400000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '2d') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.GÜNİKİMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 172800000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] == '3d') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,mut.GÜNÜÇMUTE,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 259200000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+        }
+        else if (match[1] !== '1m' || match[1] !== '2m' || match[1] !== '3m' || match[1] !== '4m' || match[1] !== '5m' || match[1] !== '6m' || match[1] !== '7m' || match[1] !== '8m' || match[1] !== '9m' || match[1] !== '10m' || match[1] !== '11m' || match[1] !== '12m' || match[1] !== '13m' || match[1] !== '14m' || match[1] !== '15m' || match[1] !== '16m' || match[1] !== '17m' || match[1] !== '18m' || match[1] !== '19m' || match[1] !== '20m' || match[1] !== '21m' || match[1] !== '22m' || match[1] !== '23m' || match[1] !== '24m' || match[1] !== '25m' || match[1] !== '26m' || match[1] !== '27m' || match[1] !== '28m' || match[1] !== '29m' || match[1] !== '30m' || match[1] !== '31m' || match[1] !== '32m' || match[1] !== '33m' || match[1] !== '34m' || match[1] !== '35m' || match[1] !== '36m' || match[1] !== '37m' || match[1] !== '38m' || match[1] !== '39m' || match[1] !== '40m' || match[1] !== '41m' || match[1] !== '42m' || match[1] !== '43m' || match[1] !== '44m' || match[1] !== '45m' || match[1] !== '46m' || match[1] !== '47m' || match[1] !== '48m' || match[1] !== '49m' || match[1] !== '50m' || match[1] !== '51m' || match[1] !== '52m' || match[1] !== '53m' || match[1] !== '54m' || match[1] !== '55m' || match[1] !== '56m' || match[1] !== '57m' || match[1] !== '58m' || match[1] !== '59m' || match[1] !== '1h' || match[1] !== '2h' || match[1] !== '3h' || match[1] !== '4h' || match[1] !== '5h' || match[1] !== '6h' || match[1] !== '7h' || match[1] !== '8h' || match[1] !== '9h' || match[1] !== '10h' || match[1] !== '11h' || match[1] !== '12h' || match[1] !== '1d' || match[1] !== '2d' || match[1] !== '3d') {
+            return await message.client.sendMessage(message.jid, mut.TÜR, MessageType.text);
+        }
+    }
+    else {
+        if (match[1] == '') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid, Config.MUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '1m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 60000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '2m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 120000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '3m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 180000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '4m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 240000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '5m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 300000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '6m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 360000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '7m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 420000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '8m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 480000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '9m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 540000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '10m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 600000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '11m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 660000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '12m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 720000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '13m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 780000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '14m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 840000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '15m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 900000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '16m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 960000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '17m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 1020000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '18m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 1080000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '19m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 1140000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '20m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 1200000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '21m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 1260000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '22m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 1320000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '23m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 1380000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '24m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 1440000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '25m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 1500000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '26m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 1560000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '27m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 1620000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '28m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 1680000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '29m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 1740000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '30m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 1800000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '31m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 1860000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '32m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 1920000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '33m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 1980000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '34m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 2040000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '35m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 2100000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '36m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 2160000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '37m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 2220000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '38m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 2280000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '39m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 2340000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '40m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 2400000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '41m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 2460000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '42m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 2520000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '43m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 2580000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '44m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 2640000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '45m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 2700000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '46m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 2760000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '47m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 2820000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '48m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 2880000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '49m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 2940000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '50m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 3000000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '51m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 3060000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '52m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 3120000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '53m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 3180000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '54m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 3240000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '55m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 3300000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '56m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 3360000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '57m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 3420000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '58m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 3480000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '59m') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 3540000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '1h') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 3600000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '2h') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 7200000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '3h') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 10800000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '4h') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 14400000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '5h') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 18000000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '6h') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 21600000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '7h') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 25200000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '8h') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 28800000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '9h') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 32400000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '10h') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 36000000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '11h') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 39600000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '12h') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 43200000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '1d') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 86400000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '2d') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 172800000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] == '3d') {
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, true);
+            await message.client.sendMessage(message.jid,Config.MUTEMSG,MessageType.text);
+
+            await new Promise(r => setTimeout(r, 259200000));
+    
+            await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+            await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+        }
+        else if (match[1] !== '1m' || match[1] !== '2m' || match[1] !== '3m' || match[1] !== '4m' || match[1] !== '5m' || match[1] !== '6m' || match[1] !== '7m' || match[1] !== '8m' || match[1] !== '9m' || match[1] !== '10m' || match[1] !== '11m' || match[1] !== '12m' || match[1] !== '13m' || match[1] !== '14m' || match[1] !== '15m' || match[1] !== '16m' || match[1] !== '17m' || match[1] !== '18m' || match[1] !== '19m' || match[1] !== '20m' || match[1] !== '21m' || match[1] !== '22m' || match[1] !== '23m' || match[1] !== '24m' || match[1] !== '25m' || match[1] !== '26m' || match[1] !== '27m' || match[1] !== '28m' || match[1] !== '29m' || match[1] !== '30m' || match[1] !== '31m' || match[1] !== '32m' || match[1] !== '33m' || match[1] !== '34m' || match[1] !== '35m' || match[1] !== '36m' || match[1] !== '37m' || match[1] !== '38m' || match[1] !== '39m' || match[1] !== '40m' || match[1] !== '41m' || match[1] !== '42m' || match[1] !== '43m' || match[1] !== '44m' || match[1] !== '45m' || match[1] !== '46m' || match[1] !== '47m' || match[1] !== '48m' || match[1] !== '49m' || match[1] !== '50m' || match[1] !== '51m' || match[1] !== '52m' || match[1] !== '53m' || match[1] !== '54m' || match[1] !== '55m' || match[1] !== '56m' || match[1] !== '57m' || match[1] !== '58m' || match[1] !== '59m' || match[1] !== '1h' || match[1] !== '2h' || match[1] !== '3h' || match[1] !== '4h' || match[1] !== '5h' || match[1] !== '6h' || match[1] !== '7h' || match[1] !== '8h' || match[1] !== '9h' || match[1] !== '10h' || match[1] !== '11h' || match[1] !== '12h' || match[1] !== '1d' || match[1] !== '2d' || match[1] !== '3d') {
+            return await message.client.sendMessage(message.jid, mut.TÜR, MessageType.text);
+        }
+    }
+}));
+
+Asena.addCommand({pattern: 'unmute ?(.*)', fromMe: true, onlyGroup: true, desc: Lang.UNMUTE_DESC}, (async (message, match) => {    
+    var im = await checkImAdmin(message);
+    if (!im) return await message.client.sendMessage(message.jid,Lang.IM_NOT_ADMIN,MessageType.text);
+
+    if (Config.UNMUTEMSG == 'default') {
+        await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+        await message.client.sendMessage(message.jid,Lang.UNMUTED,MessageType.text);
+    }
+    else {
+        await message.client.groupSettingChange(message.jid, GroupSettingChange.messageSend, false);
+        await message.client.sendMessage(message.jid,Config.UNMUTEMSG,MessageType.text);
+    }
+}));
+
+Asena.addCommand({pattern: 'invite ?(.*)', fromMe: true, onlyGroup: true, desc: Lang.INVITE_DESC}, (async (message, match) => {    
+    var im = await checkImAdmin(message);
+    if (!im) return await message.client.sendMessage(message.jid,Lang.IM_NOT_ADMIN, MessageType.text);
+    var invite = await message.client.groupInviteCode(message.jid);
+    await message.client.sendMessage(message.jid,Lang.INVITE + ' https://chat.whatsapp.com/' + invite, MessageType.text);
+}));
+
+Asena.addCommand({pattern: 'rename ?(.*)', onlyGroup: true, fromMe: true,desc:'Rename the group name'}, (async (message, match) => {
+    var im = await checkImAdmin(message);
+    if (!im) return await message.client.sendMessage(message.jid,Lang.IM_NOT_ADMIN,MessageType.text);
+    if (match[1] === '') return await message.client.sendMessage(message.jid,'changing',MessageType.text);
+    await message.client.groupUpdateSubject(message.jid, match[1]);
+    await message.client.sendMessage(message.jid,'group name changed to  ```' + match[1] + '```' ,MessageType.text);
+    }
+));
+
+Asena.addCommand({pattern: 'revoke', fromMe: true, onlyGroup: true, desc: 'Reset group link'}, (async (message, match) => {    
+    var im = await checkImAdmin(message);
+    if (!im) return await message.client.sendMessage(message.jid, Lang.IM_NOT_ADMIN, MessageType.text);
+    await message.client.revokeInvite(message.jid)
+    await message.client.sendMessage(message.jid, jul.REVOKED, MessageType.text);
+}))
+
+module.exports = {
+    checkImAdmin: checkImAdmin
+};
