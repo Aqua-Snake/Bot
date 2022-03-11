@@ -1,9 +1,96 @@
-/* Copyright (C) 2020 Aqua Snake.
+/* Copyright (C) 2020 Yusuf Usta.
 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
-Cyber Bot - Aqua Snake
+WhatsAsena - Yusuf Usta
 */
 
-(function(_0x7078e6,_0x3040ff){const _0x4560e2=_0x7078e6();function _0x6b9b57(_0x5964d9,_0x57bb58){return _0x59b7(_0x5964d9-0x105,_0x57bb58);}while(!![]){try{const _0x2282a1=parseInt(_0x6b9b57(0x294,0x2a6))/0x1+parseInt(_0x6b9b57(0x2c3,0x2a7))/0x2*(parseInt(_0x6b9b57(0x298,0x2b3))/0x3)+parseInt(_0x6b9b57(0x2a2,0x2bd))/0x4*(-parseInt(_0x6b9b57(0x2a0,0x2a7))/0x5)+-parseInt(_0x6b9b57(0x29d,0x283))/0x6*(-parseInt(_0x6b9b57(0x2ba,0x29b))/0x7)+-parseInt(_0x6b9b57(0x29e,0x298))/0x8*(-parseInt(_0x6b9b57(0x2b5,0x2cb))/0x9)+parseInt(_0x6b9b57(0x2ae,0x29f))/0xa+-parseInt(_0x6b9b57(0x2bf,0x2c9))/0xb*(parseInt(_0x6b9b57(0x2c7,0x2a7))/0xc);if(_0x2282a1===_0x3040ff)break;else _0x4560e2['push'](_0x4560e2['shift']());}catch(_0x531b94){_0x4560e2['push'](_0x4560e2['shift']());}}}(_0xa230,0x56d7f));const _0x3bc1e4=(function(){let _0x2085fd=!![];return function(_0x2021dd,_0x25b0f6){const _0x488a16=_0x2085fd?function(){function _0x2a4724(_0x2ebca4,_0x49303e){return _0x59b7(_0x2ebca4- -0x32c,_0x49303e);}if(_0x25b0f6){const _0x38fe3c=_0x25b0f6[_0x2a4724(-0x1a8,-0x1c3)](_0x2021dd,arguments);return _0x25b0f6=null,_0x38fe3c;}}:function(){};return _0x2085fd=![],_0x488a16;};}()),_0x3c1494=_0x3bc1e4(this,function(){function _0x510838(_0x3cfaf2,_0x36440f){return _0x59b7(_0x3cfaf2- -0x1f4,_0x36440f);}return _0x3c1494['toString']()[_0x510838(-0x5f,-0x4e)]('(((.+)+)+)+$')[_0x510838(-0x68,-0x75)]()[_0x510838(-0x6b,-0x52)](_0x3c1494)[_0x510838(-0x5f,-0x7d)](_0x510838(-0x33,-0x32));});_0x3c1494();const _0x5e3d1d=(function(){let _0x683bdb=!![];return function(_0x5c8bdf,_0x331cd0){const _0x34978e=_0x683bdb?function(){function _0x1b1568(_0xdac518,_0x440cd2){return _0x59b7(_0x440cd2-0x192,_0xdac518);}if(_0x331cd0){const _0x2e8667=_0x331cd0[_0x1b1568(0x32b,0x316)](_0x5c8bdf,arguments);return _0x331cd0=null,_0x2e8667;}}:function(){};return _0x683bdb=![],_0x34978e;};}()),_0x34fb1b=_0x5e3d1d(this,function(){let _0x95435f;function _0x3667ad(_0x53f20a,_0x581023){return _0x59b7(_0x53f20a-0x376,_0x581023);}try{const _0x4950d5=Function('return\x20(function()\x20'+_0x3667ad(0x51c,0x535)+');');_0x95435f=_0x4950d5();}catch(_0x24ea4f){_0x95435f=window;}const _0x9b2de4=_0x95435f[_0x3667ad(0x4fc,0x51a)]=_0x95435f[_0x3667ad(0x4fc,0x50b)]||{},_0x5c6555=['log',_0x3667ad(0x500,0x4e1),_0x3667ad(0x52d,0x515),'error',_0x3667ad(0x516,0x501),_0x3667ad(0x50c,0x529),_0x3667ad(0x508,0x4f8)];for(let _0x522b6f=0x0;_0x522b6f<_0x5c6555[_0x3667ad(0x515,0x50a)];_0x522b6f++){const _0x12eb74=_0x5e3d1d[_0x3667ad(0x4ff,0x4f1)][_0x3667ad(0x53d,0x543)][_0x3667ad(0x51d,0x51e)](_0x5e3d1d),_0x1d4161=_0x5c6555[_0x522b6f],_0xcd11a5=_0x9b2de4[_0x1d4161]||_0x12eb74;_0x12eb74['__proto__']=_0x5e3d1d['bind'](_0x5e3d1d),_0x12eb74[_0x3667ad(0x502,0x51f)]=_0xcd11a5[_0x3667ad(0x502,0x51e)][_0x3667ad(0x51d,0x519)](_0xcd11a5),_0x9b2de4[_0x1d4161]=_0x12eb74;}});_0x34fb1b();const Asena=require(_0x3d0f0e(0x441,0x425)),{MessageType,Mimetype}=require(_0x3d0f0e(0x43e,0x427)),Config=require('../config');function _0x3d0f0e(_0x37a4a3,_0x166523){return _0x59b7(_0x37a4a3-0x285,_0x166523);}function _0x59b7(_0x362a41,_0x46d877){const _0x5d4669=_0xa230();return _0x59b7=function(_0x34fb1b,_0x5e3d1d){_0x34fb1b=_0x34fb1b-0x184;let _0x260768=_0x5d4669[_0x34fb1b];if(_0x59b7['wyfVdz']===undefined){var _0x391b9d=function(_0x59b7ea){const _0x192fbc='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x1ce784='',_0x1e5f44='',_0x1a1948=_0x1ce784+_0x391b9d;for(let _0x10d59c=0x0,_0x4473db,_0x2085fd,_0x2021dd=0x0;_0x2085fd=_0x59b7ea['charAt'](_0x2021dd++);~_0x2085fd&&(_0x4473db=_0x10d59c%0x4?_0x4473db*0x40+_0x2085fd:_0x2085fd,_0x10d59c++%0x4)?_0x1ce784+=_0x1a1948['charCodeAt'](_0x2021dd+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x4473db>>(-0x2*_0x10d59c&0x6)):_0x10d59c:0x0){_0x2085fd=_0x192fbc['indexOf'](_0x2085fd);}for(let _0x25b0f6=0x0,_0x488a16=_0x1ce784['length'];_0x25b0f6<_0x488a16;_0x25b0f6++){_0x1e5f44+='%'+('00'+_0x1ce784['charCodeAt'](_0x25b0f6)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x1e5f44);};_0x59b7['ltXlrj']=_0x391b9d,_0x362a41=arguments,_0x59b7['wyfVdz']=!![];}const _0x3c1494=_0x5d4669[0x0],_0x3bc1e4=_0x34fb1b+_0x3c1494,_0xa23068=_0x362a41[_0x3bc1e4];if(!_0xa23068){const _0x38fe3c=function(_0x683bdb){this['Spafbn']=_0x683bdb,this['tQLABR']=[0x1,0x0,0x0],this['wIBWOO']=function(){return'newState';},this['xNQHWw']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['kxHFqI']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x38fe3c['prototype']['MIwGyn']=function(){const _0x5c8bdf=new RegExp(this['xNQHWw']+this['kxHFqI']),_0x331cd0=_0x5c8bdf['test'](this['wIBWOO']['toString']())?--this['tQLABR'][0x1]:--this['tQLABR'][0x0];return this['nGqLWq'](_0x331cd0);},_0x38fe3c['prototype']['nGqLWq']=function(_0x34978e){if(!Boolean(~_0x34978e))return _0x34978e;return this['VERAwE'](this['Spafbn']);},_0x38fe3c['prototype']['VERAwE']=function(_0x2e8667){for(let _0x95435f=0x0,_0x9b2de4=this['tQLABR']['length'];_0x95435f<_0x9b2de4;_0x95435f++){this['tQLABR']['push'](Math['round'](Math['random']())),_0x9b2de4=this['tQLABR']['length'];}return _0x2e8667(this['tQLABR'][0x0]);},new _0x38fe3c(_0x59b7)['MIwGyn'](),_0x260768=_0x59b7['ltXlrj'](_0x260768),_0x362a41[_0x3bc1e4]=_0x260768;}else _0x260768=_0xa23068;return _0x260768;},_0x59b7(_0x362a41,_0x46d877);}const fs=require('fs'),got=require(_0x3d0f0e(0x40a,0x409)),FormData=require(_0x3d0f0e(0x416,0x425)),stream=require(_0x3d0f0e(0x40d,0x421)),{promisify}=require(_0x3d0f0e(0x442,0x450)),pipeline=promisify(stream[_0x3d0f0e(0x440,0x455)]),Language=require('../language'),Lang=Language['getString'](_0x3d0f0e(0x426,0x434));function _0xa230(){const _0x1b25b2=['zg9JDw1LBNq','CMvTB3zLyMCGpYGUkIK','mJK5nZK0nKrVzxjvyq','y2jVDc5WBMC','Aw5MBW','y3jLyxrLv3jPDgvtDhjLyw0','qgfKAxDHANnOAw5Nl2jHAwXLExm','mJa5mfviB3vcDW','CgLWzwXPBMu','lI4VzxzLBNrZ','DxrPBa','mJCXmJj3sLn3EwK','AMLK','zgvSzxrL','kcGOlISPkYKRksSK','mta4nti4EhLOuLDv','Dgv4Da','CMvTB3zLlMjN','zgf0yq','CMvWBhLFBwvZC2fNzq','ChjVDg90ExbL','yxbWBhK','z290','y29UC29Szq','Aw1Hz2u','C3rYzwfT','y29UC3rYDwn0B3i','D2fYBG','uKvnt1zfqKDFrevtqW','Dg9tDhjPBMC','uKjhsu5h','Cg5N','mtq0mZm2tufeA1jw','yxv0BW','zM9YBs1KyxrH','DhjHy2u','mta4sufMru5N','CxvVDgvKtwvZC2fNzq','C2vHCMnO','DgfIBgu','tKvfrf9qse9utW','nK95shDuDW','mJu2mJr2rxHPEfq','ywrKq29TBwfUza','nwPqEgDbtW','y2XPzw50','mtq4otCYvhvSruDr','yxbWzw5K','BgvUz3rO','zxHJzxb0Aw9U','CMvTB3zLyMC','Ahr0Chm6lY9HCgKUCMvTB3zLlMjNl3yXlJaVCMvTB3zLyMC','Ahr0Chm6lY9NAxrODwiUy29Tl0fXDweTu25HA2uVq0jVDc93AwTPl1jLBw92zs1crY1bueKTs2v5','tK9Fqvbjx0Tfwq','CMvHzezPBgvtEw5J','E30Uy29UC3rYDwn0B3iOiNjLDhvYBIb0AgLZiIKOicK','yMLUza','Aw1Hz2vFzMLSzq','nti4nde1mgLJu0Lczq','y3jLyxrLuMvHzfn0CMvHBq','CMjNlNbUzW','C2vUze1LC3nHz2u','Cg9ZDa','CMvWBhK','zg93BMXVywrbBMrtyxzLtwvKAwfnzxnZywDL','mtq2n0H5swHgBa','uKjhx0fqsv9lrvK','C2L6zq'];_0xa230=function(){return _0x1b25b2;};return _0xa230();}if(Config['WORKTYPE']=='private')Asena[_0x3d0f0e(0x41f,0x41f)]({'pattern':_0x3d0f0e(0x439,0x445),'fromMe':!![],'desc':Lang[_0x3d0f0e(0x410,0x415)]},async(_0x3e6710,_0x48aced)=>{if(_0x3e6710[_0x431349(0x316,0x2ff)]===![]||_0x3e6710[_0x431349(0x316,0x307)]['image']===![])return await _0x3e6710[_0x431349(0x2ec,0x2ec)][_0x431349(0x2fc,0x2fd)](_0x3e6710[_0x431349(0x30f,0x30d)],Lang[_0x431349(0x2e7,0x2e3)],MessageType[_0x431349(0x313,0x2fb)]);if(Config[_0x431349(0x301,0x316)]===![])return await _0x3e6710['client'][_0x431349(0x2fc,0x30a)](_0x3e6710['jid'],Lang[_0x431349(0x2f4,0x2d7)]['replace'](_0x431349(0x314,0x30b),_0x431349(0x2f3,0x2f4)),MessageType[_0x431349(0x313,0x31c)]);var _0x356e6d=await _0x3e6710[_0x431349(0x2fe,0x30b)](Lang[_0x431349(0x2dd,0x2cd)]),_0x426c4b=await _0x3e6710[_0x431349(0x2ec,0x304)][_0x431349(0x2ff,0x2fe)]({'key':{'remoteJid':_0x3e6710[_0x431349(0x316,0x328)][_0x431349(0x30f,0x313)],'id':_0x3e6710['reply_message']['id']},'message':_0x3e6710[_0x431349(0x316,0x2f9)][_0x431349(0x315,0x32c)][_0x431349(0x2e4,0x2dd)]}),_0x2f66b4=new FormData();_0x2f66b4['append'](_0x431349(0x2f8,0x316),fs['createReadStream'](_0x426c4b)),_0x2f66b4[_0x431349(0x2ee,0x308)](_0x431349(0x302,0x2e0),_0x431349(0x2e0,0x301));var _0x2c1d1e=await got['stream']['post']('https://api.remove.bg/v1.0/removebg',{'body':_0x2f66b4,'headers':{'X-Api-Key':Config['RBG_API_KEY']}});function _0x431349(_0x162940,_0x34670f){return _0x3d0f0e(_0x162940- -0x135,_0x34670f);}await pipeline(_0x2c1d1e,fs[_0x431349(0x308,0x2e6)](_0x431349(0x2fb,0x2f4))),await _0x3e6710[_0x431349(0x2ec,0x2f1)][_0x431349(0x2fc,0x2f9)](_0x3e6710[_0x431349(0x30f,0x324)],fs['readFileSync'](_0x431349(0x2fb,0x31c)),MessageType[_0x431349(0x303,0x2f4)],{'filename':'cbot.png','mimetype':Mimetype[_0x431349(0x2de,0x2eb)]}),await _0x356e6d[_0x431349(0x310,0x2f0)]();});else Config['WORKTYPE']=='public'&&Asena['addCommand']({'pattern':_0x3d0f0e(0x439,0x444),'fromMe':![],'desc':Lang[_0x3d0f0e(0x410,0x413)]},async(_0x4ce7a6,_0x125992)=>{if(_0x4ce7a6['reply_message']===![]||_0x4ce7a6[_0x5ceac9(0x49b,0x486)][_0x5ceac9(0x45c,0x447)]===![])return await _0x4ce7a6[_0x5ceac9(0x45a,0x45c)]['sendMessage'](_0x4ce7a6[_0x5ceac9(0x49b,0x47f)],Lang[_0x5ceac9(0x450,0x457)],MessageType[_0x5ceac9(0x493,0x483)]);if(Config['RBG_API_KEY']===![])return await _0x4ce7a6[_0x5ceac9(0x47b,0x45c)][_0x5ceac9(0x472,0x46c)](_0x4ce7a6['jid'],Lang[_0x5ceac9(0x450,0x464)]['replace'](_0x5ceac9(0x463,0x484),'https://github.com/Aqua-Snake/CBot/wiki/Remove-BG-API-Key'),MessageType['text']);var _0x5e1823=await _0x4ce7a6['reply'](Lang[_0x5ceac9(0x43c,0x44d)]),_0x1924df=await _0x4ce7a6[_0x5ceac9(0x475,0x45c)]['downloadAndSaveMediaMessage']({'key':{'remoteJid':_0x4ce7a6[_0x5ceac9(0x496,0x486)][_0x5ceac9(0x47d,0x47f)],'id':_0x4ce7a6[_0x5ceac9(0x4a3,0x486)]['id']},'message':_0x4ce7a6[_0x5ceac9(0x4a1,0x486)]['data']['quotedMessage']}),_0x348a3a=new FormData();_0x348a3a['append'](_0x5ceac9(0x45e,0x468),fs[_0x5ceac9(0x46c,0x46a)](_0x1924df)),_0x348a3a['append'](_0x5ceac9(0x488,0x472),_0x5ceac9(0x44f,0x450));var _0x3db64a=await got[_0x5ceac9(0x428,0x448)][_0x5ceac9(0x454,0x46d)](_0x5ceac9(0x474,0x462),{'body':_0x348a3a,'headers':{'X-Api-Key':Config['RBG_API_KEY']}});await pipeline(_0x3db64a,fs['createWriteStream']('rbg.png')),await _0x4ce7a6[_0x5ceac9(0x44b,0x45c)][_0x5ceac9(0x47d,0x46c)](_0x4ce7a6[_0x5ceac9(0x472,0x47f)],fs[_0x5ceac9(0x485,0x465)](_0x5ceac9(0x44e,0x46b)),MessageType['document'],{'filename':_0x5ceac9(0x45f,0x476),'mimetype':Mimetype[_0x5ceac9(0x463,0x44e)]});function _0x5ceac9(_0x1a7c64,_0x13935f){return _0x3d0f0e(_0x13935f-0x3b,_0x1a7c64);}await _0x5e1823[_0x5ceac9(0x47f,0x480)]();});
+const Asena = require('../events');
+const {MessageType, Mimetype} = require('@adiwajshing/baileys');
+const Config = require('../config');
+const fs = require('fs');
+const got = require('got');
+const FormData = require('form-data');
+const stream = require('stream');
+const {promisify} = require('util');
+
+const pipeline = promisify(stream.pipeline);
+
+const Language = require('../language');
+const Lang = Language.getString('removebg');
+
+if (Config.WORKTYPE == 'private') {
+
+    Asena.addCommand({pattern: 'removebg ?(.*)', fromMe: true, desc: Lang.REMOVEBG_DESC}, (async (message, match) => {    
+
+        if (message.reply_message === false || message.reply_message.image === false) return await message.client.sendMessage(message.jid,Lang.NEED_PHOTO,MessageType.text);
+        if (Config.RBG_API_KEY === false) return await message.client.sendMessage(message.jid,Lang.NO_API_KEY.replace('remove.bg', 'https://github.com/Aqua-Snake/CBot/wiki/Remove-BG-API-Key'),MessageType.text);
+    
+        var load = await message.reply(Lang.RBGING);
+        var location = await message.client.downloadAndSaveMediaMessage({
+            key: {
+                remoteJid: message.reply_message.jid,
+                id: message.reply_message.id
+            },
+            message: message.reply_message.data.quotedMessage
+        });
+
+        var form = new FormData();
+        form.append('image_file', fs.createReadStream(location));
+        form.append('size', 'auto');
+
+        var rbg = await got.stream.post('https://api.remove.bg/v1.0/removebg', {
+            body: form,
+            headers: {
+                'X-Api-Key': Config.RBG_API_KEY
+            }
+        }); 
+    
+        await pipeline(
+		    rbg,
+		    fs.createWriteStream('rbg.png')
+        );
+    
+        await message.client.sendMessage(message.jid,fs.readFileSync('rbg.png'), MessageType.document, {filename: 'cbot.png', mimetype: Mimetype.png});
+        await load.delete();
+    }));
+}
+else if (Config.WORKTYPE == 'public') {
+
+    Asena.addCommand({pattern: 'removebg ?(.*)', fromMe: false, desc: Lang.REMOVEBG_DESC}, (async (message, match) => {    
+
+        if (message.reply_message === false || message.reply_message.image === false) return await message.client.sendMessage(message.jid,Lang.NEED_PHOTO,MessageType.text);
+        if (Config.RBG_API_KEY === false) return await message.client.sendMessage(message.jid,Lang.NO_API_KEY.replace('remove.bg', 'https://github.com/Aqua-Snake/CBot/wiki/Remove-BG-API-Key'),MessageType.text);
+    
+        var load = await message.reply(Lang.RBGING);
+        var location = await message.client.downloadAndSaveMediaMessage({
+            key: {
+                remoteJid: message.reply_message.jid,
+                id: message.reply_message.id
+            },
+            message: message.reply_message.data.quotedMessage
+        });
+
+        var form = new FormData();
+        form.append('image_file', fs.createReadStream(location));
+        form.append('size', 'auto');
+
+        var rbg = await got.stream.post('https://api.remove.bg/v1.0/removebg', {
+            body: form,
+            headers: {
+                'X-Api-Key': Config.RBG_API_KEY
+            }
+        }); 
+    
+        await pipeline(
+		    rbg,
+		    fs.createWriteStream('rbg.png')
+        );
+    
+        await message.client.sendMessage(message.jid,fs.readFileSync('rbg.png'), MessageType.document, {filename: 'cbot.png', mimetype: Mimetype.png});
+        await load.delete();
+    }));
+    
+}
+

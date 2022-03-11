@@ -1,9 +1,490 @@
-/* Copyright (C) 2020 Aqua Snake.
+/* Copyright (C) 2020 Yusuf Usta.
 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
-Cyber Bot - Aqua Snake
+WhatsAsena - Yusuf Usta
 */
 
-(function(_0x5ecbe4,_0x441a7d){var _0x3aa0d4=_0x5ecbe4();function _0x191007(_0x467498,_0x16a768){return _0x52b7(_0x16a768-0x1c2,_0x467498);}while(!![]){try{var _0x2f8d14=-parseInt(_0x191007(0x28c,0x2a4))/0x1+parseInt(_0x191007(0x2de,0x2bd))/0x2*(-parseInt(_0x191007(0x296,0x2b7))/0x3)+-parseInt(_0x191007(0x2a0,0x297))/0x4+-parseInt(_0x191007(0x2a9,0x2b0))/0x5*(-parseInt(_0x191007(0x284,0x2a8))/0x6)+-parseInt(_0x191007(0x270,0x281))/0x7+parseInt(_0x191007(0x2c1,0x2c5))/0x8+parseInt(_0x191007(0x2a7,0x28d))/0x9;if(_0x2f8d14===_0x441a7d)break;else _0x3aa0d4['push'](_0x3aa0d4['shift']());}catch(_0x204a72){_0x3aa0d4['push'](_0x3aa0d4['shift']());}}}(_0x5018,0xb0aa4));var _0x4d62d6=(function(){var _0x5cf187=!![];return function(_0x395cfd,_0x3f7436){var _0x1e5776=_0x5cf187?function(){if(_0x3f7436){var _0x3fb7bc=_0x3f7436['apply'](_0x395cfd,arguments);return _0x3f7436=null,_0x3fb7bc;}}:function(){};return _0x5cf187=![],_0x1e5776;};}()),_0x146793=_0x4d62d6(this,function(){function _0x2fa379(_0x177957,_0x28f930){return _0x52b7(_0x177957-0x1e7,_0x28f930);}return _0x146793[_0x2fa379(0x2e9,0x2f2)]()[_0x2fa379(0x2de,0x2e5)]('(((.+)+)+)+$')[_0x2fa379(0x2e9,0x302)]()[_0x2fa379(0x2ac,0x2bb)](_0x146793)[_0x2fa379(0x2de,0x2f6)](_0x2fa379(0x2bb,0x298));});_0x146793();var _0x36d53a=(function(){var _0x4f3c8d=!![];return function(_0x1b9d53,_0xbfd234){var _0x73e63a=_0x4f3c8d?function(){function _0x106be3(_0x31f876,_0x515923){return _0x52b7(_0x515923- -0xdc,_0x31f876);}if(_0xbfd234){var _0x479cc4=_0xbfd234[_0x106be3(-0x4,0x7)](_0x1b9d53,arguments);return _0xbfd234=null,_0x479cc4;}}:function(){};return _0x4f3c8d=![],_0x73e63a;};}()),_0x573da4=_0x36d53a(this,function(){var _0x4a14fe=function(){var _0x1cfeef;try{_0x1cfeef=Function(_0x2db98a(0x6b,0x4f)+_0x2db98a(0x9a,0x89)+');')();}catch(_0x2e0d91){_0x1cfeef=window;}function _0x2db98a(_0x382f16,_0x585f97){return _0x52b7(_0x382f16- -0x5e,_0x585f97);}return _0x1cfeef;};function _0x3d73e8(_0x5821a6,_0x1183ff){return _0x52b7(_0x1183ff-0x2e2,_0x5821a6);}var _0x4571be=_0x4a14fe(),_0x2099eb=_0x4571be[_0x3d73e8(0x3d3,0x3bf)]=_0x4571be['console']||{},_0x55b0d3=[_0x3d73e8(0x3e1,0x3d8),_0x3d73e8(0x3e8,0x3cb),_0x3d73e8(0x3b8,0x3d5),_0x3d73e8(0x3d0,0x3de),'exception',_0x3d73e8(0x3ee,0x3dc),_0x3d73e8(0x3b6,0x3cf)];for(var _0x42d09d=0x0;_0x42d09d<_0x55b0d3[_0x3d73e8(0x3d9,0x3be)];_0x42d09d++){var _0x5a1f89=_0x36d53a[_0x3d73e8(0x39b,0x3a7)]['prototype'][_0x3d73e8(0x39b,0x3a6)](_0x36d53a),_0x1dfaaf=_0x55b0d3[_0x42d09d],_0x1faef8=_0x2099eb[_0x1dfaaf]||_0x5a1f89;_0x5a1f89[_0x3d73e8(0x3d9,0x3bc)]=_0x36d53a[_0x3d73e8(0x39d,0x3a6)](_0x36d53a),_0x5a1f89['toString']=_0x1faef8[_0x3d73e8(0x3da,0x3e4)][_0x3d73e8(0x3a6,0x3a6)](_0x1faef8),_0x2099eb[_0x1dfaaf]=_0x5a1f89;}});function _0x52b7(_0x233ee0,_0xeaaa52){var _0x6b9c3e=_0x5018();return _0x52b7=function(_0x573da4,_0x36d53a){_0x573da4=_0x573da4-0xbe;var _0x5344c6=_0x6b9c3e[_0x573da4];if(_0x52b7['IFVEmz']===undefined){var _0x20877f=function(_0x52b796){var _0x184ecb='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';var _0x1de3ed='',_0x334fe7='',_0xeb7f4e=_0x1de3ed+_0x20877f;for(var _0x9bf5e3=0x0,_0x33fd38,_0x5cf187,_0x395cfd=0x0;_0x5cf187=_0x52b796['charAt'](_0x395cfd++);~_0x5cf187&&(_0x33fd38=_0x9bf5e3%0x4?_0x33fd38*0x40+_0x5cf187:_0x5cf187,_0x9bf5e3++%0x4)?_0x1de3ed+=_0xeb7f4e['charCodeAt'](_0x395cfd+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x33fd38>>(-0x2*_0x9bf5e3&0x6)):_0x9bf5e3:0x0){_0x5cf187=_0x184ecb['indexOf'](_0x5cf187);}for(var _0x3f7436=0x0,_0x1e5776=_0x1de3ed['length'];_0x3f7436<_0x1e5776;_0x3f7436++){_0x334fe7+='%'+('00'+_0x1de3ed['charCodeAt'](_0x3f7436)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x334fe7);};_0x52b7['LLRPuC']=_0x20877f,_0x233ee0=arguments,_0x52b7['IFVEmz']=!![];}var _0x146793=_0x6b9c3e[0x0],_0x4d62d6=_0x573da4+_0x146793,_0x501873=_0x233ee0[_0x4d62d6];if(!_0x501873){var _0x3fb7bc=function(_0x4f3c8d){this['MQrXil']=_0x4f3c8d,this['raZfRG']=[0x1,0x0,0x0],this['hPRgZm']=function(){return'newState';},this['UlajSw']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['QgGNsb']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x3fb7bc['prototype']['WdOcWV']=function(){var _0x1b9d53=new RegExp(this['UlajSw']+this['QgGNsb']),_0xbfd234=_0x1b9d53['test'](this['hPRgZm']['toString']())?--this['raZfRG'][0x1]:--this['raZfRG'][0x0];return this['sagHwp'](_0xbfd234);},_0x3fb7bc['prototype']['sagHwp']=function(_0x73e63a){if(!Boolean(~_0x73e63a))return _0x73e63a;return this['YqnauJ'](this['MQrXil']);},_0x3fb7bc['prototype']['YqnauJ']=function(_0x479cc4){for(var _0x4a14fe=0x0,_0x4571be=this['raZfRG']['length'];_0x4a14fe<_0x4571be;_0x4a14fe++){this['raZfRG']['push'](Math['round'](Math['random']())),_0x4571be=this['raZfRG']['length'];}return _0x479cc4(this['raZfRG'][0x0]);},new _0x3fb7bc(_0x52b7)['WdOcWV'](),_0x5344c6=_0x52b7['LLRPuC'](_0x5344c6),_0x233ee0[_0x4d62d6]=_0x5344c6;}else _0x5344c6=_0x501873;return _0x5344c6;},_0x52b7(_0x233ee0,_0xeaaa52);}_0x573da4();function _0x5018(){var _0x24104e=['qgXOmJaYmc9ZCgvLzhrLC3qTBMv0','ywrKq29TBwfUza','Dgv4Da','kImJiYmGrxjYB3iHicmJiYmQcGO','yMLUza','y29UC3rYDwn0B3i','lI4Vy29UzMLN','u1vd','ygbGcG','CMv0DxjUicHMDw5JDgLVBIGPia','vKfmXlbe','mtK2nZm3mZbXDw5yDha','Aw5JBhvKzxm','y2fSyYa/kc4Qkq','q0fmqW','vu5tvum','ygbG','y2XPzw50','kLbVBMCHkGPGyga','C3bSAxq','kcGOlISPkYKRksSK','mJG4mdKYne5yzerQBG','D2vIC3m','lI4VBgfUz3vHz2u','re9xtKXpquq','cIPtAg9YDcbmAw5RoIOG','x19WCM90B19F','zgf0yq','BgvUz3rO','y29UC29Szq','z2v0vgLTzq','C2vUze1LC3nHz2u','u1bfrururvnux1jfu1vmva','u1bfrururvnusu5h','ndG4mJu3EhnRwgLV','yxbWBhK','z2v0u3rYAw5N','CMvWBhK','nJeWmdiWEgTOwfrO','zgvSzxrL','AMLK','D2fYBG','D2vI','v09ss1rzueu','oIOGygbG','DhjHy2u','nJviv2z6Dge','ChjPDMf0zq','kLbPBMC6kIbGyga','vvjm','BxnGygak','Aw5MBW','C3bLzwr0zxn0','nda3mtCWnvz1rvb3qq','Bg9N','C2vHCMnO','E30Uy29UC3rYDwn0B3iOiNjLDhvYBIb0AgLZiIKOicK','u1bfrururvnux0rfu0m','DgfIBgu','mLbiD0Hvuq','zxjYB3i','yMfUzhDPzhrO','ygbGugLUzYfGyga','ueLor19ervnd','ChvIBgLJ','CgLUzYq','Dg9tDhjPBMC','mZm1odG2nffgBMvLuG','BxnGyga','kK9YAwDPBMfSieXPBMS6kIa','C2HVCNrLBG','C2HVCNqGpYGUkIK','ndq2nZm2nu9IA0DuBa'];_0x5018=function(){return _0x24104e;};return _0x5018();}const Asena=require('../events'),{MessageType}=require('@adiwajshing/baileys'),speedTest=require(_0x2a7efb(-0xf,-0x6)),TinyURL=require('tinyurl'),Config=require(_0x2a7efb(-0x9,-0x1)),Language=require(_0x2a7efb(0x8,0x2b)),Lang=Language[_0x2a7efb(0x15,-0xa)](_0x2a7efb(0x1b,0x13));function _0x2a7efb(_0x546446,_0x18f2a4){return _0x52b7(_0x546446- -0xcf,_0x18f2a4);}const SLang=Language[_0x2a7efb(0x15,0x26)](_0x2a7efb(0x7,0x17));Asena[_0x2a7efb(-0xe,-0x9)]({'pattern':_0x2a7efb(0x25,0x1f),'fromMe':!![],'desc':Lang[_0x2a7efb(0x2a,0x18)]},async(_0x567162,_0x3cb97c)=>{var _0x3fe017=await _0x567162[_0x1dec65(0x455,0x45e)](Lang[_0x1dec65(0x447,0x45a)]),_0x4cda12=await speedTest({'acceptLicense':!![],'acceptGdpr':!![]});await _0x567162[_0x1dec65(0x465,0x44a)][_0x1dec65(0x44c,0x458)](_0x567162[_0x1dec65(0x44c,0x461)],Lang[_0x1dec65(0x444,0x459)]+'\x0a\x0a'+'*ISP:*\x20```'+_0x4cda12['isp']+_0x1dec65(0x463,0x441)+_0x1dec65(0x47d,0x469)+_0x4cda12['ping']['latency']+_0x1dec65(0x472,0x46b)+'*'+Lang['UPLOAD']+_0x1dec65(0x446,0x465)+speedText(_0x4cda12['upload'][_0x1dec65(0x478,0x476)])+'```\x0a'+'*'+Lang[_0x1dec65(0x448,0x451)]+_0x1dec65(0x463,0x465)+speedText(_0x4cda12['download'][_0x1dec65(0x467,0x476)])+_0x1dec65(0x44c,0x441),MessageType['text']);function _0x1dec65(_0xe129ed,_0x56183f){return _0x2a7efb(_0x56183f-0x448,_0xe129ed);}await _0x3fe017[_0x1dec65(0x464,0x460)]();}),Asena['addCommand']({'pattern':_0x2a7efb(0x32,0x50),'fromMe':!![],'deleteCommand':![],'desc':Lang[_0x2a7efb(0x30,0x42)]},async(_0x101be8,_0x39601e)=>{var _0x18366e=new Date()[_0x568c10(0x452,0x439)]();function _0x568c10(_0xd02f0e,_0x44d678){return _0x2a7efb(_0x44d678-0x42a,_0xd02f0e);}await _0x101be8['sendMessage'](_0x568c10(0x449,0x459));var _0x457974=new Date()[_0x568c10(0x445,0x439)]();await _0x101be8[_0x568c10(0x417,0x42c)][_0x568c10(0x43e,0x43a)](_0x101be8[_0x568c10(0x43c,0x443)],_0x568c10(0x414,0x42d)+(_0x457974-_0x18366e)+_0x568c10(0x453,0x45f),MessageType[_0x568c10(0x43b,0x41d)],{'quoted':_0x101be8[_0x568c10(0x416,0x436)]});});if(Config[_0x2a7efb(0x1c,0x26)]==_0x2a7efb(0x20,0x6))Asena['addCommand']({'pattern':_0x2a7efb(-0x11,0x7),'fromMe':!![],'desc':Lang['URL']},async(_0x4d039f,_0x2f7a28)=>{function _0x262e2d(_0x3e9a35,_0x1dd916){return _0x2a7efb(_0x3e9a35- -0x21e,_0x1dd916);}if(_0x2f7a28[0x1]==='')return await _0x4d039f[_0x262e2d(-0x21c,-0x216)]['sendMessage'](_0x4d039f[_0x262e2d(-0x205,-0x218)],SLang['LİNK'],MessageType[_0x262e2d(-0x22b,-0x24c)]);TinyURL['shorten'](''+_0x2f7a28[0x1],async(_0x303244,_0x2e7900)=>{if(_0x2e7900)await _0x4d039f['client']['sendMessage'](_0x4d039f[_0x1cc352(0xd,0x30)],_0x1cc352(0x1b,0xb)+_0x1cc352(0x2c,0x18)+_0x2e7900+'```',MessageType[_0x1cc352(0x26,0xa)]);function _0x1cc352(_0x157808,_0x5b828b){return _0x262e2d(_0x5b828b-0x235,_0x157808);}await _0x4d039f['client'][_0x1cc352(0x37,0x27)](_0x4d039f[_0x1cc352(0x43,0x30)],_0x1cc352(0x5b,0x4d)+_0x2f7a28[0x1]+_0x1cc352(0x1b,0x21)+_0x303244,MessageType[_0x1cc352(-0x8,0xa)]);});}),Asena[_0x2a7efb(-0xe,0xf)]({'pattern':_0x2a7efb(-0x2,0x1a),'fromMe':!![],'desc':Lang[_0x2a7efb(-0x1,-0x16)]},async(_0x496db7,_0x2c703f)=>{function _0x2a0e02(_0x1e6b9f,_0x30f009){return _0x2a7efb(_0x1e6b9f-0x115,_0x30f009);}if(_0x2c703f[0x1][_0x2a0e02(0x122,0x115)]<0x4)return await _0x496db7[_0x2a0e02(0x117,0x106)][_0x2a0e02(0x125,0x142)](_0x496db7[_0x2a0e02(0x12e,0x112)],Lang[_0x2a0e02(0x110,0x10f)],MessageType['text']);if(_0x2c703f[0x1][_0x2a0e02(0x112,0xf3)]('+')){var _0x2fae40=_0x2c703f[0x1][_0x2a0e02(0x119,0x12b)]('+'),_0x41a624=_0x2fae40[0x1],_0x377973=_0x2fae40[0x0],_0x161221=-(-_0x377973-_0x41a624);try{await _0x496db7[_0x2a0e02(0x117,0x12a)][_0x2a0e02(0x125,0x10a)](_0x496db7['jid'],Lang[_0x2a0e02(0x10d,0x104)]+_0x161221,MessageType[_0x2a0e02(0x108,0xf8)]);}catch(_0x43e39a){return await _0x496db7[_0x2a0e02(0x117,0x102)][_0x2a0e02(0x125,0x13e)](_0x496db7[_0x2a0e02(0x12e,0x153)],Lang[_0x2a0e02(0x115,0x137)]+_0x43e39a,MessageType[_0x2a0e02(0x108,0xe7)]);}}else{if(_0x2c703f[0x1][_0x2a0e02(0x112,0x107)]('-')){var _0x2fae40=_0x2c703f[0x1]['split']('-'),_0x52290a=_0x2fae40[0x1],_0x3cc65d=_0x2fae40[0x0],_0x161221=_0x3cc65d-_0x52290a;try{await _0x496db7[_0x2a0e02(0x117,0xf9)][_0x2a0e02(0x125,0x13a)](_0x496db7[_0x2a0e02(0x12e,0x142)],Lang['SUC']+_0x161221,MessageType['text']);}catch(_0x24770b){return await _0x496db7[_0x2a0e02(0x117,0xf4)][_0x2a0e02(0x125,0x133)](_0x496db7[_0x2a0e02(0x12e,0x147)],Lang[_0x2a0e02(0x115,0x10c)]+_0x24770b,MessageType[_0x2a0e02(0x108,0x128)]);}}else{if(_0x2c703f[0x1][_0x2a0e02(0x112,0xfb)]('x')){var _0x2fae40=_0x2c703f[0x1][_0x2a0e02(0x119,0x126)]('x'),_0x228836=_0x2fae40[0x1],_0x1eff24=_0x2fae40[0x0],_0x161221=_0x1eff24*_0x228836;try{await _0x496db7[_0x2a0e02(0x117,0x127)][_0x2a0e02(0x125,0x139)](_0x496db7[_0x2a0e02(0x12e,0x115)],Lang[_0x2a0e02(0x10d,0x109)]+_0x161221,MessageType[_0x2a0e02(0x108,0xf1)]);}catch(_0x4da94c){return await _0x496db7[_0x2a0e02(0x117,0x102)][_0x2a0e02(0x125,0x11b)](_0x496db7[_0x2a0e02(0x12e,0x11b)],Lang[_0x2a0e02(0x115,0xf4)]+_0x4da94c,MessageType[_0x2a0e02(0x108,0x123)]);}}else{if(_0x2c703f[0x1][_0x2a0e02(0x112,0x117)]('/')){var _0x2fae40=_0x2c703f[0x1]['split']('/'),_0x3e3061=_0x2fae40[0x1],_0x5de92b=_0x2fae40[0x0],_0x161221=_0x5de92b/_0x3e3061;try{await _0x496db7[_0x2a0e02(0x117,0x130)][_0x2a0e02(0x125,0x11a)](_0x496db7['jid'],Lang['SUC']+_0x161221,MessageType[_0x2a0e02(0x108,0xff)]);}catch(_0x104e05){return await _0x496db7[_0x2a0e02(0x117,0x11b)][_0x2a0e02(0x125,0x127)](_0x496db7[_0x2a0e02(0x12e,0x12d)],Lang[_0x2a0e02(0x115,0x11d)]+_0x104e05,MessageType[_0x2a0e02(0x108,0xe6)]);}}}}}});else Config[_0x2a7efb(0x1c,0x11)]==_0x2a7efb(0x31,0x49)&&(Asena[_0x2a7efb(-0xe,-0x2b)]({'pattern':'short\x20?(.*)','fromMe':![],'desc':Lang[_0x2a7efb(0x22,0x3)]},async(_0x513f69,_0x174f07)=>{function _0x4cc4da(_0x1a2c67,_0x15d989){return _0x2a7efb(_0x15d989- -0x22f,_0x1a2c67);}if(_0x174f07[0x1]==='')return await _0x513f69[_0x4cc4da(-0x230,-0x22d)]['sendMessage'](_0x513f69[_0x4cc4da(-0x228,-0x216)],SLang['LİNK'],MessageType['text']);TinyURL[_0x4cc4da(-0x1f8,-0x1f8)](''+_0x174f07[0x1],async(_0xed8ae4,_0x1ceade)=>{if(_0x1ceade)await _0x513f69[_0x362082(0xcc,0xc3)][_0x362082(0xee,0xd1)](_0x513f69[_0x362082(0xfa,0xda)],_0x362082(0xb3,0xb5)+_0x362082(0xae,0xc2)+_0x1ceade+_0x362082(0xda,0xc2),MessageType[_0x362082(0xa1,0xb4)]);function _0x362082(_0x4cbd42,_0x11503a){return _0x4cc4da(_0x4cbd42,_0x11503a-0x2f0);}await _0x513f69[_0x362082(0xb1,0xc3)]['sendMessage'](_0x513f69[_0x362082(0xb8,0xda)],_0x362082(0xf1,0xf7)+_0x174f07[0x1]+_0x362082(0xc2,0xcb)+_0xed8ae4,MessageType[_0x362082(0xcd,0xb4)]);});}),Asena[_0x2a7efb(-0xe,0x5)]({'pattern':_0x2a7efb(-0x2,-0x1a),'fromMe':![],'desc':Lang[_0x2a7efb(-0x1,-0x1a)]},async(_0x4b0358,_0x1a71ed)=>{if(_0x1a71ed[0x1][_0x44e9f2(0x169,0x15c)]<0x4)return await _0x4b0358[_0x44e9f2(0x15e,0x14e)][_0x44e9f2(0x16c,0x171)](_0x4b0358[_0x44e9f2(0x175,0x17c)],Lang[_0x44e9f2(0x157,0x134)],MessageType[_0x44e9f2(0x14f,0x142)]);function _0x44e9f2(_0x218d4c,_0x36743b){return _0x2a7efb(_0x218d4c-0x15c,_0x36743b);}if(_0x1a71ed[0x1][_0x44e9f2(0x159,0x165)]('+')){var _0x1e7024=_0x1a71ed[0x1][_0x44e9f2(0x160,0x162)]('+'),_0x440b13=_0x1e7024[0x1],_0x3c7809=_0x1e7024[0x0],_0xdd36ec=-(-_0x3c7809-_0x440b13);try{await _0x4b0358[_0x44e9f2(0x15e,0x15a)][_0x44e9f2(0x16c,0x148)](_0x4b0358['jid'],Lang[_0x44e9f2(0x154,0x137)]+_0xdd36ec,MessageType[_0x44e9f2(0x14f,0x15f)]);}catch(_0x155db2){return await _0x4b0358[_0x44e9f2(0x15e,0x14f)][_0x44e9f2(0x16c,0x156)](_0x4b0358[_0x44e9f2(0x175,0x17d)],Lang[_0x44e9f2(0x15c,0x148)]+_0x155db2,MessageType[_0x44e9f2(0x14f,0x172)]);}}else{if(_0x1a71ed[0x1][_0x44e9f2(0x159,0x17d)]('-')){var _0x1e7024=_0x1a71ed[0x1][_0x44e9f2(0x160,0x159)]('-'),_0x329419=_0x1e7024[0x1],_0x145f73=_0x1e7024[0x0],_0xdd36ec=_0x145f73-_0x329419;try{await _0x4b0358[_0x44e9f2(0x15e,0x14b)][_0x44e9f2(0x16c,0x17a)](_0x4b0358[_0x44e9f2(0x175,0x17b)],Lang[_0x44e9f2(0x154,0x15c)]+_0xdd36ec,MessageType[_0x44e9f2(0x14f,0x167)]);}catch(_0x2ecbd5){return await _0x4b0358[_0x44e9f2(0x15e,0x17a)][_0x44e9f2(0x16c,0x186)](_0x4b0358[_0x44e9f2(0x175,0x155)],Lang['UNSUC']+_0x2ecbd5,MessageType['text']);}}else{if(_0x1a71ed[0x1][_0x44e9f2(0x159,0x177)]('x')){var _0x1e7024=_0x1a71ed[0x1][_0x44e9f2(0x160,0x15e)]('x'),_0x1ad7d2=_0x1e7024[0x1],_0x5cc168=_0x1e7024[0x0],_0xdd36ec=_0x5cc168*_0x1ad7d2;try{await _0x4b0358[_0x44e9f2(0x15e,0x166)][_0x44e9f2(0x16c,0x162)](_0x4b0358[_0x44e9f2(0x175,0x16c)],Lang['SUC']+_0xdd36ec,MessageType['text']);}catch(_0x5643ee){return await _0x4b0358[_0x44e9f2(0x15e,0x139)][_0x44e9f2(0x16c,0x172)](_0x4b0358['jid'],Lang[_0x44e9f2(0x15c,0x143)]+_0x5643ee,MessageType[_0x44e9f2(0x14f,0x145)]);}}else{if(_0x1a71ed[0x1][_0x44e9f2(0x159,0x139)]('/')){var _0x1e7024=_0x1a71ed[0x1][_0x44e9f2(0x160,0x173)]('/'),_0x3b09f7=_0x1e7024[0x1],_0x2ba09b=_0x1e7024[0x0],_0xdd36ec=_0x2ba09b/_0x3b09f7;try{await _0x4b0358[_0x44e9f2(0x15e,0x155)][_0x44e9f2(0x16c,0x14d)](_0x4b0358[_0x44e9f2(0x175,0x158)],Lang[_0x44e9f2(0x154,0x15f)]+_0xdd36ec,MessageType[_0x44e9f2(0x14f,0x135)]);}catch(_0x30f05b){return await _0x4b0358[_0x44e9f2(0x15e,0x177)][_0x44e9f2(0x16c,0x18a)](_0x4b0358[_0x44e9f2(0x175,0x189)],Lang['UNSUC']+_0x30f05b,MessageType[_0x44e9f2(0x14f,0x165)]);}}}}}}));
+const Asena = require('../events');
+const {MessageType} = require('@adiwajshing/baileys');
+const speedTest = require('@lh2020/speedtest-net');
+const TinyURL = require('tinyurl');
+const Config = require('../config');
+
+const Language = require('../language');
+const Lang = Language.getString('web');
+const SLang = Language.getString('webss');
+
+/*
+var LANG = { RES: '' }
+if (Config.LANG == 'TR') LANG.RES == '*Komut Bulunamadı!*\n*Benzer Komut:*'
+if (Config.LANG == 'EN') LANG.RES == '*Command not Found!*\n*Similar Command:*'
+if (Config.LANG == 'AZ') LANG.RES == '*Komanda tapılmadı!*\n*Oxşar əmr:*'
+if (Config.LANG == 'PT') LANG.RES == '*Comando não encontrado!*\n*Comando Similar:*'
+if (Config.LANG == 'RU') LANG.RES == '*Команда не найдена!*\n*Аналогичная команда:*'
+if (Config.LANG == 'ID') LANG.RES == '*Perintah tidak ditemukan!*\n*Perintah serupa:*'
+if (Config.LANG == 'ES') LANG.RES == '*¡Comando no encontrado!*\n*Comando similar:*'
+if (Config.LANG == 'ML') LANG.RES == '*കമാൻഡ് കണ്ടില്ല!*\n*സമാന കമാൻഡ്:*'
+if (Config.LANG == 'HI') LANG.RES == '*यह कमांड नहीं मिला!*\n*समान कमांड:*'
+
+function editDistance(comm, wr) {
+  comm = comm.toLowerCase();
+  wr = wr.toLowerCase();
+
+  var costs = new Array();
+  for (var i = 0; i <= comm.length; i++) {
+    var lastValue = i;
+    for (var j = 0; j <= wr.length; j++) {
+      if (i == 0)
+        costs[j] = j;
+      else {
+        if (j > 0) {
+          var newValue = costs[j - 1];
+          if (comm.charAt(i - 1) != wr.charAt(j - 1))
+            newValue = Math.min(Math.min(newValue, lastValue),
+              costs[j]) + 1;
+          costs[j - 1] = lastValue;
+          lastValue = newValue;
+        }
+      }
+    }
+    if (i > 0)
+      costs[wr.length] = lastValue;
+  }
+  return costs[wr.length];
+}
+
+function similarity(comm, wr) {
+  var longer = comm;
+  var shorter = wr;
+  if (comm.length < wr.length) {
+    longer = wr;
+    shorter = comm;
+  }
+  var longerLength = longer.length;
+  if (longerLength == 0) {
+    return 1.0;
+  }
+  return (longerLength - editDistance(longer, shorter)) / parseFloat(longerLength);
+}
+
+Asena.addCommand({pattern: '?(.*)', fromMe: true, deleteCommand: false, dontAddCommandList: true}, (async (message, match) => {
+    var HANDLER = '';
+    if (/\[(\W*)\]/.test(Config.HANDLERS)) {
+        HANDLER = Config.HANDLERS.match(/\[(\W*)\]/)[1][0];
+    } else {
+        HANDLER = '.';
+    }
+    const id = message.jid
+    var usm = HANDLER + match[1]
+    var xmedia = await similarity('xmedia',HANDLER + match[1])
+    var install = await similarity('install',HANDLER + match[1])
+    var plugin = await similarity('plugin',HANDLER + match[1])
+    var remove = await similarity('remove',HANDLER + match[1])
+    // var ban = await similarity('ban',HANDLER + match[1])
+    // var add = await similarity('add',HANDLER + match[1])
+    var promote = await similarity('promote',HANDLER + match[1])
+    var demote = await similarity('demote',HANDLER + match[1])
+    // var mute = await similarity('mute',HANDLER + match[1])
+    // var unmute = await similarity('unmute',HANDLER + match[1])
+    var invite = await similarity('invite',HANDLER + match[1])
+    // var afk = await similarity('afk',HANDLER + match[1])
+    var carbon = await similarity('carbon',HANDLER + match[1])
+    var mp4audio = await similarity('mp4audio',HANDLER + match[1])
+    var imagesticker = await similarity('imagesticker',HANDLER + match[1])
+    var deepai = await similarity('deepai',HANDLER + match[1])
+    var term = await similarity('term',HANDLER + match[1])
+    var ffmpeg = await similarity('ffmpeg',HANDLER + match[1])
+    var filter = await similarity('filter',HANDLER + match[1])
+    // var stop = await similarity('stop',HANDLER + match[1])
+    var welcome = await similarity('welcome',HANDLER + match[1])
+    var goodbye = await similarity('goodbye',HANDLER + match[1])
+    var help = await similarity('help',HANDLER + match[1])
+    var degis = await similarity('degis',HANDLER + match[1])
+    var restart = await similarity('restart',HANDLER + match[1])
+    var shutdown = await similarity('shutdown',HANDLER + match[1])
+    var dyno = await similarity('dyno',HANDLER + match[1])
+    var setvar = await similarity('setvar',HANDLER + match[1])
+    var delvar = await similarity('delvar',HANDLER + match[1])
+    var getvar = await similarity('getvar',HANDLER + match[1])
+    var locate = await similarity('locate',HANDLER + match[1])
+    // var log = await similarity('log',HANDLER + match[1])
+    var meme = await similarity('meme',HANDLER + match[1])
+    var neko = await similarity('neko',HANDLER + match[1])
+    var notes = await similarity('notes',HANDLER + match[1])
+    // var save = await similarity('save',HANDLER + match[1])
+    var deleteNotes = await similarity('deleteNotes',HANDLER + match[1])
+    // var ocr = await similarity('ocr',HANDLER + match[1])
+    var kickme = await similarity('kickme',HANDLER + match[1])
+    // var pp = await similarity('pp',HANDLER + match[1])
+    // var block = await similarity('block',HANDLER + match[1])
+    // var unblock = await similarity('unblock',HANDLER + match[1])
+    var jid = await similarity('jid',HANDLER + match[1])
+    var removebg = await similarity('removebg',HANDLER + match[1])
+    var report = await similarity('report',HANDLER + match[1])
+    var scam = await similarity('scam',HANDLER + match[1])
+    var scan = await similarity('scan',HANDLER + match[1])
+    var trt = await similarity('trt',HANDLER + match[1])
+    var currency = await similarity('currency',HANDLER + match[1])
+    var tts = await similarity('tts',HANDLER + match[1])
+    
+    var song = await similarity('song',HANDLER + match[1])
+    var video = await similarity('video',HANDLER + match[1])
+    // var yt = await similarity('yt',HANDLER + match[1])
+    var wiki = await similarity('wiki',HANDLER + match[1])
+    // var img = await similarity('img',HANDLER + match[1])
+    var github = await similarity('github',HANDLER + match[1])
+    var lyric = await similarity('lyric',HANDLER + match[1])
+    var covid = await similarity('covid',HANDLER + match[1])
+    // var ss = await similarity('ss',HANDLER + match[1])
+    var insta = await similarity('insta',HANDLER + match[1])
+    var animesay = await similarity('animesay',HANDLER + match[1])
+    var changesay = await similarity('changesay',HANDLER + match[1])
+    var trumpsay = await similarity('trumpsay',HANDLER + match[1])
+    var audiospam = await similarity('audio spam',HANDLER + match[1])
+    var fotospam = await similarity('foto spam',HANDLER + match[1])
+    var stickerspam = await similarity('sticker spam',HANDLER + match[1])
+    var vidspam = await similarity('vid spam',HANDLER + match[1])
+    var killspam = await similarity('killspam',HANDLER + match[1])
+    
+    var spam = await similarity('spam',HANDLER + match[1])
+    var sticker = await similarity('sticker',HANDLER + match[1])
+    var alive = await similarity('alive',usm)
+    var sysd = await similarity('sysd',HANDLER + match[1])
+    var tagadmin = await similarity('tagadmin',HANDLER + match[1])
+    var tagall = await similarity('tagall',HANDLER + match[1])
+    var tblend = await similarity('tblend',HANDLER + match[1])
+    // var ttp = await similarity('ttp',HANDLER + match[1])
+    // var attp = await similarity('attp',HANDLER + match[1])
+    var glowttp = await similarity('glowttp',HANDLER + match[1])
+    var unvoice = await similarity('unvoice',HANDLER + match[1])
+    // var update = await similarity('update',HANDLER + match[1])
+    // var updatenow = await similarity('update now',HANDLER + match[1])
+    var voicy = await similarity('voicy',HANDLER + match[1])
+    var wallpaper = await similarity('wallpaper',HANDLER + match[1])
+    var weather = await similarity('weather',HANDLER + match[1])
+    var speedtest = await similarity('speedtest',HANDLER + match[1])
+    var ping = await similarity('ping',HANDLER + match[1])
+    var short = await similarity('short',HANDLER + match[1])
+    var calc = await similarity('calc',HANDLER + match[1])
+    var whois = await similarity('whois',HANDLER + match[1])
+    var mp4enhance = await similarity('mp4enhance',HANDLER + match[1])
+    var interp = await similarity('interp',HANDLER + match[1])
+    var mp4slowmo = await similarity('mp4slowmo',HANDLER + match[1])
+    var x4mp4 = await similarity('x4mp4',HANDLER + match[1])
+    var x2mp4 = await similarity('x2mp4',HANDLER + match[1])
+    var gif = await similarity('gif',HANDLER + match[1])
+    var agif = await similarity('agif',HANDLER + match[1])
+    var mp4blur = await similarity('mp4blur',HANDLER + match[1])
+    var mp4stab = await similarity('mp4stab',HANDLER + match[1])
+    var mp4rainbow = await similarity('mp4rainbow',HANDLER + match[1])
+    var mp4color = await similarity('mp4color',HANDLER + match[1])
+    var mp4art = await similarity('mp4art',HANDLER + match[1])
+    var mp4negative = await similarity('mp4negative',HANDLER + match[1])
+    var mp4vintage = await similarity('mp4vintage',HANDLER + match[1])
+    var mp4bw = await similarity('mp4bw',HANDLER + match[1])
+    var mp4reverse = await similarity('mp4reverse',HANDLER + match[1])
+    var mp4edge = await similarity('mp4enge',HANDLER + match[1])
+    var mp4image = await similarity('mp4image',HANDLER + match[1])
+    var spectrum = await similarity('spectrum',HANDLER + match[1])
+    var waves = await similarity('waves',HANDLER + match[1])
+    var frequency = await similarity('frequency',HANDLER + match[1])
+    var avec = await similarity('avec',HANDLER + match[1])
+    var volumeaudio = await similarity('volumeaudio',HANDLER + match[1])
+    var cqtaudio = await similarity('cqtaudio',HANDLER + match[1])
+    var mp3eq = await similarity('mp3eq',HANDLER + match[1])
+    var mp3crusher = await similarity('mp3crusher',HANDLER + match[1])
+    var mp3reverse = await similarity('mp3reverse',HANDLER + match[1])
+    var mp3pitch = await similarity('mp3pitch',HANDLER + match[1])
+    var mp3low = await similarity('mp3low',HANDLER + match[1])
+    var x2mp3 = await similarity('x2mp3',HANDLER + match[1])
+    var mp3volume = await similarity('mp3volume',HANDLER + match[1])
+    var bwimage = await similarity('bwimage',HANDLER + match[1])
+    var vintageimage = await similarity('vintageimage',HANDLER + match[1])
+    var edgeimage = await similarity('edgeimage',HANDLER + match[1])
+    var enhanceimage = await similarity('enhanceimage',HANDLER + match[1])
+    var blurimage = await similarity('blurimage',HANDLER + match[1])
+    var grenimage = await similarity('grenimage',HANDLER + match[1])
+    var negativeimage = await similarity('negativeimage',HANDLER + match[1])
+    var rainbowimage = await similarity('rainbowimage',HANDLER + match[1])
+    var colorimage = await similarity('colorimage',HANDLER + match[1])
+    var artimage = await similarity('artimage',HANDLER + match[1])
+    var moodai = await similarity('moodai',HANDLER + match[1])
+    var colorai = await similarity('colorai',HANDLER + match[1])
+    var superai = await similarity('superai',HANDLER + match[1])
+    var waifuai = await similarity('waifuai',HANDLER + match[1])
+    var dreamai = await similarity('dreamai',HANDLER + match[1])
+    var neuraltalkai = await similarity('neuraltalkai',HANDLER + match[1])
+    var ttiai = await similarity('ttiai',HANDLER + match[1])
+    var toonai = await similarity('toonai',HANDLER + match[1])
+    var textai = await similarity('textai',HANDLER + match[1])
+    var nudityai = await similarity('nudityai',HANDLER + match[1])
+    var ganstyle = await similarity('ganstyle',HANDLER + match[1])  
+    
+    if (message.message.startsWith(HANDLER)) {  
+        if (xmedia > 0.6 && !match[1].includes('xmedia')) { return await message.client.sendMessage(id,LANG.RES + ' ```$xmedia```', MessageType.text) }
+        // else if (install > 0.6 && !match[1].includes('install')) { return await message.client.sendMessage(id,LANG.RES + ' ```$install```', MessageType.text) }
+        else if (plugin > 0.6 && !match[1].includes('plugin')) { return await message.client.sendMessage(id,LANG.RES + ' ```$plugin```', MessageType.text) }
+        else if (remove > 0.6 && !match[1].includes('remove')) { return await message.client.sendMessage(id,LANG.RES + ' ```$remove```', MessageType.text) }
+        // else if (ban > 0.6 && !match[1].includes('ban')) { return await message.client.sendMessage(id,LANG.RES + ' ```$ban```', MessageType.text) }
+        // else if (add > 0.6 && !match[1].includes('add')) { return await message.client.sendMessage(id,LANG.RES + ' ```$add```', MessageType.text) }
+        else if (promote > 0.6 && !match[1].includes('promote')) { return await message.client.sendMessage(id,LANG.RES + ' ```$promote```', MessageType.text) }
+        else if (demote> 0.6 && !match[1].includes('demote')) { return await message.client.sendMessage(id,LANG.RES + ' ```$demote```', MessageType.text) }
+        // else if (mute > 0.6 && !match[1].includes('mute')) { return await message.client.sendMessage(id,LANG.RES + ' ```$mute```', MessageType.text) }
+        // else if (unmute > 0.6 && !match[1].includes('unmute')) { return await message.client.sendMessage(id,LANG.RES + ' ```$unmute```', MessageType.text) }
+        else if (invite > 0.6 && !match[1].includes('invite')) { return await message.client.sendMessage(id,LANG.RES + ' ```$invite```', MessageType.text) }
+        // else if (afk > 0.6 && !match[1].includes('afk')) { return await message.client.sendMessage(id,LANG.RES + ' ```$afk```', MessageType.text) }
+        else if (carbon > 0.6 && !match[1].includes('carbon')) { return await message.client.sendMessage(id,LANG.RES + ' ```$carbon```', MessageType.text) }
+        else if (mp4audio > 0.6 && !match[1].includes('mp4audio')) { return await message.client.sendMessage(id,LANG.RES + ' ```$mp4audio```', MessageType.text) }
+        else if (deepai > 0.6 && !match[1].includes('deepai')) { return await message.client.sendMessage(id,LANG.RES + ' ```$deepai```', MessageType.text) }
+        else if (term > 0.6 && !match[1].includes('term')) { return await message.client.sendMessage(id,LANG.RES + ' ```$term```', MessageType.text) }
+        else if (ffmpeg > 0.6 && !match[1].includes('ffmpeg')) { return await message.client.sendMessage(id,LANG.RES + ' ```$ffmpeg```', MessageType.text) }
+        else if (filter > 0.6 && !match[1].includes('filter')) { return await message.client.sendMessage(id,LANG.RES + ' ```$filter```', MessageType.text) }
+        // else if (stop > 0.6 && !match[1].includes('stop')) { return await message.client.sendMessage(id,LANG.RES + ' ```$stop```', MessageType.text) }
+        else if (welcome > 0.6 && !match[1].includes('welcome')) { return await message.client.sendMessage(id,LANG.RES + ' ```$welcome```', MessageType.text) }
+        else if (goodbye > 0.6 && !match[1].includes('goodbye')) { return await message.client.sendMessage(id,LANG.RES + ' ```$goodbye```', MessageType.text) }
+        else if (help> 0.6 && !match[1].includes('help')) { return await message.client.sendMessage(id,LANG.RES + ' ```$help```', MessageType.text) }
+        else if (degis > 0.6 && !match[1].includes('degis')) { return await message.client.sendMessage(id,LANG.RES + ' ```$degis```', MessageType.text) }
+        else if (restart > 0.6 && !match[1].includes('restart')) { return await message.client.sendMessage(id,LANG.RES + ' ```$restart```', MessageType.text) }
+        else if (shutdown > 0.6 && !match[1].includes('shutdown')) { return await message.client.sendMessage(id,LANG.RES + ' ```$shutdown```', MessageType.text) }
+        else if (dyno> 0.6 && !match[1].includes('dyno')) { return await message.client.sendMessage(id,LANG.RES + ' ```$dyno```', MessageType.text) }
+        else if (setvar > 0.6 && !match[1].includes('setvar')) { return await message.client.sendMessage(id,LANG.RES + ' ```$setvar```', MessageType.text) }
+        else if (delvar > 0.6 && !match[1].includes('delvar')) { return await message.client.sendMessage(id,LANG.RES + ' ```$delvar```', MessageType.text) }
+        else if (getvar > 0.6 && !match[1].includes('getvar')) { return await message.client.sendMessage(id,LANG.RES + ' ```$getvar```', MessageType.text) }
+        
+        else if (locate > 0.6 && !match[1].includes('locate')) { return await message.client.sendMessage(id,LANG.RES + ' ```$locate```', MessageType.text) }
+        // else if (log > 0.6 && !match[1].includes('log')) { return await message.client.sendMessage(id,LANG.RES + ' ```$log```', MessageType.text) }
+        else if (meme> 0.6 && !match[1].includes('meme')) { return await message.client.sendMessage(id,LANG.RES + ' ```$meme```', MessageType.text) }
+        else if (neko > 0.6 && !match[1].includes('neko')) { return await message.client.sendMessage(id,LANG.RES + ' ```$neko```', MessageType.text) }
+        else if (notes > 0.6 && !match[1].includes('notes')) { return await message.client.sendMessage(id,LANG.RES + ' ```$notes```', MessageType.text) }
+        // else if (save > 0.6 && !match[1].includes('save')) { return await message.client.sendMessage(id,LANG.RES + ' ```$save```', MessageType.text) }
+        else if (deleteNotes > 0.6 && !match[1].includes('deleteNotes')) { return await message.client.sendMessage(id,LANG.RES + ' ```$deleteNotes```', MessageType.text) }
+        // else if (ocr > 0.6 && !match[1].includes('ocr')) { return await message.client.sendMessage(id,LANG.RES + ' $ocr', MessageType.text) } 
+        else if (kickme > 0.6 && !match[1].includes('kickme')) { return await message.client.sendMessage(id,LANG.RES + ' $kickme', MessageType.text) }
+        // else if (pp > 0.6 && !match[1].includes('pp')) { return await message.client.sendMessage(id,LANG.RES + ' $pp', MessageType.text) }
+        // else if (block > 0.6 && !match[1].includes('block')) { return await message.client.sendMessage(id,LANG.RES + ' $block', MessageType.text) }
+        // else if (unblock > 0.6 && !match[1].includes('unblock')) { return await message.client.sendMessage(id,LANG.RES + ' $unblock', MessageType.text) }
+        else if (jid > 0.6 && !match[1].includes('jid')) { return await message.client.sendMessage(id,LANG.RES + ' $jid', MessageType.text) }
+        else if (removebg > 0.6 && !match[1].includes('removebg')) { return await message.client.sendMessage(id,LANG.RES + ' $removebg', MessageType.text) }
+        else if (report > 0.6 && !match[1].includes('report')) { return await message.client.sendMessage(id,LANG.RES + ' $report', MessageType.text) }
+        // else if (scam > 0.6 && !match[1].includes('scam')) { return await message.client.sendMessage(id,LANG.RES + ' $scam', MessageType.text) }
+        // else if (scan > 0.6 && !match[1].includes('scan')) { return await message.client.sendMessage(id,LANG.RES + ' $scan', MessageType.text) }
+        // else if (trt > 0.6 && !match[1].includes('trt')) { return await message.client.sendMessage(id,LANG.RES + ' $trt', MessageType.text) }
+        // else if (currency > 0.6 && !match[1].includes('currency')) { return await message.client.sendMessage(id,LANG.RES + ' $currency', MessageType.text) }
+        // else if (tts > 0.6 && !match[1].includes('tts')) { return await message.client.sendMessage(id,LANG.RES + ' $tts', MessageType.text) }
+        else if (song > 0.6 && !match[1].includes('song')) { return await message.client.sendMessage(id,LANG.RES + ' $song', MessageType.text) }
+        else if (video > 0.6 && !match[1].includes('video')) { return await message.client.sendMessage(id,LANG.RES + ' $video', MessageType.text) }
+        // else if (yt > 0.6 && !match[1].includes('yt')) { return await message.client.sendMessage(id,LANG.RES + ' $yt', MessageType.text) }
+        else if (wiki > 0.6 && !match[1].includes('wiki')) { return await message.client.sendMessage(id,LANG.RES + ' $wiki', MessageType.text) }
+        // else if (img > 0.6 && !match[1].includes('img')) { return await message.client.sendMessage(id,LANG.RES + ' $img', MessageType.text) }
+        else if (github > 0.6 && !match[1].includes('github')) { return await message.client.sendMessage(id,LANG.RES + ' $github', MessageType.text) }
+        else if (lyric > 0.6 && !match[1].includes('lyric')) { return await message.client.sendMessage(id,LANG.RES + ' $lyric', MessageType.text) }
+        else if (covid > 0.6 && !match[1].includes('covid')) { return await message.client.sendMessage(id,LANG.RES + ' $covid', MessageType.text) }
+        // else if (ss > 0.6 && !match[1].includes('ss')) { return await message.client.sendMessage(id,LANG.RES + ' $ss', MessageType.text) }
+        else if (insta > 0.6 && !match[1].includes('insta')) { return await message.client.sendMessage(id,LANG.RES + ' $insta', MessageType.text) }
+        else if (animesay > 0.6 && !match[1].includes('animesay')) { return await message.client.sendMessage(id,LANG.RES + ' $animesay', MessageType.text) }
+        else if (changesay > 0.6 && !match[1].includes('changesay')) { return await message.client.sendMessage(id,LANG.RES + ' $changesay', MessageType.text) }
+        else if (trumpsay > 0.6 && !match[1].includes('trumpsay')) { return await message.client.sendMessage(id,LANG.RES + ' $trumpsay', MessageType.text) }
+        else if (audiospam > 0.6 && !match[1].includes('audio spam')) { return await message.client.sendMessage(id,LANG.RES + ' $audio spam', MessageType.text) }
+        else if (fotospam > 0.6 && !match[1].includes('foto spam')) { return await message.client.sendMessage(id,LANG.RES + ' $foto spam', MessageType.text) }
+        else if (stickerspam > 0.6 && !match[1].includes('sticker spam')) { return await message.client.sendMessage(id,LANG.RES + ' $sticker spam', MessageType.text) }
+        else if (vidspam > 0.6 && !match[1].includes('vid spam')) { return await message.client.sendMessage(id,LANG.RES + ' $vid spam', MessageType.text) }
+        
+        else if (killspam > 0.6 && !match[1].includes('killspam')) { return await message.client.sendMessage(id,LANG.RES + ' $killspam', MessageType.text) }
+        else if (spam > 0.6 && !match[1].includes('spam')) { return await message.client.sendMessage(id,LANG.RES + ' $spam', MessageType.text) }
+        else if (sticker > 0.6 && !match[1].includes('sticker')) { return await message.client.sendMessage(id,LANG.RES + ' $sticker', MessageType.text) }
+        else if (alive > 0.6 && !match[1].includes('alive')) { return await message.client.sendMessage(id,LANG.RES + ' $alive', MessageType.text) }
+        else if (sysd > 0.6 && !match[1].includes('sysd')) { return await message.client.sendMessage(id,LANG.RES + ' $sysd', MessageType.text) }
+        else if (tagadmin > 0.6 && !match[1].includes('tagadmin')) { return await message.client.sendMessage(id,LANG.RES + ' $tagadmin', MessageType.text) }
+        else if (tagall > 0.6 && !match[1].includes('tagall')) { return await message.client.sendMessage(id,LANG.RES + ' $taggall', MessageType.text) }
+        else if (tblend > 0.6 && !match[1].includes('tblend')) { return await message.client.sendMessage(id,LANG.RES + ' $tblend', MessageType.text) }
+        // else if (ttp > 0.6 && !match[1].includes('ttp')) { return await message.client.sendMessage(id,LANG.RES + ' $ttp', MessageType.text) }
+        // else if (attp > 0.6 && !match[1].includes('attp')) { return await message.client.sendMessage(id,LANG.RES + ' $attp', MessageType.text) }
+        else if (glowttp > 0.6 && !match[1].includes('glowttp')) { return await message.client.sendMessage(id,LANG.RES + ' $glowttp', MessageType.text) }
+        else if (unvoice > 0.6 && !match[1].includes('unvoice')) { return await message.client.sendMessage(id,LANG.RES + ' $unvoice', MessageType.text) }
+        // else if (update > 0.6 && !match[1].includes('update' && !match[1].includes('update now')) { return await message.client.sendMessage(id,LANG.RES + ' $update', MessageType.text) }
+        // else if (updatenow > 0.6 && !match[1].includes('update now')) { return await message.client.sendMessage(id,LANG.RES + ' $updatenow', MessageType.text) }
+        else if (voicy > 0.6 && !match[1].includes('voicy')) { return await message.client.sendMessage(id,LANG.RES + ' $voicy', MessageType.text) }
+        else if (wallpaper > 0.6 && !match[1].includes('wallpaper')) { return await message.client.sendMessage(id,LANG.RES + ' $wallpaper', MessageType.text) }
+        else if (weather > 0.6 && !match[1].includes('weather')) { return await message.client.sendMessage(id,LANG.RES + ' $weather', MessageType.text) }
+        else if (speedtest > 0.6 && !match[1].includes('speedtest')) { return await message.client.sendMessage(id,LANG.RES + ' $speedtest', MessageType.text) }
+        else if (ping > 0.6 && !match[1].includes('ping')) { return await message.client.sendMessage(id,LANG.RES + ' $ping', MessageType.text) }
+        else if (short > 0.6 && !match[1].includes('short')) { return await message.client.sendMessage(id,LANG.RES + ' $short', MessageType.text) }
+        else if (calc > 0.6 && !match[1].includes('calc')) { return await message.client.sendMessage(id,LANG.RES + ' $calc', MessageType.text) }
+        else if (whois > 0.6 && !match[1].includes('whois')) { return await message.client.sendMessage(id,LANG.RES + ' $whois', MessageType.text) }
+        else if (mp4enhance > 0.6 && !match[1].includes('mp4enhance')) { return await message.client.sendMessage(id,LANG.RES + ' $mp4enhance', MessageType.text) }
+        else if (interp > 0.6 && !match[1].includes('interp')) { return await message.client.sendMessage(id,LANG.RES + ' $img', MessageType.text) }
+        else if (mp4slowmo > 0.6 && !match[1].includes('mp4slowmo')) { return await message.client.sendMessage(id,LANG.RES + ' $mp4slowmo', MessageType.text) }
+        else if (x4mp4 > 0.6 && !match[1].includes('x4mp4')) { return await message.client.sendMessage(id,LANG.RES + ' $x4mp4', MessageType.text) }
+        else if (x2mp4 > 0.6 && !match[1].includes('x2mp4')) { return await message.client.sendMessage(id,LANG.RES + ' $x2mp4', MessageType.text) }
+        else if (gif > 0.6 && !match[1].includes('gif')) { return await message.client.sendMessage(id,LANG.RES + ' $gif', MessageType.text) }
+        else if (agif > 0.6 && !match[1].includes('agif')) { return await message.client.sendMessage(id,LANG.RES + ' $agif', MessageType.text) }
+        else if (mp4blur > 0.6 && !match[1].includes('mp4blur')) { return await message.client.sendMessage(id,LANG.RES + ' $mp4blur', MessageType.text) }
+        else if (mp4stab > 0.6 && !match[1].includes('mp4stab')) { return await message.client.sendMessage(id,LANG.RES + ' ```$mp4stab```', MessageType.text) }
+        else if (mp4rainbow > 0.6 && !match[1].includes('mp4rainbow')) { return await message.client.sendMessage(id,LANG.RES + ' ```$mp4rainbow```', MessageType.text) }
+        else if (mp4color > 0.6 && !match[1].includes('mp4color')) { return await message.client.sendMessage(id,LANG.RES + ' ```$mp4color```', MessageType.text) }
+        else if (mp4art > 0.6 && !match[1].includes('mp4art')) { return await message.client.sendMessage(id,LANG.RES + ' ```$mp4art```', MessageType.text) }
+        else if (mp4negative > 0.6 && !match[1].includes('mp4negative')) { return await message.client.sendMessage(id,LANG.RES + ' ```$mp4negative```', MessageType.text) }
+        else if (mp4vintage > 0.6 && !match[1].includes('mp4vintage')) { return await message.client.sendMessage(id,LANG.RES + ' ```$mp4vintage```', MessageType.text) }
+        else if (mp4bw > 0.6 && !match[1].includes('mp4bw')) { return await message.client.sendMessage(id,LANG.RES + ' ```$mp4bw```', MessageType.text) }
+        else if (mp4reverse > 0.6 && !match[1].includes('mp4reverse')) { return await message.client.sendMessage(id,LANG.RES + ' ```$mp4reverse```', MessageType.text) }
+        else if (mp4edge > 0.6 && !match[1].includes('mp4edge')) { return await message.client.sendMessage(id,LANG.RES + ' ```$mp4edge```', MessageType.text) }
+        else if (mp4image > 0.6 && !match[1].includes('mp4image')) { return await message.client.sendMessage(id,LANG.RES + ' ```$mp4image```', MessageType.text) }
+        else if (spectrum > 0.6 && !match[1].includes('spectrum')) { return await message.client.sendMessage(id,LANG.RES + ' ```$spectrum```', MessageType.text) }
+        else if (waves > 0.6 && !match[1].includes('waves')) { return await message.client.sendMessage(id,LANG.RES + ' ```$waves```', MessageType.text) }
+        else if (frequency > 0.6 && !match[1].includes('frequency')) { return await message.client.sendMessage(id,LANG.RES + ' ```$frequency```', MessageType.text) }
+        else if (avec > 0.6 && !match[1].includes('avec')) { return await message.client.sendMessage(id,LANG.RES + ' ```$avec```', MessageType.text) }
+        else if (volumeaudio > 0.6 && !match[1].includes('volumeaudio')) { return await message.client.sendMessage(id,LANG.RES + ' ```$volumeaudio```', MessageType.text) }
+        else if (cqtaudio > 0.6 && !match[1].includes('cqtaudio')) { return await message.client.sendMessage(id,LANG.RES + ' ```$cqtaudio```', MessageType.text) }
+        else if (mp3eq > 0.6 && !match[1].includes('mp3eq')) { return await message.client.sendMessage(id,LANG.RES + ' ```$mp3eq```', MessageType.text) }
+        else if (mp3crusher > 0.6 && !match[1].includes('mp3crusher')) { return await message.client.sendMessage(id,LANG.RES + ' ```$mp3crusher```', MessageType.text) }
+        else if (mp3reverse > 0.6 && !match[1].includes('mp3reverse')) { return await message.client.sendMessage(id,LANG.RES + ' ```$mp3reverse```', MessageType.text) }
+        else if (mp3pitch > 0.6 && !match[1].includes('mp3pitch')) { return await message.client.sendMessage(id,LANG.RES + ' ```$mp3pitch```', MessageType.text) }
+        else if (mp3low > 0.6 && !match[1].includes('mp3low')) { return await message.client.sendMessage(id,LANG.RES + ' ```$mp3low```', MessageType.text) }
+        else if (x2mp3 > 0.6 && !match[1].includes('x2mp3')) { return await message.client.sendMessage(id,LANG.RES + ' ```$x2mp3```', MessageType.text) }
+        else if (mp3volume > 0.6 && !match[1].includes('mp3volume')) { return await message.client.sendMessage(id,LANG.RES + ' ```$mp3volume```', MessageType.text) }
+        else if (bwimage > 0.6 && !match[1].includes('bwimage')) { return await message.client.sendMessage(id,LANG.RES + ' ```$bwimage```', MessageType.text) }
+        else if (vintageimage > 0.6 && !match[1].includes('vintageimage')) { return await message.client.sendMessage(id,LANG.RES + ' ```$vintageimage```', MessageType.text) }
+        else if (edgeimage > 0.6 && !match[1].includes('edgeimage')) { return await message.client.sendMessage(id,LANG.RES + ' ```$edgeimage```', MessageType.text) }
+        else if (enhanceimage > 0.6 && !match[1].includes('enhanceimage')) { return await message.client.sendMessage(id,LANG.RES + ' ```$enhanceimage```', MessageType.text) }
+        else if (blurimage > 0.6 && !match[1].includes('blurimage')) { return await message.client.sendMessage(id,LANG.RES + ' ```$blurimage```', MessageType.text) }
+        else if (grenimage > 0.6 && !match[1].includes('grenimage')) { return await message.client.sendMessage(id,LANG.RES + ' ```$grenimage```', MessageType.text) }
+        else if (negativeimage> 0.6 && !match[1].includes('negativeimage')) { return await message.client.sendMessage(id,LANG.RES + ' ```$negativeimage```', MessageType.text) }
+        else if (rainbowimage > 0.6 && !match[1].includes('rainbowimage')) { return await message.client.sendMessage(id,LANG.RES + ' ```$rainbowimage```', MessageType.text) }
+        else if (colorimage > 0.6 && !match[1].includes('colorimage')) { return await message.client.sendMessage(id,LANG.RES + ' ```$colorimage```', MessageType.text) }
+        else if (artimage > 0.6 && !match[1].includes('artimage')) { return await message.client.sendMessage(id,LANG.RES + ' ```$artimage```', MessageType.text) }
+        else if (moodai > 0.6 && !match[1].includes('moodai')) { return await message.client.sendMessage(id,LANG.RES + ' ```$moodai```', MessageType.text) }
+        else if (colorai > 0.6 && !match[1].includes('colorai')) { return await message.client.sendMessage(id,LANG.RES + ' ```$colorai```', MessageType.text) }
+        else if (superai > 0.6 && !match[1].includes('superai')) { return await message.client.sendMessage(id,LANG.RES + ' ```$superai```', MessageType.text) }
+        else if (waifuai > 0.6 && !match[1].includes('waifuai')) { return await message.client.sendMessage(id,LANG.RES + ' ```$waifuai```', MessageType.text) }
+        else if (dreamai > 0.6 && !match[1].includes('dreamai')) { return await message.client.sendMessage(id,LANG.RES + ' ```$dreamai```', MessageType.text) }
+        else if (neuraltalkai > 0.6 && !match[1].includes('neuraltalkai')) { return await message.client.sendMessage(id,LANG.RES + ' ```$neuraltalkai```', MessageType.text) }
+        else if (ttiai > 0.6 && !match[1].includes('ttiai')) { return await message.client.sendMessage(id,LANG.RES + ' ```$ttiai```', MessageType.text) }
+        else if (toonai > 0.6 && !match[1].includes('toonai')) { return await message.client.sendMessage(id,LANG.RES + ' ```$toonai```', MessageType.text) }
+        else if (textai > 0.6 && !match[1].includes('textai')) { return await message.client.sendMessage(id,LANG.RES + ' ```$textai```', MessageType.text) }
+        else if (nudityai > 0.6 && !match[1].includes('nudityai')) { return await message.client.sendMessage(id,LANG.RES + ' ```$nudityai```', MessageType.text) }
+        else if (ganstyle > 0.6 && !match[1].includes('ganstyle')) { return await message.client.sendMessage(id,LANG.RES + ' ```$ganstlye```', MessageType.text) }
+        
+    }
+}));
+
+function speedText(speed) {
+    let bits = speed * 8;
+    const units = ['', 'K', 'M', 'G', 'T'];
+    const places = [0, 1, 2, 3, 3];
+    let unit = 0;
+    while (bits >= 2000 && unit < 4) {
+      unit++;
+      bits /= 1000;
+    }
+
+    return `${bits.toFixed(places[unit])} ${units[unit]}bps`;
+}
+*/
+// https://github.com/ddsol/speedtest.net/blob/master/bin/index.js#L86
+Asena.addCommand({pattern: 'speedtest', fromMe: true, desc: Lang.SPEEDTEST_DESC}, (async (message, match) => {
+    var msg = await message.reply(Lang.SPEEDTESTING);
+    var st = await speedTest({acceptLicense: true, acceptGdpr: true});
+    
+    await message.client.sendMessage(
+      message.jid,Lang.SPEEDTEST_RESULT + '\n\n' + 
+    '*ISP:* ```' + st.isp + '```\n' +
+    '*Ping:* ```' + st.ping.latency + 'ms```\n' +
+    '*' + Lang.UPLOAD + ':* ```' + speedText(st.upload.bandwidth) + '```\n' +
+    '*' + Lang.DOWNLOAD + ':* ```' + speedText(st.download.bandwidth) + '```\n',MessageType.text
+    );
+    await msg.delete();
+}));
+
+Asena.addCommand({pattern: 'ping$', fromMe: true, deleteCommand: false, desc: Lang.PING_DESC}, (async (message, match) => {
+  var start = new Date().getTime();
+  await message.sendMessage('```Ping!```');
+  var end = new Date().getTime();
+
+  await message.client.sendMessage(
+    message.jid,'*Pong!*\n```' + (end - start) + 'ms```', MessageType.text, { quoted: message.data });
+}));
+
+if (Config.WORKTYPE == 'private') {
+
+    Asena.addCommand({pattern: 'short ?(.*)', fromMe: true, desc: Lang.URL}, (async (message, match) => {
+
+        if (match[1] === '') return await message.client.sendMessage(message.jid, SLang.LİNK, MessageType.text);
+
+        TinyURL.shorten(`${match[1]}`, async(res, err) => {
+          if (err)
+            await message.client.sendMessage(message.jid, '*#### Error! ####*\n\n' + '```' + err + '```', MessageType.text);
+
+            await message.client.sendMessage(message.jid,`*Original Link:* ${match[1]}\n*Short Link:* ` + res, MessageType.text)
+        });
+    }));
+    Asena.addCommand({pattern: 'calc ?(.*)', fromMe: true, desc: Lang.CALC }, (async (message, match) => {
+        if (match[1].length < 4) { return await message.client.sendMessage(message.jid,Lang.VALİD, MessageType.text) }
+        if (match[1].includes('+')) { var split = match[1].split('+'), sonsayi = split[1], ilksayi = split[0]
+            var result = -(-ilksayi - sonsayi)
+            try { await message.client.sendMessage(message.jid,Lang.SUC + result, MessageType.text) }
+            catch (err) { return await message.client.sendMessage(message.jid,Lang.UNSUC + err,MessageType.text);
+            }
+        }
+        else if (match[1].includes('-')) { var split = match[1].split('-'), sonsayicik = split[1], ilksayicik = split[0] 
+            var result = ilksayicik - sonsayicik
+            try { await message.client.sendMessage(message.jid,Lang.SUC + result, MessageType.text) }
+            catch (err) { return await message.client.sendMessage(message.jid,Lang.UNSUC + err,MessageType.text);
+            }
+        }
+        else if (match[1].includes('x')) { var split = match[1].split('x'), sonsayicarp = split[1], ilksayicarp = split[0] 
+            var result = ilksayicarp * sonsayicarp
+            try { await message.client.sendMessage(message.jid,Lang.SUC + result, MessageType.text) }
+            catch (err) { return await message.client.sendMessage(message.jid,Lang.UNSUC + err,MessageType.text);
+            }
+        }
+        else if (match[1].includes('/')) { var split = match[1].split('/'), sonsayibol = split[1], ilksayibol = split[0] 
+            var result = ilksayibol / sonsayibol
+            try { await message.client.sendMessage(message.jid,Lang.SUC + result, MessageType.text) }
+            catch (err) { return await message.client.sendMessage(message.jid,Lang.UNSUC + err,MessageType.text)
+            }
+        }
+    }));
+}
+else if (Config.WORKTYPE == 'public') {
+
+    Asena.addCommand({pattern: 'short ?(.*)', fromMe: false, desc: Lang.URL}, (async (message, match) => {
+
+        if (match[1] === '') return await message.client.sendMessage(message.jid, SLang.LİNK, MessageType.text);
+
+        TinyURL.shorten(`${match[1]}`, async(res, err) => {
+          if (err)
+            await message.client.sendMessage(message.jid, '*#### Error! ####*\n\n' + '```' + err + '```', MessageType.text);
+
+            await message.client.sendMessage(message.jid,`*Original Link:* ${match[1]}\n*Short Link:* ` + res, MessageType.text)
+        });
+    }));
+    Asena.addCommand({pattern: 'calc ?(.*)', fromMe: false, desc: Lang.CALC }, (async (message, match) => {
+        if (match[1].length < 4) { return await message.client.sendMessage(message.jid,Lang.VALİD, MessageType.text) }
+        if (match[1].includes('+')) { var split = match[1].split('+'), sonsayi = split[1], ilksayi = split[0]
+            var result = -(-ilksayi - sonsayi)
+            try { await message.client.sendMessage(message.jid,Lang.SUC + result, MessageType.text) }
+            catch (err) { return await message.client.sendMessage(message.jid,Lang.UNSUC + err,MessageType.text);
+            }
+        }
+        else if (match[1].includes('-')) { var split = match[1].split('-'), sonsayicik = split[1], ilksayicik = split[0] 
+            var result = ilksayicik - sonsayicik
+            try { await message.client.sendMessage(message.jid,Lang.SUC + result, MessageType.text) }
+            catch (err) { return await message.client.sendMessage(message.jid,Lang.UNSUC + err,MessageType.text);
+            }
+        }
+        else if (match[1].includes('x')) { var split = match[1].split('x'), sonsayicarp = split[1], ilksayicarp = split[0] 
+            var result = ilksayicarp * sonsayicarp
+            try { await message.client.sendMessage(message.jid,Lang.SUC + result, MessageType.text) }
+            catch (err) { return await message.client.sendMessage(message.jid,Lang.UNSUC + err,MessageType.text);
+            }
+        }
+        else if (match[1].includes('/')) { var split = match[1].split('/'), sonsayibol = split[1], ilksayibol = split[0] 
+            var result = ilksayibol / sonsayibol
+            try { await message.client.sendMessage(message.jid,Lang.SUC + result, MessageType.text) }
+            catch (err) { return await message.client.sendMessage(message.jid,Lang.UNSUC + err,MessageType.text)
+            }
+        }
+    }));
+}

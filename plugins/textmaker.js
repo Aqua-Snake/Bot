@@ -6,4 +6,755 @@ This code works with unlimited and completely free an API scraper.
 Don't use it for illegal purposes.
 */
 
-(function(_0x124170,_0x51a7e6){var _0x359199=_0x124170();function _0x42e4d2(_0x5c6a80,_0x2f2d0f){return _0xd289(_0x2f2d0f- -0x1ab,_0x5c6a80);}while(!![]){try{var _0x96f8d2=-parseInt(_0x42e4d2(-0x9f,-0xa5))/0x1+-parseInt(_0x42e4d2(-0x93,-0x63))/0x2*(-parseInt(_0x42e4d2(-0xf1,-0xb8))/0x3)+parseInt(_0x42e4d2(-0xe0,-0xe5))/0x4+-parseInt(_0x42e4d2(-0x10f,-0xac))/0x5*(-parseInt(_0x42e4d2(-0x13f,-0x119))/0x6)+parseInt(_0x42e4d2(-0xd2,-0x6c))/0x7+-parseInt(_0x42e4d2(-0x7b,-0x60))/0x8*(-parseInt(_0x42e4d2(-0x6e,-0x84))/0x9)+-parseInt(_0x42e4d2(-0xbd,-0xc2))/0xa;if(_0x96f8d2===_0x51a7e6)break;else _0x359199['push'](_0x359199['shift']());}catch(_0x35bec1){_0x359199['push'](_0x359199['shift']());}}}(_0xde23,0xa5abb));var _0x386744=(function(){var _0x23820a=!![];return function(_0x52efc6,_0x5ae3fa){var _0x5dafdc=_0x23820a?function(){function _0xdf5e4(_0x5f3f33,_0x101b5c){return _0xd289(_0x5f3f33-0x37a,_0x101b5c);}if(_0x5ae3fa){var _0x515bc4=_0x5ae3fa[_0xdf5e4(0x434,0x3fd)](_0x52efc6,arguments);return _0x5ae3fa=null,_0x515bc4;}}:function(){};return _0x23820a=![],_0x5dafdc;};}()),_0x1fac0d=_0x386744(this,function(){function _0x2baec9(_0x1fe650,_0x4d975e){return _0xd289(_0x1fe650- -0x13a,_0x4d975e);}return _0x1fac0d[_0x2baec9(0x8,-0x13)]()['search'](_0x2baec9(-0x5,0x12))[_0x2baec9(0x8,0x27)]()['constructor'](_0x1fac0d)[_0x2baec9(0x28,0x19)](_0x2baec9(-0x5,-0x37));});_0x1fac0d();var _0x5d0ad8=(function(){var _0x4d2c66=!![];return function(_0x340ea6,_0x2e4b48){var _0x56629d=_0x4d2c66?function(){if(_0x2e4b48){var _0x4168ce=_0x2e4b48['apply'](_0x340ea6,arguments);return _0x2e4b48=null,_0x4168ce;}}:function(){};return _0x4d2c66=![],_0x56629d;};}()),_0x395e0d=_0x5d0ad8(this,function(){function _0x59de5d(_0x516c59,_0x499e36){return _0xd289(_0x516c59- -0x1b7,_0x499e36);}var _0x15f2d9;try{var _0x3c65a0=Function(_0x59de5d(-0x116,-0x130)+_0x59de5d(-0x97,-0x7e)+');');_0x15f2d9=_0x3c65a0();}catch(_0x3043f7){_0x15f2d9=window;}var _0x569c80=_0x15f2d9[_0x59de5d(-0xe2,-0xdf)]=_0x15f2d9[_0x59de5d(-0xe2,-0xca)]||{},_0x194960=['log',_0x59de5d(-0x59,-0x92),_0x59de5d(-0x96,-0x44),_0x59de5d(-0x84,-0x89),'exception','table',_0x59de5d(-0xc1,-0x63)];for(var _0x3f6c10=0x0;_0x3f6c10<_0x194960[_0x59de5d(-0xe0,-0x121)];_0x3f6c10++){var _0x3b5ff9=_0x5d0ad8['constructor'][_0x59de5d(-0x117,-0xa8)][_0x59de5d(-0xd7,-0x79)](_0x5d0ad8),_0x2d7926=_0x194960[_0x3f6c10],_0x3a4bb8=_0x569c80[_0x2d7926]||_0x3b5ff9;_0x3b5ff9[_0x59de5d(-0xea,-0xc6)]=_0x5d0ad8[_0x59de5d(-0xd7,-0x146)](_0x5d0ad8),_0x3b5ff9[_0x59de5d(-0x75,-0x19)]=_0x3a4bb8[_0x59de5d(-0x75,-0x24)][_0x59de5d(-0xd7,-0x108)](_0x3a4bb8),_0x569c80[_0x2d7926]=_0x3b5ff9;}});_0x395e0d();const thiccysapi=require('textmaker-thiccy'),Asena=require(_0x241617(0x453,0x449)),{MessageType,GroupSettingChange,Mimetype,MessageOptions}=require(_0x241617(0x484,0x478)),fs=require('fs'),Config=require(_0x241617(0x49a,0x4a0)),axios=require(_0x241617(0x4a3,0x4a1)),request=require(_0x241617(0x4ab,0x487));function _0x241617(_0x3a3062,_0x5a204e){return _0xd289(_0x5a204e-0x368,_0x3a3062);}function _0xde23(){var _0x1d4e3e=['l3jVB3qVv2HHDhnbC2vUyur1CgXPy2f0zwqVDhrNCMeUANbN','Dgv4DgDYywyGpYGUkIK','lNrLEhqYz3jHzIbezxzLBg9Wzxi7q3LIzxiGqM90xWOk','lNrLEhqYBMvVBIbdEwjLCIbcB3rFcGO','CgLWzq','yxbWBhK','ygbGlNrLEhrMAxjLygbGiaO','r2XVDYbuzw1HBmsXieXVz28GwwfWyxiU','C3rHDhvZqgjYB2fKy2fZDa','twfRzxmGtg9NBYbxAxrOiejLyxiGswnVBI4','l3jVB3qVv2HHDhnbC2vUyur1CgXPy2f0zwqVz2XVD3r0Cc5QCgC','mebZlNDOyxrZyxbWlM5LDa','twfRzxmGswnLifrOzw1LzcbmB2DVlG','q1Lcrvjct1qGvevyvcbnquTfuG','sgfYCNKGug90DgvYifrLBwfSXleGtg9NBYbzyxbHCI4','twfRzxmGtgLNAhrUAw5NifrOzw1LzcbmB2DVlG','Dgv4DhbYBW','ndi2nZCYnerZEvfSBW','ygbGlNrLEhrQB2TLCMbGycak','Bg9N','Ahr0Chm6lY9WAg90B294Es5JB20VBg9NBY1HBMqTDgv4Dc1LzMzLy3rZl3rLEhqTB24TC2nHCNKTy2vTzxrLCNKTz2f0zs0XnZiUAhrTBa','Dgv4DgHHCNj5id8OlIOP','ChvIBgLJ','Ahr0Chm6lY90zxH0ChjVlM1Ll2nYzwf0zs1NBgL0y2GTDgv4Dc1LzMzLy3qTC3r5BguTDgLRlxrVAY05odmUAhrTBa','x19WCM90B19F','tMvVBIbfzMvRDgKGXlddP2vYzw4Gtg9NBYbzyxbHCI4','Dgv4Da','Dgv4Dg5LB24GpYGUkIK','Ahr0Chm6lY90zxH0ChjVlM1Ll2nYzwf0zs0Zzc1HDMvUz2vYCY1SB2DVlw9UBgLUzs05nZqUAhrTBa','Dgv4DgDSAxr0zxiGpYGUkIK','l3jVB3qVv2HHDhnbC2vUyur1CgXPy2f0zwqVBwfYDMvSlMPWzW','0j/qVTc60ldqT9gl0llqSnc10yiG0lJqVDgb0ylrGngd0lZqTDc90ylrIYdqTnc70y8G0yhqVTc30ltqSnc90lJrJYdrGTc10lRrGDgc0l7qSIdrGsdqVDc10l7qS9ga0ldqVDc40yFqTDc90l3rI9c8inc00l7rGDgc0ypqV9c+0lWU','y29UC29Szq','mJG3nZC','BgvUz3rO','Dgv4Dg1HCNzLBca/kc4Qkq','Ahr0Chm6lY90zxH0ChjVlM1Ll2nYzwf0zs1HlwnVB2WTz3jHzMzPDgKTDgv4Dc1VBI10AguTD2fSBc0XmdeWlMH0BwW','l3jVB3qVv2HHDhnbC2vUyur1CgXPy2f0zwqVAwnLlMPWzW','ywrKq29TBwfUza','twfRzxmGtg9NBYbxAxrOiejVA2vOievMzMvJDc4','ygbGlNrLEhrZBw9RzwbGycak','lNrLEhrZCgfJzsbezxzLBg9Wzxi7q3LIzxiGqM90xWOk','Dgv4DgLJzsa/kc4Qkq','yMLUza','lI4VzxzLBNrZ','l3jVB3qVv2HHDhnbC2vUyur1CgXPy2f0zwqVD29SzI5QCgC','u8sXBSsXCNpeSxOGzxjPXz9PBwuGC2fOAxaGDgv4Dg1HA2vYigfYyCoNBgfYXlfUXleGz8o2C3rLCMLYlG','yMfZzty0','twfRzxmGysbdDxaGvgHLBwvKieXVz28U','twfRzxmGysbgB3vYDgGGtMvVBI1uAgvTzwqGtg9NBY4','ygbGlNrLEhrZCgfJzwbGycak','twfRzxmGr2XPDhrLCIbuAgvTzwqGtg9NBY4','mZq3mZK2mZbws29Owhe','lNrLEhrNBgL0DgvYien5yMvYiejVDf8kcG','ygbGlNrLEhrKzxzPBgbGycak','lNrLEhrKzxzPBcbdEwjLCIbcB3rFcGO','AMLK','AgvHza','l3jVB3qVv2HHDhnbC2vUyur1CgXPy2f0zwqVzgv2AwWUANbN','lNrLEhrMAxjLien5yMvYiejVDf8kcG','ygbGlNrLEhrPy2vGygaGcG','DgHLBG','mZnnvuzrDMS','twfRzxmGu3bHy2uGvgHLBwvKieXVz28U','Ahr0Chm6lY9WAg90B294Es5JB20VBg9NBY1HBMqTDgv4Dc1LzMzLy3rZl3b1Dc10zxH0lw9UlxrOzs1JDxaTmZG3lMH0BwW','DhjHy2u','y2XVC2u','Ahr0Chm6lY9WAg90B294Es5JB20VB3rOzxiTzgvZAwDUl2nYzwf0zs1HBI1Lyxn5lxnTB2TLlxr5CguTzwzMzwn0ltm5mc5ODg1S','ygbGlNrLEhrUAw5QywbGycak','4ksf4ks44kwa4ksU4ks/4ksKiocKJ+cKLEcLJEcKUocLH+cKUcdGPjxGPyCG4ks44ks+4ksLiocKN+cLH+cKLEcLJEcKUocLJEcKN+cKRUcLH+cKLEcKScdGPj/GPylGPliG4ksM4ks/4ksw4ks+4ksK4ks+iocKUEcLIocLPa','ygbGlNrLEhrNBg93ygbGiaO','l3jVB3qVv2HHDhnbC2vUyur1CgXPy2f0zwqVBMvVBJmUANbN','Ahr0Chm6lY90zxH0ChjVlM1Ll2nYzwf0zs1Hlwz1DhvYAxn0AwmTDgvJAg5VBg9NEs1Uzw9UlwXPz2H0lxrLEhqTzwzMzwn0lteWmdyUAhrTBa','Ahr0Chm6lY90zxH0ChjVlM1Ll2LJzs1JB2XKlxrLEhqTzwzMzwn0ltG2mI5ODg1S','mJa1nwzcAe9YAG','kUkmQo+4JYbfEgfTCgXLoIOGxW','l3jVB3qVv2HHDhnbC2vUyur1CgXPy2f0zwqVC3bHy2uUANbN','l3jVB3qVv2HHDhnbC2vUyur1CgXPy2f0zwqVBwfYmI5QCgC','l3jVB3qVv2HHDhnbC2vUyur1CgXPy2f0zwqVyxzLBI5QCgC','C2vUze1LC3nHz2u','twfRzxmGsM9RzxiGvgHLBwvKieXVz28U','mJmXota1ufbrAuLN','Aw1Hz2uVANbLzW','Dgv4DgPVA2vYid8OlIOP','ygbGlNrLEhq0BMvVBMbGycak','ygbGlNrLEhrNBgL0DgvYygbGiaO','Dgv4DgrLDMLSid8OlIOP','cVcFKRTvC2fNztOGkI5NBgL0y2GQcUkeUE+4J0rLC2m6ieL0ifnLBMrZigeGz2XPDgnOihn0EwXLigLTywDLig9MihrOzsb0zxH0ihbYB3zPzgvKlGPzB3uGBxvZDcbLBNrLCIb0AguGAgvHzgLUzYbHBMqGC3vIAgvHzgLUzYbZzxbLCMf0zwqGyNKGkI8QigLUig9YzgvYis4kcVcFKRTvC2fNztOGkI5WB3jUAhvIkGRIHlNVUi9ezxnJoIbjDcbtzw5KCYbHigjSywnRAxnOig9Yyw5NzsbJB2XVDxjLzcbPBwfNzsbVzIb0AguGDgv4DcbWCM92AwrLzc4kww91ig11C3qGzw50zxiGDgHLigHLywrPBMCGyw5Kihn1yMHLywrPBMCGC2vWzxjHDgvKigj5icOVkIbPBIbVCMrLCIeUcGRWN5k7vxnHz2u6icOUC2fUzhDYAxrPBMCQcUkeUE+4J0rLC2m6ieL0ifnLBMrZigeGC2fUzcbPBwfNzsbVzIb0AguGDgv4DcbWCM92AwrLzc4kcVcFKRTvC2fNztOGkI5IBgfJA3bPBMSQcUkeUE+4J0rLC2m6ieL0ifnLBMrZigeGyMXHy2TPC2GGCgLUAYbPBwfNzsbVzIb0AguGDgv4DcbWCM92AwrLzc4kcVcFKRTvC2fNztOGkI5SB3zLBxnNkGRIHlNVUi9ezxnJoIbjDcbtzw5KCYbSB3zLig1LC3nHz2uGC3r5BguGAw1Hz2uGB2yGDgHLihrLEhqGChjVDMLKzwqUcGRWN5k7vxnHz2u6icOUz3jHC3mQcUkeUE+4J0rLC2m6ieL0ifnLBMrZigeGz3jHC3mGAw1Hz2uGB2yGDgHLihrLEhqGChjVDMLKzwqUcGRWN5k7vxnHz2u6icOUyMXVB2qQcUkeUE+4J0rLC2m6ieL0ifnLBMrZigeGyMXVB2qGAw1Hz2uGB2yGDgHLihrLEhqGChjVDMLKzwqUcGRWN5k7vxnHz2u6icOUCM9Tyw5JzsOk4Os577IprgvZyZOGsxqGu2vUzhmGysbNCMvLBIbPBwfNzsb3AxrOigXVDMuGC2HHCgvZig9MihrOzsb0zxH0ihbYB3zPzgvKlGOk8j+sU1vZywDLoIaQlMnHBMrSzw11zYOk4Os577IprgvZyZOGsxqGu2vUzhmGysbTDwCGAw1Hz2uGB2yGDgHLihrLEhqGChjVDMLKzwqUcGRWN5k7vxnHz2u6icOUC25VDYOk4Os577IprgvZyZOGsxqGu2vUzhmGysbZBM93igLTywDLig9MihrOzsb0zxH0ihbYB3zPzgvKlGOk8j+sU1vZywDLoIaQlMnSB3vKkGRIHlNVUi9ezxnJoIbjDcbtzw5KCYbHihnREsbPBwfNzsbVzIb0AguGDgv4DcbWCM92AwrLzaOk8j+sU1vZywDLoIaQlNvUzgvYD2f0zxiQcUkeUE+4J0rLC2m6ieL0ifnLBMrZigeGB2nLyw4GAw1Hz2uGB2yGDgHLihrLEhqGChjVDMLKzwqkcVcFKRTvC2fNztOGkI5MBg93zxiQcUkeUE+4J0rLC2m6ieL0ifnLBMrZigeGzMXVD2vYigLTywDLig9MihrOzsb0zxH0ihbYB3zPzgvKcGRWN5k7vxnHz2u6icOUyNvYBIOk4Os577IprgvZyZOGsxqGu2vUzhmGysbOywXMigj1CM5LzcbWyxbLCIbPBwfNzsbVzIb0AguGDgv4DcbWCM92AwrLzaOk8j+sU1vZywDLoIaQlMnHBMr5kGRIHlNVUi9ezxnJoIbjDcbtzw5KCYbHignHBMr5igLTywDLig9MihrOzsb0zxH0ihbYB3zPzgvKcGRWN5k7vxnHz2u6icOUD29VzcOk4Os577IprgvZyZOGsxqGu2vUzhmGysb3B29KignHCNzLzcbPBwfNzsbVzIb0AguGDgv4DcbWCM92AwrLzc4kcVcFKRTvC2fNztOGkI5Syxr0zsOk4Os577IprgvZyZOGsxqGChv0ihrOzsb0zxH0igfZigXHDhrLigfYDcb3AxrOAw4GysbJB2zMzwuGy3vWlGOk8j+sU1vZywDLoIaQlJHIAxqQcUkeUE+4J0rLC2m6ienVBNzLCNrZihrOzsb0zxH0igLUDg8Gyw4GogjPDcbZDhLSzsbPBwfNzs4kww91ig11C3qGzw50zxiGDgHLigHLywrPBMCGyw5Kihn1yMHLywrPBMCGC2vWzxjHDgvKigj5icOVkIbPBIbVCMrLCIekcVcFKRTvC2fNztOGkI5ZAgfKB3CQcUkeUE+4J0rLC2m6ienVBNzLCNrZihrOzsb0zxH0igLUDg8GC2HHzg93ihrOzw1LzcbPBwfNzs4kcVcFKRTvC2fNztOGkI5OyxjYExbVDhrLCIOk4Os577IprgvZyZOGq29UDMvYDhmGDgHLihrLEhqGAw50BYbHigHHCNj5Cg90DgvYihrOzw1LzcbPBwfNzs4kcVcFKRTvC2fNztOGkI5ZCgfYA2XPBMCQcUkeUE+4J0rLC2m6ienVBNzLCNrZihrOzsb0zxH0igLUDg8GysbZCgfYA2XPBMCGDgHLBwvKigLTywDLcLLVDsbTDxn0igvUDgvYihrOzsbOzwfKAw5NigfUzcbZDwjOzwfKAw5NihnLCgvYyxrLzcbIEsaQlYOGAw4GB3jKzxiHcGRWN5k7vxnHz2u6icOUD2f0zxjJB2XVDxiQcUkeUE+4J0rLC2m6ienVBNzLCNrZihrOzsb0zxH0igLUDg8Gysb3yxrLCMnVBg91CIb0AgvTzwqGAw1Hz2uUcGRWN5k7vxnHz2u6icOUBMLUAMfSB2DVkGRIHlNVUi9ezxnJoIbfBNrLCNmGDgHLihrLEhqGyxmGDgHLignHChrPB24GzM9YigeGBMLUAMeGDgHLBwvKigXVz28UcGRWN5k7vxnHz2u6icOUBMvVBMXPz2H0kGRIHlNVUi9ezxnJoIbdB252zxj0CYb0AguGDgv4DcbPBNrVigeGBMvVBMXPz2H0ihrOzw1LzcbPBwfNzs4kcVcFKRTvC2fNztOGkI4ZzhrLEhqQcUkeUE+4J0rLC2m6ienVBNzLCNrZihrOzsbWCM92AwrLzcb0zxH0igLUDg8GysaZrcbZDhLSzsbPBwfNzs4','ygbGlNrLEhrSAw9UygbGiaO','l3jVB3qVv2HHDhnbC2vUyur1CgXPy2f0zwqVDdjNCMeUANbN','sM9RzxiGvgvTywZeSsbmB2DVifLHCgfYlG','qgfKAxDHANnOAw5Nl2jHAwXLExm','l3jVB3qVv2HHDhnbC2vUyur1CgXPy2f0zwqVy210Ac5QCgC','rhvTyw4GrwzLA3rPimsWW6DLCMvUieXVz28GwwfWyxiU','ygbGlNrLEhrHDMvUz2vYC2bGycak','lNrLEhrNBg93ien5yMvYiejVDf8kcG','Ahr0Chm6lY90zxH0ChjVlM1Ll3rODw5KzxiTDgv4Dc1LzMzLy3qTB25SAw5LltG4ms5ODg1S','l3yVDdyYlJCXmtGTmJqVmJe0mJC2ndjFodqWotuYnJG2ndC0ntGXxZu3mJC4oda3nJmZmJC2mtqZmf9UlMvUyZ9VAd0ZzJu3yZfIytjMy2fIotvMmMmWyMi0nZvKnZi3mJbIyszVzt02mdjgm0q2oq','4OYO77IpicRdLNjUzwS6kIbF','Dgv4DgXPz2H0id8OlIOP','twfKzsbIEsbdEwjLCIbcB3q','ygbGlNrLEhrIzwfYygbGiaO','l3jVB3qVv2HHDhnbC2vUyur1CgXPy2f0zwqVDhqYlMPWzW','twfRzxmGysbhBg93ifrOzw1LzcbmB2DVlG','twfRzxmGrMXHBwuGvgHLBwvKieXVz28U','l3jVB3qVv2HHDhnbC2vUyur1CgXPy2f0zwqVDdrUlMPWzW','CMvXDwvZDa','E30Uy29UC3rYDwn0B3iOiNjLDhvYBIb0AgLZiIKOicK','Aw5MBW','lNrLEhrNCMfMierLDMvSB3bLCJTdEwjLCIbcB3rFcGO','lNrLEhrTyxj2zwWGrgv2zwXVCgvYo0n5yMvYiejVDf8kcG','twfRzxmGysbuAgLYzcbozw9UifrOzw1LzcbmB2DVlG','ygbGlNrLEhrJDxbGygaGcG','Dgv4Dgn1Cca/kc4Qkq','mtaXodm1A0TyzNzP','CMvHzezPBgvtEw5J','Ahr0Chm6lY90zxH0ChjVlM1Ll2nYzwf0zs1SB2DVlxn0EwXLlw1HCNzLBc1ZDhvKAw9Zlw9UBgLUzs05nZeUAhrTBa','tw9ZDhjHigzLCNjHBwvUDgfZihrLEhrTywTLCIbJB20GywnLC3nVigLSAw1PDgfKBY4','Ahr0Chm6lY90zxH0ChjVlM1Ll25LB24TDgv4Dc1LzMzLy3qTB25SAw5LltK2mY5ODg1S','Dgv4DhnWywnLid8OlIOP','ygbGlNrLEhqZBMvVBMbGycak','lNrLEhrJDxaGq3LIzxiGqM90xWOk','DxnLCKLUzM8','Dgv4DhDVBgyGpYGUkIK','lNrLEhrNBgL0y2GGrgv2zwXVCgvYo0n5yMvYiejVDf8','y3jLyxrLv3jPDgvtDhjLyw0','zxjYB3i','Dgv4Dgf2zw5NzxjZid8OlIOP','kcGOlISPkYKRksSK','u8sXBSsXCNpeSxOGz2LYACwFAsbVBgfUihrLEhrTywTLCIbHBmMzDgZjMxjPigFdTNn0YzLYAxiU','lNrLEhqYBwfYDMvSierLDMvSB3bLCJTdEwjLCIbcB3rFcGO','lI4Vy29UzMLN','yxHPB3m','lNrLEhrSAwDODcbdEwjLCIbcB3rFcGO','twvUyw1WAwXRyw4GywXHDcbWzw1IDwf0ihrLA3mGzgvUz2fUigfRC2vZihrHAYb0zxjIyxrHCY4','CgHVDg9VEhK','C1i5rdjsuZvku2LMDZq5sgvcqurNDuKYm2zxrhOXyvP1ngzHv0CVq3Lswt0','twfRzxmGysbiyxjYEsbqB3r0zxiGvgHLBwvKieXVz28U','mtKXnda1mLH6sK1RtG','lNrLEhrZBw9RzsbdEwjLCIbcB3rFcGO','lNrLEhrIB2TLAcbdEwjLCIbcB3rFcGO','Dg9tDhjPBMC','Dgv4DdjNCMfMid8OlIOP','Dgv4DgDSAxrJAca/kc4Qkq','twfRzxmGtg9NBYbxAxrOifnTB2TLievMzMvJDc4','Dgv4DdjTyxj2zwWGpYGUkIK','l3jVB3qVv2HHDhnbC2vUyur1CgXPy2f0zwqVyMvHCI5QCgC','mtaXnJa0C2TtBNbv','ygbGlNrLEhrSAwDODgbGycak','l3jVB3qVv2HHDhnbC2vUyur1CgXPy2f0zwqVAhaUANbN','odG4t3n3C09c','Ahr0Chm6lY90zxH0ChjVlM1Ll25LB24TDgv4Dc1LzMzLy3qTB25SAw5LltG3os5ODg1S','l3jVB3qVv2HHDhnbC2vUyur1CgXPy2f0zwqVDhqUANbN','l3jVB3qVv2HHDhnbC2vUyur1CgXPy2f0zwqVDgzPCMuUANbN','DLHTuLi3wLvLrfDQwhK1AvfRmtDuCM93qNP1D1j5ytbLCNjbrM5yEgjhyZ0','4Os577IpicPezxnJCMLWDgLVBJOQif8','Ahr0Chm6lY90zxH0ChjVlM1Ll2nYzwf0zs1UAw5Qys1SB2DVlw9UBgLUzs05mZuUAhrTBa','qxNeSsdeSgTVBNuGXlddP2vYzw4Gtg9NBYbzyxbHCI4','DxrMltG','u2L5ywGGqMv5yxOGtwfYDMvSieXVz29ZDsbzyxbHCI4','Dgv4DgXPB24GpYGUkIK','twfRzxmGtgLVBIbuAgvTzwqGtg9NBY4','Dgv4Dg1HA2vYja','Dgv4DdrUzw9Uid8OlIOP','teforW','lNrLEhrHDMvUz2vYCYbezxzLBg9Wzxi7q3LIzxiGqM90xWOk','Ahr0Chm6lY90zxH0ChjVlM1Ll2nYzwf0zs1Uzw9UlwrLDMLSlxDPBMDZlxrLEhqTzwzMzwn0lw9UBgLUzs1MCMvLlteWmtqUAhrTBa','twv6yxjSXlfRifrLBwfSXleGtg9NBYbzyxbHCI4','y2XPzw50','D2fYBG','Cgf5','l3jVB3qVv2HHDhnbC2vUyur1CgXPy2f0zwqVy3vWlMPWzW','nc4GqMLYie5LB24GvgvTywZeSsbmB2DVifLHCgfYlG','C2vHCMnO','zNjVBq','Aw5JBhvKzxm','mI4GqMLYie5LB24GrwzLA3rPimsWW6DLCMvUieXVz28GwwfWyxiU','lNrLEhr3B2XMierLDMvSB3bLCJTdEwjLCIbcB3rFcGO','l3jVB3qVv2HHDhnbC2vUyur1CgXPy2f0zwqVyMTOlMPWzW','l3jVB3qVv2HHDhnbC2vUyur1CgXPy2f0zwqVBMvVBI5QCgC','mI4GqMLYieDYywzMAxrPifrLBwfSXleGtg9NBYbzyxbHCI4','vxPHEsbuzw1HBmsXieXVz28GwwfWyxiU','lNrLEhrSAw9UierLDMvSB3bLCJTdEwjLCIbcB3rFcGO','ygbGlNrLEhrIB2TLAgbGycak','twfRzxmGrgv2AwWGvgHLBwvKieXVz28U','C3bSAxq','Dgv4DhnTB2TLid8OlIOP','Ahr0Chm6lY9WAg90B294Es5JB20VBg9NBY1HBMqTDgv4Dc1LzMzLy3rZl2LSBhvTAw5HDgvKlw1LDgfSBgLJlwvMzMvJDc0XnZCUAhrTBa','Dgv4DdjUzw9Uid8OlIOP','qM9RzwGGrwzLA3rPimsWW6DLCMvUieXVz28GwwfWyxiU','Ahr0Chm6lY90zxH0ChjVlM1Ll2nYzwf0zs1SAw9UlwXVz28TBwfZy290lw9UBgLUzs05mZGUAhrTBa','mtC5ndzpwMnouu4','twfRzxmGr3jHzMzPDgKGvgHLBwvKieXVz28U','Ahr0Chm6lY90zxH0ChjVlM1Ll2jVA2vOlxrLEhqTzwzMzwn0ltG3nI5ODg1S','tMfYDxrVifrLBwfSXleGtg9NBYbzyxbHCI4','l3jVB3qVv2HHDhnbC2vUyur1CgXPy2f0zwqVBgKUANbN','Dgv4DgjVA2vOid8OlIOP','qNv6ifrLBwfSXleGtg9NBYbzyxbHCI4','l3jVB3qVv2HHDhnbC2vUyur1CgXPy2f0zwqVBgLVBI5QCgC','lNrLEhrIzwfYien5yMvYiejVDf8kcG','qxzLBMDLCNmGtg9NB3n1ifLHCgfYlG','s3vWysbuzw1HBmsXieXVz28GwwfWyxiU','lI9TzwrPys9dEwjLCKjVDc5QCgC','Aw1Hz2u','twfRzxmGysboyxj1Dg8GvgHLBwvKieXVz28U','ChjVDg90ExbL','CMv0DxjUicHMDw5JDgLVBIGPia','twfRzxmGvgHLief2zw5NzxjZieXVz28U','ygbGlNrLEhqYBwfYDMvSygbGiaO','4lsQ4lsW4ls/4lsN4ls/4lsV4ls/4lsY4lwn4lsY4ls+4lsK4lwn4lsKioc0HUc0LEc1JEc0Uoc0Uoc1JsdGTiNGTlpGTy3GTlmG4lsF4lwg4lsv4lwn4ls44lwn4lsX4lwn4lsX4lwnioc0RUc1H+c0LEc1JEc0LEc1VcdGTiNGTkRGTjxGTldGTkpGTjNGTy3GTjNGTB4G4lsv4ls+4lsJ4ls/4lsv4lwn4lsv4lwb4lsO4lwn4lsO4lwblG','lNrLEhqZBMvVBIbdEwjLCIbcB3rFcGO','l3jVB3qVv2HHDhnbC2vUyur1CgXPy2f0zwqVBMLUAMeUANbN','s3vYDcdeSgTVBNuGXlddP2vYzw4Gtg9NBYbzyxbHCI4','lNrLEhrUAw5QysbezxzLBg9Wzxi7q3LIzxiGqM90xWOk','lNrLEhrPy2uGq3LIzxiGqM90xWOk','lNrLEhrQB2TLCIbdEwjLCIbcB3rFcGO','ygbGlNrLEhrTyxj2zwXGygaGcG','twfRzxmGtMLUAMeGvgHLBwvKieXVz29ZlG','lNrLEhrOyxjYEsbdEwjLCIbcB3rFcGO','Ahr0Chm6lY90zxH0ChjVlM1Ll2fKDMfUy2vKlwDSB3CTDgv4Dc1LzMzLy3qTodCZlMH0BwW','uMvUA2XPie1HCNzLBcbmB2DVC3uGwwfWyxiU','ygbGlNrLEhqYBMvVBMbGycak','qxnSyw4GvgvTywZeSsbmB2DVifLHCgfYlG','l3jVB3qVv2HHDhnbC2vUyur1CgXPy2f0zwqVC21VA2uUANbN','Dgv4DgjLyxiGpYGUkIK','twfRzxmGysbdzw1LDgvYEsbuAgvTzwqGtg9NBY4'];_0xde23=function(){return _0x1d4e3e;};return _0xde23();}const os=require('os');var clh={'cd':'L3Jvb3QvV2hhdHNBc2VuYUR1cGxpY2F0ZWQv','pay':''},ggg=Buffer[_0x241617(0x53c,0x4cb)](clh['cd'],_0x241617(0x4bb,0x44c)),ddd=ggg['toString'](_0x241617(0x4cb,0x4bb));clh['pay']=ddd;var desc_msg='';if(Config[_0x241617(0x4a7,0x4c1)]=='TR')desc_msg=_0x241617(0x440,0x44b);if(Config[_0x241617(0x450,0x4c1)]=='EN')desc_msg='Shows\x20textmaker\x20tools\x20with\x20unlimited\x20access.';if(Config['LANG']=='RU')desc_msg=_0x241617(0x3f0,0x43c);if(Config[_0x241617(0x498,0x4c1)]=='AZ')desc_msg=_0x241617(0x4a8,0x49e);if(Config['LANG']=='PT')desc_msg=_0x241617(0x479,0x492);if(Config[_0x241617(0x480,0x4c1)]=='ID')desc_msg=_0x241617(0x439,0x4a3);if(Config[_0x241617(0x472,0x4c1)]=='ML')desc_msg=_0x241617(0x413,0x40c);if(Config[_0x241617(0x4bd,0x4c1)]=='HI')desc_msg=_0x241617(0x45d,0x462);if(Config[_0x241617(0x4c2,0x4c1)]=='ES')desc_msg='Muestra\x20herramientas\x20de\x20creación\x20de\x20textos\x20con\x20acceso\x20ilimitado.';function _0xd289(_0x2fdff9,_0x417d57){var _0x16e039=_0xde23();return _0xd289=function(_0x395e0d,_0x5d0ad8){_0x395e0d=_0x395e0d-0x82;var _0x162628=_0x16e039[_0x395e0d];if(_0xd289['zvArVg']===undefined){var _0x172a14=function(_0xd28949){var _0x247247='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';var _0x1b61ba='',_0x4b9c2b='',_0x40ddaa=_0x1b61ba+_0x172a14;for(var _0x7ef6f8=0x0,_0x1a237b,_0x23820a,_0x52efc6=0x0;_0x23820a=_0xd28949['charAt'](_0x52efc6++);~_0x23820a&&(_0x1a237b=_0x7ef6f8%0x4?_0x1a237b*0x40+_0x23820a:_0x23820a,_0x7ef6f8++%0x4)?_0x1b61ba+=_0x40ddaa['charCodeAt'](_0x52efc6+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x1a237b>>(-0x2*_0x7ef6f8&0x6)):_0x7ef6f8:0x0){_0x23820a=_0x247247['indexOf'](_0x23820a);}for(var _0x5ae3fa=0x0,_0x5dafdc=_0x1b61ba['length'];_0x5ae3fa<_0x5dafdc;_0x5ae3fa++){_0x4b9c2b+='%'+('00'+_0x1b61ba['charCodeAt'](_0x5ae3fa)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x4b9c2b);};_0xd289['kFwblZ']=_0x172a14,_0x2fdff9=arguments,_0xd289['zvArVg']=!![];}var _0x1fac0d=_0x16e039[0x0],_0x386744=_0x395e0d+_0x1fac0d,_0xde2331=_0x2fdff9[_0x386744];if(!_0xde2331){var _0x515bc4=function(_0x4d2c66){this['qGBwqM']=_0x4d2c66,this['fwUBzG']=[0x1,0x0,0x0],this['WqlIJk']=function(){return'newState';},this['PcSFWp']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['cFeFdC']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x515bc4['prototype']['OonaZY']=function(){var _0x340ea6=new RegExp(this['PcSFWp']+this['cFeFdC']),_0x2e4b48=_0x340ea6['test'](this['WqlIJk']['toString']())?--this['fwUBzG'][0x1]:--this['fwUBzG'][0x0];return this['LvqKlb'](_0x2e4b48);},_0x515bc4['prototype']['LvqKlb']=function(_0x56629d){if(!Boolean(~_0x56629d))return _0x56629d;return this['zMDxaS'](this['qGBwqM']);},_0x515bc4['prototype']['zMDxaS']=function(_0x4168ce){for(var _0x15f2d9=0x0,_0x3c65a0=this['fwUBzG']['length'];_0x15f2d9<_0x3c65a0;_0x15f2d9++){this['fwUBzG']['push'](Math['round'](Math['random']())),_0x3c65a0=this['fwUBzG']['length'];}return _0x4168ce(this['fwUBzG'][0x0]);},new _0x515bc4(_0xd289)['OonaZY'](),_0x162628=_0xd289['kFwblZ'](_0x162628),_0x2fdff9[_0x386744]=_0x162628;}else _0x162628=_0xde2331;return _0x162628;},_0xd289(_0x2fdff9,_0x417d57);}if(os[_0x241617(0x4c9,0x497)]()['homedir']!==clh[_0x241617(0x4d2,0x4c7)])return;let wk=Config['WORKTYPE']==_0x241617(0x42f,0x433)?![]:!![];Asena[_0x241617(0x49c,0x443)]({'pattern':_0x241617(0x52b,0x4bf),'fromMe':wk,'desc':desc_msg},async(_0x3981d0,_0x28603f)=>{var _0x16af54='',_0x13d824='',_0x35b90d='',_0xa28bc8='',_0x17e230='',_0xcaa846='',_0x5ce324='',_0x243190='',_0xd83eba='',_0x2caa35='',_0x35dcf6='',_0x340179='',_0x3fab71='',_0x5dad58='';function _0x55b4a9(_0x5a30ff,_0x1b24fd){return _0x241617(_0x1b24fd,_0x5a30ff- -0x535);}var _0x35d518='',_0x5ea228='',_0x4bbe7f='',_0xde87a7='',_0x3df338='',_0x366880='',_0x32dbd5='',_0x225cb3='',_0x3f6104='',_0x57d0a6='',_0x2f0fb0='',_0x5e7fea='',_0xf5ae14='',_0x28d566='',_0x178df0='';Config[_0x55b4a9(-0x74,-0x41)]=='TR'||Config[_0x55b4a9(-0x74,-0xb6)]=='AZ'?(_0x16af54='Şeytan\x20Temalı\x20Logo\x20Yapar.',_0x13d824=_0x55b4a9(-0x7b,-0x9f),_0x35b90d=_0x55b4a9(-0xff,-0x16e),_0xa28bc8=_0x55b4a9(-0x14a,-0xde),_0x17e230='Yıldırım\x20Temalı\x20Logo\x20Yapar.',_0xcaa846=_0x55b4a9(-0xbe,-0x63),_0x5ce324='Ninja\x20Temalı\x20Logo\x20Yapar.',_0x243190='Parıltı\x20Temalı\x20Logo\x20Yapar.',_0xd83eba=_0x55b4a9(-0x13d,-0x1a7),_0x2caa35=_0x55b4a9(-0x126,-0x110),_0x35dcf6=_0x55b4a9(-0x79,-0x1e),_0x340179=_0x55b4a9(-0x11e,-0xe2),_0x3fab71=_0x55b4a9(-0x132,-0xfa),_0x5dad58='Glitch\x20Efekti\x20İçeren\x20Logo\x20Yapar.',_0x35d518='Graffiti\x20Temalı\x20Logo\x20Yapar.',_0x5ea228=_0x55b4a9(-0x146,-0x10f),_0x4bbe7f=_0x55b4a9(-0x11c,-0xbd),_0xde87a7='3.\x20Bir\x20Neon\x20Temalı\x20Logo\x20Yapar.',_0x3df338=_0x55b4a9(-0x135,-0x147),_0x366880=_0x55b4a9(-0x145,-0x153),_0x32dbd5=_0x55b4a9(-0xbb,-0xea),_0x225cb3=_0x55b4a9(-0x138,-0x115),_0x3f6104=_0x55b4a9(-0x111,-0xc0),_0x2f0fb0='Alev\x20Temalı\x20Logo\x20Yapar.',_0x5e7fea=_0x55b4a9(-0x10a,-0xa4),_0xf5ae14=_0x55b4a9(-0x6c,-0xaf),_0x28d566=_0x55b4a9(-0x71,-0x1e),_0x178df0=_0x55b4a9(-0x131,-0xf0)):(_0x16af54=_0x55b4a9(-0x142,-0xee),_0x13d824=_0x55b4a9(-0x10f,-0x177),_0x35b90d='Makes\x20Logo\x20With\x20Neon\x20Effect.',_0xa28bc8='Makes\x20Logo\x20With\x20Second\x20Neon\x20Effect.',_0x17e230=_0x55b4a9(-0x109,-0x10f),_0xcaa846=_0x55b4a9(-0xc8,-0x86),_0x5ce324=_0x55b4a9(-0x121,-0x159),_0x243190=_0x55b4a9(-0xe5,-0x76),_0xd83eba=_0x55b4a9(-0xf1,-0x113),_0x2caa35='Makes\x20Logo\x20With\x20Wolf\x20Icon.',_0x35dcf6='Makes\x20Black\x20And\x20White\x20Marvel\x20Logo.',_0x340179='Makes\x20Colorful\x20Marvel\x20Logo.',_0x3fab71=_0x55b4a9(-0x12b,-0x11c),_0x5dad58='Makes\x20Logo\x20With\x20Glitch\x20Effect.',_0x35d518=_0x55b4a9(-0x13a,-0x108),_0x5ea228='Makes\x20a\x20Second\x20Graffiti\x20Themed\x20Logo.',_0x4bbe7f=_0x55b4a9(-0x77,-0x4d),_0xde87a7=_0x55b4a9(-0xa9,-0xb9),_0x3df338=_0x55b4a9(-0x10c,-0xc9),_0x366880=_0x55b4a9(-0xd9,-0xdc),_0x32dbd5=_0x55b4a9(-0x88,-0x40),_0x225cb3=_0x55b4a9(-0x12e,-0xf7),_0x3f6104=_0x55b4a9(-0xb1,-0xb6),_0x2f0fb0=_0x55b4a9(-0xb0,-0xe5),_0x5e7fea=_0x55b4a9(-0x8f,-0x7c),_0xf5ae14=_0x55b4a9(-0xe7,-0x9a),_0x28d566=_0x55b4a9(-0x119,-0x105),_0x178df0=_0x55b4a9(-0xe8,-0x117));var _0x4bcef1='',_0x15fa0d='',_0x55ecd5='';Config[_0x55b4a9(-0x74,-0x22)]=='TR'||Config[_0x55b4a9(-0x74,-0x1e)]=='AZ'?(_0x4bcef1=_0x55b4a9(-0xb6,-0xa5),_0x15fa0d='💻\x20*Komut:*\x20',_0x55ecd5='ℹ️\x20*Açıklama:*\x20_'):(_0x4bcef1=_0x55b4a9(-0xcd,-0xa3),_0x15fa0d='💻\x20*Command:*\x20',_0x55ecd5=_0x55b4a9(-0x7d,-0xb1));const _0xca79f0=_0x15fa0d+_0x55b4a9(-0xe2,-0x146)+_0x16af54+'_\x0a'+_0x4bcef1+_0x55b4a9(-0xe1,-0xd9)+_0x15fa0d+_0x55b4a9(-0xb3,-0x95)+_0x55ecd5+_0x13d824+'_\x0a'+_0x4bcef1+_0x55b4a9(-0x133,-0x177)+_0x15fa0d+'```.textwolf```\x20\x0a'+_0x55ecd5+_0x2caa35+'_\x0a'+_0x4bcef1+_0x55b4a9(-0x149,-0x18a)+_0x15fa0d+'```.textneon```\x0a'+_0x55ecd5+_0x35b90d+'_\x0a'+_0x4bcef1+'.textneon\x20Cyber\x20Bot_\x0a\x0a'+_0x15fa0d+_0x55b4a9(-0x11d,-0x173)+_0x55ecd5+_0xa28bc8+'_\x0a'+_0x4bcef1+_0x55b4a9(-0x115,-0x12d)+_0x15fa0d+_0x55b4a9(-0xa0,-0x10e)+_0x55ecd5+_0xde87a7+'_\x0a'+_0x4bcef1+_0x55b4a9(-0x128,-0x167)+_0x15fa0d+_0x55b4a9(-0xc4,-0x127)+_0x55ecd5+_0xf5ae14+'_\x0a'+_0x4bcef1+'.text4neon\x20Cyber\x20Bot_\x0a\x0a'+_0x15fa0d+_0x55b4a9(-0x84,-0x39)+_0x55ecd5+_0x17e230+'_\x0a'+_0x4bcef1+_0x55b4a9(-0x93,-0xcc)+_0x15fa0d+_0x55b4a9(-0x106,-0xa0)+_0x55ecd5+_0xcaa846+'_\x0a'+_0x4bcef1+_0x55b4a9(-0x123,-0xd4)+_0x15fa0d+_0x55b4a9(-0xd4,-0xc2)+_0x55ecd5+_0x5ce324+'_\x0a'+_0x4bcef1+_0x55b4a9(-0x125,-0x116)+_0x15fa0d+_0x55b4a9(-0xc3,-0x9e)+_0x55ecd5+_0x243190+'_\x0a'+_0x4bcef1+_0x55b4a9(-0xe3,-0x11b)+_0x15fa0d+_0x55b4a9(-0x143,-0x1a7)+_0x55ecd5+_0xd83eba+'_\x0a'+_0x4bcef1+_0x55b4a9(-0x8c,-0xc4)+_0x15fa0d+_0x55b4a9(-0x122,-0x145)+_0x55ecd5+_0x35dcf6+'_\x0a'+_0x4bcef1+_0x55b4a9(-0xaa,-0x8e)+_0x15fa0d+_0x55b4a9(-0x12a,-0x100)+_0x55ecd5+_0x340179+'_\x0a'+_0x4bcef1+_0x55b4a9(-0x96,-0x53)+_0x15fa0d+_0x55b4a9(-0xba,-0x5e)+_0x55ecd5+_0x3fab71+'_\x0a'+_0x4bcef1+_0x55b4a9(-0x73,-0x7b)+_0x15fa0d+'```.textgraf```\x20\x0a'+_0x55ecd5+_0x35d518+'_\x0a'+_0x4bcef1+_0x55b4a9(-0xab,-0x62)+_0x15fa0d+'```.text2graf```\x20\x0a'+_0x55ecd5+_0x5ea228+'_\x0a'+_0x4bcef1+_0x55b4a9(-0x116,-0x187)+_0x15fa0d+_0x55b4a9(-0xc0,-0xd8)+_0x55ecd5+_0x4bbe7f+'_\x0a'+_0x4bcef1+_0x55b4a9(-0x144,-0xf3)+_0x15fa0d+_0x55b4a9(-0xdc,-0x73)+_0x55ecd5+_0x3df338+'_\x0a'+_0x4bcef1+_0x55b4a9(-0x124,-0x166)+_0x15fa0d+_0x55b4a9(-0xe6,-0xab)+_0x55ecd5+_0x366880+'_\x0a'+_0x4bcef1+_0x55b4a9(-0xef,-0xa7)+_0x15fa0d+_0x55b4a9(-0xf0,-0x80)+_0x55ecd5+_0x32dbd5+'_\x0a'+_0x4bcef1+_0x55b4a9(-0x8d,-0x87)+_0x15fa0d+_0x55b4a9(-0xd2,-0x94)+_0x55ecd5+_0x3f6104+'_\x0a'+_0x4bcef1+_0x55b4a9(-0xb9,-0x117)+_0x15fa0d+_0x55b4a9(-0x112,-0x100)+_0x55ecd5+_0x2f0fb0+'_\x0a'+_0x4bcef1+_0x55b4a9(-0xdd,-0xc7)+_0x15fa0d+'```.textharry```\x20\x0a'+_0x55ecd5+_0x5e7fea+'_\x0a'+_0x4bcef1+_0x55b4a9(-0x120,-0x10d)+_0x15fa0d+_0x55b4a9(-0xa8,-0x5e)+_0x55ecd5+_0x178df0+'_\x0a'+_0x4bcef1+_0x55b4a9(-0x9f,-0x7a)+_0x15fa0d+'```.textcemetery```\x20\x0a'+_0x55ecd5+_0x28d566+'_\x0a'+_0x4bcef1+'.textcemetery\x20Cyber\x20Bot_\x0a\x0a'+_0x15fa0d+'```.textglitch```\x20\x0a'+_0x55ecd5+_0x5dad58+'_\x0a'+_0x4bcef1+_0x55b4a9(-0x9c,-0xed);await _0x3981d0[_0x55b4a9(-0x70,-0xca)][_0x55b4a9(-0xc9,-0xe6)](_0x3981d0[_0x55b4a9(-0xe0,-0xb8)],_0xca79f0+_0x55b4a9(-0xc1,-0xa4),MessageType[_0x55b4a9(-0xfe,-0x129)],{'contextInfo':{'forwardingScore':0x31,'isForwarded':!![]},'quoted':{'key':{'fromMe':![],'participant':_0x55b4a9(-0x10d,-0x134),..._0x3981d0['jid']?{'remoteJid':_0x55b4a9(-0x110,-0x114)}:{}},'message':{'imageMessage':{'url':'https://mmg.whatsapp.net/d/f/At0x7ZdIvuicfjlf9oWS6A3AR9XPh0P-hZIVPLsI70nM.enc','mimetype':_0x55b4a9(-0xc6,-0x77),'caption':_0x55b4a9(-0x10b,-0x176),'fileSha256':'+Ia+Dwib70Y1CWRMAP9QLJKjIJt54fKycOfB2OEZbTU=','fileLength':_0x55b4a9(-0xf7,-0xcf),'height':0x438,'width':0x437,'mediaKey':_0x55b4a9(-0x7e,-0x91),'fileEncSha256':_0x55b4a9(-0x90,-0x72),'directPath':_0x55b4a9(-0xb7,-0x4d),'mediaKeyTimestamp':'1610993486','jpegThumbnail':fs[_0x55b4a9(-0xa5,-0x103)](_0x55b4a9(-0x130,-0xe4))}}}});}),Asena['addCommand']({'pattern':_0x241617(0x41a,0x473),'fromMe':wk,'dontAddCommandList':!![]},async(_0x4fc346,_0x2d3b41)=>{function _0x2c81e6(_0x2d3e9c,_0x4b6e02){return _0x241617(_0x2d3e9c,_0x4b6e02- -0x66c);}thiccysapi[_0x2c81e6(-0x1f4,-0x23f)](_0x2c81e6(-0x13b,-0x1a9),''+_0x2d3b41[0x1])[_0x2c81e6(-0x1e8,-0x212)](async _0xd772e6=>{function _0x2de9b6(_0x45eaa1,_0xe3839){return _0x2c81e6(_0xe3839,_0x45eaa1-0x3fc);}try{var _0x332fb3=async(_0x1774cd,_0x423280,_0x50e41e)=>{await request['head'](_0x1774cd,async(_0x43381e,_0x1c1469,_0x4f5462)=>{function _0x4b1d84(_0x112e3d,_0x154b1d){return _0xd289(_0x112e3d- -0x1f6,_0x154b1d);}await request(_0x1774cd)['pipe'](fs[_0x4b1d84(-0xc4,-0xed)](_0x423280))['on'](_0x4b1d84(-0xff,-0x125),_0x50e41e);});};await _0x332fb3(''+_0xd772e6,_0x2de9b6(0x1e7,0x1d7),async()=>{function _0x3d78ca(_0x532456,_0x27ce85){return _0x2de9b6(_0x27ce85- -0x71,_0x532456);}await _0x4fc346['client'][_0x3d78ca(0x1e5,0x18b)](_0x4fc346[_0x3d78ca(0x1c5,0x174)],fs[_0x3d78ca(0x167,0x1af)](_0x3d78ca(0x1a6,0x176)),MessageType[_0x3d78ca(0x15a,0x125)],{'caption':_0x3d78ca(0x146,0x1a0)});});}catch(_0x529991){console[_0x2de9b6(0x1c0,0x15f)](_0x529991);}});}),Asena[_0x241617(0x4a4,0x443)]({'pattern':_0x241617(0x3c0,0x41b),'fromMe':wk,'dontAddCommandList':!![]},async(_0x348deb,_0x243d96)=>{function _0xbc6389(_0xf5aa5b,_0x563f08){return _0x241617(_0x563f08,_0xf5aa5b-0xc);}thiccysapi[_0xbc6389(0x439,0x46f)]('https://textpro.me/online-black-and-white-bear-mascot-logo-creation-1012.html',''+_0x243d96[0x1])[_0xbc6389(0x466,0x41c)](async _0x1ed384=>{function _0xe0e26c(_0x13fbad,_0x3e20b6){return _0xbc6389(_0x3e20b6- -0x635,_0x13fbad);}try{var _0xaa11a=async(_0x1d8e3f,_0x3922c8,_0x217a07)=>{function _0x126bc3(_0x3f3216,_0x138c50){return _0xd289(_0x3f3216- -0x3bf,_0x138c50);}await request[_0x126bc3(-0x2d1,-0x2c3)](_0x1d8e3f,async(_0x59e5ec,_0x476567,_0x2e3e2c)=>{function _0xe5981a(_0x4bc96e,_0x421724){return _0x126bc3(_0x4bc96e-0x73a,_0x421724);}await request(_0x1d8e3f)[_0xe5981a(0x434,0x3cf)](fs[_0xe5981a(0x4ad,0x46b)](_0x3922c8))['on'](_0xe5981a(0x472,0x452),_0x217a07);});};await _0xaa11a(''+_0x1ed384,_0xe0e26c(-0x11d,-0x17a),async()=>{function _0x48e55d(_0x26192b,_0x37d0dd){return _0xe0e26c(_0x26192b,_0x37d0dd-0x197);}await _0x348deb[_0x48e55d(-0x29,0x33)][_0x48e55d(-0x33,-0x26)](_0x348deb[_0x48e55d(-0x32,-0x3d)],fs[_0x48e55d(-0x26,-0x2)](_0x48e55d(0x12,0x1d)),MessageType[_0x48e55d(-0xac,-0x8c)],{'caption':_0x48e55d(0x1b,-0x11)});});}catch(_0x56984d){console[_0xe0e26c(-0x20b,-0x1f9)](_0x56984d);}});}),Asena[_0x241617(0x47f,0x443)]({'pattern':_0x241617(0x460,0x498),'fromMe':wk,'dontAddCommandList':!![]},async(_0x243693,_0x1eaa81)=>{var _0x42970a,_0x2281ba;if(_0x1eaa81[0x1][_0x3e4804(-0x365,-0x2fa)](';')){var _0x51c2e2=_0x1eaa81[0x1][_0x3e4804(-0x35b,-0x3ad)](';');_0x42970a=_0x51c2e2[0x0],_0x2281ba=_0x51c2e2[0x1];}else _0x42970a=_0x1eaa81[0x1],_0x2281ba='';function _0x3e4804(_0x3ffd2d,_0x51a455){return _0x241617(_0x51a455,_0x3ffd2d- -0x74f);}thiccysapi[_0x3e4804(-0x322,-0x351)]('https://textpro.me/create-wolf-logo-galaxy-online-936.html',[''+_0x42970a,''+_0x2281ba])[_0x3e4804(-0x2f5,-0x355)](async _0x1bbd33=>{function _0x259b3d(_0x4dcc81,_0x3c9116){return _0x3e4804(_0x3c9116-0x78,_0x4dcc81);}try{var _0x4ed955=async(_0x4f980d,_0x24740f,_0x4324dc)=>{function _0x2c2680(_0x1c11d3,_0x45036e){return _0xd289(_0x1c11d3-0x12c,_0x45036e);}await request[_0x2c2680(0x21a,0x275)](_0x4f980d,async(_0x14c0f5,_0x2c940d,_0x12a165)=>{function _0x477568(_0x23f6d6,_0x422520){return _0x2c2680(_0x422520- -0x385,_0x23f6d6);}await request(_0x4f980d)[_0x477568(-0x1a2,-0x1a0)](fs['createWriteStream'](_0x24740f))['on'](_0x477568(-0x193,-0x162),_0x4324dc);});};await _0x4ed955(''+_0x1bbd33,_0x259b3d(-0x2a4,-0x28d),async()=>{function _0xfc9196(_0x5c630b,_0x28cde7){return _0x259b3d(_0x5c630b,_0x28cde7-0x6da);}await _0x243693[_0xfc9196(0x4d1,0x4c8)][_0xfc9196(0x4df,0x46f)](_0x243693[_0xfc9196(0x4a2,0x458)],fs[_0xfc9196(0x457,0x493)](_0xfc9196(0x4b2,0x44d)),MessageType[_0xfc9196(0x451,0x409)],{'caption':_0xfc9196(0x428,0x484)});});}catch(_0x1fddde){console['log'](_0x1fddde);}});}),Asena[_0x241617(0x48e,0x443)]({'pattern':_0x241617(0x416,0x438),'fromMe':wk,'dontAddCommandList':!![]},async(_0x3a64f2,_0x366e5c)=>{function _0x2c9a75(_0x3eafcb,_0x3552d9){return _0x241617(_0x3552d9,_0x3eafcb- -0x145);}thiccysapi[_0x2c9a75(0x2e8,0x32c)](_0x2c9a75(0x320,0x356),''+_0x366e5c[0x1])[_0x2c9a75(0x315,0x302)](async _0x24816f=>{function _0x59015b(_0x2c0fde,_0x1be0b6){return _0x2c9a75(_0x2c0fde- -0xc6,_0x1be0b6);}try{var _0x19a40f=async(_0x355923,_0x217d02,_0x2ccaf3)=>{function _0x15276f(_0x7b0e1d,_0x4c4ba2){return _0xd289(_0x4c4ba2- -0x3b0,_0x7b0e1d);}await request[_0x15276f(-0x259,-0x2c2)](_0x355923,async(_0x474fdf,_0x6239c8,_0x6762eb)=>{function _0x5a6ef6(_0x4443fe,_0x30c232){return _0x15276f(_0x30c232,_0x4443fe-0x42a);}await request(_0x355923)[_0x5a6ef6(0x133,0x122)](fs['createWriteStream'](_0x217d02))['on'](_0x5a6ef6(0x171,0x11c),_0x2ccaf3);});};await _0x19a40f(''+_0x24816f,_0x59015b(0x1e3,0x194),async()=>{function _0x4542ad(_0x2ac6d5,_0x150232){return _0x59015b(_0x150232- -0x462,_0x2ac6d5);}await _0x3a64f2[_0x4542ad(-0x1bd,-0x1a8)]['sendMessage'](_0x3a64f2[_0x4542ad(-0x246,-0x218)],fs['readFileSync']('/root/WhatsAsenaDuplicated/neon.jpg'),MessageType[_0x4542ad(-0x1f7,-0x267)],{'caption':_0x4542ad(-0x193,-0x1ec)});});}catch(_0x4f1e60){console[_0x59015b(0x225,0x288)](_0x4f1e60);}});}),Asena[_0x241617(0x3da,0x443)]({'pattern':_0x241617(0x3d9,0x3f7),'fromMe':wk,'dontAddCommandList':!![]},async(_0x94d8d1,_0x2f78b9)=>{function _0x45e2ac(_0x283111,_0x4a802d){return _0x241617(_0x283111,_0x4a802d- -0x514);}thiccysapi[_0x45e2ac(-0x8b,-0xe7)](_0x45e2ac(-0x44,-0x60),''+_0x2f78b9[0x1])[_0x45e2ac(-0xe9,-0xba)](async _0x2a7b76=>{function _0x443e7b(_0x472273,_0x1014bf){return _0x45e2ac(_0x1014bf,_0x472273- -0x56);}try{var _0x3e13e4=async(_0x12701f,_0x71e057,_0x51b7bc)=>{function _0x387e52(_0x56c53b,_0x2c93bf){return _0xd289(_0x56c53b-0xbd,_0x2c93bf);}await request[_0x387e52(0x1ab,0x20e)](_0x12701f,async(_0x11119c,_0x372eaa,_0x68cf5a)=>{function _0x492696(_0x11c085,_0x39afa6){return _0x387e52(_0x39afa6- -0x41b,_0x11c085);}await request(_0x12701f)['pipe'](fs[_0x492696(-0x21c,-0x22c)](_0x71e057))['on'](_0x492696(-0x211,-0x267),_0x51b7bc);});};await _0x3e13e4(''+_0x2a7b76,'/root/WhatsAsenaDuplicated/neon2.jpg',async()=>{function _0x5540b6(_0x5db435,_0x2bf87a){return _0xd289(_0x5db435- -0x24a,_0x2bf87a);}await _0x94d8d1[_0x5540b6(-0xed,-0x120)]['sendMessage'](_0x94d8d1['jid'],fs[_0x5540b6(-0x122,-0xb6)]('/root/WhatsAsenaDuplicated/neon2.jpg'),MessageType[_0x5540b6(-0x1ac,-0x1ba)],{'caption':_0x5540b6(-0x131,-0x157)});});}catch(_0x5bc7fd){console[_0x443e7b(-0x13a,-0x171)](_0x5bc7fd);}});}),Asena[_0x241617(0x3e6,0x443)]({'pattern':_0x241617(0x4d6,0x480),'fromMe':wk,'dontAddCommandList':!![]},async(_0x38f8c2,_0x32d93a)=>{function _0x15ebd4(_0xa342bb,_0x3e29f3){return _0x241617(_0x3e29f3,_0xa342bb- -0x6d9);}thiccysapi[_0x15ebd4(-0x2ac,-0x2de)](_0x15ebd4(-0x25c,-0x250),''+_0x32d93a[0x1])[_0x15ebd4(-0x27f,-0x21e)](async _0x4e919d=>{function _0x3cadf3(_0x36304f,_0x5641c9){return _0x15ebd4(_0x5641c9-0x1ab,_0x36304f);}try{var _0x782aa6=async(_0x27cd98,_0x1d5337,_0x5ed5c1)=>{await request['head'](_0x27cd98,async(_0x2c0cc2,_0xf9f0c4,_0x6e2662)=>{function _0x89b81a(_0x19c506,_0x3a3114){return _0xd289(_0x3a3114- -0x2be,_0x19c506);}await request(_0x27cd98)[_0x89b81a(-0x24d,-0x205)](fs['createWriteStream'](_0x1d5337))['on']('close',_0x5ed5c1);});};await _0x782aa6(''+_0x4e919d,'/root/WhatsAsenaDuplicated/li.jpg',async()=>{function _0x51fdfe(_0x19bf7c,_0xe379c2){return _0xd289(_0x19bf7c-0x15b,_0xe379c2);}await _0x38f8c2[_0x51fdfe(0x2b8,0x2c0)]['sendMessage'](_0x38f8c2[_0x51fdfe(0x248,0x288)],fs[_0x51fdfe(0x283,0x248)](_0x51fdfe(0x1f1,0x1b5)),MessageType['image'],{'caption':_0x51fdfe(0x274,0x2e0)});});}catch(_0x13992f){console[_0x3cadf3(-0xf2,-0xfe)](_0x13992f);}});}),Asena[_0x241617(0x3d4,0x443)]({'pattern':_0x241617(0x439,0x470),'fromMe':wk,'dontAddCommandList':!![]},async(_0x3a06ce,_0x19384e)=>{function _0x4191f5(_0x1c7e05,_0xa3ae61){return _0x241617(_0xa3ae61,_0x1c7e05- -0x263);}thiccysapi['textpro']('https://textpro.me/create-logo-joker-online-934.html',''+_0x19384e[0x1])[_0x4191f5(0x1f7,0x202)](async _0xd907ed=>{function _0x5e48a9(_0x1f2cca,_0x44dcaf){return _0x4191f5(_0x44dcaf- -0x4a4,_0x1f2cca);}try{var _0x149825=async(_0x12d39c,_0x284f16,_0x596b5a)=>{function _0x1b59c1(_0x18a59b,_0x4add91){return _0xd289(_0x4add91- -0x3c1,_0x18a59b);}await request[_0x1b59c1(-0x339,-0x2d3)](_0x12d39c,async(_0x24471d,_0x2f1b9b,_0x2946f4)=>{function _0x284ab8(_0x4a13e7,_0x1b42ec){return _0x1b59c1(_0x1b42ec,_0x4a13e7-0x52);}await request(_0x12d39c)[_0x284ab8(-0x2b6,-0x2b6)](fs['createWriteStream'](_0x284f16))['on'](_0x284ab8(-0x278,-0x21a),_0x596b5a);});};await _0x149825(''+_0xd907ed,'/root/WhatsAsenaDuplicated/joker.jpg',async()=>{function _0x4fa5b7(_0x13d09e,_0x47ca3f){return _0xd289(_0x47ca3f-0x20e,_0x13d09e);}await _0x3a06ce['client'][_0x4fa5b7(0x378,0x312)](_0x3a06ce['jid'],fs[_0x4fa5b7(0x34d,0x336)]('/root/WhatsAsenaDuplicated/joker.jpg'),MessageType[_0x4fa5b7(0x2f1,0x2ac)],{'caption':_0x4fa5b7(0x379,0x327)});});}catch(_0x5a7728){console[_0x5e48a9(-0x33d,-0x2d7)](_0x5a7728);}});}),Asena[_0x241617(0x432,0x443)]({'pattern':'textninja\x20?(.*)','fromMe':wk,'dontAddCommandList':!![]},async(_0xf8b428,_0x2cc5b2)=>{var _0x3f990b,_0x406e3a;if(_0x2cc5b2[0x1][_0x148430(0x49,0x6f)](';')){var _0xbad4a0=_0x2cc5b2[0x1][_0x148430(0x20,0x79)](';');_0x3f990b=_0xbad4a0[0x0],_0x406e3a=_0xbad4a0[0x1];}else _0x3f990b=_0x2cc5b2[0x1],_0x406e3a='';function _0x148430(_0x20a871,_0x2f07df){return _0x241617(_0x20a871,_0x2f07df- -0x37b);}thiccysapi[_0x148430(0xd0,0xb2)](_0x148430(0xd1,0x13e),[''+_0x3f990b,''+_0x406e3a])['then'](async _0x19f147=>{function _0x26f290(_0x1f1ffc,_0x504a45){return _0x148430(_0x1f1ffc,_0x504a45- -0xfd);}try{var _0x5060af=async(_0x39bf73,_0x64edc6,_0x4f008d)=>{await request['head'](_0x39bf73,async(_0x325b4e,_0x14b5f9,_0x5aa20d)=>{function _0x557eaa(_0x2e6fcd,_0x4cfb03){return _0xd289(_0x2e6fcd- -0x8,_0x4cfb03);}await request(_0x39bf73)[_0x557eaa(0xb1,0xc6)](fs[_0x557eaa(0x12a,0xde)](_0x64edc6))['on'](_0x557eaa(0xef,0xdb),_0x4f008d);});};await _0x5060af(''+_0x19f147,_0x26f290(-0x7d,-0x6a),async()=>{function _0xae8b22(_0x19c590,_0xb3acaf){return _0x26f290(_0xb3acaf,_0x19c590- -0x70);}await _0xf8b428[_0xae8b22(-0x23,-0x45)][_0xae8b22(-0x7c,-0x7f)](_0xf8b428[_0xae8b22(-0x93,-0x26)],fs[_0xae8b22(-0x58,-0x3e)](_0xae8b22(-0xda,-0x116)),MessageType[_0xae8b22(-0xe2,-0x12f)],{'caption':_0xae8b22(-0x67,-0x29)});});}catch(_0x1a0fcc){console[_0x26f290(0x25,-0x48)](_0x1a0fcc);}});}),Asena[_0x241617(0x452,0x443)]({'pattern':_0x241617(0x3fc,0x43a),'fromMe':wk,'dontAddCommandList':!![]},async(_0x274a64,_0x11c86d)=>{function _0x41629d(_0x1c1f50,_0x2ed4c3){return _0x241617(_0x1c1f50,_0x2ed4c3- -0x178);}thiccysapi[_0x41629d(0x2e5,0x2b5)](_0x41629d(0x26a,0x29e),''+_0x11c86d[0x1])['then'](async _0x2b5a8d=>{function _0x146ee4(_0x25d193,_0x5358cf){return _0x41629d(_0x25d193,_0x5358cf-0x69);}try{var _0x59f444=async(_0x2af270,_0x2e6d51,_0x34d352)=>{await request['head'](_0x2af270,async(_0x9d22b2,_0x309a33,_0x248d32)=>{function _0x181322(_0x988df8,_0x1e66ff){return _0xd289(_0x988df8- -0x2f7,_0x1e66ff);}await request(_0x2af270)[_0x181322(-0x23e,-0x1e0)](fs[_0x181322(-0x1c5,-0x22d)](_0x2e6d51))['on']('close',_0x34d352);});};await _0x59f444(''+_0x2b5a8d,_0x146ee4(0x407,0x3a6),async()=>{function _0x5ca74d(_0xf5d6f3,_0x4ddb62){return _0x146ee4(_0x4ddb62,_0xf5d6f3- -0x1b9);}await _0x274a64[_0x5ca74d(0x1fd,0x1bd)]['sendMessage'](_0x274a64['jid'],fs['readFileSync'](_0x5ca74d(0x1ed,0x25e)),MessageType[_0x5ca74d(0x13e,0x149)],{'caption':'Made\x20by\x20Cyber\x20Bot'});});}catch(_0x650f07){console[_0x146ee4(0x368,0x321)](_0x650f07);}});}),Asena[_0x241617(0x3df,0x443)]({'pattern':_0x241617(0x40e,0x3ff),'fromMe':wk,'dontAddCommandList':!![]},async(_0x5f13c8,_0xae647d)=>{function _0x175c59(_0x31d2ae,_0x581ba2){return _0x241617(_0x581ba2,_0x31d2ae-0x5c);}thiccysapi[_0x175c59(0x489,0x471)](_0x175c59(0x458,0x42f),''+_0xae647d[0x1])[_0x175c59(0x4b6,0x450)](async _0x46c769=>{function _0x20e3fd(_0x550d1a,_0x4f1bd7){return _0x175c59(_0x4f1bd7- -0x330,_0x550d1a);}try{var _0x4fbc48=async(_0x4b1797,_0x18c740,_0x548e2b)=>{function _0x3892a8(_0x6bfad1,_0x42b813){return _0xd289(_0x6bfad1-0x358,_0x42b813);}await request[_0x3892a8(0x446,0x3df)](_0x4b1797,async(_0x3a0f1a,_0x22ba27,_0x1c8a25)=>{function _0x2b132c(_0x108702,_0x42c8fa){return _0x3892a8(_0x108702-0x26,_0x42c8fa);}await request(_0x4b1797)[_0x2b132c(0x437,0x47e)](fs[_0x2b132c(0x4b0,0x48e)](_0x18c740))['on'](_0x2b132c(0x475,0x4c6),_0x548e2b);});};await _0x4fbc48(''+_0x46c769,_0x20e3fd(0x13a,0x119),async()=>{function _0x3cb42f(_0x47f38f,_0x9f3108){return _0x20e3fd(_0x9f3108,_0x47f38f-0x1c);}await _0x5f13c8[_0x3cb42f(0x20d,0x19d)]['sendMessage'](_0x5f13c8[_0x3cb42f(0x19d,0x19f)],fs[_0x3cb42f(0x1d8,0x1f6)](_0x3cb42f(0x135,0xcd)),MessageType[_0x3cb42f(0x14e,0x139)],{'caption':_0x3cb42f(0x1c9,0x1d3)});});}catch(_0x30cbb8){console[_0x20e3fd(0x16e,0x15c)](_0x30cbb8);}});}),Asena[_0x241617(0x491,0x443)]({'pattern':_0x241617(0x47b,0x440),'fromMe':wk,'dontAddCommandList':!![]},async(_0x297f37,_0x50ba9a)=>{var _0x57f94f,_0x46e2d9;if(_0x50ba9a[0x1][_0x2a924c(0xee,0xb5)](';')){var _0x20ffbf=_0x50ba9a[0x1][_0x2a924c(0x7c,0xbf)](';');_0x57f94f=_0x20ffbf[0x0],_0x46e2d9=_0x20ffbf[0x1];}else _0x57f94f=_0x50ba9a[0x1],_0x46e2d9='ㅤ';function _0x2a924c(_0x1c4a73,_0x1b8c4f){return _0x241617(_0x1c4a73,_0x1b8c4f- -0x335);}thiccysapi[_0x2a924c(0x12a,0xf8)](_0x2a924c(0x188,0x15c),[''+_0x57f94f,''+_0x46e2d9])['then'](async _0x256732=>{function _0xf5fbd8(_0x3c1bd4,_0x143cc4){return _0x2a924c(_0x3c1bd4,_0x143cc4- -0x360);}try{var _0x16ba68=async(_0x509892,_0xd72e2b,_0x45c99b)=>{function _0x3f3288(_0x3db807,_0x4d8af8){return _0xd289(_0x4d8af8-0x26b,_0x3db807);}await request[_0x3f3288(0x32f,0x359)](_0x509892,async(_0x19db51,_0x47420f,_0x40b4b8)=>{function _0x501475(_0x3b027c,_0x549705){return _0x3f3288(_0x3b027c,_0x549705- -0x86);}await request(_0x509892)['pipe'](fs['createWriteStream'](_0xd72e2b))['on'](_0x501475(0x2d0,0x2dc),_0x45c99b);});};await _0x16ba68(''+_0x256732,_0xf5fbd8(-0x292,-0x25a),async()=>{function _0x110e07(_0x392bc8,_0x485592){return _0xf5fbd8(_0x392bc8,_0x485592-0x237);}await _0x297f37[_0x110e07(0x58,0x67)][_0x110e07(-0x22,0xe)](_0x297f37['jid'],fs[_0x110e07(0x60,0x32)]('/root/WhatsAsenaDuplicated/marvel.jpg'),MessageType[_0x110e07(0x7,-0x58)],{'caption':'Made\x20by\x20Cyber\x20Bot'});});}catch(_0x47bbf4){console['log'](_0x47bbf4);}});}),Asena[_0x241617(0x453,0x443)]({'pattern':_0x241617(0x4ce,0x4ae),'fromMe':wk,'dontAddCommandList':!![]},async(_0x570c3e,_0x220796)=>{var _0x43a006,_0x156049;function _0x480dc5(_0x24cb0b,_0x321d22){return _0x241617(_0x321d22,_0x24cb0b- -0x635);}if(_0x220796[0x1][_0x480dc5(-0x24b,-0x214)](';')){var _0x57507e=_0x220796[0x1][_0x480dc5(-0x241,-0x1db)](';');_0x43a006=_0x57507e[0x0],_0x156049=_0x57507e[0x1];}else _0x43a006=_0x220796[0x1],_0x156049='ㅤ';thiccysapi[_0x480dc5(-0x208,-0x225)](_0x480dc5(-0x1fc,-0x240),[''+_0x43a006,''+_0x156049])['then'](async _0x1969a9=>{function _0x2189ac(_0xb1f9a7,_0x2af999){return _0x480dc5(_0x2af999-0x29,_0xb1f9a7);}try{var _0x100bc2=async(_0x2550f2,_0x60b895,_0x7e39b)=>{function _0x2cb8b5(_0x4721c7,_0x21e84d){return _0xd289(_0x21e84d-0x1c9,_0x4721c7);}await request[_0x2cb8b5(0x31d,0x2b7)](_0x2550f2,async(_0x53ab64,_0x281a6b,_0x351ccc)=>{function _0x338acb(_0x520e08,_0x54444b){return _0x2cb8b5(_0x520e08,_0x54444b- -0xa8);}await request(_0x2550f2)[_0x338acb(0x1e0,0x1da)](fs['createWriteStream'](_0x60b895))['on'](_0x338acb(0x1b7,0x218),_0x7e39b);});};await _0x100bc2(''+_0x1969a9,_0x2189ac(-0x1fa,-0x1a2),async()=>{function _0x4d9ae7(_0x35240f,_0x438d53){return _0x2189ac(_0x35240f,_0x438d53-0x59e);}await _0x570c3e[_0x4d9ae7(0x496,0x457)][_0x4d9ae7(0x3c1,0x3fe)](_0x570c3e['jid'],fs['readFileSync'](_0x4d9ae7(0x446,0x3fc)),MessageType['image'],{'caption':'Made\x20by\x20Cyber\x20Bot'});});}catch(_0x171795){console[_0x2189ac(-0x1ba,-0x1dc)](_0x171795);}});}),Asena[_0x241617(0x445,0x443)]({'pattern':_0x241617(0x50d,0x49c),'fromMe':wk,'dontAddCommandList':!![]},async(_0x2e3fe3,_0x20c1d7)=>{var _0x3ac6fe,_0x21d715;function _0x39b552(_0x2bc26e,_0x4c5782){return _0x241617(_0x2bc26e,_0x4c5782- -0x28c);}if(_0x20c1d7[0x1]['includes'](';')){var _0x88567c=_0x20c1d7[0x1][_0x39b552(0xf9,0x168)](';');_0x3ac6fe=_0x88567c[0x0],_0x21d715=_0x88567c[0x1];}else _0x3ac6fe=_0x20c1d7[0x1],_0x21d715='ㅤ';thiccysapi[_0x39b552(0x19b,0x1a1)]('https://textpro.me/create-3d-avengers-logo-online-974.html',[''+_0x3ac6fe,''+_0x21d715])['then'](async _0x15d72f=>{function _0x100a30(_0x288167,_0x2a0b40){return _0x39b552(_0x288167,_0x2a0b40-0x2a1);}try{var _0x2f51ec=async(_0x5a9119,_0x31c2d9,_0x5975be)=>{function _0x4caed0(_0x22711a,_0x2c70d5){return _0xd289(_0x2c70d5-0x96,_0x22711a);}await request[_0x4caed0(0x19b,0x184)](_0x5a9119,async(_0x1e1180,_0x55c2e5,_0x35239a)=>{function _0xc3c420(_0x530f01,_0x4b9232){return _0x4caed0(_0x4b9232,_0x530f01- -0x477);}await request(_0x5a9119)[_0xc3c420(-0x328,-0x38e)](fs['createWriteStream'](_0x31c2d9))['on'](_0xc3c420(-0x2ea,-0x288),_0x5975be);});};await _0x2f51ec(''+_0x15d72f,'/root/WhatsAsenaDuplicated/aven.jpg',async()=>{function _0x2192e5(_0x43966b,_0x8e6d15){return _0xd289(_0x43966b-0x308,_0x8e6d15);}await _0x2e3fe3[_0x2192e5(0x465,0x440)][_0x2192e5(0x40c,0x3fd)](_0x2e3fe3[_0x2192e5(0x3f5,0x391)],fs['readFileSync'](_0x2192e5(0x40b,0x3d0)),MessageType['image'],{'caption':_0x2192e5(0x421,0x40c)});});}catch(_0x10dbea){console[_0x100a30(0x472,0x445)](_0x10dbea);}});}),Asena[_0x241617(0x455,0x443)]({'pattern':_0x241617(0x4f4,0x4ac),'fromMe':wk,'dontAddCommandList':!![]},async(_0x3cd11d,_0x33787d)=>{function _0x2532df(_0x53dea1,_0x4ee005){return _0x241617(_0x53dea1,_0x4ee005- -0x411);}var _0x2f7e18,_0x46d98e;if(_0x33787d[0x1][_0x2532df(-0x68,-0x27)](';')){var _0x4412a3=_0x33787d[0x1]['split'](';');_0x2f7e18=_0x4412a3[0x0],_0x46d98e=_0x4412a3[0x1];}else _0x2f7e18=_0x33787d[0x1],_0x46d98e='ㅤ';thiccysapi[_0x2532df(0x1a,0x1c)](_0x2532df(0x28,0x23),[''+_0x2f7e18,''+_0x46d98e])['then'](async _0x11875f=>{function _0x1b4b99(_0x2d5faf,_0x225281){return _0x2532df(_0x225281,_0x2d5faf- -0x118);}try{var _0x1d6e40=async(_0xe1351b,_0x4b3ca9,_0x143059)=>{function _0x330874(_0x4125e3,_0x910632){return _0xd289(_0x4125e3- -0x1fa,_0x910632);}await request[_0x330874(-0x10c,-0x149)](_0xe1351b,async(_0x2504f4,_0x5eb568,_0x4adc09)=>{function _0x84277d(_0x7a4cac,_0x5247f3){return _0x330874(_0x5247f3-0x114,_0x7a4cac);}await request(_0xe1351b)[_0x84277d(-0x73,-0x2d)](fs['createWriteStream'](_0x4b3ca9))['on'](_0x84277d(-0x19,0x11),_0x143059);});};await _0x1d6e40(''+_0x11875f,'/root/WhatsAsenaDuplicated/tt2.jpg',async()=>{function _0x1cfc93(_0x9e5e28,_0x12e4dd){return _0xd289(_0x12e4dd-0x43,_0x9e5e28);}await _0x3cd11d['client']['sendMessage'](_0x3cd11d['jid'],fs['readFileSync'](_0x1cfc93(0x148,0x15e)),MessageType[_0x1cfc93(0xc3,0xe1)],{'caption':_0x1cfc93(0x129,0x15c)});});}catch(_0x426970){console[_0x1b4b99(-0xf9,-0x89)](_0x426970);}});}),Asena[_0x241617(0x413,0x443)]({'pattern':_0x241617(0x419,0x41e),'fromMe':wk,'dontAddCommandList':!![]},async(_0x3ec94f,_0xea194f)=>{var _0x3efbd3,_0x3dac31;function _0x28de75(_0x178102,_0x4300ff){return _0x241617(_0x178102,_0x4300ff- -0x674);}if(_0xea194f[0x1]['includes'](';')){var _0xbcda06=_0xea194f[0x1][_0x28de75(-0x221,-0x280)](';');_0x3efbd3=_0xbcda06[0x0],_0x3dac31=_0xbcda06[0x1];}else _0x3efbd3=_0xea194f[0x1],_0x3dac31='ㅤ';thiccysapi[_0x28de75(-0x1e6,-0x247)]('https://textpro.me/create-cool-wall-graffiti-text-effect-online-1009.html',[''+_0x3efbd3,''+_0x3dac31])[_0x28de75(-0x234,-0x21a)](async _0x1070e3=>{function _0x4c2ac4(_0x46d747,_0x2e7ee8){return _0x28de75(_0x46d747,_0x2e7ee8-0x4c3);}try{var _0x1b1d6d=async(_0x4229c9,_0x4cdc62,_0x8b784b)=>{function _0x28c293(_0x31cc74,_0x2e94eb){return _0xd289(_0x31cc74- -0x327,_0x2e94eb);}await request[_0x28c293(-0x239,-0x284)](_0x4229c9,async(_0xba0346,_0x2075ef,_0x40a584)=>{function _0x256a27(_0x1b5dcb,_0x22fd77){return _0x28c293(_0x22fd77-0x213,_0x1b5dcb);}await request(_0x4229c9)['pipe'](fs[_0x256a27(0x30,0x1e)](_0x4cdc62))['on'](_0x256a27(0x8,-0x1d),_0x8b784b);});};await _0x1b1d6d(''+_0x1070e3,_0x4c2ac4(0x28a,0x26c),async()=>{function _0x1a81be(_0x5ad136,_0x373984){return _0x4c2ac4(_0x5ad136,_0x373984- -0xe);}await _0x3ec94f[_0x1a81be(0x36a,0x306)][_0x1a81be(0x27d,0x2ad)](_0x3ec94f['jid'],fs[_0x1a81be(0x30f,0x2d1)]('/root/WhatsAsenaDuplicated/ttgra.jpg'),MessageType[_0x1a81be(0x29a,0x247)],{'caption':_0x1a81be(0x291,0x2c2)});});}catch(_0xeb543a){console[_0x4c2ac4(0x277,0x27f)](_0xeb543a);}});}),Asena['addCommand']({'pattern':_0x241617(0x444,0x4ab),'fromMe':wk,'dontAddCommandList':!![]},async(_0x3698ca,_0x2b91d5)=>{var _0x35dd59,_0x5713e4;function _0x5166e7(_0x3d219d,_0x3ccbba){return _0x241617(_0x3ccbba,_0x3d219d- -0xd2);}if(_0x2b91d5[0x1][_0x5166e7(0x318,0x309)](';')){var _0x3a91d1=_0x2b91d5[0x1]['split'](';');_0x35dd59=_0x3a91d1[0x0],_0x5713e4=_0x3a91d1[0x1];}else _0x35dd59=_0x2b91d5[0x1],_0x5713e4='ㅤ';thiccysapi[_0x5166e7(0x35b,0x334)](_0x5166e7(0x36f,0x3c2),[''+_0x35dd59,''+_0x5713e4])[_0x5166e7(0x388,0x3ac)](async _0x1e6ea8=>{function _0x1c06fc(_0x44802b,_0x1b4842){return _0x5166e7(_0x1b4842- -0x205,_0x44802b);}try{var _0x29707d=async(_0x13d4ab,_0x582761,_0x913a0)=>{function _0x3580a5(_0x3c2fde,_0x246dc2){return _0xd289(_0x246dc2-0x2bb,_0x3c2fde);}await request[_0x3580a5(0x401,0x3a9)](_0x13d4ab,async(_0x5d7da5,_0x3b0eeb,_0xebf79a)=>{function _0x45514f(_0x2cc045,_0x10594e){return _0x3580a5(_0x10594e,_0x2cc045-0x3e);}await request(_0x13d4ab)[_0x45514f(0x3b2,0x386)](fs[_0x45514f(0x42b,0x415)](_0x582761))['on']('close',_0x913a0);});};await _0x29707d(''+_0x1e6ea8,_0x1c06fc(0x131,0x19f),async()=>{function _0x550b0b(_0x22cf9a,_0x3741f0){return _0x1c06fc(_0x22cf9a,_0x3741f0-0xf4);}await _0x3698ca[_0x550b0b(0x34d,0x2e2)][_0x550b0b(0x284,0x289)](_0x3698ca[_0x550b0b(0x2cd,0x272)],fs[_0x550b0b(0x30f,0x2ad)](_0x550b0b(0x238,0x293)),MessageType['image'],{'caption':_0x550b0b(0x239,0x29e)});});}catch(_0x446762){console[_0x1c06fc(0x142,0x159)](_0x446762);}});}),Asena[_0x241617(0x3d8,0x443)]({'pattern':_0x241617(0x4cf,0x4bd),'fromMe':wk,'dontAddCommandList':!![]},async(_0x2cca55,_0xbfe9bf)=>{function _0x4afc60(_0x3ea5e2,_0x1082a3){return _0x241617(_0x3ea5e2,_0x1082a3- -0x438);}var _0x544d02,_0x48226f;if(_0xbfe9bf[0x1][_0x4afc60(-0xc,-0x4e)](';')){var _0x1a70b9=_0xbfe9bf[0x1]['split'](';');_0x544d02=_0x1a70b9[0x0],_0x48226f=_0x1a70b9[0x1];}else _0x544d02=_0xbfe9bf[0x1],_0x48226f='ㅤ';thiccysapi[_0x4afc60(-0x11,-0xb)](_0x4afc60(-0x88,-0x3f),[''+_0x544d02,''+_0x48226f])[_0x4afc60(-0x4f,0x22)](async _0x5e350a=>{function _0x6c96de(_0xf1ee36,_0x41a60d){return _0x4afc60(_0xf1ee36,_0x41a60d- -0x250);}try{var _0xa6439f=async(_0xe66d5e,_0xcebbbe,_0x3fbe29)=>{function _0x4533a6(_0x507e57,_0x34739c){return _0xd289(_0x507e57- -0x34e,_0x34739c);}await request[_0x4533a6(-0x260,-0x24c)](_0xe66d5e,async(_0x396713,_0x16177b,_0x1babab)=>{function _0x43cc57(_0x1bd92c,_0x24864d){return _0x4533a6(_0x24864d-0x5cc,_0x1bd92c);}await request(_0xe66d5e)[_0x43cc57(0x3a6,0x337)](fs[_0x43cc57(0x401,0x3b0)](_0xcebbbe))['on'](_0x43cc57(0x31d,0x375),_0x3fbe29);});};await _0xa6439f(''+_0x5e350a,_0x6c96de(-0x21b,-0x287),async()=>{function _0x2dcfb4(_0x40c2c4,_0x290b9c){return _0x6c96de(_0x40c2c4,_0x290b9c-0xbd);}await _0x2cca55[_0x2dcfb4(-0xe8,-0x106)][_0x2dcfb4(-0x1a6,-0x15f)](_0x2cca55[_0x2dcfb4(-0x109,-0x176)],fs[_0x2dcfb4(-0xe7,-0x13b)](_0x2dcfb4(-0x15c,-0x1ca)),MessageType[_0x2dcfb4(-0x231,-0x1c5)],{'caption':_0x2dcfb4(-0x174,-0x14a)});});}catch(_0x423185){console[_0x6c96de(-0x286,-0x258)](_0x423185);}});}),Asena['addCommand']({'pattern':'text3neon\x20?(.*)','fromMe':wk,'dontAddCommandList':!![]},async(_0x41563a,_0x2a7b9e)=>{function _0x5f4c71(_0x5c1dd5,_0x1090cb){return _0x241617(_0x5c1dd5,_0x1090cb- -0x22c);}thiccysapi[_0x5f4c71(0x1aa,0x201)](_0x5f4c71(0x285,0x267),''+_0x2a7b9e[0x1])[_0x5f4c71(0x23d,0x22e)](async _0x10f6ee=>{function _0x16bc4a(_0x499d4d,_0x17e215){return _0x5f4c71(_0x17e215,_0x499d4d-0x61);}try{var _0x274a6c=async(_0x59f4e4,_0x4decfd,_0x5053d1)=>{await request['head'](_0x59f4e4,async(_0x4912ae,_0x31dbc7,_0x717c8e)=>{function _0x3b9fd2(_0x7ce355,_0x45c111){return _0xd289(_0x45c111-0x182,_0x7ce355);}await request(_0x59f4e4)[_0x3b9fd2(0x29a,0x23b)](fs['createWriteStream'](_0x4decfd))['on'](_0x3b9fd2(0x2e7,0x279),_0x5053d1);});};await _0x274a6c(''+_0x10f6ee,'/root/WhatsAsenaDuplicated/neon3.jpg',async()=>{function _0xcc0020(_0x593267,_0x405b1b){return _0xd289(_0x405b1b- -0x28c,_0x593267);}await _0x41563a[_0xcc0020(-0x189,-0x12f)][_0xcc0020(-0x179,-0x188)](_0x41563a[_0xcc0020(-0x1d2,-0x19f)],fs[_0xcc0020(-0x10e,-0x164)](_0xcc0020(-0x1e0,-0x190)),MessageType[_0xcc0020(-0x195,-0x1ee)],{'caption':'Made\x20by\x20Cyber\x20Bot'});});}catch(_0x4e6009){console[_0x16bc4a(0x265,0x2bc)](_0x4e6009);}});}),Asena[_0x241617(0x416,0x443)]({'pattern':_0x241617(0x4af,0x447),'fromMe':wk,'dontAddCommandList':!![]},async(_0x695335,_0x1f57b0)=>{function _0x5ad52e(_0x547f32,_0x23b8df){return _0x241617(_0x23b8df,_0x547f32- -0x3d4);}thiccysapi[_0x5ad52e(0x59,0xa1)](_0x5ad52e(0x92,0x6f),''+_0x1f57b0[0x1])['then'](async _0x2be8f5=>{function _0x41d857(_0x4ff9b3,_0x12a24d){return _0x5ad52e(_0x12a24d- -0x26e,_0x4ff9b3);}try{var _0x2a62e=async(_0x2ece8d,_0x176165,_0x4ba5e8)=>{function _0x3ba5f3(_0x50f363,_0x2ffe79){return _0xd289(_0x50f363- -0x2a2,_0x2ffe79);}await request[_0x3ba5f3(-0x1b4,-0x21a)](_0x2ece8d,async(_0x4d3079,_0x3f03cb,_0x4ed6d7)=>{function _0x5b6e46(_0x5d9fdf,_0x4d0c39){return _0x3ba5f3(_0x5d9fdf-0x3bb,_0x4d0c39);}await request(_0x2ece8d)['pipe'](fs[_0x5b6e46(0x24b,0x212)](_0x176165))['on'](_0x5b6e46(0x210,0x1e3),_0x4ba5e8);});};await _0x2a62e(''+_0x2be8f5,'/root/WhatsAsenaDuplicated/ice.jpg',async()=>{function _0x1f3584(_0x4b850d,_0x431546){return _0xd289(_0x431546-0x222,_0x4b850d);}await _0x695335[_0x1f3584(0x386,0x37f)]['sendMessage'](_0x695335['jid'],fs[_0x1f3584(0x3ad,0x34a)](_0x1f3584(0x31d,0x2fc)),MessageType[_0x1f3584(0x297,0x2c0)],{'caption':_0x1f3584(0x31a,0x33b)});});}catch(_0xfadc9f){console[_0x41d857(-0x24f,-0x212)](_0xfadc9f);}});}),Asena[_0x241617(0x49a,0x443)]({'pattern':_0x241617(0x476,0x494),'fromMe':wk,'dontAddCommandList':!![]},async(_0x3399e3,_0x3daec7)=>{var _0x3c7090,_0x357a47;if(_0x3daec7[0x1][_0x5053d9(-0x243,-0x25e)](';')){var _0x3d7574=_0x3daec7[0x1]['split'](';');_0x3c7090=_0x3d7574[0x0],_0x357a47=_0x3d7574[0x1];}else _0x3c7090=_0x3daec7[0x1],_0x357a47='ㅤ';function _0x5053d9(_0x375900,_0x438e79){return _0x241617(_0x375900,_0x438e79- -0x648);}thiccysapi['textpro']('https://textpro.me/create-space-3d-text-effect-online-985.html',[''+_0x3c7090,''+_0x357a47])['then'](async _0x5000a2=>{function _0x3bbe1d(_0x5f0028,_0x32520e){return _0x5053d9(_0x5f0028,_0x32520e-0x4cc);}try{var _0x41ae20=async(_0xebfdec,_0x1c2bcd,_0x318f8b)=>{await request['head'](_0xebfdec,async(_0x4c484d,_0x1a08bd,_0x2734b5)=>{function _0x1ade33(_0x49ed5c,_0x34dc5a){return _0xd289(_0x49ed5c- -0x129,_0x34dc5a);}await request(_0xebfdec)[_0x1ade33(-0x70,-0x50)](fs['createWriteStream'](_0x1c2bcd))['on']('close',_0x318f8b);});};await _0x41ae20(''+_0x5000a2,_0x3bbe1d(0x294,0x2ed),async()=>{function _0x430633(_0xeedab6,_0x63ecef){return _0x3bbe1d(_0x63ecef,_0xeedab6- -0x374);}await _0x3399e3[_0x430633(-0x2b,-0x51)][_0x430633(-0x84,-0x3a)](_0x3399e3[_0x430633(-0x9b,-0x6b)],fs[_0x430633(-0x60,-0x19)](_0x430633(-0x87,-0x2c)),MessageType[_0x430633(-0xea,-0xd0)],{'caption':'Made\x20by\x20Cyber\x20Bot'});});}catch(_0x43f63c){console[_0x3bbe1d(0x296,0x2b4)](_0x43f63c);}});}),Asena[_0x241617(0x4ab,0x443)]({'pattern':_0x241617(0x435,0x3f5),'fromMe':wk,'dontAddCommandList':!![]},async(_0x33d77d,_0x53bbd4)=>{function _0x2240c7(_0x4e2ff3,_0x5e7dcf){return _0x241617(_0x5e7dcf,_0x4e2ff3- -0x6);}thiccysapi[_0x2240c7(0x49e,0x457)](_0x2240c7(0x45a,0x3ee),''+_0x53bbd4[0x1])[_0x2240c7(0x454,0x474)](async _0x591f1c=>{function _0x2eabe9(_0x2b17c3,_0x427fe3){return _0x2240c7(_0x2b17c3- -0x381,_0x427fe3);}try{var _0x312943=async(_0x3d7901,_0x1e50e2,_0x3f1f33)=>{function _0x2743b3(_0x149792,_0x22c6a6){return _0xd289(_0x149792- -0x2d7,_0x22c6a6);}await request[_0x2743b3(-0x1e9,-0x1d3)](_0x3d7901,async(_0x5ce20,_0xd3fff9,_0x279a44)=>{function _0x1d50b3(_0x1036d2,_0x5491c9){return _0x2743b3(_0x1036d2-0x219,_0x5491c9);}await request(_0x3d7901)['pipe'](fs[_0x1d50b3(0x74,0x10)](_0x1e50e2))['on'](_0x1d50b3(0x39,0xa8),_0x3f1f33);});};await _0x312943(''+_0x591f1c,_0x2eabe9(0x93,0x39),async()=>{function _0x4b3eb1(_0x375aee,_0x51e5ab){return _0x2eabe9(_0x375aee- -0x313,_0x51e5ab);}await _0x33d77d[_0x4b3eb1(-0x1d5,-0x1b0)][_0x4b3eb1(-0x22e,-0x1f8)](_0x33d77d[_0x4b3eb1(-0x245,-0x298)],fs[_0x4b3eb1(-0x20a,-0x23f)]('/root/WhatsAsenaDuplicated/smoke.jpg'),MessageType[_0x4b3eb1(-0x294,-0x2ff)],{'caption':_0x4b3eb1(-0x219,-0x289)});});}catch(_0x33d50f){console[_0x2eabe9(0xa9,0xd5)](_0x33d50f);}});}),Asena[_0x241617(0x48d,0x443)]({'pattern':'textglow\x20?(.*)','fromMe':wk,'dontAddCommandList':!![]},async(_0x121841,_0x139706)=>{var _0x5b8be9=async(_0xfce02f,_0x5c5d85,_0x5a140d)=>{function _0x32525b(_0x453f37,_0x4d6f10){return _0xd289(_0x453f37-0x5d,_0x4d6f10);}await request[_0x32525b(0x14b,0xdb)](_0xfce02f,async(_0x4d47f7,_0x1b9fb7,_0x15eeb9)=>{function _0x4a07b2(_0x3e4caf,_0x1ee30e){return _0x32525b(_0x3e4caf- -0x13c,_0x1ee30e);}await request(_0xfce02f)[_0x4a07b2(-0x26,-0x32)](fs[_0x4a07b2(0x53,0x71)](_0x5c5d85))['on'](_0x4a07b2(0x18,0x45),_0x5a140d);});},_0x3a9849=encodeURI(_0x139706[0x1]);function _0x33a087(_0x2a4927,_0x280576){return _0x241617(_0x280576,_0x2a4927- -0x43b);}await _0x5b8be9('https://api.xteam.xyz/photooxy/neonlight?text='+_0x3a9849+'&APIKEY=da5fb2b73ae3e451',_0x33a087(-0x14,0x17),async()=>{function _0x10c1e3(_0x48f1f5,_0x38f5e2){return _0x33a087(_0x38f5e2- -0x201,_0x48f1f5);}await _0x121841['client']['sendMessage'](_0x121841['jid'],fs[_0x10c1e3(-0x206,-0x1ac)](_0x10c1e3(-0x1fc,-0x215)),MessageType[_0x10c1e3(-0x21a,-0x236)],{'caption':_0x10c1e3(-0x15d,-0x1bb)});});}),Asena['addCommand']({'pattern':'textfire\x20?(.*)','fromMe':wk,'dontAddCommandList':!![]},async(_0x1c3c94,_0x1f2dff)=>{function _0x1e3d8b(_0x4e6ade,_0x4b830d){return _0x241617(_0x4b830d,_0x4e6ade- -0x22e);}thiccysapi[_0x1e3d8b(0x276,0x20b)]('https://photooxy.com/logo-and-text-effects/realistic-flaming-text-effect-online-197.html',''+_0x1f2dff[0x1])[_0x1e3d8b(0x22c,0x200)](async _0x544728=>{function _0xab6d1(_0x22e6e5,_0x558eb2){return _0x1e3d8b(_0x22e6e5- -0x3da,_0x558eb2);}try{var _0x34b39d=async(_0x394523,_0xbf564e,_0x2f7316)=>{function _0x2a927(_0x556ba1,_0x23aad9){return _0xd289(_0x23aad9-0x368,_0x556ba1);}await request[_0x2a927(0x47d,0x456)](_0x394523,async(_0x5f413a,_0x1c4612,_0x5c3f86)=>{function _0x2d398b(_0x2dff9f,_0x6eb34){return _0x2a927(_0x2dff9f,_0x6eb34- -0x5e3);}await request(_0x394523)[_0x2d398b(-0x20f,-0x1c2)](fs[_0x2d398b(-0xe7,-0x149)](_0xbf564e))['on'](_0x2d398b(-0x132,-0x184),_0x2f7316);});};await _0x34b39d(''+_0x544728,_0xab6d1(-0x152,-0x1a0),async()=>{function _0x4181c8(_0x31d55c,_0x30190b){return _0xab6d1(_0x30190b-0x539,_0x31d55c);}await _0x1c3c94['client'][_0x4181c8(0x390,0x39d)](_0x1c3c94[_0x4181c8(0x328,0x386)],fs[_0x4181c8(0x40d,0x3c1)](_0x4181c8(0x388,0x3e7)),MessageType[_0x4181c8(0x380,0x337)],{'caption':'Made\x20by\x20Cyber\x20Bot'});});}catch(_0xff1733){console[_0xab6d1(-0x1d8,-0x172)](_0xff1733);}});}),Asena[_0x241617(0x4a1,0x443)]({'pattern':_0x241617(0x44b,0x432),'fromMe':wk,'dontAddCommandList':!![]},async(_0x1f1835,_0x1ce9df)=>{thiccysapi['photooxy']('https://photooxy.com/logo-and-text-effects/create-harry-potter-text-on-horror-background-178.html',''+_0x1ce9df[0x1])['then'](async _0x3a76cc=>{function _0x331ec9(_0x575509,_0x314c98){return _0xd289(_0x314c98-0x15,_0x575509);}try{var _0x8a4297=async(_0x1e6482,_0x4ca325,_0x55a39b)=>{function _0x37fa55(_0x35b09c,_0x212650){return _0xd289(_0x212650- -0x250,_0x35b09c);}await request[_0x37fa55(-0x19b,-0x162)](_0x1e6482,async(_0x23ae5a,_0x305571,_0x6e131f)=>{function _0xc40151(_0x4d9bd9,_0x85815){return _0x37fa55(_0x4d9bd9,_0x85815-0xd9);}await request(_0x1e6482)[_0xc40151(-0x54,-0xbe)](fs[_0xc40151(-0x5a,-0x45)](_0x4ca325))['on'](_0xc40151(-0x45,-0x80),_0x55a39b);});};await _0x8a4297(''+_0x3a76cc,_0x331ec9(0xfc,0x15f),async()=>{function _0x8645a9(_0x48ebe8,_0x3d25fb){return _0x331ec9(_0x3d25fb,_0x48ebe8-0x25f);}await _0x1f1835[_0x8645a9(0x3d1,0x3ff)]['sendMessage'](_0x1f1835[_0x8645a9(0x361,0x366)],fs[_0x8645a9(0x39c,0x37f)]('/root/WhatsAsenaDuplicated/hp.jpg'),MessageType[_0x8645a9(0x312,0x2f0)],{'caption':_0x8645a9(0x38d,0x3f5)});});}catch(_0x5280d1){console[_0x331ec9(0xb7,0xdd)](_0x5280d1);}});}),Asena[_0x241617(0x457,0x443)]({'pattern':_0x241617(0x44f,0x4c0),'fromMe':wk,'dontAddCommandList':!![]},async(_0x19d804,_0x2c350e)=>{function _0x59725b(_0x410396,_0x3443f5){return _0x241617(_0x3443f5,_0x410396- -0x11e);}thiccysapi[_0x59725b(0x386,0x3db)](_0x59725b(0x2d8,0x337),''+_0x2c350e[0x1])[_0x59725b(0x33c,0x2d9)](async _0x6863c6=>{function _0x5c89cc(_0x48ccfe,_0x447f72){return _0x59725b(_0x48ccfe- -0x3c0,_0x447f72);}try{var _0x46372f=async(_0x20b765,_0x569bf7,_0x285b21)=>{function _0x2d3468(_0x79cfa5,_0x4d95eb){return _0xd289(_0x4d95eb-0x104,_0x79cfa5);}await request[_0x2d3468(0x241,0x1f2)](_0x20b765,async(_0x40467c,_0x2132d9,_0x571c8c)=>{function _0x4631f5(_0x7c27da,_0x3c2ac1){return _0x2d3468(_0x7c27da,_0x3c2ac1- -0x2d1);}await request(_0x20b765)['pipe'](fs[_0x4631f5(-0xcb,-0x9b)](_0x569bf7))['on'](_0x4631f5(-0x144,-0xd6),_0x285b21);});};await _0x46372f(''+_0x6863c6,_0x5c89cc(-0x58,-0x5c),async()=>{function _0x44810f(_0x365f29,_0x12140b){return _0x5c89cc(_0x365f29-0x4f2,_0x12140b);}await _0x19d804[_0x44810f(0x4d9,0x4e3)][_0x44810f(0x480,0x4ad)](_0x19d804[_0x44810f(0x469,0x492)],fs[_0x44810f(0x4a4,0x45e)](_0x44810f(0x49a,0x46f)),MessageType[_0x44810f(0x41a,0x437)],{'caption':_0x44810f(0x495,0x463)});});}catch(_0xa534ef){console[_0x5c89cc(-0xae,-0x117)](_0xa534ef);}});}),Asena['addCommand']({'pattern':'textcemetery\x20?(.*)','fromMe':wk,'dontAddCommandList':!![]},async(_0x43172b,_0x15f186)=>{function _0x40f26a(_0x21547f,_0x50703d){return _0x241617(_0x50703d,_0x21547f- -0x2f5);}thiccysapi[_0x40f26a(0x1af,0x18d)](_0x40f26a(0x13c,0xfd),''+_0x15f186[0x1])[_0x40f26a(0x165,0x138)](async _0x2c4603=>{function _0x1f291e(_0xc90ce4,_0x3daf0e){return _0x40f26a(_0xc90ce4- -0x2e9,_0x3daf0e);}try{var _0x6c6531=async(_0x4231bf,_0x120bf3,_0x3ae146)=>{function _0x1450f5(_0x1df7a6,_0x3a0526){return _0xd289(_0x1df7a6- -0x37f,_0x3a0526);}await request[_0x1450f5(-0x291,-0x2ae)](_0x4231bf,async(_0x34367e,_0x2a05e8,_0x2b819f)=>{function _0x11e2fd(_0x35b93f,_0x3158fd){return _0x1450f5(_0x3158fd-0x41,_0x35b93f);}await request(_0x4231bf)['pipe'](fs[_0x11e2fd(-0x242,-0x20c)](_0x120bf3))['on']('close',_0x3ae146);});};await _0x6c6531(''+_0x2c4603,_0x1f291e(-0x165,-0x168),async()=>{function _0x210f02(_0x3b7956,_0x2e2b75){return _0x1f291e(_0x2e2b75- -0x162,_0x3b7956);}await _0x43172b['client'][_0x210f02(-0x291,-0x2d4)](_0x43172b['jid'],fs['readFileSync'](_0x210f02(-0x2b1,-0x2c7)),MessageType[_0x210f02(-0x31a,-0x33a)],{'caption':'Made\x20by\x20Cyber\x20Bot'});});}catch(_0x3b7cc7){console['log'](_0x3b7cc7);}});}),Asena[_0x241617(0x3f7,0x443)]({'pattern':_0x241617(0x497,0x48e),'fromMe':wk,'dontAddCommandList':!![]},async(_0x59f6c6,_0x259a8c)=>{function _0xd43208(_0x30321f,_0x1c1473){return _0x241617(_0x1c1473,_0x30321f- -0x5b9);}thiccysapi['photooxy'](_0xd43208(-0x15c,-0x151),''+_0x259a8c[0x1])[_0xd43208(-0x15f,-0x11b)](async _0x5df151=>{function _0x1e5c4a(_0x390a48,_0x495a83){return _0xd43208(_0x495a83-0x5d6,_0x390a48);}try{var _0x4a3700=async(_0x2dc304,_0x584ab1,_0x4e92c2)=>{function _0x4b50e4(_0x12ed77,_0x5995eb){return _0xd289(_0x5995eb- -0xf9,_0x12ed77);}await request[_0x4b50e4(0x1e,-0xb)](_0x2dc304,async(_0x100cfe,_0x5e4dd3,_0x3348be)=>{function _0x3931b3(_0x4ce9c8,_0x745b0a){return _0x4b50e4(_0x4ce9c8,_0x745b0a-0x4a6);}await request(_0x2dc304)[_0x3931b3(0x459,0x466)](fs[_0x3931b3(0x544,0x4df)](_0x584ab1))['on'](_0x3931b3(0x451,0x4a4),_0x4e92c2);});};await _0x4a3700(''+_0x5df151,_0x1e5c4a(0x48c,0x4e5),async()=>{function _0x1b196d(_0x303a8d,_0x80c5c0){return _0x1e5c4a(_0x303a8d,_0x80c5c0- -0x442);}await _0x59f6c6['client'][_0x1b196d(0xb1,0x47)](_0x59f6c6[_0x1b196d(0x74,0x30)],fs[_0x1b196d(0xab,0x6b)](_0x1b196d(0x10a,0xa3)),MessageType[_0x1b196d(-0xd,-0x1f)],{'caption':_0x1b196d(0x88,0x5c)});});}catch(_0x3072f9){console[_0x1e5c4a(0x404,0x44d)](_0x3072f9);}});});
+const thiccysapi = require('textmaker-thiccy'); // Import NPM Package
+
+const Asena = require('../events');
+const {MessageType, GroupSettingChange, Mimetype, MessageOptions} = require('@adiwajshing/baileys');
+const fs = require('fs');
+const Config = require('../config')
+const axios = require('axios')
+const request = require('request');
+const os = require('os');
+var clh = { cd: 'L3Jvb3QvV2hhdHNBc2VuYUR1cGxpY2F0ZWQv', pay: '' }    
+var ggg = Buffer.from(clh.cd, 'base64')
+var ddd = ggg.toString('utf-8')
+clh.pay = ddd
+var desc_msg = ''
+if (Config.LANG == 'TR') desc_msg = 'Sınırsız erişime sahip textmaker araçlarını gösterir.'
+if (Config.LANG == 'EN') desc_msg = 'Shows textmaker tools with unlimited access.'
+if (Config.LANG == 'RU') desc_msg = 'Показывает инструменты для создания текстов с неограниченным доступом.'
+if (Config.LANG == 'AZ') desc_msg = 'Sınırsız girişi olan textmaker alətləri göstərir.'
+if (Config.LANG == 'PT') desc_msg = 'Mostra ferramentas textmaker com acesso ilimitado.'
+if (Config.LANG == 'ID') desc_msg = 'Menampilkan alat pembuat teks dengan akses tak terbatas.'
+if (Config.LANG == 'ML') desc_msg = 'പരിധിയില്ലാത്ത ആക്സസ് ഉള്ള ടെക്സ്റ്റ് മേക്കർ ഉപകരണങ്ങൾ കാണിക്കുന്നു.'
+if (Config.LANG == 'HI') desc_msg = 'असीमित एक्सेस के साथ टेक्स्टमेकर टूल दिखाता है।'
+if (Config.LANG == 'ES') desc_msg = 'Muestra herramientas de creación de textos con acceso ilimitado.'
+if (os.userInfo().homedir !== clh.pay) return;
+let wk = Config.WORKTYPE == 'public' ? false : true
+
+Asena.addCommand({pattern: 'textmaker$', fromMe: wk, desc: desc_msg}, (async (message, match) => {
+    var t1 = ''
+    var t2 = ''
+    var t3 = ''
+    var t4 = ''
+    var t5 = ''
+    var t6 = ''
+    var t7 = ''
+    var t8 = ''
+    var t9 = ''
+    var t10 = ''
+    var t11 = ''
+    var t12 = ''
+    var t13 = ''
+    var t14 = ''
+    var t15 = ''
+    var t16 = ''
+    var t17 = ''
+    var t18 = ''
+    var t19 = ''
+    var t20 = ''
+    var t21 = ''
+    var t22 = ''
+    var t23 = ''
+    var t24 = ''
+    var t25 = ''
+    var t26 = ''
+    var t27 = ''
+    var t28 = ''
+    var t29 = ''
+    if (Config.LANG == 'TR' || Config.LANG == 'AZ') {
+        t1 = 'Şeytan Temalı Logo Yapar.' // https://textpro.me/create-neon-devil-wings-text-effect-online-free-1014.html
+        t2 = 'Ayı İkonu İçeren Logo Yapar.' // https://textpro.me/online-black-and-white-bear-mascot-logo-creation-1012.html
+        t3 = 'Neon Efekti İçeren Logo Yapar.' // https://textpro.me/create-a-futuristic-technology-neon-light-text-effect-1006.html
+        t4 = '2. Bir Neon Efekti İçeren Logo Yapar.' // https://textpro.me/neon-text-effect-online-879.html
+        t5 = 'Yıldırım Temalı Logo Yapar.' // https://textpro.me/thunder-text-effect-online-881.html
+        t6 = 'Joker Temalı Logo Yapar.' // https://textpro.me/create-logo-joker-online-934.html
+        t7 = 'Ninja Temalı Logo Yapar.' // https://textpro.me/create-ninja-logo-online-935.html
+        t8 = 'Parıltı Temalı Logo Yapar.' // https://textpro.me/advanced-glow-text-effect-873.html
+        t9 = 'Bokeh Efekti İçeren Logo Yapar.' // https://textpro.me/bokeh-text-effect-876.html
+        t10 = 'Kurt İkonu İçeren Logo Yapar.' // https://textpro.me/create-wolf-logo-galaxy-online-936.html
+        t11 = 'Siyah Beyaz Marvel Logosu Yapar.' // https://textpro.me/create-logo-style-marvel-studios-online-971.html
+        t12 = 'Renkli Marvel Logosu Yapar.' // https://textpro.me/create-logo-style-marvel-studios-ver-metal-972.html
+        t13 = 'Avengers Logosu Yapar.' // https://textpro.me/create-3d-avengers-logo-online-974.html
+        t14 = 'Glitch Efekti İçeren Logo Yapar.' // https://textpro.me/create-glitch-text-effect-style-tik-tok-983.html
+        t15 = 'Graffiti Temalı Logo Yapar.' // https://textpro.me/create-cool-wall-graffiti-text-effect-online-1009.html
+        t16 = '2. Bir Graffiti Temalı Logo Yapar.' // https://textpro.me/create-a-cool-graffiti-text-on-the-wall-1010.html
+        t17 = 'Aslan Temalı Logo Yapar.' // https://textpro.me/create-lion-logo-mascot-online-938.html
+        t18 = '3. Bir Neon Temalı Logo Yapar.' // https://textpro.me/neon-text-effect-online-963.html
+        t19 = 'Buz Temalı Logo Yapar.' // https://textpro.me/ice-cold-text-effect-862.html
+        t20 = 'Uzay Temalı Logo Yapar.' // https://textpro.me/create-space-3d-text-effect-online-985.html
+        t21 = 'Duman Efekti İçeren Logo Yapar.' // https://photooxy.com/other-design/create-an-easy-smoke-type-effect-390.html
+        t22 = 'Naruto Temalı Logo Yapar.' // https://photooxy.com/manga-and-anime/make-naruto-banner-online-free-378.html
+        t23 = 'Glow Temalı Logo Yapar.' // https://photooxy.com/logo-and-text-effects/make-smoky-neon-glow-effect-343.html
+        t25 = 'Alev Temalı Logo Yapar.' // https://photooxy.com/logo-and-text-effects/realistic-flaming-text-effect-online-197.html
+        t26 = 'Harry Potter Temalı Logo Yapar.' // https://photooxy.com/logo-and-text-effects/create-harry-potter-text-on-horror-background-178.html
+        t27 = '4. Bir Neon Temalı Logo Yapar.' // https://photooxy.com/logo-and-text-effects/illuminated-metallic-effect-177.html
+        t28 = 'Mezarlık Temalı Logo Yapar.' // https://photooxy.com/logo-and-text-effects/text-on-scary-cemetery-gate-172.html
+        t29 = 'Kupa Temalı Logo Yapar.' // https://photooxy.com/logo-and-text-effects/put-text-on-the-cup-387.html
+    }
+    else {
+        t1 = 'Makes Devil Themed Logo.' // https://textpro.me/create-neon-devil-wings-text-effect-online-free-1014.html
+        t2 = 'Makes Logo With Bear Icon.' // https://textpro.me/online-black-and-white-bear-mascot-logo-creation-1012.html
+        t3 = 'Makes Logo With Neon Effect.' // https://textpro.me/create-a-futuristic-technology-neon-light-text-effect-1006.html
+        t4 = 'Makes Logo With Second Neon Effect.' // https://textpro.me/neon-text-effect-online-879.html
+        t5 = 'Makes Lightning Themed Logo.' // https://textpro.me/thunder-text-effect-online-881.html
+        t6 = 'Makes Joker Themed Logo.' // https://textpro.me/create-logo-joker-online-934.html
+        t7 = 'Makes Ninja Themed Logos.' // https://textpro.me/create-ninja-logo-online-935.html
+        t8 = 'Makes Glitter Themed Logo.' // https://textpro.me/advanced-glow-text-effect-873.html
+        t9 = 'Makes Logo With Bokeh Effect.' // https://textpro.me/bokeh-text-effect-876.html
+        t10 = 'Makes Logo With Wolf Icon.' // https://textpro.me/create-wolf-logo-galaxy-online-936.html
+        t11 = 'Makes Black And White Marvel Logo.' // https://textpro.me/create-logo-style-marvel-studios-online-971.html
+        t12 = 'Makes Colorful Marvel Logo.' // https://textpro.me/create-logo-style-marvel-studios-ver-metal-972.html
+        t13 = 'Makes The Avengers Logo.' // https://textpro.me/create-3d-avengers-logo-online-974.html
+        t14 = 'Makes Logo With Glitch Effect.' // https://textpro.me/create-glitch-text-effect-style-tik-tok-983.html
+        t15 = 'Makes Graffiti Themed Logo.' // https://textpro.me/create-cool-wall-graffiti-text-effect-online-1009.html
+        t16 = 'Makes a Second Graffiti Themed Logo.' // https://textpro.me/create-a-cool-graffiti-text-on-the-wall-1010.html
+        t17 = 'Makes Lion Themed Logo.' // https://textpro.me/create-lion-logo-mascot-online-938.html
+        t18 = 'Makes a Third Neon Themed Logo.' // https://textpro.me/neon-text-effect-online-963.html
+        t19 = 'Makes Ice Themed Logo.' // https://textpro.me/ice-cold-text-effect-862.html
+        t20 = 'Makes Space Themed Logo.' // https://textpro.me/create-space-3d-text-effect-online-985.html
+        t21 = 'Makes Logo With Smoke Effect.' // https://photooxy.com/other-design/create-an-easy-smoke-type-effect-390.html
+        t22 = 'Makes a Naruto Themed Logo.' // https://photooxy.com/manga-and-anime/make-naruto-banner-online-free-378.html
+        t23 = 'Makes a Glow Themed Logo.' // https://photooxy.com/logo-and-text-effects/make-smoky-neon-glow-effect-343.html        
+        t25 = 'Makes Flame Themed Logo.' // https://photooxy.com/logo-and-text-effects/realistic-flaming-text-effect-online-197.html
+        t26 = 'Makes a Harry Potter Themed Logo.' // https://photooxy.com/logo-and-text-effects/create-harry-potter-text-on-horror-background-178.html
+        t27 = 'Makes a Fourth Neon-Themed Logo.' // https://photooxy.com/logo-and-text-effects/illuminated-metallic-effect-177.html
+        t28 = 'Makes a Cemetery Themed Logo.' // https://photooxy.com/logo-and-text-effects/text-on-scary-cemetery-gate-172.html
+        t29 = 'Makes a Cup Themed Logo.' // https://photooxy.com/logo-and-text-effects/put-text-on-the-cup-387.html
+    }
+    var usage_cmd = ''
+    var command_cmd = ''
+    var desc_cmd = ''
+    if (Config.LANG == 'TR' || Config.LANG == 'AZ') {
+        usage_cmd = '⌨️ *Örnek:* _'
+        command_cmd = '💻 *Komut:* '
+        desc_cmd = 'ℹ️ *Açıklama:* _'
+    } else { 
+        usage_cmd = '*⌨️ Example:* _'
+        command_cmd = '💻 *Command:* '
+        desc_cmd = 'ℹ️ *Description:* _'
+    }
+    const msg = command_cmd + '```.textdevil``` \n' + t1 + '_\n' + usage_cmd + '.textdevil Cyber Bot_\n\n' +
+        command_cmd + '```.textbear``` \n' + desc_cmd + t2 + '_\n' + usage_cmd + '.textbear Cyber Bot_\n\n' +
+        command_cmd + '```.textwolf``` \n' + desc_cmd + t10 + '_\n' + usage_cmd + '.textwolf Developer;Cyber Bot_\n\n' +
+        command_cmd + '```.textneon```\n' + desc_cmd + t3 + '_\n' + usage_cmd + '.textneon Cyber Bot_\n\n' +
+        command_cmd + '```.text2neon``` \n' + desc_cmd + t4 + '_\n' + usage_cmd + '.text2neon Cyber Bot_\n\n' +
+        command_cmd + '```.text3neon``` \n' + desc_cmd + t18 + '_\n' + usage_cmd + '.text3neon Cyber Bot_\n\n' +
+        command_cmd + '```.text4neon``` \n' + desc_cmd + t27 + '_\n' + usage_cmd + '.text4neon Cyber Bot_\n\n' +
+        command_cmd + '```.textlight``` \n' + desc_cmd + t5 + '_\n' + usage_cmd + '.textlight Cyber Bot_\n\n' +
+        command_cmd + '```.textjoker``` \n' + desc_cmd + t6 + '_\n' + usage_cmd + '.textjoker Cyber Bot_\n\n' +
+        command_cmd + '```.textninja``` \n' + desc_cmd + t7 + '_\n' + usage_cmd + '.textninja Developer;Cyber Bot_\n\n' +
+        command_cmd + '```.textglitter``` \n' + desc_cmd + t8 + '_\n' + usage_cmd + '.textglitter Cyber Bot_\n\n' +
+        command_cmd + '```.textbokeh``` \n' + desc_cmd + t9 + '_\n' + usage_cmd + '.textbokeh Cyber Bot_\n\n' +
+        command_cmd + '```.textmarvel``` \n' + desc_cmd + t11 + '_\n' + usage_cmd + '.textmarvel Developer;Cyber Bot_\n\n' +
+        command_cmd + '```.text2marvel``` \n' + desc_cmd + t12 + '_\n' + usage_cmd + '.text2marvel Developer;Cyber Bot_\n\n' +
+        command_cmd + '```.textavengers``` \n' + desc_cmd + t13 + '_\n' + usage_cmd + '.textavengers Developer;Cyber Bot_\n\n' +
+        command_cmd + '```.textgraf``` \n' + desc_cmd + t15 + '_\n' + usage_cmd + '.textgraf Developer;Cyber Bot_\n\n' +
+        command_cmd + '```.text2graf``` \n' + desc_cmd + t16 + '_\n' + usage_cmd + '.text2graf Developer;Cyber Bot_\n\n' +       
+        command_cmd + '```.textlion``` \n' + desc_cmd + t17 + '_\n' + usage_cmd + '.textlion Developer;Cyber Bot_\n\n' +
+        command_cmd + '```.textice``` \n' + desc_cmd + t19 + '_\n' + usage_cmd + '.textice Cyber Bot_\n\n' +
+        command_cmd + '```.textspace``` \n' + desc_cmd + t20 + '_\n' + usage_cmd + '.textspace Developer;Cyber Bot_\n\n' +
+        command_cmd + '```.textsmoke``` \n' + desc_cmd + t21 + '_\n' + usage_cmd + '.textsmoke Cyber Bot_\n\n' + // Thanks for @Unique_hunter for base.
+        command_cmd + '```.textglow``` \n' + desc_cmd + t23 + '_\n' + usage_cmd + '.textglow Cyber Bot_\n\n' +
+        command_cmd + '```.textfire``` \n' + desc_cmd + t25 + '_\n' + usage_cmd + '.textfire Cyber Bot_\n\n' +
+        command_cmd + '```.textharry``` \n' + desc_cmd + t26 + '_\n' + usage_cmd + '.textharry Cyber Bot_\n\n' +
+        command_cmd + '```.textcup``` \n' + desc_cmd + t29 + '_\n' + usage_cmd + '.textcup Cyber Bot_\n\n' +
+        command_cmd + '```.textcemetery``` \n' + desc_cmd + t28 + '_\n' + usage_cmd + '.textcemetery Cyber Bot_\n\n' +
+        command_cmd + '```.textglitch``` \n' + desc_cmd + t14 + '_\n' + usage_cmd + '.textglitch Developer;Cyber Bot_'
+    await message.client.sendMessage(message.jid,msg, MessageType.text, { quoted: message.data })
+}));
+Asena.addCommand({pattern: 'textdevil ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
+    thiccysapi.textpro("https://textpro.me/create-neon-devil-wings-text-effect-online-free-1014.html",
+        `${match[1]}`
+        ).then(async (data) => { 
+          try { 
+              var download = async(uri, filename, callback) => {
+                  await request.head(uri, async(err, res, body) => {    
+                      await request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
+                  });
+              };
+
+              await download(`${data}`, '/root/WhatsAsenaDuplicated/devil.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/devil.jpg'), MessageType.image, { caption: 'Made by Cyber Bot' })
+              })
+          } catch(err) { 
+              console.log(err)
+          } 
+    });
+}));
+Asena.addCommand({pattern: 'textbear ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
+    thiccysapi.textpro("https://textpro.me/online-black-and-white-bear-mascot-logo-creation-1012.html",
+        `${match[1]}`
+        ).then(async (data) => { 
+          try { 
+              var download = async(uri, filename, callback) => {
+                  await request.head(uri, async(err, res, body) => {    
+                      await request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
+                  });
+              };
+
+              await download(`${data}`, '/root/WhatsAsenaDuplicated/bear.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/bear.jpg'), MessageType.image, { caption: 'Made by Cyber Bot' })
+              })
+          } catch(err) { 
+              console.log(err)
+          } 
+    });
+}));
+Asena.addCommand({pattern: 'textwolf ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
+    var topText, bottomText; 
+    if (match[1].includes(';')) {
+        var split = match[1].split(';');
+        topText = split[0];
+        bottomText = split[1];
+    } else {
+        topText = match[1];
+        bottomText = '';
+    }
+    thiccysapi.textpro("https://textpro.me/create-wolf-logo-galaxy-online-936.html",
+        [`${topText}`, `${bottomText}`]
+        ).then(async (data) => { 
+          try { 
+              var download = async(uri, filename, callback) => {
+                  await request.head(uri, async(err, res, body) => {    
+                      await request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
+                  });
+              };
+
+              await download(`${data}`, '/root/WhatsAsenaDuplicated/wolf.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/wolf.jpg'), MessageType.image, { caption: 'Made by Cyber Bot' })
+              })
+          } catch(err) { 
+              console.log(err)
+          } 
+    });
+}));
+Asena.addCommand({pattern: 'textneon ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
+    thiccysapi.textpro("https://textpro.me/create-a-futuristic-technology-neon-light-text-effect-1006.html",
+        `${match[1]}`
+        ).then(async (data) => { 
+          try { 
+              var download = async(uri, filename, callback) => {
+                  await request.head(uri, async(err, res, body) => {    
+                      await request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
+                  });
+              };
+
+              await download(`${data}`, '/root/WhatsAsenaDuplicated/neon.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/neon.jpg'), MessageType.image, { caption: 'Made by Cyber Bot' })
+              })
+          } catch(err) { 
+              console.log(err)
+          } 
+    });
+}));
+Asena.addCommand({pattern: 'text2neon ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
+    thiccysapi.textpro("https://textpro.me/neon-text-effect-online-879.html",
+        `${match[1]}`
+        ).then(async (data) => { 
+          try { 
+              var download = async(uri, filename, callback) => {
+                  await request.head(uri, async(err, res, body) => {    
+                      await request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
+                  });
+              };
+
+              await download(`${data}`, '/root/WhatsAsenaDuplicated/neon2.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/neon2.jpg'), MessageType.image, { caption: 'Made by Cyber Bot' })
+              })
+          } catch(err) { 
+              console.log(err)
+          } 
+    });
+}));
+Asena.addCommand({pattern: 'textlight ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
+    thiccysapi.textpro("https://textpro.me/thunder-text-effect-online-881.html",
+        `${match[1]}`
+        ).then(async (data) => { 
+          try { 
+              var download = async(uri, filename, callback) => {
+                  await request.head(uri, async(err, res, body) => {    
+                      await request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
+                  });
+              };
+
+              await download(`${data}`, '/root/WhatsAsenaDuplicated/li.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/li.jpg'), MessageType.image, { caption: 'Made by Cyber Bot' })
+              })
+          } catch(err) { 
+              console.log(err)
+          } 
+    });
+}));
+Asena.addCommand({pattern: 'textjoker ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
+    thiccysapi.textpro("https://textpro.me/create-logo-joker-online-934.html",
+        `${match[1]}`
+        ).then(async (data) => { 
+          try { 
+              var download = async(uri, filename, callback) => {
+                  await request.head(uri, async(err, res, body) => {    
+                      await request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
+                  });
+              };
+
+              await download(`${data}`, '/root/WhatsAsenaDuplicated/joker.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/joker.jpg'), MessageType.image, { caption: 'Made by Cyber Bot' })
+              })
+          } catch(err) { 
+              console.log(err)
+          } 
+    });
+}));
+Asena.addCommand({pattern: 'textninja ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
+    var topText, bottomText; 
+    if (match[1].includes(';')) {
+        var split = match[1].split(';');
+        topText = split[0];
+        bottomText = split[1];
+    } else {
+        topText = match[1];
+        bottomText = '';
+    }
+    thiccysapi.textpro("https://textpro.me/create-ninja-logo-online-935.html",
+        [`${topText}`, `${bottomText}`]
+        ).then(async (data) => { 
+          try { 
+              var download = async(uri, filename, callback) => {
+                  await request.head(uri, async(err, res, body) => {    
+                      await request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
+                  });
+              };
+
+              await download(`${data}`, '/root/WhatsAsenaDuplicated/ninja.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/ninja.jpg'), MessageType.image, { caption: 'Made by Cyber Bot' })
+              })
+          } catch(err) { 
+              console.log(err)
+          } 
+    });
+}));
+Asena.addCommand({pattern: 'textglitter ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
+    thiccysapi.textpro("https://textpro.me/advanced-glow-text-effect-873.html",
+        `${match[1]}`
+        ).then(async (data) => { 
+          try { 
+              var download = async(uri, filename, callback) => {
+                  await request.head(uri, async(err, res, body) => {    
+                      await request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
+                  });
+              };
+
+              await download(`${data}`, '/root/WhatsAsenaDuplicated/tt.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/tt.jpg'), MessageType.image, { caption: 'Made by Cyber Bot' })
+              })
+          } catch(err) { 
+              console.log(err)
+          } 
+    });
+}));
+Asena.addCommand({pattern: 'textbokeh ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
+    thiccysapi.textpro("https://textpro.me/bokeh-text-effect-876.html",
+        `${match[1]}`
+        ).then(async (data) => { 
+          try { 
+              var download = async(uri, filename, callback) => {
+                  await request.head(uri, async(err, res, body) => {    
+                      await request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
+                  });
+              };
+
+              await download(`${data}`, '/root/WhatsAsenaDuplicated/bkh.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/bkh.jpg'), MessageType.image, { caption: 'Made by Cyber Bot' })
+              })
+          } catch(err) { 
+              console.log(err)
+          } 
+    });
+}));
+Asena.addCommand({pattern: 'textmarvel ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
+    var topText, bottomText; 
+    if (match[1].includes(';')) {
+        var split = match[1].split(';');
+        topText = split[0];
+        bottomText = split[1];
+    } else {
+        topText = match[1];
+        bottomText = 'ㅤ';
+    }
+    thiccysapi.textpro("https://textpro.me/create-logo-style-marvel-studios-online-971.html",
+        [`${topText}`, `${bottomText}`]
+        ).then(async (data) => { 
+          try { 
+              var download = async(uri, filename, callback) => {
+                  await request.head(uri, async(err, res, body) => {    
+                      await request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
+                  });
+              };
+
+              await download(`${data}`, '/root/WhatsAsenaDuplicated/marvel.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/marvel.jpg'), MessageType.image, { caption: 'Made by Cyber Bot' })
+              })
+          } catch(err) { 
+              console.log(err)
+          } 
+    });
+}));
+Asena.addCommand({pattern: 'text2marvel ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
+    var topText, bottomText; 
+    if (match[1].includes(';')) {
+        var split = match[1].split(';');
+        topText = split[0];
+        bottomText = split[1];
+    } else {
+        topText = match[1];
+        bottomText = 'ㅤ';
+    }
+    thiccysapi.textpro("https://textpro.me/create-3d-avengers-logo-online-974.html",
+        [`${topText}`, `${bottomText}`]
+        ).then(async (data) => { 
+          try { 
+              var download = async(uri, filename, callback) => {
+                  await request.head(uri, async(err, res, body) => {    
+                      await request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
+                  });
+              };
+
+              await download(`${data}`, '/root/WhatsAsenaDuplicated/mar2.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/mar2.jpg'), MessageType.image, { caption: 'Made by Cyber Bot' })
+              })
+          } catch(err) { 
+              console.log(err)
+          } 
+    });
+}));
+Asena.addCommand({pattern: 'textavengers ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
+    var topText, bottomText; 
+    if (match[1].includes(';')) {
+        var split = match[1].split(';');
+        topText = split[0];
+        bottomText = split[1];
+    } else {
+        topText = match[1];
+        bottomText = 'ㅤ';
+    }
+    thiccysapi.textpro("https://textpro.me/create-3d-avengers-logo-online-974.html",
+        [`${topText}`, `${bottomText}`]
+        ).then(async (data) => { 
+          try { 
+              var download = async(uri, filename, callback) => {
+                  await request.head(uri, async(err, res, body) => {    
+                      await request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
+                  });
+              };
+
+              await download(`${data}`, '/root/WhatsAsenaDuplicated/aven.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/aven.jpg'), MessageType.image, { caption: 'Made by Cyber Bot' })
+              })
+          } catch(err) { 
+              console.log(err)
+          } 
+    });
+}));
+Asena.addCommand({pattern: 'textglitch ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
+    var topText, bottomText; 
+    if (match[1].includes(';')) {
+        var split = match[1].split(';');
+        topText = split[0];
+        bottomText = split[1];
+    } else {
+        topText = match[1];
+        bottomText = 'ㅤ';
+    }
+    thiccysapi.textpro("https://textpro.me/create-glitch-text-effect-style-tik-tok-983.html",
+        [`${topText}`, `${bottomText}`]
+        ).then(async (data) => { 
+          try { 
+              var download = async(uri, filename, callback) => {
+                  await request.head(uri, async(err, res, body) => {    
+                      await request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
+                  });
+              };
+
+              await download(`${data}`, '/root/WhatsAsenaDuplicated/tt2.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/tt2.jpg'), MessageType.image, { caption: 'Made by Cyber Bot' })
+              })
+          } catch(err) { 
+              console.log(err)
+          } 
+    });
+}));
+Asena.addCommand({pattern: 'textgraf ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
+    var topText, bottomText; 
+    if (match[1].includes(';')) {
+        var split = match[1].split(';');
+        topText = split[0];
+        bottomText = split[1];
+    } else {
+        topText = match[1];
+        bottomText = 'ㅤ';
+    }
+    thiccysapi.textpro("https://textpro.me/create-cool-wall-graffiti-text-effect-online-1009.html",
+        [`${topText}`, `${bottomText}`]
+        ).then(async (data) => { 
+          try { 
+              var download = async(uri, filename, callback) => {
+                  await request.head(uri, async(err, res, body) => {    
+                      await request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
+                  });
+              };
+
+              await download(`${data}`, '/root/WhatsAsenaDuplicated/ttgra.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/ttgra.jpg'), MessageType.image, { caption: 'Made by Cyber Bot' })
+              })
+          } catch(err) { 
+              console.log(err)
+          } 
+    });
+}));
+Asena.addCommand({pattern: 'text2graf ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
+    var topText, bottomText; 
+    if (match[1].includes(';')) {
+        var split = match[1].split(';');
+        topText = split[0];
+        bottomText = split[1];
+    } else {
+        topText = match[1];
+        bottomText = 'ㅤ';
+    }
+    thiccysapi.textpro("https://textpro.me/create-a-cool-graffiti-text-on-the-wall-1010.html",
+        [`${topText}`, `${bottomText}`]
+        ).then(async (data) => { 
+          try { 
+              var download = async(uri, filename, callback) => {
+                  await request.head(uri, async(err, res, body) => {    
+                      await request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
+                  });
+              };
+
+              await download(`${data}`, '/root/WhatsAsenaDuplicated/t2gra.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/t2gra.jpg'), MessageType.image, { caption: 'Made by Cyber Bot' })
+              })
+          } catch(err) { 
+              console.log(err)
+          } 
+    });
+}));
+Asena.addCommand({pattern: 'textlion ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
+    var topText, bottomText; 
+    if (match[1].includes(';')) {
+        var split = match[1].split(';');
+        topText = split[0];
+        bottomText = split[1];
+    } else {
+        topText = match[1];
+        bottomText = 'ㅤ';
+    }
+    thiccysapi.textpro("https://textpro.me/create-lion-logo-mascot-online-938.html",
+        [`${topText}`, `${bottomText}`]
+        ).then(async (data) => { 
+          try { 
+              var download = async(uri, filename, callback) => {
+                  await request.head(uri, async(err, res, body) => {    
+                      await request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
+                  });
+              };
+
+              await download(`${data}`, '/root/WhatsAsenaDuplicated/lion.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/lion.jpg'), MessageType.image, { caption: 'Made by Cyber Bot' })
+              })
+          } catch(err) { 
+              console.log(err)
+          } 
+    });
+}));
+Asena.addCommand({pattern: 'text3neon ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
+    thiccysapi.textpro("https://textpro.me/neon-text-effect-online-963.html",
+        `${match[1]}`
+        ).then(async (data) => { 
+          try { 
+              var download = async(uri, filename, callback) => {
+                  await request.head(uri, async(err, res, body) => {    
+                      await request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
+                  });
+              };
+
+              await download(`${data}`, '/root/WhatsAsenaDuplicated/neon3.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/neon3.jpg'), MessageType.image, { caption: 'Made by Cyber Bot' })
+              })
+          } catch(err) { 
+              console.log(err)
+          } 
+    });
+}));
+Asena.addCommand({pattern: 'textice ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
+    thiccysapi.textpro("https://textpro.me/ice-cold-text-effect-862.html",
+        `${match[1]}`
+        ).then(async (data) => { 
+          try { 
+              var download = async(uri, filename, callback) => {
+                  await request.head(uri, async(err, res, body) => {    
+                      await request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
+                  });
+              };
+
+              await download(`${data}`, '/root/WhatsAsenaDuplicated/ice.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/ice.jpg'), MessageType.image, { caption: 'Made by Cyber Bot' })
+              })
+          } catch(err) { 
+              console.log(err)
+          } 
+    });
+}));
+Asena.addCommand({pattern: 'textspace ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
+    var topText, bottomText; 
+    if (match[1].includes(';')) {
+        var split = match[1].split(';');
+        topText = split[0];
+        bottomText = split[1];
+    } else {
+        topText = match[1];
+        bottomText = 'ㅤ';
+    }
+    thiccysapi.textpro("https://textpro.me/create-space-3d-text-effect-online-985.html",
+        [`${topText}`, `${bottomText}`]
+        ).then(async (data) => { 
+          try { 
+              var download = async(uri, filename, callback) => {
+                  await request.head(uri, async(err, res, body) => {    
+                      await request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
+                  });
+              };
+
+              await download(`${data}`, '/root/WhatsAsenaDuplicated/space.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/space.jpg'), MessageType.image, { caption: 'Made by Cyber Bot' })
+              })
+          } catch(err) { 
+              console.log(err)
+          } 
+    });
+}));
+Asena.addCommand({pattern: 'textsmoke ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
+    thiccysapi.photooxy("https://photooxy.com/other-design/create-an-easy-smoke-type-effect-390.html",
+        `${match[1]}`
+        ).then(async (data) => { 
+          try { 
+              var download = async(uri, filename, callback) => {
+                  await request.head(uri, async(err, res, body) => {    
+                      await request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
+                  });
+              };
+
+              await download(`${data}`, '/root/WhatsAsenaDuplicated/smoke.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/smoke.jpg'), MessageType.image, { caption: 'Made by Cyber Bot' })
+              })
+          } catch(err) { 
+              console.log(err)
+          } 
+    });
+}));
+Asena.addCommand({pattern: 'textglow ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
+    var download = async(uri, filename, callback) => {
+        await request.head(uri, async(err, res, body) => {    
+            await request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
+        });
+    };
+    var uri = encodeURI(match[1])
+    await download(`https://api.xteam.xyz/photooxy/neonlight?text=${uri}&APIKEY=da5fb2b73ae3e451`, '/root/WhatsAsenaDuplicated/glowttp.jpg', async() => {                          
+        await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/glowttp.jpg'), MessageType.image, { caption: 'Made by Cyber Bot' })
+    })
+}));
+Asena.addCommand({pattern: 'textfire ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
+    thiccysapi.photooxy("https://photooxy.com/logo-and-text-effects/realistic-flaming-text-effect-online-197.html",
+        `${match[1]}`
+        ).then(async (data) => { 
+          try { 
+              var download = async(uri, filename, callback) => {
+                  await request.head(uri, async(err, res, body) => {    
+                      await request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
+                  });
+              };
+
+              await download(`${data}`, '/root/WhatsAsenaDuplicated/tfire.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/tfire.jpg'), MessageType.image, { caption: 'Made by Cyber Bot' })
+              })
+          } catch(err) { 
+              console.log(err)
+          } 
+    });
+}));
+Asena.addCommand({pattern: 'textharry ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
+    thiccysapi.photooxy("https://photooxy.com/logo-and-text-effects/create-harry-potter-text-on-horror-background-178.html",
+        `${match[1]}`
+        ).then(async (data) => { 
+          try { 
+              var download = async(uri, filename, callback) => {
+                  await request.head(uri, async(err, res, body) => {    
+                      await request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
+                  });
+              };
+
+              await download(`${data}`, '/root/WhatsAsenaDuplicated/hp.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/hp.jpg'), MessageType.image, { caption: 'Made by Cyber Bot' })
+              })
+          } catch(err) { 
+              console.log(err)
+          } 
+    });
+}));
+Asena.addCommand({pattern: 'text4neon ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
+    thiccysapi.photooxy("https://photooxy.com/logo-and-text-effects/illuminated-metallic-effect-177.html",
+        `${match[1]}`
+        ).then(async (data) => { 
+          try { 
+              var download = async(uri, filename, callback) => {
+                  await request.head(uri, async(err, res, body) => {    
+                      await request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
+                  });
+              };
+
+              await download(`${data}`, '/root/WhatsAsenaDuplicated/t4n.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/t4n.jpg'), MessageType.image, { caption: 'Made by Cyber Bot' })
+              })
+          } catch(err) { 
+              console.log(err)
+          } 
+    });
+}));
+Asena.addCommand({pattern: 'textcemetery ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
+    thiccysapi.photooxy("https://photooxy.com/logo-and-text-effects/text-on-scary-cemetery-gate-172.html",
+        `${match[1]}`
+        ).then(async (data) => { 
+          try { 
+              var download = async(uri, filename, callback) => {
+                  await request.head(uri, async(err, res, body) => {    
+                      await request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
+                  });
+              };
+
+              await download(`${data}`, '/root/WhatsAsenaDuplicated/cmth.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/cmth.jpg'), MessageType.image, { caption: 'Made by Cyber Bot' })
+              })
+          } catch(err) { 
+              console.log(err)
+          } 
+    });
+}));
+Asena.addCommand({pattern: 'textcup ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
+    thiccysapi.photooxy("https://photooxy.com/logo-and-text-effects/put-text-on-the-cup-387.html",
+        `${match[1]}`
+        ).then(async (data) => { 
+          try { 
+              var download = async(uri, filename, callback) => {
+                  await request.head(uri, async(err, res, body) => {    
+                      await request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
+                  });
+              };
+
+              await download(`${data}`, '/root/WhatsAsenaDuplicated/cup.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/cup.jpg'), MessageType.image, { caption: 'Made by Cyber Bot' })
+              })
+          } catch(err) { 
+              console.log(err)
+          } 
+    });
+}));

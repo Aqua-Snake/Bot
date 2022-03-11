@@ -1,9 +1,178 @@
-/* Copyright (C) 2020 Aqua Snake.
-
-Licensed under the  GPL-3.0 License;
-you may not use this file except in compliance with the License.
-
-Cyber Bot - Aqua Snake
+/* Codded by @phaticusthiccy
+Telegram: t.me/phaticusthiccy
+Instagram: www.instagram.com/kyrie.baran
 */
 
-(function(_0x5077c2,_0x2df930){const _0x3b96a7=_0x5077c2();function _0x1612d0(_0x175a20,_0x2c9d6d){return _0x147b(_0x2c9d6d- -0x27f,_0x175a20);}while(!![]){try{const _0x250860=-parseInt(_0x1612d0(-0xae,-0xc0))/0x1*(parseInt(_0x1612d0(-0x94,-0xab))/0x2)+-parseInt(_0x1612d0(-0x7b,-0x99))/0x3+parseInt(_0x1612d0(-0xbe,-0xd5))/0x4*(parseInt(_0x1612d0(-0xd1,-0xb5))/0x5)+-parseInt(_0x1612d0(-0xc3,-0xb2))/0x6+parseInt(_0x1612d0(-0xec,-0xda))/0x7+-parseInt(_0x1612d0(-0xae,-0xca))/0x8*(-parseInt(_0x1612d0(-0xda,-0xc5))/0x9)+parseInt(_0x1612d0(-0xaa,-0x9b))/0xa;if(_0x250860===_0x2df930)break;else _0x3b96a7['push'](_0x3b96a7['shift']());}catch(_0x5f3ede){_0x3b96a7['push'](_0x3b96a7['shift']());}}}(_0xa66a,0x4e1a0));function _0xa66a(){const _0x538ed6=['BgvUz3rO','Ahr0Chm6lY9HCgKUEhrLyw0UEhL6l2rSl2LNp3vYBd0','mtq4mdC3ovvkCe9uzG','DhLWzq','Dg9tDhjPBMC','Aw5ZDgfSBa','Aw5ZDgfNCMfT','mu9NzhPhAG','DgHLBG','C2vHCMnO','y2fWDgLVBG','tmsWtKS','yxjYyxLIDwzMzxi','C3rHDhvZ','v09ss1rzueu','kcGOlISPkYKRksSK','yxbWBhK','Ahr0CdOVl2LUC3rHz3jHBs5JB20V','mtbYA09bs2m','Aw5JBhvKzxm','y29UC3rYDwn0B3i','mZmWnZeYogLbCM9quq','tKvfrf9xt1je','q0fqvmsWt04','DMLKzw8','re9xtG','y2f0y2G','jMfWAwTLEt01yZnJzwnHmdrHntG','otG3nJHlAgfhBum','vmsWs1rpsW','Dgv4Da','zgf0yq','DhjHy2u','ygbGqvbjievYCM9YiwbGya','C2vUze1LC3nHz2u','z2v0','CgfYC2u','DgLRDg9Rid8OlIOP','CMvZDwX0','yMLUza','E30Uy29UC3rYDwn0B3iOiNjLDhvYBIb0AgLZiIKOicK','Ahr0Chm6lY9HCgKUEhrLyw0UEhL6l2rSl3rPA3rVAZ91CMW9','revtqW','vvnfuK5btuu','nJK3nteZmffryw5Wva','y2XPzw50','mtm5odm4n2jTz2Xtta','tK9u','zxHJzxb0Aw9U','CMv0DxjUicHMDw5JDgLVBIGPia','tKvfra','lI4VzxzLBNrZ','yM9KEq','zNjVBq','ChjVDg90ExbL','ywrKq29TBwfUza','qgfKAxDHANnOAw5Nl2jHAwXLExm','Aw5MBW','mta1nteXy2DeEKfR','twfKzsbIEsbdqM90','y29UC29Szq','z2v0u3rYAw5N','zxjYB3i','mtaXodK3nLLkALnfBW','tK9ux0zpvu5e','lI4Vy29UzMLN','jKfqsuTfwt1HyJK5ndjMotvJmdLJytG5','y29Kzq','DxnLCM5HBwu','ChvIBgLJ','AMLK','Aw5ZDgeGpYGUkIK','D3D3lMLUC3rHz3jHBs5JB20','Aw1Hz2u','ohv0zMPttW','Ahr0Chm6lY96zw56yxbPlNH5EI9HCgKVzg93BMXVywrLCI90AwT0B2S/DxjSpq','x19WCM90B19F'];_0xa66a=function(){return _0x538ed6;};return _0xa66a();}function _0x2f476a(_0x1f8dac,_0x4cbd09){return _0x147b(_0x4cbd09- -0xdc,_0x1f8dac);}function _0x147b(_0x3e6f7e,_0x5a6c23){const _0x352a5b=_0xa66a();return _0x147b=function(_0x363b6e,_0x559e89){_0x363b6e=_0x363b6e-0x19d;let _0xd8fe7a=_0x352a5b[_0x363b6e];if(_0x147b['cToiys']===undefined){var _0x3adbdd=function(_0x147b3f){const _0x2a38ac='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x18d735='',_0x298646='',_0x12dff9=_0x18d735+_0x3adbdd;for(let _0x1dffce=0x0,_0x30f8bc,_0x517db2,_0x68827c=0x0;_0x517db2=_0x147b3f['charAt'](_0x68827c++);~_0x517db2&&(_0x30f8bc=_0x1dffce%0x4?_0x30f8bc*0x40+_0x517db2:_0x517db2,_0x1dffce++%0x4)?_0x18d735+=_0x12dff9['charCodeAt'](_0x68827c+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x30f8bc>>(-0x2*_0x1dffce&0x6)):_0x1dffce:0x0){_0x517db2=_0x2a38ac['indexOf'](_0x517db2);}for(let _0x365151=0x0,_0x4fb17f=_0x18d735['length'];_0x365151<_0x4fb17f;_0x365151++){_0x298646+='%'+('00'+_0x18d735['charCodeAt'](_0x365151)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x298646);};_0x147b['SIAacB']=_0x3adbdd,_0x3e6f7e=arguments,_0x147b['cToiys']=!![];}const _0x51b173=_0x352a5b[0x0],_0x20118f=_0x363b6e+_0x51b173,_0xa66a66=_0x3e6f7e[_0x20118f];if(!_0xa66a66){const _0x3a25fa=function(_0x2e49ba){this['WoOpqf']=_0x2e49ba,this['HWUYTy']=[0x1,0x0,0x0],this['pyhxjm']=function(){return'newState';},this['JrIFHf']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['xcYJWS']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x3a25fa['prototype']['PBkHuS']=function(){const _0x5df0e8=new RegExp(this['JrIFHf']+this['xcYJWS']),_0x5a12ed=_0x5df0e8['test'](this['pyhxjm']['toString']())?--this['HWUYTy'][0x1]:--this['HWUYTy'][0x0];return this['YaInyn'](_0x5a12ed);},_0x3a25fa['prototype']['YaInyn']=function(_0x515933){if(!Boolean(~_0x515933))return _0x515933;return this['oBgKuc'](this['WoOpqf']);},_0x3a25fa['prototype']['oBgKuc']=function(_0x33bceb){for(let _0x5493c1=0x0,_0x44d911=this['HWUYTy']['length'];_0x5493c1<_0x44d911;_0x5493c1++){this['HWUYTy']['push'](Math['round'](Math['random']())),_0x44d911=this['HWUYTy']['length'];}return _0x33bceb(this['HWUYTy'][0x0]);},new _0x3a25fa(_0x147b)['PBkHuS'](),_0xd8fe7a=_0x147b['SIAacB'](_0xd8fe7a),_0x3e6f7e[_0x20118f]=_0xd8fe7a;}else _0xd8fe7a=_0xa66a66;return _0xd8fe7a;},_0x147b(_0x3e6f7e,_0x5a6c23);}const _0x20118f=(function(){let _0x517db2=!![];return function(_0x68827c,_0x365151){const _0x4fb17f=_0x517db2?function(){if(_0x365151){const _0x3a25fa=_0x365151['apply'](_0x68827c,arguments);return _0x365151=null,_0x3a25fa;}}:function(){};return _0x517db2=![],_0x4fb17f;};}()),_0x51b173=_0x20118f(this,function(){function _0x46a15a(_0x1f0016,_0x3dc4dd){return _0x147b(_0x3dc4dd- -0x6b,_0x1f0016);}return _0x51b173[_0x46a15a(0x13a,0x151)]()['search'](_0x46a15a(0x13f,0x15c))[_0x46a15a(0x164,0x151)]()[_0x46a15a(0x182,0x161)](_0x51b173)[_0x46a15a(0x165,0x156)]('(((.+)+)+)+$');});_0x51b173();const _0x559e89=(function(){let _0x2e49ba=!![];return function(_0x5df0e8,_0x5a12ed){const _0x515933=_0x2e49ba?function(){function _0xb3d9f5(_0xb3c6c9,_0x4da075){return _0x147b(_0x4da075- -0x343,_0xb3c6c9);}if(_0x5a12ed){const _0x33bceb=_0x5a12ed[_0xb3d9f5(-0x167,-0x17b)](_0x5df0e8,arguments);return _0x5a12ed=null,_0x33bceb;}}:function(){};return _0x2e49ba=![],_0x515933;};}()),_0x363b6e=_0x559e89(this,function(){let _0x5493c1;function _0x188708(_0x4711ba,_0x285bd0){return _0x147b(_0x285bd0-0x248,_0x4711ba);}try{const _0x1f6cf2=Function(_0x188708(0x453,0x431)+_0x188708(0x41d,0x428)+');');_0x5493c1=_0x1f6cf2();}catch(_0x284bc9){_0x5493c1=window;}const _0x44d911=_0x5493c1[_0x188708(0x3ca,0x3ef)]=_0x5493c1[_0x188708(0x3cf,0x3ef)]||{},_0x128604=['log','warn',_0x188708(0x3de,0x3ec),_0x188708(0x3fa,0x3f1),_0x188708(0x439,0x430),'table',_0x188708(0x3fb,0x420)];for(let _0x510c80=0x0;_0x510c80<_0x128604[_0x188708(0x418,0x400)];_0x510c80++){const _0x2614c3=_0x559e89['constructor'][_0x188708(0x3ed,0x3e9)][_0x188708(0x43b,0x427)](_0x559e89),_0xce56d9=_0x128604[_0x510c80],_0x53cf94=_0x44d911[_0xce56d9]||_0x2614c3;_0x2614c3[_0x188708(0x40b,0x3ff)]=_0x559e89[_0x188708(0x421,0x427)](_0x559e89),_0x2614c3[_0x188708(0x3e8,0x404)]=_0x53cf94[_0x188708(0x420,0x404)][_0x188708(0x409,0x427)](_0x53cf94),_0x44d911[_0xce56d9]=_0x2614c3;}});_0x363b6e();const Asena=require(_0x2f476a(0xbe,0xc2)),{MessageType}=require(_0x2f476a(0xd7,0xc7)),axios=require('axios'),cn=require(_0x2f476a(0xcb,0xd0)),Language=require('../language'),{errorMessage,infoMessage}=require('../helpers'),Lang=Language['getString'](_0x2f476a(0xf3,0xe2)),Tlang=Language[_0x2f476a(0xdb,0xcc)]('tiktok');if(cn[_0x2f476a(0x10f,0xea)]=='private')Asena[_0x2f476a(0xbf,0xc6)]({'pattern':_0x2f476a(0xd3,0xd6),'fromMe':!![],'desc':Lang[_0x2f476a(0x119,0x106)]},async(_0x5d62b6,_0x40c78d)=>{if(_0x40c78d[0x0]['includes']('install'))return;if(_0x40c78d[0x1]==='')return await _0x5d62b6[_0xd30410(0x407,0x42a)][_0xd30410(0x3fc,0x416)](_0x5d62b6['jid'],Lang['NEED_WORD'],MessageType[_0xd30410(0x3f8,0x41e)],{'quoted':_0x5d62b6['data']});function _0xd30410(_0x4d3930,_0xcac924){return _0x2f476a(_0xcac924,_0x4d3930-0x2fe);}if(!_0x40c78d[0x1][_0xd30410(0x3ed,0x3c8)]('www.instagram.com'))return await _0x5d62b6[_0xd30410(0x407,0x3f0)][_0xd30410(0x3fc,0x3fb)](_0x5d62b6[_0xd30410(0x3d3,0x3d1)],Lang[_0xd30410(0x3f0,0x416)],MessageType[_0xd30410(0x3f8,0x411)],{'quoted':_0x5d62b6['data']});let _0x5b7a86=_0xd30410(0x3db,0x3fe)+_0x40c78d[0x1]+_0xd30410(0x3cf,0x3c1),_0x8669ca;try{_0x8669ca=await got(_0x5b7a86);}catch{return await _0x5d62b6['client'][_0xd30410(0x3fc,0x3e9)](_0x5d62b6[_0xd30410(0x3d3,0x3c1)],Lang['FİX'],MessageType['text'],{'quoted':_0x5d62b6[_0xd30410(0x3f9,0x40b)]});}const _0x462cd5=JSON['parse'](_0x8669ca[_0xd30410(0x3c1,0x39d)]);if(_0x462cd5[_0xd30410(0x3e7,0x405)]===![])return await _0x5d62b6['client'][_0xd30410(0x3fc,0x40d)](_0x5d62b6[_0xd30410(0x3d3,0x3d4)],Lang['NOT_FOUND'],MessageType[_0xd30410(0x3f8,0x3d4)],{'quoted':_0x5d62b6[_0xd30410(0x3f9,0x401)]});if(_0x462cd5[_0xd30410(0x3d0,0x3ef)]===0x193)return await _0x5d62b6[_0xd30410(0x407,0x42b)][_0xd30410(0x3fc,0x3dd)](_0x5d62b6[_0xd30410(0x3d3,0x3ce)],_0xd30410(0x3fb,0x3df),MessageType['text'],{'quoted':_0x5d62b6[_0xd30410(0x3f9,0x402)]});await _0x5d62b6['client'][_0xd30410(0x3fc,0x420)](_0x5d62b6['jid'],Tlang[_0xd30410(0x3f3,0x3f9)],MessageType[_0xd30410(0x3f8,0x3f3)],{'quoted':_0x5d62b6[_0xd30410(0x3f9,0x3d3)]});let _0x1f6bee=_0x462cd5['result']['data'][0x0][_0xd30410(0x3f9,0x3f7)],_0x532146=_0x462cd5[_0xd30410(0x400,0x3eb)]['data'][0x0][_0xd30410(0x3dd,0x3bd)];await axios({'method':_0xd30410(0x3fd,0x3e4),'url':_0x1f6bee,'headers':{'DNT':0x1,'Upgrade-Insecure-Request':0x1},'responseType':_0xd30410(0x3e6,0x3c9)})[_0xd30410(0x3e2,0x3df)](async _0x635ae0=>{function _0x787866(_0x3eabfd,_0x1ad773){return _0xd30410(_0x3eabfd- -0x250,_0x1ad773);}return _0x532146===_0x787866(0x1a2,0x1c5)?await _0x5d62b6[_0x787866(0x1ac,0x188)](Buffer(_0x635ae0[_0x787866(0x1a9,0x18f)]),MessageType[_0x787866(0x1a2,0x190)],{'caption':'*'+Tlang[_0x787866(0x1b5,0x193)]+'*\x20'+_0x462cd5['result'][_0x787866(0x181,0x1a8)]+'\x0a*'+Tlang[_0x787866(0x195,0x18f)]+'*\x20'+_0x787866(0x19b,0x1b4)+_0x462cd5['result'][_0x787866(0x181,0x16b)]+'\x0a*'+Tlang[_0x787866(0x1a1,0x19e)]+'*\x20'+_0x462cd5[_0x787866(0x1b0,0x18f)][_0x787866(0x194,0x1a7)]}):await _0x5d62b6[_0x787866(0x1ac,0x193)](Buffer(_0x635ae0[_0x787866(0x1a9,0x1af)]),MessageType[_0x787866(0x186,0x197)],{'caption':'*'+Tlang['USERNAME']+'*\x20'+_0x462cd5['result'][_0x787866(0x181,0x16d)]+'\x0a*'+Tlang[_0x787866(0x195,0x1ad)]+'*\x20'+_0x787866(0x19b,0x17c)+_0x462cd5[_0x787866(0x1b0,0x1ac)][_0x787866(0x181,0x197)]+'\x0a*'+Tlang[_0x787866(0x1a1,0x1ba)]+'*\x20'+_0x462cd5[_0x787866(0x1b0,0x1cf)][_0x787866(0x194,0x18b)]});});}),Asena[_0x2f476a(0xb0,0xc6)]({'pattern':_0x2f476a(0x11b,0x101),'fromMe':!![],'desc':Tlang[_0x2f476a(0x10c,0xf9)]},async(_0x34ed75,_0x5b32b3)=>{const _0x37d116=_0x5b32b3[0x1];if(!_0x37d116)return await _0x34ed75[_0x449461(0x9c,0x90)]['sendMessage'](_0x34ed75[_0x449461(0x68,0x8e)],Tlang['NEED'],MessageType[_0x449461(0x8d,0x76)]);await _0x34ed75['client'][_0x449461(0x91,0xae)](_0x34ed75[_0x449461(0x68,0x65)],Tlang[_0x449461(0x88,0x85)],MessageType[_0x449461(0x8d,0x7e)]);function _0x449461(_0x367d06,_0x2bea76){return _0x2f476a(_0x2bea76,_0x367d06- -0x6d);}await axios['get']('https://zenzapi.xyz/api/downloader/tiktok?url='+_0x37d116+_0x449461(0x8a,0x68))['then'](async _0x4ed5ff=>{const {data:_0x1ea6cb}=_0x4ed5ff[_0x1201e4(0x50b,0x526)],_0x1f1097=await axios['get'](nowatermark,{'responseType':_0x1201e4(0x4f8,0x4e8)});function _0x1201e4(_0x312328,_0x39a7c1){return _0x449461(_0x312328-0x47d,_0x39a7c1);}await _0x34ed75['sendMessage'](Buffer[_0x1201e4(0x4d4,0x4d4)](_0x1f1097['data']),MessageType[_0x1201e4(0x504,0x4ef)],{'caption':_0x1201e4(0x4da,0x4c1)});})['catch'](async _0x105e51=>await _0x34ed75[_0x449461(0x9c,0xb0)][_0x449461(0x91,0xa8)](_0x34ed75[_0x449461(0x68,0x59)],Tlang['NOT']+_0x37d116,MessageType[_0x449461(0x8d,0x83)]));});else cn[_0x2f476a(0xd5,0xea)]==_0x2f476a(0xf2,0xd4)&&(Asena[_0x2f476a(0xaa,0xc6)]({'pattern':_0x2f476a(0xbd,0xd6),'fromMe':![],'desc':Lang[_0x2f476a(0xe0,0x106)]},async(_0x5b183f,_0x10913c)=>{if(_0x10913c[0x0]['includes']('install'))return;if(_0x10913c[0x1]==='')return await _0x5b183f['client'][_0x2c3d73(0x43b,0x42e)](_0x5b183f[_0x2c3d73(0x3ea,0x405)],Lang['NEED_WORD'],MessageType['text'],{'quoted':_0x5b183f[_0x2c3d73(0x42b,0x42b)]});if(!_0x10913c[0x1][_0x2c3d73(0x42c,0x41f)]('www.instagram.com'))return await _0x5b183f[_0x2c3d73(0x42d,0x439)][_0x2c3d73(0x44e,0x42e)](_0x5b183f[_0x2c3d73(0x426,0x405)],Lang['NEED_WORD'],MessageType['text'],{'quoted':_0x5b183f[_0x2c3d73(0x406,0x42b)]});let _0x45539f=_0x2c3d73(0x3e9,0x40d)+_0x10913c[0x1]+_0x2c3d73(0x3ff,0x401),_0x41a23a;try{_0x41a23a=await got(_0x45539f);}catch{return await _0x5b183f['client']['sendMessage'](_0x5b183f[_0x2c3d73(0x40d,0x405)],Lang['FİX'],MessageType[_0x2c3d73(0x43b,0x42a)],{'quoted':_0x5b183f[_0x2c3d73(0x436,0x42b)]});}const _0x5c90bf=JSON[_0x2c3d73(0x43a,0x430)](_0x41a23a[_0x2c3d73(0x3f1,0x3f3)]);if(_0x5c90bf[_0x2c3d73(0x423,0x419)]===![])return await _0x5b183f['client']['sendMessage'](_0x5b183f[_0x2c3d73(0x3ed,0x405)],Lang[_0x2c3d73(0x41f,0x3ff)],MessageType[_0x2c3d73(0x433,0x42a)],{'quoted':_0x5b183f[_0x2c3d73(0x449,0x42b)]});if(_0x5c90bf['code']===0x193)return await _0x5b183f[_0x2c3d73(0x437,0x439)][_0x2c3d73(0x449,0x42e)](_0x5b183f[_0x2c3d73(0x41f,0x405)],_0x2c3d73(0x43d,0x42d),MessageType[_0x2c3d73(0x412,0x42a)],{'quoted':_0x5b183f[_0x2c3d73(0x422,0x42b)]});await _0x5b183f[_0x2c3d73(0x451,0x439)][_0x2c3d73(0x430,0x42e)](_0x5b183f[_0x2c3d73(0x3ed,0x405)],Tlang['DOWN'],MessageType['text'],{'quoted':_0x5b183f[_0x2c3d73(0x404,0x42b)]});function _0x2c3d73(_0xe0a14e,_0x130e3f){return _0x2f476a(_0xe0a14e,_0x130e3f-0x330);}let _0x41b961=_0x5c90bf['result'][_0x2c3d73(0x428,0x42b)][0x0][_0x2c3d73(0x417,0x42b)],_0x412a0e=_0x5c90bf[_0x2c3d73(0x413,0x432)][_0x2c3d73(0x42d,0x42b)][0x0][_0x2c3d73(0x3ed,0x40f)];await axios({'method':_0x2c3d73(0x417,0x42f),'url':_0x41b961,'headers':{'DNT':0x1,'Upgrade-Insecure-Request':0x1},'responseType':_0x2c3d73(0x3fa,0x418)})[_0x2c3d73(0x404,0x414)](async _0x40f401=>{function _0x1e1882(_0x42f038,_0x58b843){return _0x2c3d73(_0x58b843,_0x42f038-0x105);}return _0x412a0e===_0x1e1882(0x529,0x51d)?await _0x5b183f[_0x1e1882(0x533,0x52e)](Buffer(_0x40f401[_0x1e1882(0x530,0x556)]),MessageType[_0x1e1882(0x529,0x52e)],{'caption':'*'+Tlang[_0x1e1882(0x53c,0x557)]+'*\x20'+_0x5c90bf[_0x1e1882(0x537,0x554)][_0x1e1882(0x508,0x50e)]+'\x0a*'+Tlang[_0x1e1882(0x51c,0x53b)]+'*\x20'+_0x1e1882(0x522,0x517)+_0x5c90bf[_0x1e1882(0x537,0x51b)][_0x1e1882(0x508,0x51b)]+'\x0a*'+Tlang[_0x1e1882(0x528,0x530)]+'*\x20'+_0x5c90bf[_0x1e1882(0x537,0x54f)][_0x1e1882(0x51b,0x541)]}):await _0x5b183f[_0x1e1882(0x533,0x51b)](Buffer(_0x40f401[_0x1e1882(0x530,0x524)]),MessageType[_0x1e1882(0x50d,0x4ec)],{'caption':'*'+Tlang[_0x1e1882(0x53c,0x542)]+'*\x20'+_0x5c90bf[_0x1e1882(0x537,0x55c)][_0x1e1882(0x508,0x529)]+'\x0a*'+Tlang[_0x1e1882(0x51c,0x516)]+'*\x20'+_0x1e1882(0x522,0x50a)+_0x5c90bf[_0x1e1882(0x537,0x548)][_0x1e1882(0x508,0x520)]+'\x0a*'+Tlang[_0x1e1882(0x528,0x51f)]+'*\x20'+_0x5c90bf[_0x1e1882(0x537,0x516)][_0x1e1882(0x51b,0x53b)]});});}),Asena[_0x2f476a(0xd2,0xc6)]({'pattern':_0x2f476a(0xca,0xd6),'fromMe':!![],'desc':Lang[_0x2f476a(0xfb,0x106)],'dontAddCommandList':!![]},async(_0x5976ad,_0x2bb198)=>{if(_0x2bb198[0x0][_0x2acd30(-0xbf,-0xd6)](_0x2acd30(-0xcd,-0xd2)))return;if(_0x2bb198[0x1]==='')return await _0x5976ad[_0x2acd30(-0xa5,-0x8c)]['sendMessage'](_0x5976ad['jid'],Lang[_0x2acd30(-0xbc,-0x9a)],MessageType['text'],{'quoted':_0x5976ad[_0x2acd30(-0xb3,-0xca)]});if(!_0x2bb198[0x1][_0x2acd30(-0xbf,-0xbc)](_0x2acd30(-0xd7,-0xfc)))return await _0x5976ad[_0x2acd30(-0xa5,-0xc1)][_0x2acd30(-0xb0,-0xaf)](_0x5976ad[_0x2acd30(-0xd9,-0xed)],Lang['NEED_WORD'],MessageType[_0x2acd30(-0xb4,-0xc5)],{'quoted':_0x5976ad[_0x2acd30(-0xb3,-0xac)]});let _0x518591=_0x2acd30(-0xd1,-0xf6)+_0x2bb198[0x1]+_0x2acd30(-0xdd,-0xe9),_0x45dd7c;try{_0x45dd7c=await got(_0x518591);}catch{return await _0x5976ad[_0x2acd30(-0xa5,-0xa6)]['sendMessage'](_0x5976ad[_0x2acd30(-0xd9,-0xf4)],Lang['FİX'],MessageType[_0x2acd30(-0xb4,-0x97)],{'quoted':_0x5976ad['data']});}const _0xb5037=JSON[_0x2acd30(-0xae,-0x98)](_0x45dd7c['body']);if(_0xb5037[_0x2acd30(-0xc5,-0xa1)]===![])return await _0x5976ad[_0x2acd30(-0xa5,-0xc3)]['sendMessage'](_0x5976ad[_0x2acd30(-0xd9,-0xef)],Lang[_0x2acd30(-0xdf,-0xfe)],MessageType['text'],{'quoted':_0x5976ad['data']});if(_0xb5037['code']===0x193)return await _0x5976ad['client'][_0x2acd30(-0xb0,-0xca)](_0x5976ad[_0x2acd30(-0xd9,-0xcd)],'```API\x20Error!```',MessageType[_0x2acd30(-0xb4,-0xc9)],{'quoted':_0x5976ad['data']});function _0x2acd30(_0x46f8fa,_0x13f005){return _0x2f476a(_0x13f005,_0x46f8fa- -0x1ae);}await _0x5976ad['client'][_0x2acd30(-0xb0,-0x99)](_0x5976ad[_0x2acd30(-0xd9,-0xdf)],Tlang[_0x2acd30(-0xb9,-0xa0)],MessageType['text'],{'quoted':_0x5976ad[_0x2acd30(-0xb3,-0x9e)]});let _0x30a799=_0xb5037[_0x2acd30(-0xac,-0x8a)]['data'][0x0][_0x2acd30(-0xb3,-0x9c)],_0x3e0699=_0xb5037[_0x2acd30(-0xac,-0xb8)][_0x2acd30(-0xb3,-0xc8)][0x0][_0x2acd30(-0xcf,-0xda)];await axios({'method':_0x2acd30(-0xaf,-0xb6),'url':_0x30a799,'headers':{'DNT':0x1,'Upgrade-Insecure-Request':0x1},'responseType':_0x2acd30(-0xc6,-0xed)})['then'](async _0x44d03c=>{function _0x27c073(_0x3a01f3,_0x28e26a){return _0x2acd30(_0x28e26a-0x4e8,_0x3a01f3);}return _0x3e0699===_0x27c073(0x453,0x42e)?await _0x5976ad['sendMessage'](Buffer(_0x44d03c[_0x27c073(0x43e,0x435)]),MessageType['video'],{'caption':'*'+Tlang[_0x27c073(0x41d,0x441)]+'*\x20'+_0xb5037[_0x27c073(0x457,0x43c)][_0x27c073(0x3f0,0x40d)]+'\x0a*'+Tlang[_0x27c073(0x40d,0x421)]+'*\x20'+_0x27c073(0x449,0x427)+_0xb5037[_0x27c073(0x43a,0x43c)][_0x27c073(0x3f4,0x40d)]+'\x0a*'+Tlang[_0x27c073(0x447,0x42d)]+'*\x20'+_0xb5037['result'][_0x27c073(0x415,0x420)]}):await _0x5976ad[_0x27c073(0x439,0x438)](Buffer(_0x44d03c[_0x27c073(0x448,0x435)]),MessageType[_0x27c073(0x401,0x412)],{'caption':'*'+Tlang[_0x27c073(0x434,0x441)]+'*\x20'+_0xb5037['result'][_0x27c073(0x40c,0x40d)]+'\x0a*'+Tlang[_0x27c073(0x436,0x421)]+'*\x20'+_0x27c073(0x43c,0x427)+_0xb5037[_0x27c073(0x431,0x43c)][_0x27c073(0x419,0x40d)]+'\x0a*'+Tlang[_0x27c073(0x431,0x42d)]+'*\x20'+_0xb5037[_0x27c073(0x457,0x43c)][_0x27c073(0x409,0x420)]});});}),Asena[_0x2f476a(0xe7,0xc6)]({'pattern':_0x2f476a(0xe5,0x101),'fromMe':![],'desc':Tlang[_0x2f476a(0xd2,0xf9)]},async(_0x3b21ff,_0x45b057)=>{const _0x2161da=_0x45b057[0x1];function _0x47379e(_0x14fc19,_0x5e44b9){return _0x2f476a(_0x14fc19,_0x5e44b9-0x2f3);}if(!_0x2161da)return await _0x3b21ff['client'][_0x47379e(0x3e0,0x3f1)](_0x3b21ff[_0x47379e(0x3e0,0x3c8)],Tlang[_0x47379e(0x3c6,0x3b4)],MessageType[_0x47379e(0x3c9,0x3ed)]);await _0x3b21ff[_0x47379e(0x3e3,0x3fc)]['sendMessage'](_0x3b21ff[_0x47379e(0x3e5,0x3c8)],Tlang[_0x47379e(0x3e2,0x3e8)],MessageType[_0x47379e(0x3e6,0x3ed)]),await axios[_0x47379e(0x3fc,0x3f2)](_0x47379e(0x400,0x3f8)+_0x2161da+_0x47379e(0x3d3,0x3c4))[_0x47379e(0x3d8,0x3d7)](async _0x5e803d=>{const {server_1:_0x59fedd}=_0x5e803d[_0x30e086(0x444,0x439)];function _0x30e086(_0x431189,_0x34ff3b){return _0x47379e(_0x431189,_0x34ff3b-0x4b);}const _0x2e7e22=await axios['get'](_0x59fedd,{'responseType':_0x30e086(0x42e,0x426)});await _0x3b21ff[_0x30e086(0x457,0x43c)](Buffer[_0x30e086(0x41f,0x402)](_0x2e7e22[_0x30e086(0x442,0x439)]),MessageType['video'],{'caption':_0x30e086(0x3f6,0x408)});})[_0x47379e(0x3fa,0x3e9)](async _0x50c22c=>await _0x3b21ff[_0x47379e(0x3fa,0x3fc)]['sendMessage'](_0x3b21ff[_0x47379e(0x3e1,0x3c8)],Tlang[_0x47379e(0x40d,0x3fe)]+_0x2161da,MessageType[_0x47379e(0x3f5,0x3ed)]));}),Asena[_0x2f476a(0xc4,0xc6)]({'pattern':_0x2f476a(0xfd,0x101),'fromMe':!![],'desc':Tlang[_0x2f476a(0xf8,0xf9)]},async(_0x17c694,_0x1a1383)=>{const _0x24200f=_0x1a1383[0x1];if(!_0x24200f)return await _0x17c694['client'][_0x5c5324(-0x1ec,-0x1f5)](_0x17c694[_0x5c5324(-0x241,-0x21e)],Tlang[_0x5c5324(-0x220,-0x232)],MessageType[_0x5c5324(-0x1e8,-0x1f9)]);function _0x5c5324(_0x4bc37b,_0x3c69e6){return _0x2f476a(_0x4bc37b,_0x3c69e6- -0x2f3);}await _0x17c694[_0x5c5324(-0x1ca,-0x1ea)]['sendMessage'](_0x17c694['jid'],Tlang[_0x5c5324(-0x216,-0x1fe)],MessageType[_0x5c5324(-0x208,-0x1f9)]),await axios[_0x5c5324(-0x203,-0x1f4)](_0x5c5324(-0x208,-0x219)+_0x24200f+'&apikey=5c3ceca04a58')['then'](async _0x1ce708=>{const {data:_0x4e1905}=_0x1ce708[_0x13b9ec(0x556,0x54c)],_0x383834=await axios['get'](nowatermark,{'responseType':_0x13b9ec(0x543,0x54e)});function _0x13b9ec(_0x4b0966,_0x4ff999){return _0x5c5324(_0x4ff999,_0x4b0966-0x74e);}await _0x17c694[_0x13b9ec(0x559,0x53c)](Buffer[_0x13b9ec(0x51f,0x53c)](_0x383834[_0x13b9ec(0x556,0x53b)]),MessageType['video'],{'caption':'Made\x20by\x20CBot'});})['catch'](async _0x48cff1=>await _0x17c694['client'][_0x5c5324(-0x211,-0x1f5)](_0x17c694[_0x5c5324(-0x205,-0x21e)],Tlang[_0x5c5324(-0x1d1,-0x1e8)]+_0x24200f,MessageType[_0x5c5324(-0x21b,-0x1f9)]));}));
+const Asena = require('../events')
+const { MessageType } = require('@adiwajshing/baileys')
+const axios = require('axios')
+const cn = require('../config');
+
+const Language = require('../language')
+const { errorMessage, infoMessage } = require('../helpers')
+const Lang = Language.getString('instagram')
+const Tlang = Language.getString('tiktok')
+
+if (cn.WORKTYPE == 'private') {
+
+    Asena.addCommand({ pattern: 'insta ?(.*)', fromMe: true, desc: Lang.DESC }, (async (message, match) => {
+        if (match[0].includes('install')) return;
+        if (match[1] === '') return await message.client.sendMessage(message.jid, Lang.NEED_WORD, MessageType.text, { quoted: message.data });
+        if (!match[1].includes('www.instagram.com')) return await message.client.sendMessage(message.jid, Lang.NEED_WORD, MessageType.text, { quoted: message.data });
+	
+        let urls = `https://api.xteam.xyz/dl/ig?url=${match[1]}&APIKEY=ab9942f95c09ca89`
+        let response
+        try { response = await got(urls) } catch { return await message.client.sendMessage(message.jid, Lang.FİX, MessageType.text, { quoted: message.data });
+        }
+        const json = JSON.parse(response.body);
+
+        if (json.status === false) return await message.client.sendMessage(message.jid, Lang.NOT_FOUND, MessageType.text, { quoted: message.data });
+        if (json.code === 403) return await message.client.sendMessage(message.jid, '```API Error!```', MessageType.text, { quoted: message.data });
+
+        await message.client.sendMessage(message.jid, Tlang.DOWN, MessageType.text, { quoted: message.data });
+
+        let url = json.result.data[0].data;
+        let name = json.result.data[0].type;
+        await axios({ method: "get", url, headers: { 'DNT': 1, 'Upgrade-Insecure-Request': 1 }, responseType: 'arraybuffer'}).then(async (res) => {
+            if (name === 'video') { return await message.sendMessage(Buffer(res.data), MessageType.video, { caption: '*' + Tlang.USERNAME + '* ' + json.result.username + '\n*' + Tlang.LİNK + '* ' + 'http://instagram.com/' + json.result.username + '\n*' + Tlang.CAPTİON + '* ' + json.result.caption }) } else { return await message.sendMessage(Buffer(res.data), MessageType.image, { caption: '*' + Tlang.USERNAME + '* ' + json.result.username + '\n*' + Tlang.LİNK + '* ' + 'http://instagram.com/' + json.result.username + '\n*' + Tlang.CAPTİON + '* ' + json.result.caption });
+            }
+        });
+
+    }));
+
+    Asena.addCommand({ pattern: 'tiktok ?(.*)', fromMe: true, desc: Tlang.TİKTOK }, async (message, match) => {
+
+        const userName = match[1]
+
+        if (!userName) return await message.client.sendMessage(message.jid, Tlang.NEED, MessageType.text)
+
+        await message.client.sendMessage(message.jid, Tlang.DOWN, MessageType.text)
+
+        await axios
+          .get(`https://shinoa-rest.herokuapp.com/dl/tiktok?link=${userName}`)
+          .then(async (response) => {
+            const {
+              data,
+            } = response.data
+
+            const profileBuffer = await axios.get(data.mp4, {
+              responseType: 'arraybuffer',
+            })
+
+            await message.sendMessage(Buffer.from(profileBuffer.data), MessageType.video, {
+              caption: 'Made by CBot',
+            })
+          })
+          .catch(
+            async (err) => await message.client.sendMessage(message.jid, Tlang.NOT + userName, MessageType.text),
+          )
+      },
+    )
+}
+else if (cn.WORKTYPE == 'public') {
+
+    Asena.addCommand({ pattern: 'insta ?(.*)', fromMe: false, desc: Lang.DESC }, (async (message, match) => {
+        if (match[0].includes('install')) return;
+        if (match[1] === '') return await message.client.sendMessage(message.jid, Lang.NEED_WORD, MessageType.text, { quoted: message.data });
+        if (!match[1].includes('www.instagram.com')) return await message.client.sendMessage(message.jid, Lang.NEED_WORD, MessageType.text, { quoted: message.data });
+	
+        let urls = `https://api.xteam.xyz/dl/ig?url=${match[1]}&APIKEY=ab9942f95c09ca89`
+        let response
+        try { response = await got(urls) } catch { return await message.client.sendMessage(message.jid, Lang.FİX, MessageType.text, { quoted: message.data });
+        }
+        const json = JSON.parse(response.body);
+
+        if (json.status === false) return await message.client.sendMessage(message.jid, Lang.NOT_FOUND, MessageType.text, { quoted: message.data });
+        if (json.code === 403) return await message.client.sendMessage(message.jid, '```API Error!```', MessageType.text, { quoted: message.data });
+
+        await message.client.sendMessage(message.jid, Tlang.DOWN, MessageType.text, { quoted: message.data });
+
+        let url = json.result.data[0].data;
+        let name = json.result.data[0].type;
+        await axios({ method: "get", url, headers: { 'DNT': 1, 'Upgrade-Insecure-Request': 1 }, responseType: 'arraybuffer'}).then(async (res) => {
+            if (name === 'video') { return await message.sendMessage(Buffer(res.data), MessageType.video, { caption: '*' + Tlang.USERNAME + '* ' + json.result.username + '\n*' + Tlang.LİNK + '* ' + 'http://instagram.com/' + json.result.username + '\n*' + Tlang.CAPTİON + '* ' + json.result.caption }) } else { return await message.sendMessage(Buffer(res.data), MessageType.image, { caption: '*' + Tlang.USERNAME + '* ' + json.result.username + '\n*' + Tlang.LİNK + '* ' + 'http://instagram.com/' + json.result.username + '\n*' + Tlang.CAPTİON + '* ' + json.result.caption });
+            }
+        });
+
+    }));
+    Asena.addCommand({ pattern: 'insta ?(.*)', fromMe: true, desc: Lang.DESC, dontAddCommandList: true }, (async (message, match) => {
+        if (match[0].includes('install')) return;
+        if (match[1] === '') return await message.client.sendMessage(message.jid, Lang.NEED_WORD, MessageType.text, { quoted: message.data });
+        if (!match[1].includes('www.instagram.com')) return await message.client.sendMessage(message.jid, Lang.NEED_WORD, MessageType.text, { quoted: message.data });
+	
+        let urls = `https://api.xteam.xyz/dl/ig?url=${match[1]}&APIKEY=ab9942f95c09ca89`
+        let response
+        try { response = await got(urls) } catch { return await message.client.sendMessage(message.jid, Lang.FİX, MessageType.text, { quoted: message.data });
+        }
+        const json = JSON.parse(response.body);
+
+        if (json.status === false) return await message.client.sendMessage(message.jid, Lang.NOT_FOUND, MessageType.text, { quoted: message.data });
+        if (json.code === 403) return await message.client.sendMessage(message.jid, '```API Error!```', MessageType.text, { quoted: message.data });
+
+        await message.client.sendMessage(message.jid, Tlang.DOWN, MessageType.text, { quoted: message.data });
+
+        let url = json.result.data[0].data;
+        let name = json.result.data[0].type;
+        await axios({ method: "get", url, headers: { 'DNT': 1, 'Upgrade-Insecure-Request': 1 }, responseType: 'arraybuffer'}).then(async (res) => {
+            if (name === 'video') { return await message.sendMessage(Buffer(res.data), MessageType.video, { caption: '*' + Tlang.USERNAME + '* ' + json.result.username + '\n*' + Tlang.LİNK + '* ' + 'http://instagram.com/' + json.result.username + '\n*' + Tlang.CAPTİON + '* ' + json.result.caption }) } else { return await message.sendMessage(Buffer(res.data), MessageType.image, { caption: '*' + Tlang.USERNAME + '* ' + json.result.username + '\n*' + Tlang.LİNK + '* ' + 'http://instagram.com/' + json.result.username + '\n*' + Tlang.CAPTİON + '* ' + json.result.caption });
+            }
+        });
+
+    }));
+   Asena.addCommand({ pattern: 'tiktok ?(.*)', fromMe: false, desc: Tlang.TİKTOK }, async (message, match) => {
+
+        const userName = match[1]
+
+        if (!userName) return await message.client.sendMessage(message.jid, Tlang.NEED, MessageType.text)
+
+        await message.client.sendMessage(message.jid, Tlang.DOWN, MessageType.text)
+
+        await axios
+          .get(`https://api.xteam.xyz/dl/tiktok?url=${userName}&APIKEY=ab9942f95c09ca89`)
+          .then(async (response) => {
+            const {
+              server_1,
+            } = response.data
+
+            const profileBuffer = await axios.get(server_1, {
+              responseType: 'arraybuffer',
+            })
+
+            await message.sendMessage(Buffer.from(profileBuffer.data), MessageType.video, {
+              caption: 'Made by CBot',
+            })
+          })
+          .catch(
+            async (err) => await message.client.sendMessage(message.jid, Tlang.NOT + userName, MessageType.text),
+          )
+      },
+    )
+    Asena.addCommand({ pattern: 'tiktok ?(.*)', fromMe: true, desc: Tlang.TİKTOK }, async (message, match) => {
+
+        const userName = match[1]
+
+        if (!userName) return await message.client.sendMessage(message.jid, Tlang.NEED, MessageType.text)
+
+        await message.client.sendMessage(message.jid, Tlang.DOWN, MessageType.text)
+
+        await axios
+          .get(`https://shinoa-rest.herokuapp.com/dl/tiktok?link=${userName}`)
+          .then(async (response) => {
+            const {
+              data,
+            } = response.data
+
+            const profileBuffer = await axios.get(data.mp4, {
+              responseType: 'arraybuffer',
+            })
+
+            await message.sendMessage(Buffer.from(profileBuffer.data), MessageType.video, {
+              caption: 'Made by CBot',
+            })
+          })
+          .catch(
+            async (err) => await message.client.sendMessage(message.jid, Tlang.NOT + userName, MessageType.text),
+          )
+      },
+    )
+}

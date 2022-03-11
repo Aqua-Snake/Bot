@@ -1,9 +1,145 @@
-/* Copyright (C) 2020 Aqua Snake.
-
-Licensed under the  GPL-3.0 License;
-you may not use this file except in compliance with the License.
-
-Cyber Bot - Aqua Snake
+/* Codded by @phaticusthiccy
+Telegram: t.me/phaticusthiccy
+Instagram: www.instagram.com/kyrie.baran
 */
 
-(function(_0x5e58ca,_0x41b97c){function _0x27b8f8(_0x119836,_0x38bf18){return _0x57d0(_0x38bf18-0x363,_0x119836);}var _0x5f4d8c=_0x5e58ca();while(!![]){try{var _0x310123=-parseInt(_0x27b8f8(0x45e,0x477))/0x1*(-parseInt(_0x27b8f8(0x46e,0x46d))/0x2)+-parseInt(_0x27b8f8(0x44c,0x456))/0x3+-parseInt(_0x27b8f8(0x46f,0x460))/0x4*(-parseInt(_0x27b8f8(0x443,0x461))/0x5)+-parseInt(_0x27b8f8(0x42f,0x44f))/0x6+-parseInt(_0x27b8f8(0x455,0x472))/0x7+-parseInt(_0x27b8f8(0x47e,0x476))/0x8*(parseInt(_0x27b8f8(0x46f,0x462))/0x9)+parseInt(_0x27b8f8(0x49c,0x480))/0xa*(parseInt(_0x27b8f8(0x46f,0x46c))/0xb);if(_0x310123===_0x41b97c)break;else _0x5f4d8c['push'](_0x5f4d8c['shift']());}catch(_0x597726){_0x5f4d8c['push'](_0x5f4d8c['shift']());}}}(_0xa424,0x74e11));var _0x2c6381=(function(){var _0x18e320=!![];return function(_0xbf1af7,_0x3dbcdf){var _0x28e6ca=_0x18e320?function(){function _0x66443e(_0x5a62ef,_0x10727a){return _0x57d0(_0x5a62ef-0x13,_0x10727a);}if(_0x3dbcdf){var _0xbad5eb=_0x3dbcdf[_0x66443e(0x124,0x11f)](_0xbf1af7,arguments);return _0x3dbcdf=null,_0xbad5eb;}}:function(){};return _0x18e320=![],_0x28e6ca;};}()),_0x17e7c9=_0x2c6381(this,function(){function _0x34bb32(_0x383b17,_0x3a4077){return _0x57d0(_0x383b17- -0x348,_0x3a4077);}return _0x17e7c9[_0x34bb32(-0x241,-0x231)]()[_0x34bb32(-0x21e,-0x217)](_0x34bb32(-0x252,-0x234))[_0x34bb32(-0x241,-0x230)]()[_0x34bb32(-0x219,-0x1f9)](_0x17e7c9)['search'](_0x34bb32(-0x252,-0x258));});_0x17e7c9();function _0x221be3(_0x1f6a96,_0x92edee){return _0x57d0(_0x1f6a96-0x2d9,_0x92edee);}var _0x39613a=(function(){var _0x4a820a=!![];return function(_0x454ad9,_0x16d1d5){var _0x2f4b03=_0x4a820a?function(){function _0x42dcc1(_0xe939b6,_0x37d8d4){return _0x57d0(_0x37d8d4- -0xa2,_0xe939b6);}if(_0x16d1d5){var _0x27e928=_0x16d1d5[_0x42dcc1(0x4e,0x6f)](_0x454ad9,arguments);return _0x16d1d5=null,_0x27e928;}}:function(){};return _0x4a820a=![],_0x2f4b03;};}()),_0x427c5b=_0x39613a(this,function(){var _0x556cce=function(){var _0x5a2ed1;function _0x4c50df(_0x2b55ae,_0x521472){return _0x57d0(_0x2b55ae-0x369,_0x521472);}try{_0x5a2ed1=Function(_0x4c50df(0x484,0x47c)+_0x4c50df(0x497,0x4b6)+');')();}catch(_0x22cadb){_0x5a2ed1=window;}return _0x5a2ed1;},_0x23cbb0=_0x556cce();function _0x1fbbf6(_0x5219e4,_0x30127f){return _0x57d0(_0x30127f-0x3a6,_0x5219e4);}var _0x179eee=_0x23cbb0['console']=_0x23cbb0['console']||{},_0x6cf25b=[_0x1fbbf6(0x4dd,0x4d3),_0x1fbbf6(0x4ad,0x4cb),_0x1fbbf6(0x49d,0x4bf),_0x1fbbf6(0x4a9,0x4b4),_0x1fbbf6(0x4b2,0x4b1),_0x1fbbf6(0x4c4,0x4bc),'trace'];for(var _0x22847d=0x0;_0x22847d<_0x6cf25b[_0x1fbbf6(0x49e,0x497)];_0x22847d++){var _0x13a562=_0x39613a[_0x1fbbf6(0x4dd,0x4d5)][_0x1fbbf6(0x4a8,0x4ac)][_0x1fbbf6(0x4c3,0x4c5)](_0x39613a),_0x5d1222=_0x6cf25b[_0x22847d],_0xadb752=_0x179eee[_0x5d1222]||_0x13a562;_0x13a562['__proto__']=_0x39613a[_0x1fbbf6(0x4b7,0x4c5)](_0x39613a),_0x13a562[_0x1fbbf6(0x48e,0x4ad)]=_0xadb752[_0x1fbbf6(0x4b1,0x4ad)]['bind'](_0xadb752),_0x179eee[_0x5d1222]=_0x13a562;}});_0x427c5b();const Asena=require(_0x221be3(0x3d3,0x3e9)),{MessageType,Mimetype}=require(_0x221be3(0x3e6,0x3ea)),fs=require('fs'),ffmpeg=require(_0x221be3(0x3db,0x3fc)),{execFile}=require(_0x221be3(0x3e9,0x3ca)),cwebp=require(_0x221be3(0x3d9,0x3e3)),Config=require('../config'),Language=require(_0x221be3(0x3fc,0x3e1)),Lang=Language[_0x221be3(0x3f1,0x3fd)]('ffmpeg');if(Config['WORKTYPE']==_0x221be3(0x3ce,0x3d3))Asena[_0x221be3(0x3d0,0x3ea)]({'pattern':_0x221be3(0x402,0x3e7),'fromMe':!![],'desc':Lang[_0x221be3(0x401,0x3e1)]},async(_0x7cc343,_0x1f264c)=>{function _0x57bc68(_0x16dd74,_0x4512c7){return _0x221be3(_0x16dd74-0xa0,_0x4512c7);}if(_0x1f264c[0x1]==='')return await _0x7cc343[_0x57bc68(0x467,0x458)][_0x57bc68(0x490,0x48b)](_0x7cc343['jid'],'Need\x20Media\x20and\x20Filter\x20Name!\x0aℹ️\x20Ex:\x20```.ffmpeg\x20fade=in:0:30```\x0aℹ️\x20Ex:\x20```.ffmpeg\x20curves=vintage,\x20fps=fps=25```',MessageType[_0x57bc68(0x4a5,0x49d)]);if(_0x7cc343['reply_message'][_0x57bc68(0x47e,0x478)]){var _0x2ecffe=await _0x7cc343['client'][_0x57bc68(0x490,0x478)](_0x7cc343[_0x57bc68(0x468,0x47f)],Lang[_0x57bc68(0x4a4,0x482)],MessageType[_0x57bc68(0x4a5,0x49b)]),_0x502777=await _0x7cc343[_0x57bc68(0x467,0x451)]['downloadAndSaveMediaMessage']({'key':{'remoteJid':_0x7cc343[_0x57bc68(0x471,0x48e)][_0x57bc68(0x468,0x45f)],'id':_0x7cc343[_0x57bc68(0x471,0x48d)]['id']},'message':_0x7cc343[_0x57bc68(0x471,0x46f)][_0x57bc68(0x493,0x499)][_0x57bc68(0x497,0x479)]});return ffmpeg(_0x502777)['videoFilters'](''+_0x1f264c[0x1])[_0x57bc68(0x49f,0x49c)](_0x57bc68(0x47d,0x462))[_0x57bc68(0x47a,0x493)](_0x57bc68(0x495,0x49a))['on'](_0x57bc68(0x469,0x461),async()=>{function _0x5f0714(_0x5b4bc1,_0x3ebab8){return _0x57bc68(_0x5b4bc1- -0x2c1,_0x3ebab8);}await _0x7cc343['sendMessage'](fs[_0x5f0714(0x1df,0x1e9)](_0x5f0714(0x1d4,0x1c7)),MessageType[_0x5f0714(0x1bd,0x1c6)],{'mimetype':Mimetype[_0x5f0714(0x1bb,0x1b0)],'caption':_0x5f0714(0x1aa,0x18d)});}),await _0x7cc343['client'][_0x57bc68(0x49d,0x49d)](_0x7cc343['jid'],{'id':_0x2ecffe[_0x57bc68(0x46d,0x480)]['id'],'remoteJid':_0x7cc343['jid'],'fromMe':!![]});}else{if(_0x7cc343[_0x57bc68(0x471,0x46b)]['video']===![]&&_0x7cc343[_0x57bc68(0x471,0x481)]['image']){var _0x2ecffe=await _0x7cc343[_0x57bc68(0x467,0x451)][_0x57bc68(0x490,0x47d)](_0x7cc343['jid'],Lang[_0x57bc68(0x4a4,0x4a4)],MessageType[_0x57bc68(0x4a5,0x4c7)]),_0x502777=await _0x7cc343[_0x57bc68(0x467,0x465)][_0x57bc68(0x466,0x469)]({'key':{'remoteJid':_0x7cc343[_0x57bc68(0x471,0x451)]['jid'],'id':_0x7cc343[_0x57bc68(0x471,0x464)]['id']},'message':_0x7cc343[_0x57bc68(0x471,0x477)][_0x57bc68(0x493,0x49e)][_0x57bc68(0x497,0x4a4)]});return ffmpeg(_0x502777)[_0x57bc68(0x475,0x497)](''+_0x1f264c[0x1])[_0x57bc68(0x47a,0x46a)](_0x57bc68(0x474,0x493))['on'](_0x57bc68(0x469,0x46d),async()=>{function _0x25ca27(_0x4a9b7b,_0x2056a5){return _0x57bc68(_0x2056a5- -0x69f,_0x4a9b7b);}await _0x7cc343[_0x25ca27(-0x1f1,-0x20f)](fs[_0x25ca27(-0x203,-0x1ff)]('output.jpg'),MessageType[_0x25ca27(-0x21b,-0x205)],{'mimetype':Mimetype[_0x25ca27(-0x208,-0x21e)],'caption':_0x25ca27(-0x250,-0x234)});}),await _0x7cc343[_0x57bc68(0x467,0x454)][_0x57bc68(0x49d,0x48b)](_0x7cc343[_0x57bc68(0x468,0x486)],{'id':_0x2ecffe['key']['id'],'remoteJid':_0x7cc343[_0x57bc68(0x468,0x453)],'fromMe':!![]});}else{var _0x2ecffe=await _0x7cc343[_0x57bc68(0x467,0x47a)][_0x57bc68(0x490,0x47a)](_0x7cc343[_0x57bc68(0x468,0x464)],Lang[_0x57bc68(0x4a4,0x48e)],MessageType[_0x57bc68(0x4a5,0x4b7)]),_0x502777=await _0x7cc343[_0x57bc68(0x467,0x45b)][_0x57bc68(0x466,0x482)]({'key':{'remoteJid':_0x7cc343[_0x57bc68(0x471,0x45f)][_0x57bc68(0x468,0x469)],'id':_0x7cc343[_0x57bc68(0x471,0x467)]['id']},'message':_0x7cc343[_0x57bc68(0x471,0x454)][_0x57bc68(0x493,0x4aa)][_0x57bc68(0x497,0x4b7)]});return ffmpeg(_0x502777)[_0x57bc68(0x49b,0x49c)](''+_0x1f264c[0x1])[_0x57bc68(0x47a,0x48a)](_0x57bc68(0x472,0x458))['on'](_0x57bc68(0x469,0x471),async()=>{function _0xe4c047(_0x2234f0,_0x25afc4){return _0x57bc68(_0x25afc4- -0x57b,_0x2234f0);}await _0x7cc343[_0xe4c047(-0xf2,-0xeb)](fs[_0xe4c047(-0xc5,-0xdb)](_0xe4c047(-0x126,-0x109)),MessageType['audio'],{'mimetype':Mimetype[_0xe4c047(-0x108,-0xed)]});}),await _0x7cc343[_0x57bc68(0x467,0x476)]['deleteMessage'](_0x7cc343[_0x57bc68(0x468,0x46e)],{'id':_0x2ecffe[_0x57bc68(0x46d,0x454)]['id'],'remoteJid':_0x7cc343[_0x57bc68(0x468,0x469)],'fromMe':!![]});}}});else Config['WORKTYPE']==_0x221be3(0x3eb,0x3e2)&&Asena[_0x221be3(0x3d0,0x3d8)]({'pattern':'ffmpeg\x20?(.*)','fromMe':![],'desc':Lang[_0x221be3(0x401,0x3e3)]},async(_0x4a2fc1,_0x32d9ad)=>{function _0x209364(_0x2a5625,_0x4c787e){return _0x221be3(_0x4c787e-0xd,_0x2a5625);}if(_0x32d9ad[0x1]==='')return await _0x4a2fc1[_0x209364(0x3f2,0x3d4)][_0x209364(0x3e7,0x3fd)](_0x4a2fc1[_0x209364(0x3f4,0x3d5)],_0x209364(0x405,0x406),MessageType[_0x209364(0x406,0x412)]);if(_0x4a2fc1[_0x209364(0x3d0,0x3de)]['video']){var _0xfc2dc5=await _0x4a2fc1[_0x209364(0x3c2,0x3d4)][_0x209364(0x3dc,0x3fd)](_0x4a2fc1[_0x209364(0x3c4,0x3d5)],Lang[_0x209364(0x406,0x411)],MessageType['text']),_0x25b269=await _0x4a2fc1[_0x209364(0x3e8,0x3d4)]['downloadAndSaveMediaMessage']({'key':{'remoteJid':_0x4a2fc1['reply_message'][_0x209364(0x3d3,0x3d5)],'id':_0x4a2fc1['reply_message']['id']},'message':_0x4a2fc1[_0x209364(0x3d2,0x3de)][_0x209364(0x41b,0x400)][_0x209364(0x3f4,0x404)]});return ffmpeg(_0x25b269)[_0x209364(0x3db,0x3e2)](''+_0x32d9ad[0x1])[_0x209364(0x425,0x40c)](_0x209364(0x3cb,0x3ea))[_0x209364(0x3fa,0x3e7)](_0x209364(0x418,0x402))['on']('end',async()=>{function _0x32038a(_0x15c6c2,_0x10015f){return _0x209364(_0x15c6c2,_0x10015f- -0x3fa);}await _0x4a2fc1[_0x32038a(-0x1b,0x3)](fs[_0x32038a(0x7,0x13)](_0x32038a(0x1f,0x8)),MessageType['video'],{'mimetype':Mimetype['mpeg'],'caption':_0x32038a(-0x27,-0x22)});}),await _0x4a2fc1[_0x209364(0x3be,0x3d4)][_0x209364(0x3fb,0x40a)](_0x4a2fc1[_0x209364(0x3b5,0x3d5)],{'id':_0xfc2dc5['key']['id'],'remoteJid':_0x4a2fc1[_0x209364(0x3d3,0x3d5)],'fromMe':!![]});}else{if(_0x4a2fc1[_0x209364(0x3e9,0x3de)][_0x209364(0x3d6,0x3eb)]===![]&&_0x4a2fc1[_0x209364(0x3ce,0x3de)][_0x209364(0x3ec,0x407)]){var _0xfc2dc5=await _0x4a2fc1[_0x209364(0x3b9,0x3d4)][_0x209364(0x3db,0x3fd)](_0x4a2fc1['jid'],Lang[_0x209364(0x424,0x411)],MessageType[_0x209364(0x3ff,0x412)]),_0x25b269=await _0x4a2fc1['client'][_0x209364(0x3f2,0x3d3)]({'key':{'remoteJid':_0x4a2fc1['reply_message'][_0x209364(0x3c1,0x3d5)],'id':_0x4a2fc1[_0x209364(0x3fa,0x3de)]['id']},'message':_0x4a2fc1[_0x209364(0x3d2,0x3de)][_0x209364(0x3f4,0x400)][_0x209364(0x3e5,0x404)]});return ffmpeg(_0x25b269)[_0x209364(0x401,0x3e2)](''+_0x32d9ad[0x1])[_0x209364(0x3c8,0x3e7)](_0x209364(0x3f4,0x3e1))['on'](_0x209364(0x3ca,0x3d6),async()=>{function _0x1a58b3(_0x142e12,_0x2b86be){return _0x209364(_0x142e12,_0x2b86be- -0x45e);}await _0x4a2fc1[_0x1a58b3(-0x43,-0x61)](fs[_0x1a58b3(-0x47,-0x51)](_0x1a58b3(-0x76,-0x7d)),MessageType['image'],{'mimetype':Mimetype[_0x1a58b3(-0x6e,-0x70)],'caption':_0x1a58b3(-0x7c,-0x86)});}),await _0x4a2fc1[_0x209364(0x3b2,0x3d4)][_0x209364(0x429,0x40a)](_0x4a2fc1[_0x209364(0x3ba,0x3d5)],{'id':_0xfc2dc5[_0x209364(0x3d5,0x3da)]['id'],'remoteJid':_0x4a2fc1[_0x209364(0x3d4,0x3d5)],'fromMe':!![]});}else{var _0xfc2dc5=await _0x4a2fc1[_0x209364(0x3b8,0x3d4)]['sendMessage'](_0x4a2fc1[_0x209364(0x3cc,0x3d5)],Lang[_0x209364(0x427,0x411)],MessageType['text']),_0x25b269=await _0x4a2fc1[_0x209364(0x3b4,0x3d4)][_0x209364(0x3f4,0x3d3)]({'key':{'remoteJid':_0x4a2fc1[_0x209364(0x3cc,0x3de)][_0x209364(0x3d2,0x3d5)],'id':_0x4a2fc1[_0x209364(0x3da,0x3de)]['id']},'message':_0x4a2fc1[_0x209364(0x3d9,0x3de)]['data']['quotedMessage']});return ffmpeg(_0x25b269)[_0x209364(0x3f3,0x408)](''+_0x32d9ad[0x1])[_0x209364(0x3c8,0x3e7)](_0x209364(0x3e4,0x3df))['on'](_0x209364(0x3e4,0x3d6),async()=>{function _0x206beb(_0x164eff,_0x13809a){return _0x209364(_0x164eff,_0x13809a- -0x67f);}await _0x4a2fc1[_0x206beb(-0x29b,-0x282)](fs[_0x206beb(-0x261,-0x272)](_0x206beb(-0x27f,-0x2a0)),MessageType[_0x206beb(-0x299,-0x28d)],{'mimetype':Mimetype[_0x206beb(-0x27f,-0x284)]});}),await _0x4a2fc1[_0x209364(0x3eb,0x3d4)]['deleteMessage'](_0x4a2fc1[_0x209364(0x3b4,0x3d5)],{'id':_0xfc2dc5[_0x209364(0x3bc,0x3da)]['id'],'remoteJid':_0x4a2fc1[_0x209364(0x3de,0x3d5)],'fromMe':!![]});}}});function _0x57d0(_0x20ea6e,_0x311f78){var _0x2ee857=_0xa424();return _0x57d0=function(_0x427c5b,_0x39613a){_0x427c5b=_0x427c5b-0xec;var _0x411919=_0x2ee857[_0x427c5b];if(_0x57d0['zKIwQk']===undefined){var _0x405510=function(_0x57d00f){var _0x3be908='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';var _0x5ccefb='',_0xaa33cf='',_0x5dea27=_0x5ccefb+_0x405510;for(var _0x5630ba=0x0,_0x1a06a9,_0x18e320,_0xbf1af7=0x0;_0x18e320=_0x57d00f['charAt'](_0xbf1af7++);~_0x18e320&&(_0x1a06a9=_0x5630ba%0x4?_0x1a06a9*0x40+_0x18e320:_0x18e320,_0x5630ba++%0x4)?_0x5ccefb+=_0x5dea27['charCodeAt'](_0xbf1af7+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x1a06a9>>(-0x2*_0x5630ba&0x6)):_0x5630ba:0x0){_0x18e320=_0x3be908['indexOf'](_0x18e320);}for(var _0x3dbcdf=0x0,_0x28e6ca=_0x5ccefb['length'];_0x3dbcdf<_0x28e6ca;_0x3dbcdf++){_0xaa33cf+='%'+('00'+_0x5ccefb['charCodeAt'](_0x3dbcdf)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0xaa33cf);};_0x57d0['QTuTpq']=_0x405510,_0x20ea6e=arguments,_0x57d0['zKIwQk']=!![];}var _0x17e7c9=_0x2ee857[0x0],_0x2c6381=_0x427c5b+_0x17e7c9,_0xa4249d=_0x20ea6e[_0x2c6381];if(!_0xa4249d){var _0xbad5eb=function(_0x4a820a){this['qskyZz']=_0x4a820a,this['BpcwJB']=[0x1,0x0,0x0],this['eQCFUc']=function(){return'newState';},this['fdzSXL']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['UdDXWp']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0xbad5eb['prototype']['IBWlja']=function(){var _0x454ad9=new RegExp(this['fdzSXL']+this['UdDXWp']),_0x16d1d5=_0x454ad9['test'](this['eQCFUc']['toString']())?--this['BpcwJB'][0x1]:--this['BpcwJB'][0x0];return this['jKcPfn'](_0x16d1d5);},_0xbad5eb['prototype']['jKcPfn']=function(_0x2f4b03){if(!Boolean(~_0x2f4b03))return _0x2f4b03;return this['FLHdue'](this['qskyZz']);},_0xbad5eb['prototype']['FLHdue']=function(_0x27e928){for(var _0x556cce=0x0,_0x23cbb0=this['BpcwJB']['length'];_0x556cce<_0x23cbb0;_0x556cce++){this['BpcwJB']['push'](Math['round'](Math['random']())),_0x23cbb0=this['BpcwJB']['length'];}return _0x27e928(this['BpcwJB'][0x0]);},new _0xbad5eb(_0x57d0)['IBWlja'](),_0x411919=_0x57d0['QTuTpq'](_0x411919),_0x20ea6e[_0x2c6381]=_0x411919;}else _0x411919=_0xa4249d;return _0x411919;},_0x57d0(_0x20ea6e,_0x311f78);}function _0xa424(){var _0x232ef7=['zg93BMXVywrbBMrtyxzLtwvKAwfnzxnZywDL','y2XPzw50','AMLK','zw5K','BgvUz3rO','twfKzsbIEsbdEwjLCKjVDa','nZuYntuZs0jNwKTe','A2v5','ChjPDMf0zq','kcGOlISPkYKRksSK','ywrKq29TBwfUza','CMvWBhLFBwvZC2fNzq','B3v0Chv0lM1WmW','lI4VzxzLBNrZ','B3v0Chv0lMPWzW','DMLKzw9gAwX0zxjZ','mJHRDMfbthm','ntiWnJb6CxnNve8','mta4qNnREw9h','y3DLyNaTyMLU','C2f2zq','zMX1zw50lwzMBxbLzW','BxbLzW','Bxa0','DMLKzw8','ChjVDg90ExbL','Dg9tDhjPBMC','ANbN','mJi0mtG3mZDVBgXrC3G','ng9yDxnLBW','zxHJzxb0Aw9U','yxvKAw8','qgfKAxDHANnOAw5Nl2jHAwXLExm','zxjYB3i','mZK4odyYogrftNjtvG','y2HPBgrFChjVy2vZCW','yxbWBhK','ChvIBgLJ','ndqXnZy4ywXovLDH','mtqZmJyXrKrzu0Xk','Bxa0qxvKAw8','DgfIBgu','C2vUze1LC3nHz2u','z2v0u3rYAw5N','Aw5MBW','zgf0yq','CMv0DxjUicHMDw5JDgLVBIGPia','B3v0Chv0lM1Wna','mtb6wwvgyMO','CxvVDgvKtwvZC2fNzq','yMLUza','tMvLzcbnzwrPysbHBMqGrMLSDgvYie5HBwuHcUkeUE+4JYbfEdOGygbGlMzMBxbLzYbMywrLpwLUoJa6mZbGygak4Os577Ipiev4oIbGygaUzMzTCgvNign1CNzLCZ12Aw50ywDLlcbMChm9zNbZpti1ygbG','Aw1Hz2u','yxvKAw9gAwX0zxjZ','lI4VBgfUz3vHz2u','zgvSzxrLtwvZC2fNzq','D2fYBG','zM9YBwf0','CMvHzezPBgvtEw5J','rKzFrevtqW','zMzTCgvNid8OlIOP','C2vHCMnO','rKzFufjpqW','Dgv4Da','Bg9N','E30Uy29UC3rYDwn0B3iOiNjLDhvYBIb0AgLZiIKOicK','y29UC3rYDwn0B3i','mJyXmJu3ngrcCefAuG'];_0xa424=function(){return _0x232ef7;};return _0xa424();}
+const Asena = require('../events');
+const {MessageType,Mimetype} = require('@adiwajshing/baileys');
+const fs = require('fs');
+const ffmpeg = require('fluent-ffmpeg');
+const {execFile} = require('child_process');
+const cwebp = require('cwebp-bin');
+const Config = require('../config');
+
+const Language = require('../language');
+const Lang = Language.getString('ffmpeg');
+
+if (Config.WORKTYPE == 'private') {
+
+    Asena.addCommand({pattern: 'ffmpeg ?(.*)', fromMe: true, desc: Lang.FF_DESC}, (async (message, match) => {
+
+        if (match[1] === '') return await message.client.sendMessage(message.jid,'Need Media and Filter Name!\nℹ️ Ex: ```.ffmpeg fade=in:0:30```\nℹ️ Ex: ```.ffmpeg curves=vintage, fps=fps=25```', MessageType.text);
+        if (message.reply_message.video) {
+
+            var downloading = await message.client.sendMessage(message.jid,Lang.FF_PROC,MessageType.text);
+            var location = await message.client.downloadAndSaveMediaMessage({
+                key: {
+                    remoteJid: message.reply_message.jid,
+                    id: message.reply_message.id
+                },
+                message: message.reply_message.data.quotedMessage
+            });
+
+            ffmpeg(location)
+                .videoFilters(`${match[1]}`)
+                .format('mp4')
+                .save('output.mp4')
+                .on('end', async () => {
+                    await message.sendMessage(fs.readFileSync('output.mp4'), MessageType.video, {mimetype: Mimetype.mpeg, caption: 'Made by CyberBot'});
+                });
+            return await message.client.deleteMessage(message.jid, {id: downloading.key.id, remoteJid: message.jid, fromMe: true})
+        }
+        else if (message.reply_message.video === false && message.reply_message.image) {
+
+            var downloading = await message.client.sendMessage(message.jid,Lang.FF_PROC,MessageType.text);
+            var location = await message.client.downloadAndSaveMediaMessage({
+                key: {
+                    remoteJid: message.reply_message.jid,
+                    id: message.reply_message.id
+                },
+                message: message.reply_message.data.quotedMessage
+            });
+
+            ffmpeg(location)
+                .videoFilters(`${match[1]}`)
+                .save('output.jpg')
+                .on('end', async () => {
+                    await message.sendMessage(fs.readFileSync('output.jpg'), MessageType.image, {mimetype: Mimetype.jpg, caption: 'Made by CyberBot'});
+                });
+            return await message.client.deleteMessage(message.jid, {id: downloading.key.id, remoteJid: message.jid, fromMe: true})
+        }
+        else {
+            var downloading = await message.client.sendMessage(message.jid,Lang.FF_PROC,MessageType.text);
+            var location = await message.client.downloadAndSaveMediaMessage({
+                key: {
+                    remoteJid: message.reply_message.jid,
+                    id: message.reply_message.id
+                },
+                message: message.reply_message.data.quotedMessage
+            });
+
+            ffmpeg(location)
+                .audioFilters(`${match[1]}`)
+                .save('output.mp3')
+                .on('end', async () => {
+                    await message.sendMessage(fs.readFileSync('output.mp3'), MessageType.audio, {mimetype: Mimetype.mp4Audio});
+                });
+            return await message.client.deleteMessage(message.jid, {id: downloading.key.id, remoteJid: message.jid, fromMe: true})
+        }
+    }));
+}
+else if (Config.WORKTYPE == 'public') {
+
+    Asena.addCommand({pattern: 'ffmpeg ?(.*)', fromMe: false, desc: Lang.FF_DESC}, (async (message, match) => {
+
+        if (match[1] === '') return await message.client.sendMessage(message.jid,'Need Media and Filter Name!\nℹ️ Ex: ```.ffmpeg fade=in:0:30```\nℹ️ Ex: ```.ffmpeg curves=vintage, fps=fps=25```', MessageType.text);
+        if (message.reply_message.video) {
+
+            var downloading = await message.client.sendMessage(message.jid,Lang.FF_PROC,MessageType.text);
+            var location = await message.client.downloadAndSaveMediaMessage({
+                key: {
+                    remoteJid: message.reply_message.jid,
+                    id: message.reply_message.id
+                },
+                message: message.reply_message.data.quotedMessage
+            });
+
+            ffmpeg(location)
+                .videoFilters(`${match[1]}`)
+                .format('mp4')
+                .save('output.mp4')
+                .on('end', async () => {
+                    await message.sendMessage(fs.readFileSync('output.mp4'), MessageType.video, {mimetype: Mimetype.mpeg, caption: 'Made by CyberBot'});
+                });
+            return await message.client.deleteMessage(message.jid, {id: downloading.key.id, remoteJid: message.jid, fromMe: true})
+        }
+        else if (message.reply_message.video === false && message.reply_message.image) {
+
+            var downloading = await message.client.sendMessage(message.jid,Lang.FF_PROC,MessageType.text);
+            var location = await message.client.downloadAndSaveMediaMessage({
+                key: {
+                    remoteJid: message.reply_message.jid,
+                    id: message.reply_message.id
+                },
+                message: message.reply_message.data.quotedMessage
+            });
+
+            ffmpeg(location)
+                .videoFilters(`${match[1]}`)
+                .save('output.jpg')
+                .on('end', async () => {
+                    await message.sendMessage(fs.readFileSync('output.jpg'), MessageType.image, {mimetype: Mimetype.jpg, caption: 'Made by CyberBot'});
+                });
+            return await message.client.deleteMessage(message.jid, {id: downloading.key.id, remoteJid: message.jid, fromMe: true})
+        }
+        else {
+            var downloading = await message.client.sendMessage(message.jid,Lang.FF_PROC,MessageType.text);
+            var location = await message.client.downloadAndSaveMediaMessage({
+                key: {
+                    remoteJid: message.reply_message.jid,
+                    id: message.reply_message.id
+                },
+                message: message.reply_message.data.quotedMessage
+            });
+
+            ffmpeg(location)
+                .audioFilters(`${match[1]}`)
+                .save('output.mp3')
+                .on('end', async () => {
+                    await message.sendMessage(fs.readFileSync('output.mp3'), MessageType.audio, {mimetype: Mimetype.mp4Audio});
+                });
+            return await message.client.deleteMessage(message.jid, {id: downloading.key.id, remoteJid: message.jid, fromMe: true})
+        }
+    }));
+    
+}

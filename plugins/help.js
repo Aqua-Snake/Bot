@@ -1,9 +1,124 @@
-/* Copyright (C) 2020 Aqua Snake.
-
-Licensed under the  GPL-3.0 License;
-you may not use this file except in compliance with the License.
-
-Cyber Bot - Aqua Snake
+/* Codded by @phaticusthiccy
+Telegram: t.me/phaticusthiccy
+Instagram: www.instagram.com/kyrie.baran
 */
 
-function _0x3fde(_0x434825,_0x3d0248){const _0x57acdf=_0xa219();return _0x3fde=function(_0x3f3895,_0x546f13){_0x3f3895=_0x3f3895-0x17b;let _0x34e63d=_0x57acdf[_0x3f3895];if(_0x3fde['geqFYT']===undefined){var _0x39ab48=function(_0x3fde93){const _0x217168='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0xa6042a='',_0x199fc8='',_0x33ce6d=_0xa6042a+_0x39ab48;for(let _0x383826=0x0,_0x1d597c,_0x1e33df,_0x362d94=0x0;_0x1e33df=_0x3fde93['charAt'](_0x362d94++);~_0x1e33df&&(_0x1d597c=_0x383826%0x4?_0x1d597c*0x40+_0x1e33df:_0x1e33df,_0x383826++%0x4)?_0xa6042a+=_0x33ce6d['charCodeAt'](_0x362d94+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x1d597c>>(-0x2*_0x383826&0x6)):_0x383826:0x0){_0x1e33df=_0x217168['indexOf'](_0x1e33df);}for(let _0x5bbf4d=0x0,_0x1f990e=_0xa6042a['length'];_0x5bbf4d<_0x1f990e;_0x5bbf4d++){_0x199fc8+='%'+('00'+_0xa6042a['charCodeAt'](_0x5bbf4d)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x199fc8);};_0x3fde['ByxvQZ']=_0x39ab48,_0x434825=arguments,_0x3fde['geqFYT']=!![];}const _0x4c612f=_0x57acdf[0x0],_0x3abdc0=_0x3f3895+_0x4c612f,_0xa2196=_0x434825[_0x3abdc0];if(!_0xa2196){const _0xca4073=function(_0xdec235){this['QiqPUx']=_0xdec235,this['bzJcEj']=[0x1,0x0,0x0],this['krqJva']=function(){return'newState';},this['WMurof']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['FRXrFN']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0xca4073['prototype']['KGSmvB']=function(){const _0x7b44c9=new RegExp(this['WMurof']+this['FRXrFN']),_0x2db01f=_0x7b44c9['test'](this['krqJva']['toString']())?--this['bzJcEj'][0x1]:--this['bzJcEj'][0x0];return this['LnqvvT'](_0x2db01f);},_0xca4073['prototype']['LnqvvT']=function(_0x256b63){if(!Boolean(~_0x256b63))return _0x256b63;return this['sfvZPZ'](this['QiqPUx']);},_0xca4073['prototype']['sfvZPZ']=function(_0x1d3bf6){for(let _0x3814fb=0x0,_0x1e1ba2=this['bzJcEj']['length'];_0x3814fb<_0x1e1ba2;_0x3814fb++){this['bzJcEj']['push'](Math['round'](Math['random']())),_0x1e1ba2=this['bzJcEj']['length'];}return _0x1d3bf6(this['bzJcEj'][0x0]);},new _0xca4073(_0x3fde)['KGSmvB'](),_0x34e63d=_0x3fde['ByxvQZ'](_0x34e63d),_0x434825[_0x3abdc0]=_0x34e63d;}else _0x34e63d=_0xa2196;return _0x34e63d;},_0x3fde(_0x434825,_0x3d0248);}function _0xa219(){const _0x3ad993=['yxbWBhK','CMv0DxjUicHMDw5JDgLVBIGPia','u1vetYWGu2HHCMvZihLVDxiGyM90ihrVihrOzsb1C2vYihLVDsbJAg9VC2uGD2L0AcbHBgWGAxrZihbVD2vYCY5jzIb5B3uGChv0icWWigf0ihrOzsbLBMqGB2yGDgHLig51BwjLCIWGDgHLihvZzxiGy2fUigfSC28GDxnLigL0igLUihrOzsbNCM91Cc4kvg8GDxnLlcb0ExbLicOUC2v0DMfYifnvre86otb4EhH4icyMidKWEhGSotb4EhGGw3DPDgGGy291BNr5ignVzguSicJINyWGkZK0EhGG4OcIiokCHsa5nhH4kv0Q','yM90','C29OyMv0','ChjVDg90ExbL','yMXVy2TJAgf0','A2fWyxq','teforW','lI4Vy29UzMLN','yMfZA2fZAw5H','A3vSBgfUBwfR','wwfYzmsXBsbTzw7dVhpdVg5Kzw4GyM90DsbRDwXSyw7eSw0GAgfRA8sXBMrHigjPBgDPihzLCMLYlG','mtG1ntiZEhHhrLnW','nK9OqLbjza','ChjPDMf0zq','AMLK','yMLUza','mZm5nJHSB05jqvm','u1vetW','ntmYndC4su10wwHn','Dgv4Da','C2vHCMnO','BMfZXlfS','qgfKAxDHANnOAw5Nl2jHAwXLExm','ywrKq29TBwfUza','yMXVy2S','yxjRywrHXz/eSw1H','ygbGvgHLigHLBhaGEw91ihDHBNrLzcb0BYbNzxqGD2fZig5VDcbMB3vUzcfGygakygbGugXLyxnLihn0yxrLihrOzsbWCM9IBgvTigLUigeGBw9YzsbKzxnJCMLWDgL2zsb3yxKUygbG','y29UC29Szq','mtqWodq2meHwAgfvEq','C2v0','y2HHDa','qM90Dw51ENuGChvIBgLJihLHCg1HAYbRB211DgXHCSsXigHLCMTLC2uGyCoNXlfRihLHCgfJywT0XlfYlIbqDwjSAwmGEwfWXlfSzmsXA3rHBIbZB25YysbRDwXSyw7eSwpeSsbZywrLy2uGA2NfN2LZzwWGDMuGywrTAw4GA29TDxrSyxleSw7eSsbRDwXSyw5HyMLSAxiGAgfSzsbNzwXPCI4Gt251BIbKXlhfN8sXBMrHigTVBxv0BgfYXleGA3vSBgfUyw1HEI4kqM90Dw51ENuGChvIBgLJihLHCg1HAYbPW6DPBIaQlNnLDhzHCIbxt1jlx1rzueu6ChvIBgLJkIbRB211DhvUDsbRDwXSyw7eSw4U','mtmXmfv0tez4qG','y2XPzw50','BgvUz3rO','yM90Dq','ChvIBgLJ','ygbGqwXTywSGAxn0zwrPXj9PBML6ihLHCMteSw0GyNvSDw5HBwfKXleHygbGcMbGyeZdVhrMzw4GzgfOysbHW6FeSwTSyxNeSwpeSsbIAxiGXz9LA2LSzguGC29YDw51igjLBgLYDgLUlMbGya','pt09pt09pt09psaQ8j+gMcbhzw5LCMfSieHLBhaG8j+gMcOGpt09pt09pt09pqOk8j+uUsaQlMfSAxzLoIOGq2HLy2TZigLMihrOzsbIB3qGAxmGCNvUBMLUzY4kcVcFLlKGkI5JytOQifnOB3DZihrOzsbJB21WBgv0zsbSAxn0ig9MignVBw1HBMrZlGRWN5s5icOUC2v0DMfYoIOGsxqGC2v0DgLUz3mGy29UzMLNihDPDgHVDxqGzw50zxjPBMCGsgvYB2T1lGOk8j+uUcbgB3iGBw9YzsbOzwXWlcb1C2uGDgHLignVBw1HBMqGygbGlMHLBhaGphrOzsb0B3bPyYb5B3uGD2fUDcbOzwXWihDPDgG+ygbGcKv4yw1WBgu6igbGyc5OzwXWigHVDYbJyw4GXleGDhvYBIb0BYbWDwjSAwmGBxKGyM90p2bGyaPzB3uGy2fUignVBNrHy3qGDgHLigrLDMvSB3bLCIb3ys5Tzs8Rotq3nJq3ndy1otKkcJ09pt09pt09pt0GkKvUzcbhzw5LCMfSieHLBhaQid09pt09pt09pt0','Aw5JBhvKzxm','nZK5mZzrrfzyv3e','x19WCM90B19F','ntC2mJC1wgzcuM9J','C2v0DgLUzW','DhjHy2u','r2L2zxmGAw5MB3jTyxrPB24GywjVDxqGDxnPBMCGDgHLigjVDcbMCM9TihrOzsbizwXWig1LBNuU','AgvSCca/kc4Qkq','nZqYnJq1uK9rB0LI','EwfWAw1P','ywnPAW','twfRAw5NihLVDxiGyM90ihbYAxzHDguGBwfRzxmGy29TBwfUzhmGChjPDMf0zsbVBMX5igzVCIb5B3uUiefUEw9UzsbJyw5UB3qGDxnLlGPuBYbTywTLihLVDxiGyM90ihbYAxzHDguSihr5CguGkI5Zzxr2yxiGv09ss19uwvbfoNbYAxzHDguQ','C2HHCMu','mJm0t2Dpv0ji','C3bLy2LMAwm','AgvYA2vZzq','Ag93','qMXVy2TdAgf0igjVDhvUDsbIzwXPCMXLzgNeN2LUAxOGz3j1yMeSigTPXz9PEwuGDMv5ysbIAxjKzw4GzMf6BgeGC29OyMv0zsbRyxbHDmsXCI4ks3vSBgfUBwfRigNdP2LUimo2BMnLihnVAgjLDguGz2LKAxaGkI5QAwqQihLHESsXBI4GrgfOysbZB25YysbNzwXLBIaQotr4EhGTEhH4qgCUDxmGDMv5ysa5nhH4Eeb3Agf0C2fWCc5UzxqQihLHESsXC8sXBSsXigTVChLHBgf5XlfUlIaOqgCUDxmGDMuGqhDOyxrZyxbWlM5LDcDPihnPBgLUisKkqxjKXlfUzgfUicOUC2v0DMfYiejmt0nlx0niqvq6AwqGjIyGAwqXlgLKmI4UlIOGA29TDxr1BNuGA3vSBgfUXlfUlG','m3L4q0zhsG','Aw5MBW','Dg9tDhjPBMC','y2XVC2u','Bg9N','zxHJzxb0Aw9U','y29UC3rYDwn0B3i','C2vUze1LC3nHz2u','pt09pt09pt09psaQ8j+gMcbhzw5LBcbzyxjKXlfTipcFHPGQid09pt09pt09pt0kcVcFLlKGkI5HBgL2ztOQiejVDhvUimoNywZeSCwFXlfWimoNywZeSCwFBwfKXlheN8sXBSsXigTVBNrYB2WGzwrLCI4k8j+uUsaQlMnHoIOGvmo8BsbRB211DcbSAxn0zxnPBMKGz8o2C3rLCMLYlGRWN5s5icOUC2v0DMfYoIOGsgvYB2T1EweGz2LYBwvKzw4Gy29UzMLNigf5yxjSyxiUcGRWN5s4ierHAgeGzMf6BgeGEwfYzmsXBsbPW6DPBIbGygaUAgvSCca8EwfYzmsXBsbHBg1HAYbPC3rLzgNeN2LUAxOGA29UDt5GygaGA29TDxr1BNuGA3vSBgfUXlfUlGRdLNjUzwS6igbGyc5OzwXWigjVDhvTDsbUyxpeSwWGChvIBgLJihLHCgfYXlfTp2bGyaPhzwXPXz90AxjPy2KGAwXLigLSzxrPXz9PBwuGz2xdP2vIAwXPCNnPBML6ihDHlM1LlYS5ndC2ndC0nJu5oqOkpt09pt09pt09psaQr2vUzwWGwwfYzmsXBsbcAxr0AsOGpt09pt09pt09pq','BMfZAwW','lI4VzxzLBNrZ','qM90Dw51ENuGChjPDMf0zsb5yxbTywSGA29TDxrSyxleSsbZywrLy2uGC2L6zsddTNPLBcb5yxbHCI4GqMhfN2THBgfYXleGA3vSBgfUyw1HEI4kqM90Dw51ENuGChjPDMf0zsb5yxbTywSGACoNAw4GkI5Zzxr2yxiGv09ss19uwvbfoNbYAxzHDguQigTVBxv0Dw51igT1BgXHBSsXBI4','u1vetYWGyM90Dw51ENuGC2xdP3rPXj9PBML6igT1BgXHBSsXy8sXEweGDmo8Bsb5zxrRAwXLCMKGAwXLihbHEwXHXz/eSxiUie51BwfYysbZB251BMeGldaGA295yxjZyw7eSxOGz3j1CgXHCMrHigrHigfRDgLMigHHBguGz2vSAxiUcKT1BgXHBM1HAYbPW6DPBIaQlNnLDhzHCIbtvurpoJK0EhH4EcaMjIa5nhH4ldK0EhH4ifVdVgXRzsbRB2r1igLSzsWGkokDJcaRotr4EcdIGkiG4PYfidK0EhGPxq','EwfWXlfTXle','BMvKAxi'];_0xa219=function(){return _0x3ad993;};return _0xa219();}(function(_0x5d4e0c,_0x28707e){const _0x72bb2e=_0x5d4e0c();function _0x2dd9cc(_0x275067,_0x47000d){return _0x3fde(_0x275067-0x201,_0x47000d);}while(!![]){try{const _0x49912a=-parseInt(_0x2dd9cc(0x3a2,0x383))/0x1+parseInt(_0x2dd9cc(0x3a9,0x3c5))/0x2+parseInt(_0x2dd9cc(0x386,0x3a6))/0x3*(parseInt(_0x2dd9cc(0x3b3,0x391))/0x4)+-parseInt(_0x2dd9cc(0x37c,0x385))/0x5+parseInt(_0x2dd9cc(0x3a3,0x38e))/0x6*(parseInt(_0x2dd9cc(0x3c1,0x3aa))/0x7)+parseInt(_0x2dd9cc(0x3bf,0x39c))/0x8*(parseInt(_0x2dd9cc(0x381,0x384))/0x9)+-parseInt(_0x2dd9cc(0x3b7,0x3d8))/0xa*(parseInt(_0x2dd9cc(0x3a7,0x3af))/0xb);if(_0x49912a===_0x28707e)break;else _0x72bb2e['push'](_0x72bb2e['shift']());}catch(_0x1de605){_0x72bb2e['push'](_0x72bb2e['shift']());}}}(_0xa219,0x362c3));const _0x3abdc0=(function(){let _0x1e33df=!![];return function(_0x362d94,_0x5bbf4d){const _0x1f990e=_0x1e33df?function(){function _0x49f2e5(_0x583baa,_0x5504a0){return _0x3fde(_0x5504a0-0x288,_0x583baa);}if(_0x5bbf4d){const _0xca4073=_0x5bbf4d[_0x49f2e5(0x410,0x41c)](_0x362d94,arguments);return _0x5bbf4d=null,_0xca4073;}}:function(){};return _0x1e33df=![],_0x1f990e;};}()),_0x4c612f=_0x3abdc0(this,function(){function _0x3b0f23(_0x4fdf55,_0x2134fd){return _0x3fde(_0x2134fd- -0x1a7,_0x4fdf55);}return _0x4c612f[_0x3b0f23(-0x9,-0x20)]()[_0x3b0f23(0x1f,0x3)]('(((.+)+)+)+$')[_0x3b0f23(-0x1d,-0x20)]()[_0x3b0f23(-0x1d,-0x1c)](_0x4c612f)[_0x3b0f23(-0x20,0x3)]('(((.+)+)+)+$');});_0x4c612f();const _0x546f13=(function(){let _0xdec235=!![];return function(_0x7b44c9,_0x2db01f){const _0x256b63=_0xdec235?function(){function _0xd00bca(_0x1e1818,_0xfd3098){return _0x3fde(_0xfd3098- -0x140,_0x1e1818);}if(_0x2db01f){const _0x1d3bf6=_0x2db01f[_0xd00bca(0x32,0x54)](_0x7b44c9,arguments);return _0x2db01f=null,_0x1d3bf6;}}:function(){};return _0xdec235=![],_0x256b63;};}()),_0x3f3895=_0x546f13(this,function(){const _0x3814fb=function(){function _0xb29bfa(_0x38b2a4,_0xb542dd){return _0x3fde(_0x38b2a4-0x24f,_0xb542dd);}let _0x36f5bb;try{_0x36f5bb=Function(_0xb29bfa(0x3e4,0x3df)+'{}.constructor(\x22return\x20this\x22)(\x20)'+');')();}catch(_0x36288a){_0x36f5bb=window;}return _0x36f5bb;},_0x1e1ba2=_0x3814fb(),_0x4be55d=_0x1e1ba2[_0x2a60a0(0x6a,0x72)]=_0x1e1ba2[_0x2a60a0(0x81,0x72)]||{};function _0x2a60a0(_0x58769a,_0x593db0){return _0x3fde(_0x593db0- -0x13f,_0x58769a);}const _0x274504=[_0x2a60a0(0x4c,0x4a),'warn',_0x2a60a0(0x5d,0x47),'error',_0x2a60a0(0x64,0x4b),'table',_0x2a60a0(0x81,0x83)];for(let _0x2de27f=0x0;_0x2de27f<_0x274504[_0x2a60a0(0x8c,0x79)];_0x2de27f++){const _0x35a8bc=_0x546f13[_0x2a60a0(0x31,0x4c)][_0x2a60a0(0x3f,0x5a)]['bind'](_0x546f13),_0x3a05b3=_0x274504[_0x2de27f],_0x2855c5=_0x4be55d[_0x3a05b3]||_0x35a8bc;_0x35a8bc[_0x2a60a0(0x73,0x80)]=_0x546f13[_0x2a60a0(0x61,0x66)](_0x546f13),_0x35a8bc[_0x2a60a0(0x2b,0x48)]=_0x2855c5['toString'][_0x2a60a0(0x4b,0x66)](_0x2855c5),_0x4be55d[_0x3a05b3]=_0x35a8bc;}});_0x3f3895();const Asena=require(_0x1ff2cb(0x23a,0x24d)),{MessageType,MessageOptions}=require(_0x1ff2cb(0x24a,0x26a));function _0x1ff2cb(_0x7249b,_0x27f395){return _0x3fde(_0x27f395-0xbe,_0x7249b);}const Config=require(_0x1ff2cb(0x25d,0x25b)),h_Des=_0x1ff2cb(0x258,0x25e),h_DedEN=_0x1ff2cb(0x268,0x281),matchnullEN=_0x1ff2cb(0x272,0x27a),matchnull=_0x1ff2cb(0x25f,0x24b),notfound=_0x1ff2cb(0x28a,0x279),notfoundEN=_0x1ff2cb(0x258,0x26e),pubTR=_0x1ff2cb(0x261,0x273),pubEN='Making\x20your\x20bot\x20public\x20will\x20make\x20the\x20commands\x20public.\x20After\x20it\x20is\x20made\x20public,\x20the\x20user\x20can\x20only\x20use\x20personal\x20and\x20admin\x20commands.\x20User\x20cannot\x20use\x20commands\x20other\x20than\x20this.\x0a\x20To\x20make\x20your\x20bot\x20public,\x20type\x20*.setvar\x20WORK_TYPE:public*',blTR=_0x1ff2cb(0x237,0x242),sudoTR=_0x1ff2cb(0x254,0x24f),privTR=_0x1ff2cb(0x23a,0x24e),privEN=_0x1ff2cb(0x253,0x23c),blEN='Closes\x20BlockChat\x20bot\x20to\x20group,\x20person\x20or\x20multiple\x20chats\x20you\x20specify.\x0a\x20To\x20use\x20it,\x20first\x20go\x20to\x20chat\x20and\x20type\x20*.jid*\x20Then\x20copy\x20to\x20incoming\x20code.\x20(Except\x20@g.us\x20or\x20@whatsapp.net!)\x0aThen\x20use\x20this\x20command\x20*.setvar\x20BLOCK_CHAT:id\x20&&\x20id1,id2..*',sudoEN=_0x1ff2cb(0x261,0x254);Config[_0x1ff2cb(0x242,0x25a)]=='TR'||Config[_0x1ff2cb(0x235,0x25a)]=='AZ'?Asena['addCommand']({'pattern':_0x1ff2cb(0x285,0x282),'fromMe':!![],'desc':h_Des},async(_0x2f9b65,_0x578f8f)=>{function _0x2885fa(_0x2bb2ee,_0x14281f){return _0x1ff2cb(_0x14281f,_0x2bb2ee-0x285);}if(_0x578f8f[0x1]==='')return await _0x2f9b65[_0x2885fa(0x4fa,0x510)]['sendMessage'](_0x2f9b65[_0x2885fa(0x4e7,0x4d9)],matchnull,MessageType[_0x2885fa(0x4ec,0x4e8)]);else{if(_0x578f8f[0x1]['includes']('public')&&_0x578f8f[0x1]['includes'](_0x2885fa(0x4ee,0x4e9))||_0x578f8f[0x1][_0x2885fa(0x500,0x507)]('public')&&_0x578f8f[0x1][_0x2885fa(0x500,0x512)](_0x2885fa(0x4bf,0x4c6))||_0x578f8f[0x1][_0x2885fa(0x500,0x4ed)](_0x2885fa(0x4fd,0x4e3))&&_0x578f8f[0x1][_0x2885fa(0x500,0x4df)]('yapımı')||_0x578f8f[0x1][_0x2885fa(0x500,0x51d)](_0x2885fa(0x4fd,0x4f1))&&_0x578f8f[0x1][_0x2885fa(0x500,0x514)]('nedir')||(_0x578f8f[0x1][_0x2885fa(0x500,0x4f3)](_0x2885fa(0x4c5,0x4b9))&&_0x578f8f[0x1][_0x2885fa(0x500,0x50a)](_0x2885fa(0x4c0,0x49d))||_0x578f8f[0x1][_0x2885fa(0x500,0x4e0)]('açık')))return await _0x2f9b65[_0x2885fa(0x4fa,0x51e)][_0x2885fa(0x4cf,0x4b0)](_0x2f9b65['jid'],pubTR,MessageType['text']);else{if(_0x578f8f[0x1][_0x2885fa(0x500,0x4dc)](_0x2885fa(0x4e6,0x4e9))&&_0x578f8f[0x1][_0x2885fa(0x500,0x51a)](_0x2885fa(0x4ee,0x511))||_0x578f8f[0x1][_0x2885fa(0x500,0x525)]('private')&&_0x578f8f[0x1][_0x2885fa(0x500,0x4f0)](_0x2885fa(0x4bf,0x4c6))||_0x578f8f[0x1]['includes']('private')&&_0x578f8f[0x1][_0x2885fa(0x500,0x50a)](_0x2885fa(0x4d5,0x4f8))||_0x578f8f[0x1][_0x2885fa(0x500,0x4f5)](_0x2885fa(0x4e6,0x4c7))&&_0x578f8f[0x1]['includes'](_0x2885fa(0x4d6,0x4cf))||_0x578f8f[0x1]['includes']('bana')&&_0x578f8f[0x1][_0x2885fa(0x500,0x521)]('özel'))return await _0x2f9b65[_0x2885fa(0x4fa,0x4f2)][_0x2885fa(0x4cf,0x4d3)](_0x2f9b65[_0x2885fa(0x4e7,0x4fb)],privTR,MessageType[_0x2885fa(0x4ec,0x507)]);else{if(_0x578f8f[0x1][_0x2885fa(0x500,0x4f4)]('belirli')&&_0x578f8f[0x1][_0x2885fa(0x500,0x519)](_0x2885fa(0x4db,0x4ee))||_0x578f8f[0x1][_0x2885fa(0x500,0x4e3)](_0x2885fa(0x4db,0x4fe))&&_0x578f8f[0x1][_0x2885fa(0x500,0x4e5)](_0x2885fa(0x4de,0x4ba))||_0x578f8f[0x1][_0x2885fa(0x500,0x51b)](_0x2885fa(0x4d1,0x4b6))&&_0x578f8f[0x1]['includes']('kapatabilirim')||_0x578f8f[0x1]['includes'](_0x2885fa(0x4dd,0x4d0))&&_0x578f8f[0x1]['includes'](_0x2885fa(0x4d6,0x4bc))||_0x578f8f[0x1][_0x2885fa(0x500,0x51f)](_0x2885fa(0x4db,0x4fe))&&_0x578f8f[0x1][_0x2885fa(0x500,0x4f0)]('özel'))return await _0x2f9b65[_0x2885fa(0x4fa,0x4e7)]['sendMessage'](_0x2f9b65[_0x2885fa(0x4e7,0x4d9)],blTR,MessageType[_0x2885fa(0x4ec,0x4f2)]);else return _0x578f8f[0x1]['includes'](_0x2885fa(0x4ea,0x4ce))&&_0x578f8f[0x1][_0x2885fa(0x500,0x524)](_0x2885fa(0x4d6,0x4e1))||_0x578f8f[0x1][_0x2885fa(0x500,0x50d)](_0x2885fa(0x4ea,0x50e))&&_0x578f8f[0x1][_0x2885fa(0x500,0x51c)](_0x2885fa(0x4d1,0x4c2))||_0x578f8f[0x1]['includes'](_0x2885fa(0x4fc,0x4ff))&&_0x578f8f[0x1][_0x2885fa(0x500,0x4dd)](_0x2885fa(0x4e1,0x4e6))||_0x578f8f[0x1][_0x2885fa(0x500,0x4f1)](_0x2885fa(0x4fc,0x518))&&_0x578f8f[0x1]['includes'](_0x2885fa(0x4f2,0x4d2))||_0x578f8f[0x1][_0x2885fa(0x500,0x511)](_0x2885fa(0x4ea,0x4f2))&&_0x578f8f[0x1][_0x2885fa(0x500,0x4f1)](_0x2885fa(0x4e2,0x4bf))?await _0x2f9b65[_0x2885fa(0x4fa,0x4d6)]['sendMessage'](_0x2f9b65[_0x2885fa(0x4e7,0x4c8)],sudoTR,MessageType[_0x2885fa(0x4ec,0x4f6)]):await _0x2f9b65[_0x2885fa(0x4fa,0x4d6)][_0x2885fa(0x4cf,0x4e4)](_0x2f9b65[_0x2885fa(0x4e7,0x4f0)],notfound,MessageType[_0x2885fa(0x4ec,0x511)]);}}}}):Asena[_0x1ff2cb(0x284,0x26b)]({'pattern':_0x1ff2cb(0x284,0x282),'fromMe':!![],'desc':h_DedEN},async(_0x1e6e58,_0x3e2413)=>{function _0x5ec7e5(_0x3781c8,_0x291bb9){return _0x1ff2cb(_0x3781c8,_0x291bb9- -0xd6);}if(_0x3e2413[0x1]==='')return await _0x1e6e58[_0x5ec7e5(0x1a2,0x19f)][_0x5ec7e5(0x16d,0x174)](_0x1e6e58[_0x5ec7e5(0x18a,0x18c)],matchnullEN,MessageType[_0x5ec7e5(0x18c,0x191)]);else{if(_0x3e2413[0x1][_0x5ec7e5(0x1a0,0x1a5)](_0x5ec7e5(0x1a5,0x1a2))&&_0x3e2413[0x1][_0x5ec7e5(0x198,0x1a5)](_0x5ec7e5(0x164,0x16b))||_0x3e2413[0x1][_0x5ec7e5(0x1a3,0x1a5)](_0x5ec7e5(0x1a6,0x1a2))&&_0x3e2413[0x1][_0x5ec7e5(0x1a2,0x1a5)](_0x5ec7e5(0x18c,0x19b))||_0x3e2413[0x1][_0x5ec7e5(0x1aa,0x1a5)]('public')&&_0x3e2413[0x1][_0x5ec7e5(0x1a6,0x1a5)]('setting'))return await _0x1e6e58[_0x5ec7e5(0x19e,0x19f)]['sendMessage'](_0x1e6e58[_0x5ec7e5(0x19f,0x18c)],pubEN,MessageType[_0x5ec7e5(0x1a8,0x191)]);else{if(_0x3e2413[0x1][_0x5ec7e5(0x192,0x1a5)](_0x5ec7e5(0x1aa,0x18b))&&_0x3e2413[0x1][_0x5ec7e5(0x19c,0x1a5)](_0x5ec7e5(0x179,0x16b))||_0x3e2413[0x1][_0x5ec7e5(0x191,0x1a5)](_0x5ec7e5(0x19e,0x18b))&&_0x3e2413[0x1]['includes'](_0x5ec7e5(0x191,0x19b))||_0x3e2413[0x1][_0x5ec7e5(0x1b0,0x1a5)]('private')&&_0x3e2413[0x1][_0x5ec7e5(0x1ac,0x1a5)](_0x5ec7e5(0x185,0x1a9)))return await _0x1e6e58['client'][_0x5ec7e5(0x150,0x174)](_0x1e6e58[_0x5ec7e5(0x17f,0x18c)],privEN,MessageType[_0x5ec7e5(0x18b,0x191)]);else{if(_0x3e2413[0x1]['includes'](_0x5ec7e5(0x175,0x18f))&&_0x3e2413[0x1]['includes']('usage')||_0x3e2413[0x1][_0x5ec7e5(0x18e,0x1a5)](_0x5ec7e5(0x17e,0x18f))&&_0x3e2413[0x1][_0x5ec7e5(0x186,0x1a5)]('what')||_0x3e2413[0x1]['includes'](_0x5ec7e5(0x16a,0x16b))&&_0x3e2413[0x1][_0x5ec7e5(0x188,0x1a5)](_0x5ec7e5(0x185,0x18f))||_0x3e2413[0x1][_0x5ec7e5(0x1bd,0x1a5)]('set')&&_0x3e2413[0x1]['includes'](_0x5ec7e5(0x177,0x18f))||_0x3e2413[0x1][_0x5ec7e5(0x187,0x1a5)](_0x5ec7e5(0x143,0x167))&&_0x3e2413[0x1][_0x5ec7e5(0x1c2,0x1a5)](_0x5ec7e5(0x173,0x17f)))return await _0x1e6e58[_0x5ec7e5(0x182,0x19f)][_0x5ec7e5(0x159,0x174)](_0x1e6e58[_0x5ec7e5(0x1af,0x18c)],sudoEN,MessageType[_0x5ec7e5(0x18d,0x191)]);else return _0x3e2413[0x1][_0x5ec7e5(0x187,0x1a5)](_0x5ec7e5(0x190,0x196))&&_0x3e2413[0x1]['includes'](_0x5ec7e5(0x1a7,0x19c))||_0x3e2413[0x1][_0x5ec7e5(0x1ca,0x1a5)]('how')&&_0x3e2413[0x1][_0x5ec7e5(0x18f,0x1a5)](_0x5ec7e5(0x18d,0x196))||_0x3e2413[0x1][_0x5ec7e5(0x1c6,0x1a5)](_0x5ec7e5(0x189,0x170))&&_0x3e2413[0x1][_0x5ec7e5(0x19a,0x1a5)](_0x5ec7e5(0x1a3,0x17f))||_0x3e2413[0x1][_0x5ec7e5(0x1b7,0x1a5)](_0x5ec7e5(0x14d,0x169))&&_0x3e2413[0x1][_0x5ec7e5(0x1b4,0x1a5)](_0x5ec7e5(0x178,0x19c))||_0x3e2413[0x1][_0x5ec7e5(0x1af,0x1a5)]('specific')&&_0x3e2413[0x1]['includes']('set')?await _0x1e6e58['client']['sendMessage'](_0x1e6e58['jid'],blEN,MessageType[_0x5ec7e5(0x1a3,0x191)]):await _0x1e6e58[_0x5ec7e5(0x17a,0x19f)]['sendMessage'](_0x1e6e58['jid'],notfoundEN,MessageType['text']);}}}});
+const Asena = require('../events');
+const {MessageType, MessageOptions} = require('@adiwajshing/baileys');
+const Config = require('../config');
+
+// ==================== MAIN DESCRIPTION TEXT ====================
+const h_Des = "Yardım menüsünden botu kullanım hakkında bilgi verir."
+const h_DedEN = "Gives information about using the bot from the Help menu."
+const matchnullEN = "========== *🆘 General Help 🆘* ==========\n\n🔹 *.alive:* Checks if the bot is running.\n\n🔹 *.ca:* Shows the complete list of commands.\n🔹 *.setvar:* It settings config without entering Heroku.\n\n🔸 For more help, use the command ```.help <the topic you want help with>```\nExample: ```.help how can ı turn to public my bot?```\nYou can contact the developer wa.me/+94764746599\n\n========== *End General Help* =========="
+const matchnull = "========== *🆘 Genel Yardım 🆘* ==========\n\n🔹 *.alive:* Botun çalışıp çalışmadığını kontrol eder.\n🔹 *.ca:* Tüm komut listesini gösterir.\n🔹 *.setvar:* Herokuya girmeden config ayarlar.\n\n🔸 Daha fazla yardım için ```.help <yardım almak istediğiniz konu>``` komutunu kullanın.\nÖrnek: ```.help botumu nasıl public yaparım?```\nGeliştirici ile iletişime geçebilirsiniz wa.me/+94764746599\n\n========== *Genel Yardım Bitti* =========="
+const notfound = "```Almak istediğiniz yardım bulunamadı!```\n```Lütfen daha açıklayıcı bir şekilde sorunu belirtin.```"
+const notfoundEN = "```The help you wanted to get was not found!```\n```Please state the problem in a more descriptive way.```"
+
+// ==================== ALL DESCRİPTİONS ====================
+const pubTR = "Botunuzu public yapmak komutları herkese açık yapacaktır. Public yapıldıktan sonra kullanıcı sadece kişisel ve admin komutlarını kullanabilir hale gelir. Onun dışında komutları kullanamaz.\nBotunuzu public yapmak için *.setvar WORK_TYPE:public* komutunu kullanın."
+const pubEN = "Making your bot public will make the commands public. After it is made public, the user can only use personal and admin commands. User cannot use commands other than this.\n To make your bot public, type *.setvar WORK_TYPE:public*"
+const blTR = "BlockChat botunu belirlediğiniz gruba, kişiye veya birden fazla sohbete kapatır.\nKullanmak için önce sohbete gidip *.jid* yazın. Daha sonra gelen *94xxx-xxx@g.us veya 94xxx@whatsapp.net* yazısını kopyalayın. (@g.us ve @whatsapp.net'i silin!)\nArdından *.setvar BLOCK_CHAT:id && id1,id2...* komutunu kullanın."
+const sudoTR = "SUDO, botunuzu seçtiğiniz kullanıcıya tüm yetkileri ile paylaşır. Numara sonuna ,0 koyarsanız gruplarda da aktif hale gelir.\nKullanmak için *.setvar SUDO:94xxxx && 94xx,94xxx [ülke kodu ile, (❌ +94xx • ✅ 94xx)]"
+
+const privTR = "Botunuzu private yapmak komutları sadece size özel yapar. Başkaları kullanamaz.\nBotunuzu private yapmak için *.setvar WORK_TYPE:private* komutunu kullanın."
+const privEN = "Making your bot private makes commands private only for you. Anyone cannot use.\nTo make your bot private, type *.setvar WORK_TYPE:private*"
+const blEN = "Closes BlockChat bot to group, person or multiple chats you specify.\n To use it, first go to chat and type *.jid* Then copy to incoming code. (Except @g.us or @whatsapp.net!)\nThen use this command *.setvar BLOCK_CHAT:id && id1,id2..*"
+const sudoEN = "SUDO, Shares your bot to the user you choose with all its powers.If you put ,0 at the end of the number, the user can also use it in the group.\nTo use, type *.setvar SUDO:90xxxx && 90xx,90xxx [with county code, (❌ +94xx • ✅ 94xx)]*"
+
+if (Config.LANG == 'TR' || Config.LANG == 'AZ') {
+    
+    Asena.addCommand({pattern: 'help ?(.*)', fromMe: true, desc: h_Des}, (async (message, match) => {
+
+        if (match[1] === '') {
+            return await message.client.sendMessage(
+                message.jid,
+                matchnull,
+                MessageType.text
+            );
+        }
+        else if ( (match[1].includes('public') && match[1].includes('nasıl')) || (match[1].includes('public') && match[1].includes('yapimi')) || (match[1].includes('public') && match[1].includes('yapımı')) || (match[1].includes('public') && match[1].includes('nedir')) || (match[1].includes('herkese') && match[1].includes('acik') || match[1].includes('açık')) ) {
+            return await message.client.sendMessage(
+                message.jid,
+                pubTR,
+                MessageType.text
+            );
+        }
+        else if ( (match[1].includes('private') && match[1].includes('nasıl')) || (match[1].includes('private') && match[1].includes('yapimi')) || (match[1].includes('private') && match[1].includes('yapımı')) || (match[1].includes('private') && match[1].includes('nedir')) || (match[1].includes('bana') && match[1].includes('özel')) ) {
+            return await message.client.sendMessage(
+                message.jid,
+                privTR,
+                MessageType.text
+            );
+        }
+        else if ( (match[1].includes('belirli') && match[1].includes('sohbet')) || (match[1].includes('sohbet') && match[1].includes('kapat')) || (match[1].includes('nasil') && match[1].includes('kapatabilirim')) || (match[1].includes('blockchat') && match[1].includes('nedir')) || (match[1].includes('sohbet') && match[1].includes('özel')) ) {
+            return await message.client.sendMessage(
+                message.jid,
+                blTR,
+                MessageType.text
+            );
+        }
+        else if ( (match[1].includes('SUDO') && match[1].includes('nedir')) || (match[1].includes('SUDO') && match[1].includes('nasil')) || (match[1].includes('botu') && match[1].includes('baskasina')) || (match[1].includes('botu') && match[1].includes('arkadaşıma')) || (match[1].includes('SUDO') && match[1].includes('kullanmak')) ) {
+            return await message.client.sendMessage(
+                message.jid,
+                sudoTR,
+                MessageType.text
+            );
+        }
+        else {
+            return await message.client.sendMessage(
+                message.jid,
+                notfound,
+                MessageType.text
+            );
+        }
+    }));
+}
+else {
+    
+    Asena.addCommand({pattern: 'help ?(.*)', fromMe: true, desc: h_DedEN}, (async (message, match) => {
+
+        if (match[1] === '') {
+            return await message.client.sendMessage(
+                message.jid,
+                matchnullEN,
+                MessageType.text
+            );
+        }
+        else if ( (match[1].includes('public') && match[1].includes('how')) || (match[1].includes('public') && match[1].includes('set')) || (match[1].includes('public') && match[1].includes('setting')) ) {
+            return await message.client.sendMessage(
+                message.jid,
+                pubEN,
+                MessageType.text
+            );
+        }
+        else if ( (match[1].includes('private') && match[1].includes('how')) || (match[1].includes('private') && match[1].includes('set')) || (match[1].includes('private') && match[1].includes('setting')) ) {
+            return await message.client.sendMessage(
+                message.jid,
+                privEN,
+                MessageType.text
+            );
+        }
+        else if ( (match[1].includes('SUDO') && match[1].includes('usage')) || (match[1].includes('SUDO') && match[1].includes('what')) || (match[1].includes('how') && match[1].includes('SUDO')) || (match[1].includes('set') && match[1].includes('SUDO')) || (match[1].includes('share') && match[1].includes('bot')) ) {
+            return await message.client.sendMessage(
+                message.jid,
+                sudoEN,
+                MessageType.text
+            );
+        }
+        else if ( (match[1].includes('block') && match[1].includes('chat')) || (match[1].includes('how') && match[1].includes('block')) || (match[1].includes('close') && match[1].includes('bot')) || (match[1].includes('specific') && match[1].includes('chat')) || (match[1].includes('specific') && match[1].includes('set')) ) {
+            return await message.client.sendMessage(
+                message.jid,
+                blEN,
+                MessageType.text
+            );
+        }
+        else {
+            return await message.client.sendMessage(
+                message.jid,
+                notfoundEN,
+                MessageType.text
+            );
+        }
+    }));
+}

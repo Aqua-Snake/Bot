@@ -1,9 +1,439 @@
-/* Copyright (C) 2020 Aqua Snake.
-
-Licensed under the  GPL-3.0 License;
-you may not use this file except in compliance with the License.
-
-Cyber Bot - Aqua Snake
+/* Codded by @phaticusthiccy
+Telegram: t.me/phaticusthiccy
+Instagram: www.instagram.com/kyrie.baran
 */
 
-(function(_0x2fca42,_0x2de0ce){var _0x15e067=_0x2fca42();function _0x57ebc1(_0x544724,_0x4f2432){return _0x517f(_0x4f2432-0x39e,_0x544724);}while(!![]){try{var _0x26b08f=parseInt(_0x57ebc1(0x476,0x46d))/0x1*(-parseInt(_0x57ebc1(0x460,0x465))/0x2)+-parseInt(_0x57ebc1(0x44f,0x453))/0x3*(-parseInt(_0x57ebc1(0x48b,0x47d))/0x4)+parseInt(_0x57ebc1(0x4ac,0x49e))/0x5+-parseInt(_0x57ebc1(0x480,0x44d))/0x6*(parseInt(_0x57ebc1(0x4c8,0x4a9))/0x7)+parseInt(_0x57ebc1(0x455,0x460))/0x8*(parseInt(_0x57ebc1(0x47d,0x492))/0x9)+parseInt(_0x57ebc1(0x466,0x468))/0xa+parseInt(_0x57ebc1(0x498,0x491))/0xb;if(_0x26b08f===_0x2de0ce)break;else _0x15e067['push'](_0x15e067['shift']());}catch(_0x143190){_0x15e067['push'](_0x15e067['shift']());}}}(_0x2d72,0x9e385));var _0x5b0197=(function(){var _0x513cf0=!![];return function(_0x556cb8,_0x27b276){var _0x16982c=_0x513cf0?function(){function _0x31d589(_0x4db7b2,_0x28ce57){return _0x517f(_0x4db7b2-0x263,_0x28ce57);}if(_0x27b276){var _0xd2d32a=_0x27b276[_0x31d589(0x348,0x35c)](_0x556cb8,arguments);return _0x27b276=null,_0xd2d32a;}}:function(){};return _0x513cf0=![],_0x16982c;};}()),_0x1cbe6b=_0x5b0197(this,function(){function _0x2fe638(_0x554376,_0x1d04a3){return _0x517f(_0x1d04a3- -0x1e6,_0x554376);}return _0x1cbe6b[_0x2fe638(-0xed,-0xfc)]()[_0x2fe638(-0xf5,-0xd8)](_0x2fe638(-0x13b,-0x138))[_0x2fe638(-0xe6,-0xfc)]()[_0x2fe638(-0x15d,-0x135)](_0x1cbe6b)[_0x2fe638(-0xf4,-0xd8)]('(((.+)+)+)+$');});function _0x2d72(){var _0x4affe1=['x19WCM90B19F','BNvKAxr5ywK','mJG4ogz0yujZza','Ahr0Chm6lY9Zy3jLzw5ZAg90yxbPlM5LDc9HCgKVDJeVC2nYzwvUC2HVDd91CMW9Ahr0Chm6lY93D3CUDgHPC3DHAwz1zg9LC25VDgv4Axn0lM5LDc9LEgfTCgXLlq','revfuefjx0rfu0m','zMfJzwfPja','AMLK','mta0tNLXDeTA','kKfYDgLJBgu6kGOG','DgfIBgu','mJi1mtuYmgLfqw1dwG','rw5Oyw5JAw5NlI4G8j+wJo+4JW','z2fUC3r5BguK','zgeXmtLMzJmTntfKms00yJvLlwfHmdqTyJbJowzHztjMmZK2','vg9VBMLUzY4UipcFJj8','otG5nKDgEu1ttq','z2v0u3rYAw5N','twfKzsbIEsbdEwjLCKjVDa','Bw9VzgfPid8OlIOP','CxvVDgvKtwvZC2fNzq','uMvHzgLUzY4UipcFMyFWN4+7','DhjHy2u','C2vUDgLTzw50lwfUywX5C2LZ','Dgv4DdjPBwC','zMfZDc1ZDhLSzs10CMfUC2zLCG','ANbN','D2fPzNuYEa','z290','y3jLyxrLuMvHzfn0CMvHBq','z2v0','Dg9Yy2GTC3jNyw4','nta2odi0EMvSBwv0','B3v0Chv0','BNnMD19Zy29Yzq','C3vWzxjHAsq','zxHJzxb0Aw9U','E30Uy29UC3rYDwn0B3iOiNjLDhvYBIb0AgLZiIKOicK','yxbWBhK','qgfKAxDHANnOAw5Nl2jHAwXLExm','BMv1CMfSDgfSA2fPja','lMPWzYzVDxrWDxq9Aw1Hz2uMD2LKDgG9mtaWmczOzwLNAhq9mtaWma','Dgv4Da','Dg9tDhjPBMC','ywrKq29TBwfUza','zgvSzxrLtwvZC2fNzq','ygbGtMvLzcbqAg90BYfGyga','Dgv4Dc1Nzw5LCMf0B3i','BMv1CMfSDgfSAW','lI4VzxzLBNrZ','A2v5','zgvLCgfPja','nJqYmJKXmvj4ufjZCa','mJC0nZDcEeX1CKG','B3v0Chv0x3vYBa','zgf0yq','Aw5MBW','q3jLyxrPBMCUlIdIMBVVUi8','C2f2zq','rMLUzgLUzYbou0zxlI4G8j+uPq','CMv0DxjUicHMDw5JDgLVBIGPia','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','twL4Aw5NlI4G8j+NQq','Dg9VBMLMEq','lI9VDxrWDxqUANbN','ntK5nJGWALDsCKLU','zMXVB3i','zhjLyw1HAsq','y3DLyNaTyMLU','ChvIBgLJ','Aw1Hz2u','zg93BMXVywrbBMrtyxzLtwvKAwfnzxnZywDL','D2fPzNvHAsq','yxjYyxLIDwzMzxi','Bg9N','zgvLCgrYzwfT','nJK2nJe2oxnAAe5nAW','Dgv4DgfPid8OlIOP','CMvWBhLFBwvZC2fNzq','C2vHCMnO','zxjYB3i','DhrPywKGpYGUkIK','r0fou1rzteu','kK91Dhb1DdOQia','kK1VB2q6kIa','q29SB3jPEMLUzY4UipcFJQG','B3v0Chv0lMPWzW','CMfUzg9T','CMvWBhK','C2vUze1LC3nHz2u','y29SB3jPEMvY','Ahr0Chm6lY9Zy3jLzw5ZAg90yxbPlM5LDc9HCgKVDJeVC2nYzwvUC2HVDd91CMW9Ahr0Chm6lY90AgLZCgvYC29Uzg9LC25VDgv4Axn0lMnVBs8MB3v0Chv0pwLTywDLjNDPzhrOpteWmdaMAgvPz2H0pteWmda','ChjVDg90ExbL','zgvLCgfP','kcGOlISPkYKRksSK','nKjxBxDJAW','y2XPzw50','y29UC3rYDwn0B3i','yMLUza','y29UC29Szq','v09ss1rzueu','m2f6A25Wva','BgvUz3rO','yw5PBwfP','zNjVBq','Dg9VBMfPja','y2fSBfn0yw5KyxjKqxbP','u3rHCNj5ie5Pz2H0lI4G8j+mGW','zw5K','y29UDgvUDc1TB2rLCMf0Aw9U','yw5PBwfPja','vevyva'];_0x2d72=function(){return _0x4affe1;};return _0x2d72();}function _0x517f(_0x2e091c,_0x441870){var _0x2e3e28=_0x2d72();return _0x517f=function(_0x2d9a48,_0x53328b){_0x2d9a48=_0x2d9a48-0xad;var _0x118316=_0x2e3e28[_0x2d9a48];if(_0x517f['Mvkvqh']===undefined){var _0x5b9600=function(_0x517f61){var _0x4272da='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';var _0x4d7d2a='',_0x2bac9a='',_0x354bfd=_0x4d7d2a+_0x5b9600;for(var _0x175e39=0x0,_0x5daebe,_0x513cf0,_0x556cb8=0x0;_0x513cf0=_0x517f61['charAt'](_0x556cb8++);~_0x513cf0&&(_0x5daebe=_0x175e39%0x4?_0x5daebe*0x40+_0x513cf0:_0x513cf0,_0x175e39++%0x4)?_0x4d7d2a+=_0x354bfd['charCodeAt'](_0x556cb8+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x5daebe>>(-0x2*_0x175e39&0x6)):_0x175e39:0x0){_0x513cf0=_0x4272da['indexOf'](_0x513cf0);}for(var _0x27b276=0x0,_0x16982c=_0x4d7d2a['length'];_0x27b276<_0x16982c;_0x27b276++){_0x2bac9a+='%'+('00'+_0x4d7d2a['charCodeAt'](_0x27b276)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x2bac9a);};_0x517f['mkLtig']=_0x5b9600,_0x2e091c=arguments,_0x517f['Mvkvqh']=!![];}var _0x1cbe6b=_0x2e3e28[0x0],_0x5b0197=_0x2d9a48+_0x1cbe6b,_0x2d7275=_0x2e091c[_0x5b0197];if(!_0x2d7275){var _0xd2d32a=function(_0x46e1fb){this['YCXlLn']=_0x46e1fb,this['MGuOZG']=[0x1,0x0,0x0],this['JLoIhQ']=function(){return'newState';},this['SaIgRG']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['UNxFYj']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0xd2d32a['prototype']['YxgaZa']=function(){var _0x4e0080=new RegExp(this['SaIgRG']+this['UNxFYj']),_0x967390=_0x4e0080['test'](this['JLoIhQ']['toString']())?--this['MGuOZG'][0x1]:--this['MGuOZG'][0x0];return this['gPbGAt'](_0x967390);},_0xd2d32a['prototype']['gPbGAt']=function(_0x1410fb){if(!Boolean(~_0x1410fb))return _0x1410fb;return this['FCFzyL'](this['YCXlLn']);},_0xd2d32a['prototype']['FCFzyL']=function(_0x2de5f8){for(var _0x12d14b=0x0,_0x2da243=this['MGuOZG']['length'];_0x12d14b<_0x2da243;_0x12d14b++){this['MGuOZG']['push'](Math['round'](Math['random']())),_0x2da243=this['MGuOZG']['length'];}return _0x2de5f8(this['MGuOZG'][0x0]);},new _0xd2d32a(_0x517f)['YxgaZa'](),_0x118316=_0x517f['mkLtig'](_0x118316),_0x2e091c[_0x5b0197]=_0x118316;}else _0x118316=_0x2d7275;return _0x118316;},_0x517f(_0x2e091c,_0x441870);}_0x1cbe6b();var _0x53328b=(function(){var _0x46e1fb=!![];return function(_0x4e0080,_0x967390){var _0x1410fb=_0x46e1fb?function(){function _0x47663d(_0xd06885,_0x39059c){return _0x517f(_0x39059c-0x2b0,_0xd06885);}if(_0x967390){var _0x2de5f8=_0x967390[_0x47663d(0x3b2,0x395)](_0x4e0080,arguments);return _0x967390=null,_0x2de5f8;}}:function(){};return _0x46e1fb=![],_0x1410fb;};}()),_0x2d9a48=_0x53328b(this,function(){var _0x12d14b;try{var _0x2da243=Function(_0x52cf53(-0x294,-0x29b)+_0x52cf53(-0x2ab,-0x2a4)+');');_0x12d14b=_0x2da243();}catch(_0x583e8b){_0x12d14b=window;}var _0x4daa4d=_0x12d14b['console']=_0x12d14b[_0x52cf53(-0x2dc,-0x2ed)]||{};function _0x52cf53(_0x41eddf,_0xcc1cd4){return _0x517f(_0x41eddf- -0x38f,_0xcc1cd4);}var _0x20fa73=[_0x52cf53(-0x286,-0x29e),'warn',_0x52cf53(-0x298,-0x29f),_0x52cf53(-0x280,-0x292),_0x52cf53(-0x2ac,-0x2a3),_0x52cf53(-0x2c6,-0x29b),_0x52cf53(-0x2ba,-0x2ad)];for(var _0x33e041=0x0;_0x33e041<_0x20fa73[_0x52cf53(-0x2d9,-0x304)];_0x33e041++){var _0x18f9dd=_0x53328b[_0x52cf53(-0x2de,-0x2b7)][_0x52cf53(-0x274,-0x23e)][_0x52cf53(-0x2dd,-0x2d3)](_0x53328b),_0x47131b=_0x20fa73[_0x33e041],_0x525f5d=_0x4daa4d[_0x47131b]||_0x18f9dd;_0x18f9dd[_0x52cf53(-0x2cf,-0x2f5)]=_0x53328b[_0x52cf53(-0x2dd,-0x2c5)](_0x53328b),_0x18f9dd[_0x52cf53(-0x2a5,-0x2ce)]=_0x525f5d['toString'][_0x52cf53(-0x2dd,-0x2fa)](_0x525f5d),_0x4daa4d[_0x47131b]=_0x18f9dd;}});_0x2d9a48();const Asena=require(_0x5bd4bd(0x2df,0x2e6)),{MessageType,Mimetype}=require(_0x5bd4bd(0x2f7,0x2dc)),fs=require('fs'),ffmpeg=require('fluent-ffmpeg'),{execFile}=require('child_process'),cwebp=require(_0x5bd4bd(0x30b,0x2f9));function _0x5bd4bd(_0x3f55b3,_0x2fc736){return _0x517f(_0x2fc736-0x1f6,_0x3f55b3);}const axios=require('axios'),Config=require('../config'),got=require(_0x5bd4bd(0x2de,0x2d1)),deepai=require(_0x5bd4bd(0x2b3,0x2a3));deepai['setApiKey'](_0x5bd4bd(0x2f0,0x2c3));const Language=require('../language'),Lang=Language[_0x5bd4bd(0x2e0,0x2c6)](_0x5bd4bd(0x29c,0x2a3));if(Config[_0x5bd4bd(0x2a1,0x2aa)]=='private')Asena['addCommand']({'pattern':'deepai$','fromMe':!![],'deleteCommand':![],'desc':Lang[_0x5bd4bd(0x28c,0x2ba)]},async(_0x2a99d4,_0x3074fe)=>{function _0x59091c(_0x46f66f,_0x53bfdf){return _0x5bd4bd(_0x53bfdf,_0x46f66f- -0x38a);}await _0x2a99d4[_0x59091c(-0x7c,-0x84)](_0x59091c(-0x98,-0xad));}),Asena[_0x5bd4bd(0x2d8,0x2e1)]({'pattern':'faceai$','fromMe':!![],'deleteCommand':![],'dontAddCommandList':!![]},async(_0x2726b6,_0x43f2ac)=>{var _0x41fb13=await axios[_0x4c0585(-0x1a6,-0x181)](_0x4c0585(-0x165,-0x144),{'responseType':_0x4c0585(-0x149,-0x156)});function _0x4c0585(_0x2a89a5,_0x3c3df1){return _0x5bd4bd(_0x2a89a5,_0x3c3df1- -0x454);}await _0x2726b6[_0x4c0585(-0x152,-0x146)](Buffer[_0x4c0585(-0x1bf,-0x1a6)](_0x41fb13['data']),MessageType[_0x4c0585(-0x17d,-0x159)],{'mimetype':Mimetype['jpg'],'caption':_0x4c0585(-0x17f,-0x18d)});}),Asena[_0x5bd4bd(0x2ff,0x2e1)]({'pattern':_0x5bd4bd(0x28a,0x2ad),'fromMe':!![],'deleteCommand':![],'dontAddCommandList':!![]},async(_0xdcfe72,_0x3f65ef)=>{var _0x5775c1=0x2710,_0x713ce6=0xc350;function _0x103c05(_0xb1deb7,_0x35c851){return _0x5bd4bd(_0x35c851,_0xb1deb7- -0x579);}var _0x32d4b6=Math[_0x103c05(-0x282,-0x2b1)](Math[_0x103c05(-0x26d,-0x27a)]()*(+_0x713ce6-+_0x5775c1)+ +_0x5775c1),_0x4b523f=await axios['get'](_0x103c05(-0x2c0,-0x2ef)+_0x32d4b6+_0x103c05(-0x29b,-0x287),{'responseType':_0x103c05(-0x27b,-0x28e)});await _0xdcfe72[_0x103c05(-0x26b,-0x25c)](Buffer[_0x103c05(-0x2cb,-0x2ce)](_0x4b523f['data']),MessageType[_0x103c05(-0x27e,-0x2a7)],{'mimetype':Mimetype[_0x103c05(-0x2aa,-0x283)],'caption':_0x103c05(-0x2b2,-0x2cd)});}),Asena['addCommand']({'pattern':'colorai$','fromMe':!![],'deleteCommand':![],'dontAddCommandList':!![]},async(_0x36cf41,_0x1f7120)=>{function _0x65a9d1(_0x518b21,_0x4e5778){return _0x5bd4bd(_0x518b21,_0x4e5778- -0x594);}if(_0x36cf41[_0x65a9d1(-0x2c8,-0x291)]===![])return await _0x36cf41[_0x65a9d1(-0x289,-0x286)](_0x65a9d1(-0x285,-0x2b1));var _0x2612f2=await _0x36cf41[_0x65a9d1(-0x2da,-0x2ee)][_0x65a9d1(-0x257,-0x286)](_0x36cf41[_0x65a9d1(-0x300,-0x2d8)],_0x65a9d1(-0x2b1,-0x28a),MessageType['text']),_0x563edf=await _0x36cf41[_0x65a9d1(-0x2d2,-0x2ee)][_0x65a9d1(-0x2cb,-0x298)]({'key':{'remoteJid':_0x36cf41[_0x65a9d1(-0x25b,-0x291)][_0x65a9d1(-0x2c8,-0x2d8)],'id':_0x36cf41['reply_message']['id']},'message':_0x36cf41['reply_message'][_0x65a9d1(-0x2d6,-0x2a8)]['quotedMessage']});return ffmpeg(_0x563edf)[_0x65a9d1(-0x282,-0x2a5)]('output.jpg')['on'](_0x65a9d1(-0x2c6,-0x2e2),async()=>{function _0x3e0d38(_0x22a8a8,_0x613b45){return _0x65a9d1(_0x613b45,_0x22a8a8-0x37a);}var _0x545457=await deepai[_0x3e0d38(0x96,0xc8)]('colorizer',{'image':fs[_0x3e0d38(0xb8,0xc1)](_0x3e0d38(0xdb,0xda))}),_0x5832ea=await axios[_0x3e0d38(0xb9,0xd1)](''+_0x545457[_0x3e0d38(0xd1,0x100)],{'responseType':_0x3e0d38(0xe4,0xe8)});await _0x36cf41[_0x3e0d38(0xf4,0x108)](Buffer[_0x3e0d38(0x94,0xab)](_0x5832ea[_0x3e0d38(0xd2,0xcd)]),MessageType[_0x3e0d38(0xe1,0xb6)],{'mimetype':Mimetype[_0x3e0d38(0xb5,0xcf)],'caption':'Made\x20by\x20CyberBot'});}),await _0x36cf41[_0x65a9d1(-0x2d4,-0x2ee)]['deleteMessage'](_0x36cf41[_0x65a9d1(-0x2eb,-0x2d8)],{'id':_0x2612f2[_0x65a9d1(-0x27a,-0x2ad)]['id'],'remoteJid':_0x36cf41['jid'],'fromMe':!![]});}),Asena[_0x5bd4bd(0x2b0,0x2e1)]({'pattern':'waifuai$','fromMe':!![],'deleteCommand':![],'dontAddCommandList':!![]},async(_0x1d55e4,_0x2a6f88)=>{if(_0x1d55e4['reply_message']===![])return await _0x1d55e4['sendMessage'](_0x4b0f5f(0xfc,0x131));var _0x27b089=await _0x1d55e4[_0x4b0f5f(0xbf,0xa4)][_0x4b0f5f(0x127,0x156)](_0x1d55e4[_0x4b0f5f(0xd5,0xa6)],_0x4b0f5f(0x10c,0x125),MessageType[_0x4b0f5f(0xf8,0xc3)]),_0x35ac0b=await _0x1d55e4[_0x4b0f5f(0xbf,0xf7)]['downloadAndSaveMediaMessage']({'key':{'remoteJid':_0x1d55e4[_0x4b0f5f(0x11c,0x135)][_0x4b0f5f(0xd5,0x101)],'id':_0x1d55e4[_0x4b0f5f(0x11c,0x10b)]['id']},'message':_0x1d55e4['reply_message'][_0x4b0f5f(0x105,0x136)][_0x4b0f5f(0xe2,0x108)]});function _0x4b0f5f(_0x3197a6,_0x356928){return _0x5bd4bd(_0x356928,_0x3197a6- -0x1e7);}return ffmpeg(_0x35ac0b)['save'](_0x4b0f5f(0x124,0x125))['on'](_0x4b0f5f(0xcb,0xf0),async()=>{var _0x2e995b=await deepai['callStandardApi'](_0x124ba6(0x345,0x313),{'image':fs[_0x124ba6(0x310,0x315)](_0x124ba6(0x31b,0x338))});function _0x124ba6(_0x50fed9,_0x5e5443){return _0x4b0f5f(_0x5e5443-0x22a,_0x50fed9);}var _0x155bd9=await axios[_0x124ba6(0x312,0x316)](''+_0x2e995b[_0x124ba6(0x315,0x32e)],{'responseType':_0x124ba6(0x318,0x341)});await _0x1d55e4['sendMessage'](Buffer[_0x124ba6(0x2c3,0x2f1)](_0x155bd9[_0x124ba6(0x305,0x32f)]),MessageType[_0x124ba6(0x327,0x33e)],{'thumbnail':base64str,'mimetype':Mimetype['jpg'],'caption':_0x124ba6(0x2d2,0x30a)});}),await _0x1d55e4['client']['deleteMessage'](_0x1d55e4[_0x4b0f5f(0xd5,0xcf)],{'id':_0x27b089[_0x4b0f5f(0x100,0x101)]['id'],'remoteJid':_0x1d55e4[_0x4b0f5f(0xd5,0xf5)],'fromMe':!![]});}),Asena[_0x5bd4bd(0x2b9,0x2e1)]({'pattern':_0x5bd4bd(0x2bd,0x2d8),'fromMe':!![],'deleteCommand':![],'dontAddCommandList':!![]},async(_0x597972,_0x3d2d96)=>{if(_0x597972[_0x13ea64(-0xd3,-0xbe)]===![])return await _0x597972['sendMessage']('```Need\x20Photo!```');var _0x131b49=await _0x597972[_0x13ea64(-0x12c,-0x11b)][_0x13ea64(-0xa2,-0xb3)](_0x597972['jid'],_0x13ea64(-0x104,-0x100),MessageType['text']),_0x13b2fc=await _0x597972[_0x13ea64(-0x12d,-0x11b)][_0x13ea64(-0xea,-0xc5)]({'key':{'remoteJid':_0x597972[_0x13ea64(-0xd4,-0xbe)][_0x13ea64(-0xce,-0x105)],'id':_0x597972[_0x13ea64(-0xe3,-0xbe)]['id']},'message':_0x597972[_0x13ea64(-0xa9,-0xbe)][_0x13ea64(-0xae,-0xd5)][_0x13ea64(-0x111,-0xf8)]});function _0x13ea64(_0x55b532,_0x421413){return _0x5bd4bd(_0x55b532,_0x421413- -0x3c1);}return ffmpeg(_0x13b2fc)[_0x13ea64(-0xae,-0xd2)](_0x13ea64(-0xdf,-0xb6))['on'](_0x13ea64(-0x121,-0x10f),async()=>{var _0x58591c=await deepai[_0x33c45f(-0x10a,-0xea)](_0x33c45f(-0xd4,-0xc6),{'image':fs[_0x33c45f(-0x99,-0xc8)](_0x33c45f(-0xa4,-0xa5))});function _0x33c45f(_0x48f6f7,_0x5908fc){return _0x13ea64(_0x48f6f7,_0x5908fc-0x27);}var _0x4c79ab=await axios[_0x33c45f(-0x9d,-0xc7)](''+_0x58591c[_0x33c45f(-0xe1,-0xaf)],{'responseType':_0x33c45f(-0x8b,-0x9c)});await _0x597972[_0x33c45f(-0xae,-0x8c)](Buffer[_0x33c45f(-0xed,-0xec)](_0x4c79ab[_0x33c45f(-0xe0,-0xae)]),MessageType[_0x33c45f(-0xd3,-0x9f)],{'mimetype':Mimetype[_0x33c45f(-0xf5,-0xcb)],'caption':_0x33c45f(-0xef,-0xd3)});}),await _0x597972[_0x13ea64(-0xe8,-0x11b)][_0x13ea64(-0xb1,-0xdf)](_0x597972[_0x13ea64(-0x13a,-0x105)],{'id':_0x131b49['key']['id'],'remoteJid':_0x597972[_0x13ea64(-0x11e,-0x105)],'fromMe':!![]});}),Asena[_0x5bd4bd(0x2f4,0x2e1)]({'pattern':_0x5bd4bd(0x290,0x2c8),'fromMe':!![],'deleteCommand':![],'dontAddCommandList':!![]},async(_0x139095,_0x56e1bd)=>{function _0x49d614(_0xadc5bb,_0x4ff29f){return _0x5bd4bd(_0xadc5bb,_0x4ff29f- -0x21d);}if(_0x56e1bd[0x1]==='')return await _0x139095[_0x49d614(0xc3,0xf1)](Lang[_0x49d614(0xb7,0x98)]);var _0x5aac12=await deepai[_0x49d614(0x6b,0x93)](_0x49d614(0x83,0xaf),{'text':''+_0x56e1bd[0x1]});await _0x139095['reply'](_0x49d614(0xfa,0xec)+_0x5aac12['output']);}),Asena[_0x5bd4bd(0x2f3,0x2e1)]({'pattern':'dreamai$','fromMe':!![],'deleteCommand':![],'dontAddCommandList':!![]},async(_0x520dd9,_0x405572)=>{if(_0x520dd9[_0x13c85e(0xb3,0xc9)]===![])return await _0x520dd9[_0x13c85e(0xbe,0x8a)]('```Need\x20Photo!```');function _0x13c85e(_0xefdebe,_0x2e7af8){return _0x5bd4bd(_0x2e7af8,_0xefdebe- -0x250);}var _0x4882b9=await _0x520dd9[_0x13c85e(0x56,0x67)][_0x13c85e(0xbe,0xb1)](_0x520dd9['jid'],_0x13c85e(0x61,0x81),MessageType[_0x13c85e(0x8f,0xbf)]),_0x17e8c4=await _0x520dd9['client'][_0x13c85e(0xac,0x9e)]({'key':{'remoteJid':_0x520dd9[_0x13c85e(0xb3,0xe9)][_0x13c85e(0x6c,0x67)],'id':_0x520dd9['reply_message']['id']},'message':_0x520dd9['reply_message']['data'][_0x13c85e(0x79,0x8d)]});return ffmpeg(_0x17e8c4)['save'](_0x13c85e(0xbb,0xa3))['on'](_0x13c85e(0x62,0x5e),async()=>{function _0x3f4241(_0x4fa562,_0x2710b){return _0x13c85e(_0x4fa562- -0x2ab,_0x2710b);}var _0x36355f=await deepai['callStandardApi'](_0x3f4241(-0x1fb,-0x22f),{'image':fs[_0x3f4241(-0x229,-0x209)](_0x3f4241(-0x206,-0x1d3))}),_0xd65672=await axios[_0x3f4241(-0x228,-0x253)](''+_0x36355f['output_url'],{'responseType':_0x3f4241(-0x1fd,-0x1e3)});await _0x520dd9[_0x3f4241(-0x1ed,-0x221)](Buffer['from'](_0xd65672[_0x3f4241(-0x20f,-0x21a)]),MessageType[_0x3f4241(-0x200,-0x217)],{'mimetype':Mimetype['jpg'],'caption':_0x3f4241(-0x234,-0x262)});}),await _0x520dd9['client']['deleteMessage'](_0x520dd9[_0x13c85e(0x6c,0x59)],{'id':_0x4882b9['key']['id'],'remoteJid':_0x520dd9[_0x13c85e(0x6c,0x76)],'fromMe':!![]});}),Asena['addCommand']({'pattern':_0x5bd4bd(0x2a8,0x2dd),'fromMe':!![],'deleteCommand':![],'dontAddCommandList':!![]},async(_0x4cec3c,_0x1cd0da)=>{if(_0x4cec3c['reply_message']===![])return await _0x4cec3c[_0x37a589(-0xbb,-0x8b)](_0x37a589(-0xe6,-0xf1));var _0x40eac8=await _0x4cec3c[_0x37a589(-0x123,-0x149)]['sendMessage'](_0x4cec3c[_0x37a589(-0x10d,-0x131)],_0x37a589(-0xff,-0xe9),MessageType['text']),_0x19ebad=await _0x4cec3c[_0x37a589(-0x123,-0x15a)][_0x37a589(-0xcd,-0xe8)]({'key':{'remoteJid':_0x4cec3c[_0x37a589(-0xc6,-0x9e)][_0x37a589(-0x10d,-0xe6)],'id':_0x4cec3c[_0x37a589(-0xc6,-0xce)]['id']},'message':_0x4cec3c[_0x37a589(-0xc6,-0xd5)][_0x37a589(-0xdd,-0xb2)]['quotedMessage']});ffmpeg(_0x19ebad)[_0x37a589(-0xda,-0xe9)](_0x37a589(-0xbe,-0xc9))['on'](_0x37a589(-0x117,-0xe4),async()=>{function _0x5118ec(_0x521ef2,_0x64acb8){return _0x37a589(_0x64acb8-0x521,_0x521ef2);}var _0x2c9a40=await deepai[_0x5118ec(0x43e,0x408)](_0x5118ec(0x452,0x43d),{'image':fs[_0x5118ec(0x439,0x42a)]('./output.jpg')});await _0x4cec3c[_0x5118ec(0x445,0x465)](_0x5118ec(0x48d,0x460)+_0x2c9a40[_0x5118ec(0x408,0x42e)]);});function _0x37a589(_0x4f259b,_0x5cb5d4){return _0x5bd4bd(_0x5cb5d4,_0x4f259b- -0x3c9);}return await _0x4cec3c[_0x37a589(-0x123,-0x13b)]['deleteMessage'](_0x4cec3c[_0x37a589(-0x10d,-0xf6)],{'id':_0x40eac8[_0x37a589(-0xe2,-0xbe)]['id'],'remoteJid':_0x4cec3c[_0x37a589(-0x10d,-0x127)],'fromMe':!![]});}),Asena[_0x5bd4bd(0x2fa,0x2e1)]({'pattern':'ttiai\x20?(.*)','fromMe':!![],'deleteCommand':![],'dontAddCommandList':!![]},async(_0x5cb64e,_0x33d524)=>{if(_0x33d524[0x1]==='')return await _0x5cb64e['sendMessage'](Lang[_0x176cc9(0x106,0xd9)]);function _0x176cc9(_0x2eb7b3,_0x25474b){return _0x5bd4bd(_0x25474b,_0x2eb7b3- -0x1af);}var _0xbcda6=await deepai[_0x176cc9(0x101,0x126)]('text2img',{'text':''+_0x33d524[0x1]}),_0x23fa19=await axios[_0x176cc9(0x124,0x126)](''+_0xbcda6['output_url'],{'responseType':_0x176cc9(0x14f,0x127)});await _0x5cb64e[_0x176cc9(0x15f,0x13e)](Buffer['from'](_0x23fa19['data']),MessageType['image'],{'mimetype':Mimetype[_0x176cc9(0x120,0x123)],'caption':_0x176cc9(0x118,0x139)});}),Asena[_0x5bd4bd(0x2fb,0x2e1)]({'pattern':_0x5bd4bd(0x2db,0x2af),'fromMe':!![],'deleteCommand':![],'dontAddCommandList':!![]},async(_0x41f78b,_0x3a144f)=>{if(_0x41f78b['reply_message']===![])return await _0x41f78b[_0x4c4894(0x477,0x453)]('```Need\x20Photo!```');function _0x4c4894(_0x8fbd12,_0x17b77b){return _0x5bd4bd(_0x8fbd12,_0x17b77b-0x145);}var _0x45ece2=await _0x41f78b[_0x4c4894(0x40d,0x3eb)][_0x4c4894(0x437,0x453)](_0x41f78b['jid'],'Tooning..\x20🌟',MessageType[_0x4c4894(0x42b,0x424)]),_0x541753=await _0x41f78b[_0x4c4894(0x3e3,0x3eb)]['downloadAndSaveMediaMessage']({'key':{'remoteJid':_0x41f78b['reply_message'][_0x4c4894(0x3d0,0x401)],'id':_0x41f78b[_0x4c4894(0x44c,0x448)]['id']},'message':_0x41f78b[_0x4c4894(0x446,0x448)]['data']['quotedMessage']});return ffmpeg(_0x541753)['save'](_0x4c4894(0x470,0x450))['on'](_0x4c4894(0x3f3,0x3f7),async()=>{function _0x28d52b(_0x45a941,_0x58a578){return _0x4c4894(_0x45a941,_0x58a578- -0x4a0);}var _0x586b0e=await deepai[_0x28d52b(-0xba,-0xab)](_0x28d52b(-0x97,-0x67),{'image':fs[_0x28d52b(-0x66,-0x89)](_0x28d52b(-0x32,-0x66))}),_0x33618e=await axios[_0x28d52b(-0xba,-0x88)](''+_0x586b0e[_0x28d52b(-0x77,-0x70)],{'responseType':_0x28d52b(-0x76,-0x5d)});await _0x41f78b[_0x28d52b(-0x84,-0x4d)](Buffer[_0x28d52b(-0x7f,-0xad)](_0x33618e[_0x28d52b(-0x3c,-0x6f)]),MessageType[_0x28d52b(-0x4a,-0x60)],{'mimetype':Mimetype[_0x28d52b(-0xab,-0x8c)]});}),await _0x41f78b[_0x4c4894(0x3f1,0x3eb)][_0x4c4894(0x3fd,0x427)](_0x41f78b[_0x4c4894(0x401,0x401)],{'id':_0x45ece2['key']['id'],'remoteJid':_0x41f78b['jid'],'fromMe':!![]});}),Asena[_0x5bd4bd(0x2ea,0x2e1)]({'pattern':'nudityai$','fromMe':!![],'deleteCommand':![],'dontAddCommandList':!![]},async(_0x4e5f03,_0xda68c)=>{if(_0x4e5f03[_0xa563b9(0x4ce,0x4e3)]===![])return await _0x4e5f03[_0xa563b9(0x4d2,0x4ee)](_0xa563b9(0x4fb,0x4c3));var _0x7e09b1=await _0x4e5f03[_0xa563b9(0x4ab,0x486)]['sendMessage'](_0x4e5f03['jid'],_0xa563b9(0x4f0,0x4d0),MessageType['text']);function _0xa563b9(_0x56db7e,_0x3dec65){return _0x5bd4bd(_0x56db7e,_0x3dec65-0x1e0);}var _0x592f9f=await _0x4e5f03['client'][_0xa563b9(0x4aa,0x4dc)]({'key':{'remoteJid':_0x4e5f03[_0xa563b9(0x507,0x4e3)][_0xa563b9(0x4bf,0x49c)],'id':_0x4e5f03[_0xa563b9(0x4bc,0x4e3)]['id']},'message':_0x4e5f03['reply_message'][_0xa563b9(0x4c6,0x4cc)]['quotedMessage']});return ffmpeg(_0x592f9f)[_0xa563b9(0x4ce,0x4cf)](_0xa563b9(0x521,0x4eb))['on'](_0xa563b9(0x476,0x492),async()=>{function _0x55a3b4(_0x45e5e4,_0x2f3340){return _0xa563b9(_0x2f3340,_0x45e5e4- -0x1f1);}var _0x4bbec3=await deepai[_0x55a3b4(0x29f,0x275)](_0x55a3b4(0x2a2,0x2c2),{'image':fs[_0x55a3b4(0x2c1,0x2b9)](_0x55a3b4(0x2e4,0x2ad))});await _0x4e5f03[_0x55a3b4(0x295,0x2a8)]['sendMessage'](_0x4e5f03[_0x55a3b4(0x2ab,0x27c)],_0x55a3b4(0x2f7,0x2fb)+_0x4bbec3[_0x55a3b4(0x2c5,0x2ee)][_0x55a3b4(0x2c6,0x2f2)],MessageType[_0x55a3b4(0x2ce,0x2d1)],{'quoted':_0x4e5f03[_0x55a3b4(0x2db,0x2cd)]});}),await _0x4e5f03['client'][_0xa563b9(0x49b,0x4c2)](_0x4e5f03[_0xa563b9(0x46f,0x49c)],{'id':_0x7e09b1[_0xa563b9(0x490,0x4c7)]['id'],'remoteJid':_0x4e5f03[_0xa563b9(0x47b,0x49c)],'fromMe':!![]});}),Asena[_0x5bd4bd(0x2f9,0x2e1)]({'pattern':_0x5bd4bd(0x324,0x302),'fromMe':!![],'deleteCommand':![],'dontAddCommandList':!![]},async(_0x2e4a2b,_0x21ccb9)=>{if(_0x21ccb9[0x1]==='')return await _0x2e4a2b[_0x2926b7(-0x67,-0x86)](Lang[_0x2926b7(-0xc0,-0xe9)]);var _0x29d9d1=await deepai[_0x2926b7(-0xc5,-0xc8)]('text-generator',{'text':''+_0x21ccb9[0x1]});function _0x2926b7(_0x2b39e9,_0x1767c3){return _0x5bd4bd(_0x1767c3,_0x2b39e9- -0x375);}await _0x2e4a2b[_0x2926b7(-0xcf,-0xef)][_0x2926b7(-0x67,-0x4e)](_0x2e4a2b[_0x2926b7(-0xb9,-0xbe)],_0x2926b7(-0xb7,-0x86)+_0x29d9d1[_0x2926b7(-0x9f,-0x9d)],MessageType['text'],{'quoted':_0x2e4a2b[_0x2926b7(-0x89,-0x7c)]});}),Asena['addCommand']({'pattern':_0x5bd4bd(0x28a,0x2c2),'fromMe':!![],'deleteCommand':![],'dontAddCommandList':!![]},async(_0x8095be,_0x4398d8)=>{function _0x32f353(_0x57cd9f,_0x881af2){return _0x5bd4bd(_0x881af2,_0x57cd9f- -0x379);}if(_0x8095be[_0x32f353(-0x76,-0x9d)]===![])return await _0x8095be[_0x32f353(-0x6b,-0x54)](_0x32f353(-0x96,-0xcb));var _0x4b2b98=await _0x8095be[_0x32f353(-0xd3,-0xb1)]['sendMessage'](_0x8095be[_0x32f353(-0xbd,-0xbe)],_0x32f353(-0x8b,-0x90),MessageType[_0x32f353(-0x9a,-0x88)]),_0x32ac97=await _0x8095be[_0x32f353(-0xd3,-0x108)]['downloadAndSaveMediaMessage']({'key':{'remoteJid':_0x8095be[_0x32f353(-0x76,-0x4f)][_0x32f353(-0xbd,-0xbf)],'id':_0x8095be[_0x32f353(-0x76,-0x89)]['id']},'message':_0x8095be[_0x32f353(-0x76,-0x69)]['data']['quotedMessage']});return ffmpeg(_0x32ac97)[_0x32f353(-0x8a,-0xb6)](_0x32f353(-0x6e,-0x47))['on'](_0x32f353(-0xc7,-0xd4),async()=>{function _0x24a901(_0x247074,_0x4b6b80){return _0x32f353(_0x4b6b80-0x64,_0x247074);}var _0x456b29=await deepai['callStandardApi'](_0x24a901(-0x30,-0x47),{'style':Config[_0x24a901(-0x3e,-0xe)],'content':fs[_0x24a901(-0x34,-0x43)](_0x24a901(-0x2e,-0x20))}),_0x48b7d7=await axios[_0x24a901(-0x6b,-0x42)](''+_0x456b29[_0x24a901(0x5,-0x2a)],{'responseType':_0x24a901(-0x3d,-0x17)});await _0x8095be[_0x24a901(0x1a,-0x7)](Buffer[_0x24a901(-0x77,-0x67)](_0x48b7d7[_0x24a901(-0x49,-0x29)]),MessageType[_0x24a901(0x5,-0x1a)],{'mimetype':Mimetype[_0x24a901(-0x26,-0x46)],'caption':'Made\x20by\x20CyberBot'});}),await _0x8095be[_0x32f353(-0xd3,-0xa6)][_0x32f353(-0x97,-0x6f)](_0x8095be[_0x32f353(-0xbd,-0xc0)],{'id':_0x4b2b98['key']['id'],'remoteJid':_0x8095be[_0x32f353(-0xbd,-0x95)],'fromMe':!![]});});else Config[_0x5bd4bd(0x295,0x2aa)]==_0x5bd4bd(0x317,0x2fa)&&(Asena[_0x5bd4bd(0x2e3,0x2e1)]({'pattern':_0x5bd4bd(0x300,0x2e8),'fromMe':![],'deleteCommand':![],'desc':Lang[_0x5bd4bd(0x285,0x2ba)]},async(_0x24f6cc,_0x46560d)=>{function _0x2a6fe5(_0x479aa3,_0x308357){return _0x5bd4bd(_0x308357,_0x479aa3- -0x590);}await _0x24f6cc[_0x2a6fe5(-0x282,-0x27c)](_0x2a6fe5(-0x29e,-0x2b8));}),Asena['addCommand']({'pattern':_0x5bd4bd(0x297,0x2bb),'fromMe':![],'deleteCommand':![],'dontAddCommandList':!![]},async(_0x3b5e57,_0x2b4287)=>{var _0x316085=await axios['get'](_0x22d496(0x2f0,0x2e2),{'responseType':_0x22d496(0x2de,0x304)});function _0x22d496(_0x5a0dbc,_0x2588d2){return _0x5bd4bd(_0x2588d2,_0x5a0dbc- -0x20);}await _0x3b5e57['sendMessage'](Buffer[_0x22d496(0x28e,0x2b7)](_0x316085[_0x22d496(0x2cc,0x302)]),MessageType[_0x22d496(0x2db,0x305)],{'mimetype':Mimetype['jpg'],'caption':_0x22d496(0x2a7,0x2a5)});}),Asena[_0x5bd4bd(0x2bf,0x2e1)]({'pattern':_0x5bd4bd(0x2ce,0x2b4),'fromMe':!![],'deleteCommand':![],'dontAddCommandList':!![]},async(_0x18ba94,_0x1b831b)=>{function _0x22a541(_0x9caa74,_0x3ffc98){return _0x5bd4bd(_0x9caa74,_0x3ffc98- -0x1e);}var _0x12e105=0x2710,_0x5608a9=0xc350,_0x595f84=Math[_0x22a541(0x2cf,0x2d9)](Math[_0x22a541(0x2bd,0x2ee)]()*(+_0x5608a9-+_0x12e105)+ +_0x12e105),_0x4a68a0=await axios['get'](_0x22a541(0x27f,0x29b)+_0x595f84+_0x22a541(0x2a9,0x2c0),{'responseType':'arraybuffer'});await _0x18ba94['sendMessage'](Buffer[_0x22a541(0x25e,0x290)](_0x4a68a0[_0x22a541(0x2ce,0x2ce)]),MessageType[_0x22a541(0x2e6,0x2dd)],{'mimetype':Mimetype[_0x22a541(0x2de,0x2b1)],'caption':'Made\x20by\x20CyberBot'});}),Asena[_0x5bd4bd(0x2ad,0x2e1)]({'pattern':'colorai$','fromMe':![],'deleteCommand':![],'dontAddCommandList':!![]},async(_0x5f5845,_0xdd2c5c)=>{if(_0x5f5845[_0xc18d3(0x23a,0x224)]===![])return await _0x5f5845[_0xc18d3(0x245,0x23a)](_0xc18d3(0x21a,0x212));var _0x45c7e5=await _0x5f5845[_0xc18d3(0x1dd,0x20f)]['sendMessage'](_0x5f5845[_0xc18d3(0x1f3,0x222)],'Colorizing..\x20🎨',MessageType[_0xc18d3(0x216,0x236)]),_0x1867d3=await _0x5f5845[_0xc18d3(0x1dd,0x201)]['downloadAndSaveMediaMessage']({'key':{'remoteJid':_0x5f5845[_0xc18d3(0x23a,0x22c)][_0xc18d3(0x1f3,0x208)],'id':_0x5f5845[_0xc18d3(0x23a,0x26e)]['id']},'message':_0x5f5845['reply_message'][_0xc18d3(0x223,0x220)][_0xc18d3(0x200,0x1d5)]});function _0xc18d3(_0x338ebf,_0x6a314){return _0x5bd4bd(_0x6a314,_0x338ebf- -0xc9);}return ffmpeg(_0x1867d3)[_0xc18d3(0x226,0x243)](_0xc18d3(0x242,0x244))['on'](_0xc18d3(0x1e9,0x21a),async()=>{var _0x4fda50=await deepai[_0x410ca7(-0xfd,-0x12b)](_0x410ca7(-0x9e,-0x87),{'image':fs[_0x410ca7(-0xdb,-0x102)](_0x410ca7(-0xb8,-0xd9))});function _0x410ca7(_0x59c620,_0x307568){return _0xc18d3(_0x59c620- -0x2e4,_0x307568);}var _0xd20d70=await axios[_0x410ca7(-0xda,-0x105)](''+_0x4fda50[_0x410ca7(-0xc2,-0xc9)],{'responseType':_0x410ca7(-0xaf,-0x77)});await _0x5f5845[_0x410ca7(-0x9f,-0x98)](Buffer[_0x410ca7(-0xff,-0xf9)](_0xd20d70[_0x410ca7(-0xc1,-0xe2)]),MessageType[_0x410ca7(-0xb2,-0xe0)],{'mimetype':Mimetype[_0x410ca7(-0xde,-0xc1)],'caption':_0x410ca7(-0xe6,-0x111)});}),await _0x5f5845['client'][_0xc18d3(0x219,0x228)](_0x5f5845[_0xc18d3(0x1f3,0x1cc)],{'id':_0x45c7e5[_0xc18d3(0x21e,0x215)]['id'],'remoteJid':_0x5f5845['jid'],'fromMe':!![]});}),Asena[_0x5bd4bd(0x2ce,0x2e1)]({'pattern':_0x5bd4bd(0x2f2,0x2fd),'fromMe':![],'deleteCommand':![],'dontAddCommandList':!![]},async(_0x5b9ef7,_0x4810ca)=>{if(_0x5b9ef7[_0x1889fa(0x3b3,0x381)]===![])return await _0x5b9ef7[_0x1889fa(0x3be,0x3a5)](_0x1889fa(0x393,0x37e));var _0x189594=await _0x5b9ef7[_0x1889fa(0x356,0x371)]['sendMessage'](_0x5b9ef7[_0x1889fa(0x36c,0x35f)],_0x1889fa(0x3a3,0x3be),MessageType[_0x1889fa(0x38f,0x381)]),_0x40ee58=await _0x5b9ef7[_0x1889fa(0x356,0x350)][_0x1889fa(0x3ac,0x396)]({'key':{'remoteJid':_0x5b9ef7[_0x1889fa(0x3b3,0x3b7)]['jid'],'id':_0x5b9ef7[_0x1889fa(0x3b3,0x3b1)]['id']},'message':_0x5b9ef7[_0x1889fa(0x3b3,0x3c2)][_0x1889fa(0x39c,0x368)][_0x1889fa(0x379,0x35b)]});function _0x1889fa(_0x1f5e0f,_0x439e9e){return _0x5bd4bd(_0x439e9e,_0x1f5e0f-0xb0);}return ffmpeg(_0x40ee58)['save'](_0x1889fa(0x3bb,0x3b3))['on'](_0x1889fa(0x362,0x383),async()=>{var _0x5b4b2c=await deepai[_0x4aa9d2(0x126,0x12e)](_0x4aa9d2(0x146,0x132),{'image':fs[_0x4aa9d2(0x148,0x16a)](_0x4aa9d2(0x16b,0x171))}),_0x35ebd7=await axios[_0x4aa9d2(0x149,0x14d)](''+_0x5b4b2c[_0x4aa9d2(0x161,0x157)],{'responseType':_0x4aa9d2(0x174,0x188)});function _0x4aa9d2(_0x17a994,_0x442bb8){return _0x1889fa(_0x17a994- -0x23a,_0x442bb8);}await _0x5b9ef7[_0x4aa9d2(0x184,0x14f)](Buffer['from'](_0x35ebd7[_0x4aa9d2(0x162,0x14c)]),MessageType[_0x4aa9d2(0x171,0x18f)],{'mimetype':Mimetype[_0x4aa9d2(0x145,0x111)],'caption':_0x4aa9d2(0x13d,0x164)});}),await _0x5b9ef7[_0x1889fa(0x356,0x368)]['deleteMessage'](_0x5b9ef7[_0x1889fa(0x36c,0x36c)],{'id':_0x189594[_0x1889fa(0x397,0x386)]['id'],'remoteJid':_0x5b9ef7[_0x1889fa(0x36c,0x368)],'fromMe':!![]});}),Asena[_0x5bd4bd(0x2bc,0x2e1)]({'pattern':'superai$','fromMe':![],'deleteCommand':![],'dontAddCommandList':!![]},async(_0x21b528,_0x490394)=>{if(_0x21b528['reply_message']===![])return await _0x21b528[_0x92094c(0xd1,0xf2)](_0x92094c(0xa6,0x76));var _0x342c14=await _0x21b528[_0x92094c(0x69,0x43)]['sendMessage'](_0x21b528['jid'],_0x92094c(0x84,0x8d),MessageType['text']),_0x39d82d=await _0x21b528[_0x92094c(0x69,0x4e)][_0x92094c(0xbf,0x8a)]({'key':{'remoteJid':_0x21b528[_0x92094c(0xc6,0x93)][_0x92094c(0x7f,0x54)],'id':_0x21b528[_0x92094c(0xc6,0xa0)]['id']},'message':_0x21b528[_0x92094c(0xc6,0xc3)][_0x92094c(0xaf,0xa8)]['quotedMessage']});function _0x92094c(_0xafbb7d,_0x24a3ca){return _0x5bd4bd(_0x24a3ca,_0xafbb7d- -0x23d);}return ffmpeg(_0x39d82d)[_0x92094c(0xb2,0xac)](_0x92094c(0xce,0xf8))['on']('end',async()=>{function _0xe00a94(_0x56fd0b,_0x37cadc){return _0x92094c(_0x56fd0b- -0xf9,_0x37cadc);}var _0x53fe23=await deepai[_0xe00a94(-0x86,-0x7f)]('torch-srgan',{'image':fs[_0xe00a94(-0x64,-0x6e)]('./output.jpg')}),_0x490239=await axios[_0xe00a94(-0x63,-0x89)](''+_0x53fe23[_0xe00a94(-0x4b,-0x46)],{'responseType':'arraybuffer'});await _0x21b528[_0xe00a94(-0x28,-0x27)](Buffer['from'](_0x490239['data']),MessageType[_0xe00a94(-0x3b,-0x51)],{'mimetype':Mimetype['jpg'],'caption':_0xe00a94(-0x6f,-0x49)});}),await _0x21b528['client'][_0x92094c(0xa5,0x74)](_0x21b528[_0x92094c(0x7f,0x86)],{'id':_0x342c14[_0x92094c(0xaa,0xb3)]['id'],'remoteJid':_0x21b528[_0x92094c(0x7f,0x70)],'fromMe':!![]});}),Asena[_0x5bd4bd(0x2ee,0x2e1)]({'pattern':_0x5bd4bd(0x2c8,0x2c8),'fromMe':![],'deleteCommand':![],'dontAddCommandList':!![]},async(_0x405945,_0x1b9c02)=>{if(_0x1b9c02[0x1]==='')return await _0x405945[_0x4aec18(0x112,0xe8)](Lang[_0x4aec18(0xb9,0xa8)]);var _0x1d86c8=await deepai[_0x4aec18(0xb4,0x9f)]('sentiment-analysis',{'text':''+_0x1b9c02[0x1]});function _0x4aec18(_0x2b9528,_0x464348){return _0x5bd4bd(_0x464348,_0x2b9528- -0x1fc);}await _0x405945['reply']('*Mood:*\x20'+_0x1d86c8[_0x4aec18(0xda,0x107)]);}),Asena['addCommand']({'pattern':_0x5bd4bd(0x2dc,0x2f8),'fromMe':![],'deleteCommand':![],'dontAddCommandList':!![]},async(_0x380115,_0x3e1f40)=>{if(_0x380115[_0x4779ae(0x244,0x240)]===![])return await _0x380115['sendMessage'](_0x4779ae(0x224,0x217));function _0x4779ae(_0x3d139a,_0x280cbe){return _0x5bd4bd(_0x280cbe,_0x3d139a- -0xbf);}var _0x16398c=await _0x380115[_0x4779ae(0x1e7,0x1b9)][_0x4779ae(0x24f,0x27b)](_0x380115[_0x4779ae(0x1fd,0x21a)],_0x4779ae(0x1f2,0x1c4),MessageType[_0x4779ae(0x220,0x228)]),_0x4e0c42=await _0x380115['client'][_0x4779ae(0x23d,0x233)]({'key':{'remoteJid':_0x380115[_0x4779ae(0x244,0x256)][_0x4779ae(0x1fd,0x205)],'id':_0x380115[_0x4779ae(0x244,0x231)]['id']},'message':_0x380115['reply_message']['data']['quotedMessage']});return ffmpeg(_0x4e0c42)[_0x4779ae(0x230,0x25b)](_0x4779ae(0x24c,0x23e))['on'](_0x4779ae(0x1f3,0x1de),async()=>{var _0x38e232=await deepai[_0x351995(-0x293,-0x2c8)](_0x351995(-0x2a0,-0x278),{'image':fs[_0x351995(-0x277,-0x2a6)](_0x351995(-0x297,-0x283))});function _0x351995(_0xbd5862,_0x59a41d){return _0x4779ae(_0x59a41d- -0x4b9,_0xbd5862);}var _0x302322=await axios['get'](''+_0x38e232['output_url'],{'responseType':_0x351995(-0x28f,-0x27a)});await _0x380115[_0x351995(-0x261,-0x26a)](Buffer[_0x351995(-0x2fe,-0x2ca)](_0x302322['data']),MessageType[_0x351995(-0x24b,-0x27d)],{'mimetype':Mimetype[_0x351995(-0x2d3,-0x2a9)],'caption':_0x351995(-0x2b4,-0x2b1)});}),await _0x380115['client'][_0x4779ae(0x223,0x243)](_0x380115[_0x4779ae(0x1fd,0x1d0)],{'id':_0x16398c[_0x4779ae(0x228,0x219)]['id'],'remoteJid':_0x380115[_0x4779ae(0x1fd,0x22f)],'fromMe':!![]});}),Asena[_0x5bd4bd(0x2ec,0x2e1)]({'pattern':_0x5bd4bd(0x2a5,0x2dd),'fromMe':![],'deleteCommand':![],'dontAddCommandList':!![]},async(_0x15de98,_0x2ca7c4)=>{function _0xfe5e2c(_0x271235,_0x1a29a2){return _0x5bd4bd(_0x271235,_0x1a29a2- -0x507);}if(_0x15de98[_0xfe5e2c(-0x21a,-0x204)]===![])return await _0x15de98[_0xfe5e2c(-0x22f,-0x1f9)]('```Need\x20Photo!```');var _0x27cf05=await _0x15de98[_0xfe5e2c(-0x236,-0x261)][_0xfe5e2c(-0x1fe,-0x1f9)](_0x15de98[_0xfe5e2c(-0x24d,-0x24b)],_0xfe5e2c(-0x237,-0x23d),MessageType[_0xfe5e2c(-0x23e,-0x228)]),_0xb9eee6=await _0x15de98[_0xfe5e2c(-0x26f,-0x261)][_0xfe5e2c(-0x23d,-0x20b)]({'key':{'remoteJid':_0x15de98[_0xfe5e2c(-0x22e,-0x204)][_0xfe5e2c(-0x226,-0x24b)],'id':_0x15de98[_0xfe5e2c(-0x23c,-0x204)]['id']},'message':_0x15de98[_0xfe5e2c(-0x217,-0x204)]['data'][_0xfe5e2c(-0x25d,-0x23e)]});return ffmpeg(_0xb9eee6)[_0xfe5e2c(-0x1e4,-0x218)](_0xfe5e2c(-0x1f3,-0x1fc))['on'](_0xfe5e2c(-0x22e,-0x255),async()=>{var _0x19057b=await deepai[_0x47a103(0x47d,0x47a)](_0x47a103(0x496,0x4af),{'image':fs[_0x47a103(0x4ae,0x49c)](_0x47a103(0x49f,0x4bf))});function _0x47a103(_0x594914,_0x5305d0){return _0xfe5e2c(_0x594914,_0x5305d0-0x6d1);}await _0x15de98[_0x47a103(0x4af,0x4d7)]('*Output:*\x20'+_0x19057b['output']);}),await _0x15de98['client'][_0xfe5e2c(-0x1f9,-0x225)](_0x15de98[_0xfe5e2c(-0x217,-0x24b)],{'id':_0x27cf05[_0xfe5e2c(-0x221,-0x220)]['id'],'remoteJid':_0x15de98[_0xfe5e2c(-0x216,-0x24b)],'fromMe':!![]});}),Asena['addCommand']({'pattern':_0x5bd4bd(0x30b,0x306),'fromMe':![],'deleteCommand':![],'dontAddCommandList':!![]},async(_0xc4f93a,_0x2fa3dc)=>{if(_0x2fa3dc[0x1]==='')return await _0xc4f93a[_0x4bd0c3(0xfe,0xd6)](Lang[_0x4bd0c3(0xa5,0x95)]);var _0x3eafd7=await deepai[_0x4bd0c3(0xa0,0xba)](_0x4bd0c3(0xbd,0xad),{'text':''+_0x2fa3dc[0x1]}),_0x43ac03=await axios[_0x4bd0c3(0xc3,0xc3)](''+_0x3eafd7[_0x4bd0c3(0xdb,0xbf)],{'responseType':_0x4bd0c3(0xee,0x11d)});function _0x4bd0c3(_0x91698d,_0x472109){return _0x5bd4bd(_0x472109,_0x91698d- -0x210);}await _0xc4f93a[_0x4bd0c3(0xfe,0xde)](Buffer[_0x4bd0c3(0x9e,0x9b)](_0x43ac03['data']),MessageType['image'],{'mimetype':Mimetype['jpg'],'caption':_0x4bd0c3(0xb7,0xd3)});}),Asena[_0x5bd4bd(0x318,0x2e1)]({'pattern':_0x5bd4bd(0x28f,0x2af),'fromMe':![],'deleteCommand':![],'dontAddCommandList':!![]},async(_0x1d7420,_0x34ae11)=>{if(_0x1d7420[_0x2c91e5(-0xb6,-0xb8)]===![])return await _0x1d7420['sendMessage'](_0x2c91e5(-0xd6,-0xd4));var _0x21a593=await _0x1d7420['client']['sendMessage'](_0x1d7420[_0x2c91e5(-0xfd,-0xf9)],_0x2c91e5(-0xf5,-0xe6),MessageType[_0x2c91e5(-0xda,-0xca)]),_0x23443f=await _0x1d7420[_0x2c91e5(-0x113,-0xe7)][_0x2c91e5(-0xbd,-0xb6)]({'key':{'remoteJid':_0x1d7420[_0x2c91e5(-0xb6,-0xea)][_0x2c91e5(-0xfd,-0x125)],'id':_0x1d7420[_0x2c91e5(-0xb6,-0xb2)]['id']},'message':_0x1d7420['reply_message'][_0x2c91e5(-0xcd,-0x9f)]['quotedMessage']});function _0x2c91e5(_0x2a4864,_0x1d6573){return _0x5bd4bd(_0x1d6573,_0x2a4864- -0x3b9);}return ffmpeg(_0x23443f)[_0x2c91e5(-0xca,-0xd8)](_0x2c91e5(-0xae,-0xa2))['on']('end',async()=>{var _0x22d19b=await deepai[_0x34d952(0x26e,0x265)](_0x34d952(0x2bf,0x2a9),{'image':fs[_0x34d952(0x26d,0x287)](_0x34d952(0x2a0,0x2aa))});function _0x34d952(_0x19df39,_0x5dbb60){return _0x2c91e5(_0x5dbb60-0x36e,_0x19df39);}var _0xf5860b=await axios[_0x34d952(0x296,0x288)](''+_0x22d19b[_0x34d952(0x2a0,0x2a0)],{'responseType':_0x34d952(0x2c4,0x2b3)});await _0x1d7420['sendMessage'](Buffer[_0x34d952(0x236,0x263)](_0xf5860b['data']),MessageType[_0x34d952(0x27b,0x2b0)],{'mimetype':Mimetype[_0x34d952(0x2a2,0x284)]});}),await _0x1d7420[_0x2c91e5(-0x113,-0x125)][_0x2c91e5(-0xd7,-0xe9)](_0x1d7420[_0x2c91e5(-0xfd,-0xd9)],{'id':_0x21a593[_0x2c91e5(-0xd2,-0xfc)]['id'],'remoteJid':_0x1d7420[_0x2c91e5(-0xfd,-0xe6)],'fromMe':!![]});}),Asena['addCommand']({'pattern':_0x5bd4bd(0x2e4,0x2b7),'fromMe':![],'deleteCommand':![],'dontAddCommandList':!![]},async(_0x248dea,_0x5c1329)=>{if(_0x248dea['reply_message']===![])return await _0x248dea[_0x1de823(0x2e4,0x2be)]('```Need\x20Photo!```');var _0x4c188a=await _0x248dea[_0x1de823(0x27c,0x287)][_0x1de823(0x2e4,0x30b)](_0x248dea['jid'],_0x1de823(0x2c6,0x2a2),MessageType['text']),_0x3798ed=await _0x248dea[_0x1de823(0x27c,0x277)]['downloadAndSaveMediaMessage']({'key':{'remoteJid':_0x248dea[_0x1de823(0x2d9,0x2f4)][_0x1de823(0x292,0x262)],'id':_0x248dea['reply_message']['id']},'message':_0x248dea[_0x1de823(0x2d9,0x2bf)][_0x1de823(0x2c2,0x2db)][_0x1de823(0x29f,0x2c9)]});function _0x1de823(_0x4b752f,_0xd03029){return _0x5bd4bd(_0xd03029,_0x4b752f- -0x2a);}return ffmpeg(_0x3798ed)[_0x1de823(0x2c5,0x2af)](_0x1de823(0x2e1,0x2ea))['on'](_0x1de823(0x288,0x292),async()=>{function _0x37d26d(_0x201874,_0x557b80){return _0x1de823(_0x557b80- -0x54,_0x201874);}var _0x42d96f=await deepai[_0x37d26d(0x23c,0x232)](_0x37d26d(0x235,0x235),{'image':fs['createReadStream'](_0x37d26d(0x253,0x277))});await _0x248dea[_0x37d26d(0x1f4,0x228)]['sendMessage'](_0x248dea['jid'],_0x37d26d(0x299,0x28a)+_0x42d96f['output'][_0x37d26d(0x26a,0x259)],MessageType[_0x37d26d(0x287,0x261)],{'quoted':_0x248dea['data']});}),await _0x248dea[_0x1de823(0x27c,0x29b)][_0x1de823(0x2b8,0x2ec)](_0x248dea['jid'],{'id':_0x4c188a[_0x1de823(0x2bd,0x2d8)]['id'],'remoteJid':_0x248dea[_0x1de823(0x292,0x2af)],'fromMe':!![]});}),Asena[_0x5bd4bd(0x2ec,0x2e1)]({'pattern':_0x5bd4bd(0x2e6,0x302),'fromMe':![],'deleteCommand':![],'dontAddCommandList':!![]},async(_0x1da90c,_0x15eebc)=>{function _0x3f24a3(_0x55200c,_0x5dce37){return _0x5bd4bd(_0x55200c,_0x5dce37- -0x2f9);}if(_0x15eebc[0x1]==='')return await _0x1da90c[_0x3f24a3(0x46,0x15)](Lang['TEXT']);var _0xc31772=await deepai[_0x3f24a3(-0x7a,-0x49)](_0x3f24a3(0x1a,-0x15),{'text':''+_0x15eebc[0x1]});await _0x1da90c['client'][_0x3f24a3(0x4,0x15)](_0x1da90c[_0x3f24a3(-0x75,-0x3d)],_0x3f24a3(-0x4b,-0x3b)+_0xc31772['output'],MessageType['text'],{'quoted':_0x1da90c[_0x3f24a3(0x17,-0xd)]});}),Asena[_0x5bd4bd(0x2cc,0x2e1)]({'pattern':_0x5bd4bd(0x29e,0x2c2),'fromMe':![],'deleteCommand':![],'dontAddCommandList':!![]},async(_0x3ad658,_0x44fdce)=>{if(_0x3ad658[_0xddee5e(0xbf,0xc2)]===![])return await _0x3ad658[_0xddee5e(0xaa,0xcd)]('```Need\x20Photo!```');var _0x50cbc3=await _0x3ad658[_0xddee5e(0x62,0x65)][_0xddee5e(0xf2,0xcd)](_0x3ad658[_0xddee5e(0x61,0x7b)],_0xddee5e(0xa2,0xad),MessageType[_0xddee5e(0x9b,0x9e)]),_0x25c9fa=await _0x3ad658['client']['downloadAndSaveMediaMessage']({'key':{'remoteJid':_0x3ad658[_0xddee5e(0xbc,0xc2)][_0xddee5e(0x51,0x7b)],'id':_0x3ad658['reply_message']['id']},'message':_0x3ad658[_0xddee5e(0xd3,0xc2)]['data'][_0xddee5e(0x52,0x88)]});function _0xddee5e(_0xcfa3fb,_0x57d747){return _0x5bd4bd(_0xcfa3fb,_0x57d747- -0x241);}return ffmpeg(_0x25c9fa)[_0xddee5e(0xe2,0xae)]('output.jpg')['on'](_0xddee5e(0x44,0x71),async()=>{function _0xee836(_0x55f4b9,_0x1903c7){return _0xddee5e(_0x1903c7,_0x55f4b9-0x3b8);}var _0x3004f7=await deepai['callStandardApi']('fast-style-transfer',{'style':Config[_0xee836(0x47e,0x499)],'content':fs[_0xee836(0x449,0x45d)]('./output.jpg')}),_0x36ab69=await axios['get'](''+_0x3004f7['output_url'],{'responseType':_0xee836(0x475,0x493)});await _0x3ad658[_0xee836(0x485,0x4b7)](Buffer[_0xee836(0x425,0x43b)](_0x36ab69['data']),MessageType[_0xee836(0x472,0x462)],{'mimetype':Mimetype['jpg'],'caption':_0xee836(0x43e,0x46a)});}),await _0x3ad658[_0xddee5e(0x74,0x65)][_0xddee5e(0x82,0xa1)](_0x3ad658['jid'],{'id':_0x50cbc3[_0xddee5e(0xcb,0xa6)]['id'],'remoteJid':_0x3ad658['jid'],'fromMe':!![]});}));
+const Asena = require('../events');
+const {MessageType,Mimetype} = require('@adiwajshing/baileys');
+const fs = require('fs');
+const ffmpeg = require('fluent-ffmpeg'); // For Creating File
+const {execFile} = require('child_process');
+const cwebp = require('cwebp-bin');
+const axios = require('axios'); // Resp Checker
+const Config = require('../config'); // GAN STYLE Support
+
+const got = require("got"); // Responses Catcher
+const deepai = require('deepai'); // Localde ise deepmain.js oluşturarak özelleştirilebilir şekilde kullanabilirsiniz. Web Sunucularında Çalışmaz!!
+deepai.setApiKey('da119ff3-51d1-4b5e-aa04-b0c9fae2f396'); // Quickstart API Key
+
+const Language = require('../language'); 
+const Lang = Language.getString('deepai'); // Language Support
+
+if (Config.WORKTYPE == 'private') {
+    Asena.addCommand({pattern: 'deepai$', fromMe: true, deleteCommand: false, desc: Lang.DEEPAI_DESC}, (async (message, match) => {
+        await message.sendMessage('💻 Usage: *.moodai <text>*\nℹ️ Desc: 🇹🇷 Yazdığınız yazıdan ruh halinizi bulur.\n🇬🇧 It finds your mood from the article you wrote.\n\n💻 Usage: *.colorai*\nℹ️ Desc: 🇹🇷 Siyah beyaz fotoğrafları renklendirir.\n🇬🇧 It colorize bw photos.\n\n💻 Usage: *.faceai*\nℹ️ Desc: 🇹🇷 Yapay zeka ile daha önce hiç var olmamış insan yüzleri üretir.\n🇬🇧 Generates human faces with artificial intelligence, that never existed before.\n\n💻 Usage: *.animai*\nℹ️ Desc: Yapay zeka ile daha önce hiç var olmayan anime yüzleri üretir.\n🇬🇧 Generates anime faces with artificial intelligence, that never existed before.\n\n💻 Usage: *.superai*\nℹ️ Desc: 🇹🇷 Fotoğrafın kalitesini yapay zeka ile arttırır.\n🇬🇧 Improves the quality of photos with Neural AI.\n\n💻 Usage: *.waifuai*\nℹ️ Desc: 🇹🇷 Fotoğrafların renk paletlerini yapay zeka ile birleştirir.\n🇬🇧 Combines the color palettes of photos with artificial intelligence.\n\n💻 Usage: *.dreamai*\nℹ️ Desc: 🇹🇷 Fotoğrafa deepdream efekti uygular.\n🇬🇧 Applies deepdream effect to the photo.\n\n💻 Usage: *.neuraltalkai*\nℹ️ Desc: 🇹🇷 Fotoğrafki olan şeyi yapay zeka ile açıklar.\n🇬🇧 Explain the phenomenon in the photo with artificial intelligence.\n\n💻 Usage: *.ttiai <text>*\nℹ️ Desc: 🇹🇷 Yazıyı resme dönüştürür.\n🇬🇧 Converts text to a picture. (Text-to-Image)\n\n💻 Usage: *.toonai*\nℹ️ Desc: 🇹🇷 Fotoğraftaki yüzü çizgi film karakterine çevirir.\n🇬🇧 Turns the face in the photo into a cartoon character.\n\n💻 Usage: *.textai <text>*\nℹ️ Desc: 🇹🇷 Yazdığınız cümleden size yapay bir hikaye yaratır.\n🇬🇧 It creates an artificial story for you from your sentence.\n\n💻 Usage: *.nudityai*\nℹ️ Desc: 🇹🇷 Fotoğraftaki NSFW değerini 1 ve 0 arasında gösterir. \n🇬🇧 It shows the NSFW value between 1 and 0 in the photo.\n\n💻 Usage: *.ganstyle*\nℹ️ Desc: 🇹🇷 Yanıtladığınız fotoğrafı seçili olan resim ile birleştirir.\n🇬🇧 Combines the photo you answered with the selected picture.\n\n⚠️ 🇹🇷 *Bütün bu yapay zeka araçlarını derin öğrenme ile çalışır. Ne kadar fazla kullanırsanız o kadar fazla bilgiyi depolar.* ```Sadece ingilizce karakter kullanın!```\n\n⚠️ 🇬🇧 *All the tools here work with deep learning. The more you use it, the more information it stores.* ```Use only english characters!```');
+    }));
+    Asena.addCommand({pattern: 'faceai$', fromMe: true, deleteCommand: false, dontAddCommandList: true }, (async (message, match) => {
+        var webimage = await axios.get('https://screenshotapi.net/api/v1/screenshot?url=https://thispersondoesnotexist.com/&output=image&width=1000&height=1000', { responseType: 'arraybuffer' })
+        await message.sendMessage(Buffer.from(webimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: 'Made by CyberBot'})
+    }));
+    Asena.addCommand({pattern: 'animai', fromMe: true, deleteCommand: false, dontAddCommandList: true }, (async (message, match) => {
+        var min = 10000; 
+        var max = 50000;  
+        var asenasrandomgen = Math.floor(Math.random() * (+max - +min) + +min); 
+        var IMGWADATA = await axios.get('https://screenshotapi.net/api/v1/screenshot?url=https://www.thiswaifudoesnotexist.net/example-' + asenasrandomgen + '.jpg&output=image&width=1000&height=1000', { responseType: 'arraybuffer' })
+        await message.sendMessage(
+            Buffer.from(IMGWADATA.data),
+            MessageType.image, 
+            { mimetype: Mimetype.jpg, caption: 'Made by CyberBot'}
+        )
+    }));
+    Asena.addCommand({pattern: 'colorai$', fromMe: true, deleteCommand: false, dontAddCommandList: true}, (async (message, match) => {    
+        if (message.reply_message === false) return await message.sendMessage('```Need Photo!```');
+        var downloading = await message.client.sendMessage(message.jid,'Colorizing.. 🎨',MessageType.text);
+        var location = await message.client.downloadAndSaveMediaMessage({
+            key: {
+                remoteJid: message.reply_message.jid,
+                id: message.reply_message.id
+            },
+            message: message.reply_message.data.quotedMessage
+        });
+        ffmpeg(location)
+            .save('output.jpg')
+            .on('end', async () => {
+                var resp = await deepai.callStandardApi("colorizer", {
+                    image: fs.createReadStream("./output.jpg"),
+                });
+                var respoimage = await axios.get(`${resp.output_url}`, { responseType: 'arraybuffer' })
+                await message.sendMessage(Buffer.from(respoimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: 'Made by CyberBot'})
+            });
+            return await message.client.deleteMessage(message.jid, {id: downloading.key.id, remoteJid: message.jid, fromMe: true})
+    }));
+    Asena.addCommand({pattern: 'waifuai$', fromMe: true, deleteCommand: false, dontAddCommandList: true}, (async (message, match) => {  
+        if (message.reply_message === false) return await message.sendMessage('```Need Photo!```');
+        var downloading = await message.client.sendMessage(message.jid,'Mixing.. 🧩',MessageType.text);
+        var location = await message.client.downloadAndSaveMediaMessage({
+            key: {
+                remoteJid: message.reply_message.jid,
+                id: message.reply_message.id
+            },
+            message: message.reply_message.data.quotedMessage
+        });
+        ffmpeg(location)
+            .save('output.jpg')
+            .on('end', async () => {
+                var resp = await deepai.callStandardApi("waifu2x", {
+                    image: fs.createReadStream("./output.jpg"),
+                });
+                var respoimage = await axios.get(`${resp.output_url}`, { responseType: 'arraybuffer' })
+                await message.sendMessage(Buffer.from(respoimage.data), MessageType.image, {thumbnail: base64str, mimetype: Mimetype.jpg, caption: 'Made by CyberBot'})
+            });
+            return await message.client.deleteMessage(message.jid, {id: downloading.key.id, remoteJid: message.jid, fromMe: true})
+    }));
+    Asena.addCommand({pattern: 'superai$', fromMe: true, deleteCommand: false, dontAddCommandList: true}, (async (message, match) => {  
+        if (message.reply_message === false) return await message.sendMessage('```Need Photo!```');
+        var downloading = await message.client.sendMessage(message.jid,'Enhancing.. 🖌️',MessageType.text);
+        var location = await message.client.downloadAndSaveMediaMessage({
+            key: {
+                remoteJid: message.reply_message.jid,
+                id: message.reply_message.id
+            },
+            message: message.reply_message.data.quotedMessage
+        });
+        ffmpeg(location)
+            .save('output.jpg')
+            .on('end', async () => {
+                var resp = await deepai.callStandardApi("torch-srgan", {
+                    image: fs.createReadStream("./output.jpg"),
+                });
+                var respoimage = await axios.get(`${resp.output_url}`, { responseType: 'arraybuffer' })
+                await message.sendMessage(Buffer.from(respoimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: 'Made by CyberBot'})
+            });
+            return await message.client.deleteMessage(message.jid, {id: downloading.key.id, remoteJid: message.jid, fromMe: true})
+    }));
+    Asena.addCommand({pattern: 'moodai ?(.*)', fromMe: true, deleteCommand: false, dontAddCommandList: true}, (async (message, match) => {
+        if (match[1] === '') return await message.sendMessage(Lang.TEXT);
+        var resp = await deepai.callStandardApi("sentiment-analysis", {
+            text: `${match[1]}`,
+        });
+        await message.reply(`*Mood:* ${resp.output}`);
+    }));
+    Asena.addCommand({pattern: 'dreamai$', fromMe: true, deleteCommand: false, dontAddCommandList: true}, (async (message, match) => {    
+        if (message.reply_message === false) return await message.sendMessage('```Need Photo!```');
+        var downloading = await message.client.sendMessage(message.jid,'Starry Night.. 🌃',MessageType.text);
+        var location = await message.client.downloadAndSaveMediaMessage({
+            key: {
+                remoteJid: message.reply_message.jid,
+                id: message.reply_message.id
+            },
+            message: message.reply_message.data.quotedMessage
+        });
+        ffmpeg(location)
+            .save('output.jpg')
+            .on('end', async () => {
+                var resp = await deepai.callStandardApi("deepdream", {
+                    image: fs.createReadStream("./output.jpg"),
+                });
+                var respoimage = await axios.get(`${resp.output_url}`, { responseType: 'arraybuffer' })
+                await message.sendMessage(Buffer.from(respoimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: 'Made by CyberBot'})
+            });
+            return await message.client.deleteMessage(message.jid, {id: downloading.key.id, remoteJid: message.jid, fromMe: true})
+    }));
+    Asena.addCommand({pattern: 'neuraltalkai$', fromMe: true, deleteCommand: false, dontAddCommandList: true}, (async (message, match) => {   
+        if (message.reply_message === false) return await message.sendMessage('```Need Photo!```');
+        var downloading = await message.client.sendMessage(message.jid,'Reading.. 🙇🏻',MessageType.text);
+        var location = await message.client.downloadAndSaveMediaMessage({
+            key: {
+                remoteJid: message.reply_message.jid,
+                id: message.reply_message.id
+            },
+            message: message.reply_message.data.quotedMessage
+        });
+        ffmpeg(location)
+            .save('output.jpg')
+            .on('end', async () => {
+                var resp = await deepai.callStandardApi("neuraltalk", {
+                    image: fs.createReadStream("./output.jpg"),
+                });
+                await message.reply(`*Output:* ${resp.output}`);
+            });
+            return await message.client.deleteMessage(message.jid, {id: downloading.key.id, remoteJid: message.jid, fromMe: true})
+    }));
+    Asena.addCommand({pattern: 'ttiai ?(.*)', fromMe: true, deleteCommand: false, dontAddCommandList: true}, (async (message, match) => {
+        if (match[1] === '') return await message.sendMessage(Lang.TEXT);
+        var resp = await deepai.callStandardApi("text2img", {
+            text: `${match[1]}`,
+        });
+        var respoimage = await axios.get(`${resp.output_url}`, { responseType: 'arraybuffer' })
+        await message.sendMessage(Buffer.from(respoimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: 'Made by CyberBot'})
+    }));
+    Asena.addCommand({pattern: 'toonai$', fromMe: true, deleteCommand: false, dontAddCommandList: true}, (async (message, match) => {   
+        if (message.reply_message === false) return await message.sendMessage('```Need Photo!```');
+        var downloading = await message.client.sendMessage(message.jid,'Tooning.. 🌟',MessageType.text);
+        var location = await message.client.downloadAndSaveMediaMessage({
+            key: {
+                remoteJid: message.reply_message.jid,
+                id: message.reply_message.id
+            },
+            message: message.reply_message.data.quotedMessage
+        });
+        ffmpeg(location)
+            .save('output.jpg')
+            .on('end', async () => {
+                var resp = await deepai.callStandardApi("toonify", {
+                    image: fs.createReadStream("./output.jpg"),
+                });
+                var respoimage = await axios.get(`${resp.output_url}`, { responseType: 'arraybuffer' })
+                await message.sendMessage(Buffer.from(respoimage.data), MessageType.image, { mimetype: Mimetype.jpg})
+            });
+            return await message.client.deleteMessage(message.jid, {id: downloading.key.id, remoteJid: message.jid, fromMe: true})
+    }));
+    Asena.addCommand({pattern: 'nudityai$', fromMe: true, deleteCommand: false, dontAddCommandList: true}, (async (message, match) => {  
+        if (message.reply_message === false) return await message.sendMessage('```Need Photo!```');
+        var downloading = await message.client.sendMessage(message.jid,'Finding NSFW.. 🔥',MessageType.text);
+        var location = await message.client.downloadAndSaveMediaMessage({
+            key: {
+                remoteJid: message.reply_message.jid,
+                id: message.reply_message.id
+            },
+            message: message.reply_message.data.quotedMessage
+        });
+        ffmpeg(location)
+            .save('output.jpg')
+            .on('end', async () => {
+                var resp = await deepai.callStandardApi("content-moderation", {
+                    image: fs.createReadStream("./output.jpg"),
+                });
+                await message.client.sendMessage(message.jid, `*Output:* ${resp.output.nsfw_score}`, MessageType.text, { quoted: message.data });
+            });
+            return await message.client.deleteMessage(message.jid, {id: downloading.key.id, remoteJid: message.jid, fromMe: true})
+    }));
+    Asena.addCommand({pattern: 'textai ?(.*)', fromMe: true, deleteCommand: false, dontAddCommandList: true}, (async (message, match) => {
+        if (match[1] === '') return await message.sendMessage(Lang.TEXT);
+        var resp = await deepai.callStandardApi("text-generator", {
+            text: `${match[1]}`,
+        });
+        await message.client.sendMessage(message.jid, `*Article:*\n ${resp.output}`, MessageType.text, { quoted: message.data });
+    }));
+    Asena.addCommand({pattern: 'ganstyle$', fromMe: true, deleteCommand: false, dontAddCommandList: true}, (async (message, match) => {   
+        if (message.reply_message === false) return await message.sendMessage('```Need Photo!```');
+        var downloading = await message.client.sendMessage(message.jid,'Creating.. ♻️',MessageType.text);
+        var location = await message.client.downloadAndSaveMediaMessage({
+            key: {
+                remoteJid: message.reply_message.jid,
+                id: message.reply_message.id
+            },
+            message: message.reply_message.data.quotedMessage
+        });
+        ffmpeg(location)
+            .save('output.jpg')
+            .on('end', async () => {
+                var resp = await deepai.callStandardApi("fast-style-transfer", {
+                    style: Config.GANSTYLE,
+                    content: fs.createReadStream("./output.jpg"),
+                });
+                var respoimage = await axios.get(`${resp.output_url}`, { responseType: 'arraybuffer' })
+                await message.sendMessage(Buffer.from(respoimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: 'Made by CyberBot'})
+            });
+            return await message.client.deleteMessage(message.jid, {id: downloading.key.id, remoteJid: message.jid, fromMe: true})
+    }));
+}
+else if (Config.WORKTYPE == 'public') {
+    Asena.addCommand({pattern: 'deepai$', fromMe: false, deleteCommand: false, desc: Lang.DEEPAI_DESC}, (async (message, match) => {
+        await message.sendMessage('💻 Usage: *.moodai <text>*\nℹ️ Desc: 🇹🇷 Yazdığınız yazıdan ruh halinizi bulur.\n🇬🇧 It finds your mood from the article you wrote.\n\n💻 Usage: *.colorai*\nℹ️ Desc: 🇹🇷 Siyah beyaz fotoğrafları renklendirir.\n🇬🇧 It colorize bw photos.\n\n💻 Usage: *.faceai*\nℹ️ Desc: 🇹🇷 Yapay zeka ile daha önce hiç var olmamış insan yüzleri üretir.\n🇬🇧 Generates human faces with artificial intelligence, that never existed before.\n\n💻 Usage: *.animai*\nℹ️ Desc: Yapay zeka ile daha önce hiç var olmayan anime yüzleri üretir.\n🇬🇧 Generates anime faces with artificial intelligence, that never existed before.\n\n💻 Usage: *.superai*\nℹ️ Desc: 🇹🇷 Fotoğrafın kalitesini yapay zeka ile arttırır.\n🇬🇧 Improves the quality of photos with Neural AI.\n\n💻 Usage: *.waifuai*\nℹ️ Desc: 🇹🇷 Fotoğrafların renk paletlerini yapay zeka ile birleştirir.\n🇬🇧 Combines the color palettes of photos with artificial intelligence.\n\n💻 Usage: *.dreamai*\nℹ️ Desc: 🇹🇷 Fotoğrafa deepdream efekti uygular.\n🇬🇧 Applies deepdream effect to the photo.\n\n💻 Usage: *.neuraltalkai*\nℹ️ Desc: 🇹🇷 Fotoğrafki olan şeyi yapay zeka ile açıklar.\n🇬🇧 Explain the phenomenon in the photo with artificial intelligence.\n\n💻 Usage: *.ttiai <text>*\nℹ️ Desc: 🇹🇷 Yazıyı resme dönüştürür.\n🇬🇧 Converts text to a picture. (Text-to-Image)\n\n💻 Usage: *.toonai*\nℹ️ Desc: 🇹🇷 Fotoğraftaki yüzü çizgi film karakterine çevirir.\n🇬🇧 Turns the face in the photo into a cartoon character.\n\n💻 Usage: *.textai <text>*\nℹ️ Desc: 🇹🇷 Yazdığınız cümleden size yapay bir hikaye yaratır.\n🇬🇧 It creates an artificial story for you from your sentence.\n\n💻 Usage: *.nudityai*\nℹ️ Desc: 🇹🇷 Fotoğraftaki NSFW değerini 1 ve 0 arasında gösterir. \n🇬🇧 It shows the NSFW value between 1 and 0 in the photo.\n\n💻 Usage: *.ganstyle*\nℹ️ Desc: 🇹🇷 Yanıtladığınız fotoğrafı seçili olan resim ile birleştirir.\n🇬🇧 Combines the photo you answered with the selected picture.\n\n⚠️ 🇹🇷 *Bütün bu yapay zeka araçlarını derin öğrenme ile çalışır. Ne kadar fazla kullanırsanız o kadar fazla bilgiyi depolar.* ```Sadece ingilizce karakter kullanın!```\n\n⚠️ 🇬🇧 *All the tools here work with deep learning. The more you use it, the more information it stores.* ```Use only english characters!```');
+    }));
+    Asena.addCommand({pattern: 'faceai$', fromMe: false, deleteCommand: false, dontAddCommandList: true }, (async (message, match) => {
+        var webimage = await axios.get('https://screenshotapi.net/api/v1/screenshot?url=https://thispersondoesnotexist.com/&output=image&width=1000&height=1000', { responseType: 'arraybuffer' })
+        await message.sendMessage(Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: 'Made by CyberBot'})
+    }));
+    Asena.addCommand({pattern: 'animai$', fromMe: true, deleteCommand: false, dontAddCommandList: true }, (async (message, match) => {
+        var min = 10000; 
+        var max = 50000;  
+        var asenasrandomgen = Math.floor(Math.random() * (+max - +min) + +min); 
+        var IMGWADATA = await axios.get('https://screenshotapi.net/api/v1/screenshot?url=https://www.thiswaifudoesnotexist.net/example-' + asenasrandomgen + '.jpg&output=image&width=1000&height=1000', { responseType: 'arraybuffer' })
+        await message.sendMessage(
+            Buffer.from(IMGWADATA.data),
+            MessageType.image, 
+            { mimetype: Mimetype.jpg, caption: 'Made by CyberBot'}
+        )
+    }));
+    Asena.addCommand({pattern: 'colorai$', fromMe: false, deleteCommand: false, dontAddCommandList: true}, (async (message, match) => {    
+        if (message.reply_message === false) return await message.sendMessage('```Need Photo!```');
+        var downloading = await message.client.sendMessage(message.jid,'Colorizing.. 🎨',MessageType.text);
+        var location = await message.client.downloadAndSaveMediaMessage({
+            key: {
+                remoteJid: message.reply_message.jid,
+                id: message.reply_message.id
+            },
+            message: message.reply_message.data.quotedMessage
+        });
+        ffmpeg(location)
+            .save('output.jpg')
+            .on('end', async () => {
+                var resp = await deepai.callStandardApi("colorizer", {
+                    image: fs.createReadStream("./output.jpg"),
+                });
+                var respoimage = await axios.get(`${resp.output_url}`, { responseType: 'arraybuffer' })
+                await message.sendMessage(Buffer.from(respoimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: 'Made by CyberBot'})
+            });
+            return await message.client.deleteMessage(message.jid, {id: downloading.key.id, remoteJid: message.jid, fromMe: true})
+    }));
+    Asena.addCommand({pattern: 'waifuai$', fromMe: false, deleteCommand: false, dontAddCommandList: true}, (async (message, match) => {  
+        if (message.reply_message === false) return await message.sendMessage('```Need Photo!```');
+        var downloading = await message.client.sendMessage(message.jid,'Mixing.. 🧩',MessageType.text);
+        var location = await message.client.downloadAndSaveMediaMessage({
+            key: {
+                remoteJid: message.reply_message.jid,
+                id: message.reply_message.id
+            },
+            message: message.reply_message.data.quotedMessage
+        });
+        ffmpeg(location)
+            .save('output.jpg')
+            .on('end', async () => {
+                var resp = await deepai.callStandardApi("waifu2x", {
+                    image: fs.createReadStream("./output.jpg"),
+                });
+                var respoimage = await axios.get(`${resp.output_url}`, { responseType: 'arraybuffer' })
+                await message.sendMessage(Buffer.from(respoimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: 'Made by CyberBot'})
+            });
+            return await message.client.deleteMessage(message.jid, {id: downloading.key.id, remoteJid: message.jid, fromMe: true})
+    }));
+    Asena.addCommand({pattern: 'superai$', fromMe: false, deleteCommand: false, dontAddCommandList: true}, (async (message, match) => {  
+        if (message.reply_message === false) return await message.sendMessage('```Need Photo!```');
+        var downloading = await message.client.sendMessage(message.jid,'Enhancing.. 🖌️',MessageType.text);
+        var location = await message.client.downloadAndSaveMediaMessage({
+            key: {
+                remoteJid: message.reply_message.jid,
+                id: message.reply_message.id
+            },
+            message: message.reply_message.data.quotedMessage
+        });
+        ffmpeg(location)
+            .save('output.jpg')
+            .on('end', async () => {
+                var resp = await deepai.callStandardApi("torch-srgan", {
+                    image: fs.createReadStream("./output.jpg"),
+                });
+                var respoimage = await axios.get(`${resp.output_url}`, { responseType: 'arraybuffer' })
+                await message.sendMessage(Buffer.from(respoimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: 'Made by CyberBot'})
+            });
+            return await message.client.deleteMessage(message.jid, {id: downloading.key.id, remoteJid: message.jid, fromMe: true})
+    }));
+    Asena.addCommand({pattern: 'moodai ?(.*)', fromMe: false, deleteCommand: false, dontAddCommandList: true}, (async (message, match) => {
+        if (match[1] === '') return await message.sendMessage(Lang.TEXT);
+        var resp = await deepai.callStandardApi("sentiment-analysis", {
+            text: `${match[1]}`,
+        });
+        await message.reply(`*Mood:* ${resp.output}`);
+    }));
+    Asena.addCommand({pattern: 'dreamai$', fromMe: false, deleteCommand: false, dontAddCommandList: true}, (async (message, match) => {    
+        if (message.reply_message === false) return await message.sendMessage('```Need Photo!```');
+        var downloading = await message.client.sendMessage(message.jid,'Starry Night.. 🌃',MessageType.text);
+        var location = await message.client.downloadAndSaveMediaMessage({
+            key: {
+                remoteJid: message.reply_message.jid,
+                id: message.reply_message.id
+            },
+            message: message.reply_message.data.quotedMessage
+        });
+        ffmpeg(location)
+            .save('output.jpg')
+            .on('end', async () => {
+                var resp = await deepai.callStandardApi("deepdream", {
+                    image: fs.createReadStream("./output.jpg"),
+                });
+                var respoimage = await axios.get(`${resp.output_url}`, { responseType: 'arraybuffer' })
+                await message.sendMessage(Buffer.from(respoimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: 'Made by CyberBot'})
+            });
+            return await message.client.deleteMessage(message.jid, {id: downloading.key.id, remoteJid: message.jid, fromMe: true})
+    }));
+    Asena.addCommand({pattern: 'neuraltalkai$', fromMe: false, deleteCommand: false, dontAddCommandList: true}, (async (message, match) => {   
+        if (message.reply_message === false) return await message.sendMessage('```Need Photo!```');
+        var downloading = await message.client.sendMessage(message.jid,'Reading.. 🙇🏻',MessageType.text);
+        var location = await message.client.downloadAndSaveMediaMessage({
+            key: {
+                remoteJid: message.reply_message.jid,
+                id: message.reply_message.id
+            },
+            message: message.reply_message.data.quotedMessage
+        });
+        ffmpeg(location)
+            .save('output.jpg')
+            .on('end', async () => {
+                var resp = await deepai.callStandardApi("neuraltalk", {
+                    image: fs.createReadStream("./output.jpg"),
+                });
+                await message.reply(`*Output:* ${resp.output}`);
+            });
+            return await message.client.deleteMessage(message.jid, {id: downloading.key.id, remoteJid: message.jid, fromMe: true})
+    }));
+    Asena.addCommand({pattern: 'ttiai ?(.*)', fromMe: false, deleteCommand: false, dontAddCommandList: true}, (async (message, match) => {
+        if (match[1] === '') return await message.sendMessage(Lang.TEXT);
+        var resp = await deepai.callStandardApi("text2img", {
+            text: `${match[1]}`,
+        });
+        var respoimage = await axios.get(`${resp.output_url}`, { responseType: 'arraybuffer' })
+        await message.sendMessage(Buffer.from(respoimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: 'Made by CyberBot'})
+    }));
+    Asena.addCommand({pattern: 'toonai$', fromMe: false, deleteCommand: false, dontAddCommandList: true}, (async (message, match) => {   
+        if (message.reply_message === false) return await message.sendMessage('```Need Photo!```');
+        var downloading = await message.client.sendMessage(message.jid,'Tooning.. 🌟',MessageType.text);
+        var location = await message.client.downloadAndSaveMediaMessage({
+            key: {
+                remoteJid: message.reply_message.jid,
+                id: message.reply_message.id
+            },
+            message: message.reply_message.data.quotedMessage
+        });
+        ffmpeg(location)
+            .save('output.jpg')
+            .on('end', async () => {
+                var resp = await deepai.callStandardApi("toonify", {
+                    image: fs.createReadStream("./output.jpg"),
+                });
+                var respoimage = await axios.get(`${resp.output_url}`, { responseType: 'arraybuffer' })
+                await message.sendMessage(Buffer.from(respoimage.data), MessageType.image, { mimetype: Mimetype.jpg})
+            });
+            return await message.client.deleteMessage(message.jid, {id: downloading.key.id, remoteJid: message.jid, fromMe: true})
+    }));
+    Asena.addCommand({pattern: 'nudityai', fromMe: false, deleteCommand: false, dontAddCommandList: true}, (async (message, match) => {  
+        if (message.reply_message === false) return await message.sendMessage('```Need Photo!```');
+        var downloading = await message.client.sendMessage(message.jid,'Finding NSFW.. 🔥',MessageType.text);
+        var location = await message.client.downloadAndSaveMediaMessage({
+            key: {
+                remoteJid: message.reply_message.jid,
+                id: message.reply_message.id
+            },
+            message: message.reply_message.data.quotedMessage
+        });
+        ffmpeg(location)
+            .save('output.jpg')
+            .on('end', async () => {
+                var resp = await deepai.callStandardApi("content-moderation", {
+                    image: fs.createReadStream("./output.jpg"),
+                });
+                await message.client.sendMessage(message.jid, `*Output:* ${resp.output.nsfw_score}`, MessageType.text, { quoted: message.data });
+            });
+            return await message.client.deleteMessage(message.jid, {id: downloading.key.id, remoteJid: message.jid, fromMe: true})
+    }));
+    Asena.addCommand({pattern: 'textai ?(.*)', fromMe: false, deleteCommand: false, dontAddCommandList: true}, (async (message, match) => {
+        if (match[1] === '') return await message.sendMessage(Lang.TEXT);
+        var resp = await deepai.callStandardApi("text-generator", {
+            text: `${match[1]}`,
+        });
+        await message.client.sendMessage(message.jid, `*Article:*\n ${resp.output}`, MessageType.text, { quoted: message.data });
+    }));
+    Asena.addCommand({pattern: 'ganstyle$', fromMe: false, deleteCommand: false, dontAddCommandList: true}, (async (message, match) => {   
+        if (message.reply_message === false) return await message.sendMessage('```Need Photo!```');
+        var downloading = await message.client.sendMessage(message.jid,'Creating.. ♻️',MessageType.text);
+        var location = await message.client.downloadAndSaveMediaMessage({
+            key: {
+                remoteJid: message.reply_message.jid,
+                id: message.reply_message.id
+            },
+            message: message.reply_message.data.quotedMessage
+        });
+        ffmpeg(location)
+            .save('output.jpg')
+            .on('end', async () => {
+                var resp = await deepai.callStandardApi("fast-style-transfer", {
+                    style: Config.GANSTYLE,
+                    content: fs.createReadStream("./output.jpg"),
+                });
+                var respoimage = await axios.get(`${resp.output_url}`, { responseType: 'arraybuffer' })
+                await message.sendMessage(Buffer.from(respoimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: 'Made by CyberBot'})
+            });
+            return await message.client.deleteMessage(message.jid, {id: downloading.key.id, remoteJid: message.jid, fromMe: true})
+    }));
+}

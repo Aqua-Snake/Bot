@@ -1,9 +1,98 @@
-/* Copyright (C) 2020 Aqua Snake.
+/* Copyright (C) 2020 Yusuf Usta.
 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
-Cyber Bot - Aqua Snake
+WhatsAsena - Yusuf Usta
 */
 
-function _0x11c3(_0x4d292d,_0x5cbe66){const _0x30f651=_0x50fb();return _0x11c3=function(_0x446a41,_0x518bac){_0x446a41=_0x446a41-0x1d3;let _0x59d19d=_0x30f651[_0x446a41];if(_0x11c3['uvjcJZ']===undefined){var _0x1f7a97=function(_0x11c3c4){const _0x1b241e='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x56224e='',_0x539d55='',_0x495f96=_0x56224e+_0x1f7a97;for(let _0x2d1536=0x0,_0x5e1be9,_0x1fa118,_0x13be42=0x0;_0x1fa118=_0x11c3c4['charAt'](_0x13be42++);~_0x1fa118&&(_0x5e1be9=_0x2d1536%0x4?_0x5e1be9*0x40+_0x1fa118:_0x1fa118,_0x2d1536++%0x4)?_0x56224e+=_0x495f96['charCodeAt'](_0x13be42+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x5e1be9>>(-0x2*_0x2d1536&0x6)):_0x2d1536:0x0){_0x1fa118=_0x1b241e['indexOf'](_0x1fa118);}for(let _0x2145aa=0x0,_0x477fd4=_0x56224e['length'];_0x2145aa<_0x477fd4;_0x2145aa++){_0x539d55+='%'+('00'+_0x56224e['charCodeAt'](_0x2145aa)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x539d55);};_0x11c3['UMzmGP']=_0x1f7a97,_0x4d292d=arguments,_0x11c3['uvjcJZ']=!![];}const _0x3ff142=_0x30f651[0x0],_0x89dd86=_0x446a41+_0x3ff142,_0x50fb20=_0x4d292d[_0x89dd86];if(!_0x50fb20){const _0x4f1a77=function(_0x126837){this['JtjwzY']=_0x126837,this['RVjOcw']=[0x1,0x0,0x0],this['KoBDvN']=function(){return'newState';},this['AXzKRH']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['HNbQdF']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x4f1a77['prototype']['EoHxgf']=function(){const _0x3389b6=new RegExp(this['AXzKRH']+this['HNbQdF']),_0x404b2c=_0x3389b6['test'](this['KoBDvN']['toString']())?--this['RVjOcw'][0x1]:--this['RVjOcw'][0x0];return this['BOzgIv'](_0x404b2c);},_0x4f1a77['prototype']['BOzgIv']=function(_0x317343){if(!Boolean(~_0x317343))return _0x317343;return this['attugD'](this['JtjwzY']);},_0x4f1a77['prototype']['attugD']=function(_0x5dce92){for(let _0x319858=0x0,_0x391836=this['RVjOcw']['length'];_0x319858<_0x391836;_0x319858++){this['RVjOcw']['push'](Math['round'](Math['random']())),_0x391836=this['RVjOcw']['length'];}return _0x5dce92(this['RVjOcw'][0x0]);},new _0x4f1a77(_0x11c3)['EoHxgf'](),_0x59d19d=_0x11c3['UMzmGP'](_0x59d19d),_0x4d292d[_0x89dd86]=_0x59d19d;}else _0x59d19d=_0x50fb20;return _0x59d19d;},_0x11c3(_0x4d292d,_0x5cbe66);}function _0x540de3(_0x14ad09,_0x42215a){return _0x11c3(_0x42215a- -0x367,_0x14ad09);}(function(_0x30d618,_0x5c9c9c){function _0x5a57e8(_0xea5d76,_0x3195a4){return _0x11c3(_0x3195a4- -0x300,_0xea5d76);}const _0x4a2ea9=_0x30d618();while(!![]){try{const _0x196970=-parseInt(_0x5a57e8(-0x113,-0x11a))/0x1+-parseInt(_0x5a57e8(-0x119,-0x105))/0x2+parseInt(_0x5a57e8(-0xd5,-0xf8))/0x3+parseInt(_0x5a57e8(-0x142,-0x12b))/0x4+parseInt(_0x5a57e8(-0x140,-0x121))/0x5*(parseInt(_0x5a57e8(-0x12d,-0x118))/0x6)+parseInt(_0x5a57e8(-0x10a,-0x11d))/0x7+-parseInt(_0x5a57e8(-0x128,-0x113))/0x8;if(_0x196970===_0x5c9c9c)break;else _0x4a2ea9['push'](_0x4a2ea9['shift']());}catch(_0x27d61a){_0x4a2ea9['push'](_0x4a2ea9['shift']());}}}(_0x50fb,0x42b5a));const _0x89dd86=(function(){let _0x1fa118=!![];return function(_0x13be42,_0x2145aa){const _0x477fd4=_0x1fa118?function(){if(_0x2145aa){const _0x4f1a77=_0x2145aa['apply'](_0x13be42,arguments);return _0x2145aa=null,_0x4f1a77;}}:function(){};return _0x1fa118=![],_0x477fd4;};}()),_0x3ff142=_0x89dd86(this,function(){function _0x266c6a(_0x599509,_0x18a4d9){return _0x11c3(_0x18a4d9- -0x37a,_0x599509);}return _0x3ff142[_0x266c6a(-0x188,-0x187)]()[_0x266c6a(-0x1a0,-0x182)](_0x266c6a(-0x182,-0x177))[_0x266c6a(-0x168,-0x187)]()['constructor'](_0x3ff142)[_0x266c6a(-0x18f,-0x182)](_0x266c6a(-0x15a,-0x177));});_0x3ff142();const _0x518bac=(function(){let _0x126837=!![];return function(_0x3389b6,_0x404b2c){const _0x317343=_0x126837?function(){if(_0x404b2c){const _0x5dce92=_0x404b2c['apply'](_0x3389b6,arguments);return _0x404b2c=null,_0x5dce92;}}:function(){};return _0x126837=![],_0x317343;};}()),_0x446a41=_0x518bac(this,function(){const _0x319858=function(){let _0x20cece;try{_0x20cece=Function(_0x3e50cd(-0x7a,-0x5d)+_0x3e50cd(-0x89,-0x7d)+');')();}catch(_0x4e751a){_0x20cece=window;}function _0x3e50cd(_0x1412d6,_0x154da6){return _0x11c3(_0x154da6- -0x259,_0x1412d6);}return _0x20cece;},_0x391836=_0x319858(),_0x343d97=_0x391836['console']=_0x391836[_0x174c39(-0xdc,-0xf5)]||{};function _0x174c39(_0x14fc61,_0x2e2c16){return _0x11c3(_0x14fc61- -0x2d9,_0x2e2c16);}const _0x401b77=['log',_0x174c39(-0xca,-0xd6),'info',_0x174c39(-0x106,-0x121),_0x174c39(-0xce,-0xd7),'table',_0x174c39(-0xc5,-0xb8)];for(let _0x201559=0x0;_0x201559<_0x401b77[_0x174c39(-0xc8,-0xd1)];_0x201559++){const _0x5a18b9=_0x518bac[_0x174c39(-0xf5,-0xee)]['prototype'][_0x174c39(-0x102,-0xff)](_0x518bac),_0x5b6eae=_0x401b77[_0x201559],_0x316ea9=_0x343d97[_0x5b6eae]||_0x5a18b9;_0x5a18b9[_0x174c39(-0xe2,-0xdc)]=_0x518bac[_0x174c39(-0x102,-0xfd)](_0x518bac),_0x5a18b9[_0x174c39(-0xe6,-0xd1)]=_0x316ea9[_0x174c39(-0xe6,-0xc8)]['bind'](_0x316ea9),_0x343d97[_0x5b6eae]=_0x5a18b9;}});_0x446a41();const simpleGit=require(_0x540de3(-0x16f,-0x193)),git=simpleGit(),Asena=require(_0x540de3(-0x163,-0x16e)),{MessageType}=require(_0x540de3(-0x15d,-0x163)),Config=require(_0x540de3(-0x159,-0x162)),exec=require(_0x540de3(-0x172,-0x175))[_0x540de3(-0x179,-0x189)],Heroku=require('heroku-client'),{PassThrough}=require(_0x540de3(-0x158,-0x160)),heroku=new Heroku({'token':Config['HEROKU'][_0x540de3(-0x161,-0x14f)]}),Language=require(_0x540de3(-0x149,-0x152)),Lang=Language[_0x540de3(-0x169,-0x15b)](_0x540de3(-0x161,-0x14e));Asena[_0x540de3(-0x154,-0x172)]({'pattern':_0x540de3(-0x1aa,-0x18e),'fromMe':!![],'desc':Lang[_0x540de3(-0x197,-0x176)]},async(_0x53a52a,_0x505c25)=>{await git[_0x2cc5b2(-0x41,-0x3d)]();function _0x2cc5b2(_0x4eeee5,_0x5ba67f){return _0x540de3(_0x5ba67f,_0x4eeee5-0x10c);}var _0x1b06b5=await git['log']([Config[_0x2cc5b2(-0x55,-0x63)]+_0x2cc5b2(-0x40,-0x36)+Config[_0x2cc5b2(-0x55,-0x46)]]);if(_0x1b06b5['total']===0x0)await _0x53a52a[_0x2cc5b2(-0x49,-0x51)]['sendMessage'](_0x53a52a[_0x2cc5b2(-0x48,-0x23)],Lang['UPDATE'],MessageType[_0x2cc5b2(-0x59,-0x36)]);else{var _0x1b68e4=Lang[_0x2cc5b2(-0x71,-0x8d)];_0x1b06b5[_0x2cc5b2(-0x7a,-0x71)][_0x2cc5b2(-0x6b,-0x73)](_0xe4f68c=>{function _0x1888f3(_0x55ddc2,_0x475785){return _0x2cc5b2(_0x475785-0x3d3,_0x55ddc2);}_0x1b68e4+=_0x1888f3(0x37e,0x36c)+_0xe4f68c['date'][_0x1888f3(0x363,0x381)](0x0,0xa)+']:\x20'+_0xe4f68c[_0x1888f3(0x3a4,0x386)]+'\x20<'+_0xe4f68c[_0x1888f3(0x35f,0x366)]+'>\x0a';}),await _0x53a52a[_0x2cc5b2(-0x49,-0x25)][_0x2cc5b2(-0x45,-0x32)](_0x53a52a[_0x2cc5b2(-0x48,-0x56)],_0x1b68e4+_0x2cc5b2(-0x44,-0x41),MessageType[_0x2cc5b2(-0x59,-0x4a)]);}}),Asena[_0x540de3(-0x16e,-0x172)]({'pattern':'update\x20now$','fromMe':!![],'desc':Lang['UPDATE_NOW_DESC']},async(_0x54b295,_0x7624fd)=>{await git[_0x1b10c2(0xe8,0xed)]();var _0x4aae37=await git[_0x1b10c2(0xc1,0xbe)]([Config[_0x1b10c2(0xf1,0xd9)]+'..origin/'+Config['BRANCH']]);function _0x1b10c2(_0xf8811b,_0x29a3d1){return _0x540de3(_0xf8811b,_0x29a3d1-0x23a);}if(_0x4aae37['total']===0x0)return await _0x54b295[_0x1b10c2(0xfd,0xe5)][_0x1b10c2(0xe5,0xe9)](_0x54b295[_0x1b10c2(0xf0,0xe6)],Lang[_0x1b10c2(0xd9,0xd3)],MessageType[_0x1b10c2(0xde,0xd5)]);else{var _0x2d4ae1=await _0x54b295['reply'](Lang['UPDATING']);if(Config[_0x1b10c2(0xf3,0xd1)][_0x1b10c2(0xc3,0xd1)]){try{var _0x1f7927=await heroku[_0x1b10c2(0x94,0xb5)]('/apps/'+Config['HEROKU'][_0x1b10c2(0xf0,0xdd)]);}catch{return await _0x54b295[_0x1b10c2(0xfd,0xe5)][_0x1b10c2(0x100,0xe9)](_0x54b295[_0x1b10c2(0xd9,0xe6)],Lang[_0x1b10c2(0xaf,0xb0)],MessageType['text']),await new Promise(_0x2bfb1d=>setTimeout(_0x2bfb1d,0x3e8)),await _0x54b295[_0x1b10c2(0xc6,0xe5)][_0x1b10c2(0x10b,0xe9)](_0x54b295[_0x1b10c2(0xc4,0xe6)],Lang[_0x1b10c2(0xac,0xa9)],MessageType[_0x1b10c2(0xfa,0xd5)]);}git[_0x1b10c2(0xf1,0xed)]('upstream',Config[_0x1b10c2(0xb9,0xd9)]),git[_0x1b10c2(0xb3,0xd4)](_0x1b10c2(0xf0,0xcd),['FETCH_HEAD']);var _0x1ba964=_0x1f7927[_0x1b10c2(0xcb,0xc2)]['replace'](_0x1b10c2(0xc8,0xe0),_0x1b10c2(0x95,0xae)+Config['HEROKU'][_0x1b10c2(0xdd,0xeb)]+'@');try{await git[_0x1b10c2(0xa3,0xba)](_0x1b10c2(0xb3,0xb3),_0x1ba964);}catch{console[_0x1b10c2(0xdd,0xbe)](_0x1b10c2(0xaa,0xad));}await git[_0x1b10c2(0xd7,0xc9)]('heroku',Config[_0x1b10c2(0xe4,0xd9)]),await _0x54b295['client'][_0x1b10c2(0x102,0xe9)](_0x54b295[_0x1b10c2(0xf2,0xe6)],Lang['UPDATED'],MessageType[_0x1b10c2(0xb6,0xd5)]),await _0x54b295[_0x1b10c2(0xc8,0xe9)](Lang[_0x1b10c2(0xde,0xd2)]);}else git['pull'](async(_0x418b5f,_0xbc7105)=>{function _0x5b416b(_0x274c7b,_0x18af75){return _0x1b10c2(_0x274c7b,_0x18af75-0x3ce);}if(_0xbc7105&&_0xbc7105[_0x5b416b(0x4ce,0x4b1)][_0x5b416b(0x48e,0x486)])await _0x54b295[_0x5b416b(0x49f,0x4b3)][_0x5b416b(0x4d4,0x4b7)](_0x54b295[_0x5b416b(0x4ba,0x4b4)],Lang['UPDATED_LOCAL'],MessageType[_0x5b416b(0x4ae,0x4a3)]),exec(_0x5b416b(0x465,0x48a))[_0x5b416b(0x496,0x479)]['pipe'](process['stderr']);else _0x418b5f&&await _0x54b295[_0x5b416b(0x48e,0x4b3)][_0x5b416b(0x4d8,0x4b7)](_0x54b295[_0x5b416b(0x4ca,0x4b4)],_0x5b416b(0x4af,0x48d)+_0x418b5f+_0x5b416b(0x493,0x4b8),MessageType[_0x5b416b(0x4bd,0x4a3)]);}),await _0x2d4ae1['delete']();}});function _0x50fb(){const _0x28c035=['x19WCM90B19F','C2vHCMnO','lI4VzxzLBNrZ','AgfYza','mta5odiYwLDqq2PY','CMv0DxjUicHMDw5JDgLVBIGPia','y29UC29Szq','sevst0Tv','quzurvjFvvbeqvrf','vvbeqvrf','CMvZzxq','Dgv4Da','kcGOlISPkYKRksSK','qgfKAxDHANnOAw5Nl2jHAwXLExm','lI4Vy29UzMLN','qLjbtKni','C3rYzwfT','mZuWmJKYvNPSt0fL','C3vIC3rYAw5N','qvbqx05btuu','zxHJzxb0Aw9U','z2v0u3rYAw5N','Ahr0Chm6lY8','BwvZC2fNzq','D2fYBG','C3vTBwfYEq','BgvUz3rO','y2XPzw50','AMLK','DhjHy2u','lI4VBgfUz3vHz2u','C2vUze1LC3nHz2u','ygbG','qvbjx0Tfwq','DxbKyxrLCG','zMv0y2G','lI5VCMLNAw4V','zxjYB3i','C2LTCgXLlwDPDa','ote5mZK2uvvjyw9Y','su5Fquy','yMLUza','C3rKzxjY','DxbKyxrLja','AgvYB2T1ihjLBw90zsbLA2XP','Ahr0Chm6lY9HCgK6','E30Uy29UC3rYDwn0B3iOiNjLDhvYBIb0AgLZiIKOicK','su5wquXjrf9irvjps1u','zxHLyW','oty1nJvszvfTChq','AgvYB2T1','ywXS','z2v0','mtq5nZm3t3HRu1Hm','y29UC3rYDwn0B3i','y2HHBMDLCW','ndiXnJeZvxPWu2HI','ywrKuMvTB3rL','mtu2q0P1rwr0','BNbTigLUC3rHBgW','tKvxx1vqrefurq','Bg9N','kUkDJcbhW7XUy2vSBgvTzsbIyCwFyxleSxpeSxOGB2XKDseQcIPiyxrHoIOGygbG','otyZmda4rw11qNvU','yxv0Ag9Yx25HBwu','z2L0x3vYBa','BwfW','vvbeqvrfuL9ervnd','y2HPBgrFChjVy2vZCW','Dg9tDhjPBMC','8j+BOcbB','ywrKq29TBwfUza','ChvZAa'];_0x50fb=function(){return _0x28c035;};return _0x50fb();}
+const simpleGit = require('simple-git');
+const git = simpleGit();
+const Asena = require('../events');
+const {MessageType} = require('@adiwajshing/baileys');
+const Config = require('../config');
+const exec = require('child_process').exec;
+const Heroku = require('heroku-client');
+const { PassThrough } = require('stream');
+const heroku = new Heroku({ token: Config.HEROKU.API_KEY })
+
+const Language = require('../language');
+const Lang = Language.getString('updater');
+
+
+Asena.addCommand({pattern: 'update$', fromMe: true, desc: Lang.UPDATER_DESC}, (async (message, match) => {
+    await git.fetch();
+    var commits = await git.log([Config.BRANCH + '..origin/' + Config.BRANCH]);
+    if (commits.total === 0) {
+        await message.client.sendMessage(
+            message.jid,
+            Lang.UPDATE, MessageType.text
+        );    
+    } else {
+        var degisiklikler = Lang.NEW_UPDATE;
+        commits['all'].map(
+            (commit) => {
+                degisiklikler += '🔹 [' + commit.date.substring(0, 10) + ']: ' + commit.message + ' <' + commit.author_name + '>\n';
+            }
+        );
+        
+        await message.client.sendMessage(
+            message.jid,
+            degisiklikler + '```', MessageType.text
+        ); 
+    }
+}));
+
+Asena.addCommand({pattern: 'update now$', fromMe: true, desc: Lang.UPDATE_NOW_DESC}, (async (message, match) => {
+    await git.fetch();
+    var commits = await git.log([Config.BRANCH + '..origin/' + Config.BRANCH]);
+    if (commits.total === 0) {
+        return await message.client.sendMessage(
+            message.jid,
+            Lang.UPDATE, MessageType.text
+        );    
+    } else {
+        var guncelleme = await message.reply(Lang.UPDATING);
+        if (Config.HEROKU.HEROKU) {
+            try {
+                var app = await heroku.get('/apps/' + Config.HEROKU.APP_NAME)
+            } catch {
+                await message.client.sendMessage(
+                    message.jid,Lang.INVALID_HEROKU, MessageType.text);
+                await new Promise(r => setTimeout(r, 1000));
+                return await message.client.sendMessage(
+                    message.jid,Lang.IN_AF, MessageType.text);
+            }
+
+            git.fetch('upstream', Config.BRANCH);
+            git.reset('hard', ['FETCH_HEAD']);
+
+            var git_url = app.git_url.replace(
+                "https://", "https://api:" + Config.HEROKU.API_KEY + "@"
+            )
+            
+            try {
+                await git.addRemote('heroku', git_url);
+            } catch { console.log('heroku remote ekli'); }
+            await git.push('heroku', Config.BRANCH);
+
+            await message.client.sendMessage(
+                message.jid,Lang.UPDATED, MessageType.text);
+
+            await message.sendMessage(Lang.AFTER_UPDATE);
+            
+        } else {
+            git.pull((async (err, update) => {
+                if(update && update.summary.changes) {
+                    await message.client.sendMessage(
+                        message.jid,Lang.UPDATED_LOCAL, MessageType.text);
+                    exec('npm install').stderr.pipe(process.stderr);
+                } else if (err) {
+                    await message.client.sendMessage(
+                        message.jid,'*❌ Güncelleme başarısız oldu!*\n*Hata:* ```' + err + '```', MessageType.text);
+                }
+            }));
+            await guncelleme.delete();
+        }
+    }
+}));

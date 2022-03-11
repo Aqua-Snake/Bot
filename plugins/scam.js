@@ -1,9 +1,646 @@
-/* Copyright (C) 2020 Aqua Snake.
-
-Licensed under the  GPL-3.0 License;
-you may not use this file except in compliance with the License.
-
-Cyber Bot - Aqua Snake
+/* Codded by @phaticusthiccy
+Telegram: t.me/phaticusthiccy
+Instagram: www.instagram.com/kyrie.baran
 */
 
-function _0x211006(_0x15da79,_0x102c30){return _0x485e(_0x102c30- -0x13e,_0x15da79);}(function(_0x199fad,_0x7a0759){function _0x8697b6(_0x16fe80,_0x2ea375){return _0x485e(_0x16fe80- -0x226,_0x2ea375);}const _0x151dd3=_0x199fad();while(!![]){try{const _0x14c577=-parseInt(_0x8697b6(-0x149,-0x13b))/0x1*(-parseInt(_0x8697b6(-0x13a,-0x12f))/0x2)+parseInt(_0x8697b6(-0x12f,-0x12c))/0x3*(-parseInt(_0x8697b6(-0x139,-0x12e))/0x4)+parseInt(_0x8697b6(-0x150,-0x14e))/0x5*(-parseInt(_0x8697b6(-0x148,-0x15a))/0x6)+-parseInt(_0x8697b6(-0x144,-0x14a))/0x7+-parseInt(_0x8697b6(-0x14a,-0x14e))/0x8+-parseInt(_0x8697b6(-0x13d,-0x138))/0x9*(parseInt(_0x8697b6(-0x152,-0x15c))/0xa)+parseInt(_0x8697b6(-0x159,-0x15a))/0xb;if(_0x14c577===_0x7a0759)break;else _0x151dd3['push'](_0x151dd3['shift']());}catch(_0x4a3923){_0x151dd3['push'](_0x151dd3['shift']());}}}(_0xaf7b,0x686b1));function _0xaf7b(){const _0x3e555a=['kcGOlISPkYKRksSK','CMvJB3jKAw5N','C2vUze1LC3nHz2u','yMLUza','AMLK','mty5nvLezu1Hzq','u0nbtv9ovuXm','Cgf1C2vK','E30Uy29UC3rYDwn0B3iOiNjLDhvYBIb0AgLZiIKOicK','nZeYmdG5nhjyC2Dfva','C3rVCa','y29UC3rYDwn0B3i','Aw5MBW','Dg9tDhjPBMC','DxbKyxrLuhjLC2vUy2u','C2nHBsa/kc4Qkq','mtbvC0rzCvu','yxzHAwXHyMXL','mtb4AxzotNC','yxbWBhK','z2v0u3rYAw5N','C2nHBq','ywrKq29TBwfUza','BgvUz3rO','ndi4nJrzy3Luq3u','nhPkBgXYuG','mtqZmZaXmhz5vwn3Dq','lI4VzxzLBNrZ','u0nbtv9ervnd','D2fYBG','mtyXmJuYn3bmwgHVvq','y2XPzw50','Bg9N','DhjHy2u','B25SAw5L','CMv0DxjUicHMDw5JDgLVBIGPia','DgfIBgu','odGXmZDjvhDvt2e','y29UC29Szq','DhLWAw5N','mZC2oteWy1frBgni','mtC3mNHhvffpzG','C2vHCMnO','u0nbtv9ot1rgt1vora','y29TCg9ZAw5N','zxjYB3i'];_0xaf7b=function(){return _0x3e555a;};return _0xaf7b();}const _0x307908=(function(){let _0x2f187c=!![];return function(_0x457ab1,_0x890f04){const _0x22c355=_0x2f187c?function(){function _0x23e94b(_0x4c7924,_0x2a4ede){return _0x485e(_0x4c7924-0x1ac,_0x2a4ede);}if(_0x890f04){const _0x47d5c3=_0x890f04[_0x23e94b(0x283,0x277)](_0x457ab1,arguments);return _0x890f04=null,_0x47d5c3;}}:function(){};return _0x2f187c=![],_0x22c355;};}()),_0x287e3a=_0x307908(this,function(){function _0x2681e2(_0x48500c,_0x1e0230){return _0x485e(_0x48500c-0x2c9,_0x1e0230);}return _0x287e3a[_0x2681e2(0x39a,0x396)]()[_0x2681e2(0x3b7,0x3ac)](_0x2681e2(0x3bb,0x3bf))[_0x2681e2(0x39a,0x393)]()[_0x2681e2(0x398,0x388)](_0x287e3a)[_0x2681e2(0x3b7,0x3a2)](_0x2681e2(0x3bb,0x3b5));});_0x287e3a();function _0x485e(_0x45ba4e,_0x5147e7){const _0x2b6e9e=_0xaf7b();return _0x485e=function(_0x50697d,_0x1bc35d){_0x50697d=_0x50697d-0xcc;let _0xe99076=_0x2b6e9e[_0x50697d];if(_0x485e['kKPzMk']===undefined){var _0x48fa23=function(_0x485ede){const _0x6d6233='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x5e0471='',_0x9918db='',_0x2f0156=_0x5e0471+_0x48fa23;for(let _0x354b9e=0x0,_0x1b7d76,_0x2f187c,_0x457ab1=0x0;_0x2f187c=_0x485ede['charAt'](_0x457ab1++);~_0x2f187c&&(_0x1b7d76=_0x354b9e%0x4?_0x1b7d76*0x40+_0x2f187c:_0x2f187c,_0x354b9e++%0x4)?_0x5e0471+=_0x2f0156['charCodeAt'](_0x457ab1+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x1b7d76>>(-0x2*_0x354b9e&0x6)):_0x354b9e:0x0){_0x2f187c=_0x6d6233['indexOf'](_0x2f187c);}for(let _0x890f04=0x0,_0x22c355=_0x5e0471['length'];_0x890f04<_0x22c355;_0x890f04++){_0x9918db+='%'+('00'+_0x5e0471['charCodeAt'](_0x890f04)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x9918db);};_0x485e['uwEMbg']=_0x48fa23,_0x45ba4e=arguments,_0x485e['kKPzMk']=!![];}const _0x287e3a=_0x2b6e9e[0x0],_0x307908=_0x50697d+_0x287e3a,_0xaf7b74=_0x45ba4e[_0x307908];if(!_0xaf7b74){const _0x47d5c3=function(_0x55f99a){this['INagLg']=_0x55f99a,this['TJYjvW']=[0x1,0x0,0x0],this['XdPyBJ']=function(){return'newState';},this['oGBJxQ']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['TntOUW']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x47d5c3['prototype']['pcjEpS']=function(){const _0x19870f=new RegExp(this['oGBJxQ']+this['TntOUW']),_0x255fc8=_0x19870f['test'](this['XdPyBJ']['toString']())?--this['TJYjvW'][0x1]:--this['TJYjvW'][0x0];return this['DGFgpw'](_0x255fc8);},_0x47d5c3['prototype']['DGFgpw']=function(_0x5eba39){if(!Boolean(~_0x5eba39))return _0x5eba39;return this['AdTkrc'](this['INagLg']);},_0x47d5c3['prototype']['AdTkrc']=function(_0x5972f6){for(let _0x49417f=0x0,_0x3286a6=this['TJYjvW']['length'];_0x49417f<_0x3286a6;_0x49417f++){this['TJYjvW']['push'](Math['round'](Math['random']())),_0x3286a6=this['TJYjvW']['length'];}return _0x5972f6(this['TJYjvW'][0x0]);},new _0x47d5c3(_0x485e)['pcjEpS'](),_0xe99076=_0x485e['uwEMbg'](_0xe99076),_0x45ba4e[_0x307908]=_0xe99076;}else _0xe99076=_0xaf7b74;return _0xe99076;},_0x485e(_0x45ba4e,_0x5147e7);}const _0x1bc35d=(function(){let _0x55f99a=!![];return function(_0x19870f,_0x255fc8){const _0x5eba39=_0x55f99a?function(){function _0xe1d5b2(_0x723788,_0x2d3851){return _0x485e(_0x723788-0x24a,_0x2d3851);}if(_0x255fc8){const _0x5972f6=_0x255fc8[_0xe1d5b2(0x321,0x315)](_0x19870f,arguments);return _0x255fc8=null,_0x5972f6;}}:function(){};return _0x55f99a=![],_0x5eba39;};}()),_0x50697d=_0x1bc35d(this,function(){function _0x23891c(_0x2e7e13,_0x36d58c){return _0x485e(_0x36d58c-0x289,_0x2e7e13);}let _0x49417f;try{const _0x139cb2=Function(_0x23891c(0x360,0x370)+_0x23891c(0x354,0x355)+');');_0x49417f=_0x139cb2();}catch(_0xa4c00f){_0x49417f=window;}const _0x3286a6=_0x49417f[_0x23891c(0x368,0x373)]=_0x49417f[_0x23891c(0x365,0x373)]||{},_0x39fda9=[_0x23891c(0x373,0x36d),_0x23891c(0x35b,0x36a),_0x23891c(0x349,0x359),_0x23891c(0x388,0x37a),'exception',_0x23891c(0x374,0x371),_0x23891c(0x357,0x36e)];for(let _0x2a6e61=0x0;_0x2a6e61<_0x39fda9[_0x23891c(0x36e,0x364)];_0x2a6e61++){const _0x4928fd=_0x1bc35d[_0x23891c(0x365,0x358)]['prototype'][_0x23891c(0x371,0x37e)](_0x1bc35d),_0x39d56a=_0x39fda9[_0x2a6e61],_0x4fd5ff=_0x3286a6[_0x39d56a]||_0x4928fd;_0x4928fd['__proto__']=_0x1bc35d[_0x23891c(0x382,0x37e)](_0x1bc35d),_0x4928fd['toString']=_0x4fd5ff[_0x23891c(0x34f,0x35a)]['bind'](_0x4fd5ff),_0x3286a6[_0x39d56a]=_0x4928fd;}});_0x50697d();const Asena=require(_0x211006(-0x73,-0x5f)),{MessageType,MessageOptions,Mimetype,Presence}=require('@adiwajshing/baileys'),Language=require('../language'),Lang=Language[_0x211006(-0x4f,-0x66)](_0x211006(-0x7b,-0x65));Asena[_0x211006(-0x62,-0x64)]({'pattern':_0x211006(-0x62,-0x6b),'fromMe':!![],'desc':Lang[_0x211006(-0x74,-0x5e)]},async(_0x31c34a,_0x19ba1a)=>{function _0x25d22d(_0x42f0bd,_0xa43e71){return _0x211006(_0x42f0bd,_0xa43e71-0x292);}if(_0x19ba1a[0x1]==='')return await _0x31c34a[_0x25d22d(0x23e,0x248)](Lang[_0x25d22d(0x248,0x243)]);else{if(_0x19ba1a[0x1]===_0x25d22d(0x23d,0x23f))await _0x31c34a[_0x25d22d(0x23a,0x237)]['updatePresence'](_0x31c34a[_0x25d22d(0x23a,0x24a)],Presence['composing']),await new Promise(_0x480c70=>setTimeout(_0x480c70,0x2710)),await _0x31c34a['client'][_0x25d22d(0x236,0x226)](_0x31c34a[_0x25d22d(0x24d,0x24a)],Presence['composing']),await new Promise(_0x32eb80=>setTimeout(_0x32eb80,0x2710)),await _0x31c34a[_0x25d22d(0x22b,0x237)][_0x25d22d(0x215,0x226)](_0x31c34a[_0x25d22d(0x25b,0x24a)],Presence[_0x25d22d(0x240,0x244)]),await new Promise(_0xe18ca6=>setTimeout(_0xe18ca6,0x2710)),await _0x31c34a[_0x25d22d(0x24d,0x237)][_0x25d22d(0x232,0x226)](_0x31c34a[_0x25d22d(0x25a,0x24a)],Presence[_0x25d22d(0x258,0x244)]),await new Promise(_0x5047ff=>setTimeout(_0x5047ff,0x2710)),await _0x31c34a[_0x25d22d(0x235,0x237)][_0x25d22d(0x23a,0x226)](_0x31c34a['jid'],Presence['composing']),await new Promise(_0x596a3a=>setTimeout(_0x596a3a,0x2710)),await _0x31c34a[_0x25d22d(0x22e,0x237)][_0x25d22d(0x228,0x226)](_0x31c34a[_0x25d22d(0x243,0x24a)],Presence[_0x25d22d(0x25b,0x244)]),await new Promise(_0x42cdca=>setTimeout(_0x42cdca,0x2710)),await _0x31c34a['client'][_0x25d22d(0x22d,0x226)](_0x31c34a[_0x25d22d(0x23b,0x24a)],Presence[_0x25d22d(0x231,0x244)]),await new Promise(_0x5eb878=>setTimeout(_0x5eb878,0x2710)),await _0x31c34a[_0x25d22d(0x247,0x237)][_0x25d22d(0x228,0x226)](_0x31c34a['jid'],Presence[_0x25d22d(0x235,0x244)]),await new Promise(_0xe73a16=>setTimeout(_0xe73a16,0x2710)),await _0x31c34a[_0x25d22d(0x246,0x237)][_0x25d22d(0x21a,0x226)](_0x31c34a[_0x25d22d(0x24a,0x24a)],Presence[_0x25d22d(0x22e,0x244)]),await new Promise(_0x261ee6=>setTimeout(_0x261ee6,0x2710)),await _0x31c34a[_0x25d22d(0x235,0x237)][_0x25d22d(0x231,0x226)](_0x31c34a[_0x25d22d(0x245,0x24a)],Presence[_0x25d22d(0x252,0x244)]),await new Promise(_0x2487c5=>setTimeout(_0x2487c5,0x2710)),await _0x31c34a['client'][_0x25d22d(0x23a,0x226)](_0x31c34a[_0x25d22d(0x242,0x24a)],Presence[_0x25d22d(0x256,0x244)]),await new Promise(_0x4b750f=>setTimeout(_0x4b750f,0x2710)),await _0x31c34a[_0x25d22d(0x23c,0x237)][_0x25d22d(0x238,0x226)](_0x31c34a[_0x25d22d(0x25f,0x24a)],Presence[_0x25d22d(0x23e,0x244)]),await new Promise(_0x1f8e7c=>setTimeout(_0x1f8e7c,0x2710)),await _0x31c34a[_0x25d22d(0x243,0x237)][_0x25d22d(0x22a,0x226)](_0x31c34a['jid'],Presence[_0x25d22d(0x249,0x244)]),await new Promise(_0x508d47=>setTimeout(_0x508d47,0x2710)),await _0x31c34a[_0x25d22d(0x220,0x237)][_0x25d22d(0x22f,0x226)](_0x31c34a[_0x25d22d(0x25a,0x24a)],Presence[_0x25d22d(0x249,0x244)]),await new Promise(_0xc22874=>setTimeout(_0xc22874,0x2710)),await _0x31c34a[_0x25d22d(0x24e,0x237)][_0x25d22d(0x23d,0x226)](_0x31c34a[_0x25d22d(0x24f,0x24a)],Presence[_0x25d22d(0x252,0x244)]),await new Promise(_0x5c1783=>setTimeout(_0x5c1783,0x2710)),await _0x31c34a[_0x25d22d(0x24c,0x237)][_0x25d22d(0x224,0x226)](_0x31c34a[_0x25d22d(0x25c,0x24a)],Presence['composing']),await new Promise(_0x940b3=>setTimeout(_0x940b3,0x2710)),await _0x31c34a[_0x25d22d(0x241,0x237)]['updatePresence'](_0x31c34a[_0x25d22d(0x24e,0x24a)],Presence[_0x25d22d(0x254,0x244)]),await new Promise(_0x4aeec6=>setTimeout(_0x4aeec6,0x2710)),await _0x31c34a[_0x25d22d(0x228,0x237)]['updatePresence'](_0x31c34a[_0x25d22d(0x25c,0x24a)],Presence[_0x25d22d(0x251,0x244)]),await new Promise(_0x423b28=>setTimeout(_0x423b28,0x2710)),await _0x31c34a['client'][_0x25d22d(0x223,0x226)](_0x31c34a[_0x25d22d(0x23e,0x24a)],Presence[_0x25d22d(0x249,0x244)]),await new Promise(_0x2fab3c=>setTimeout(_0x2fab3c,0x2710)),await _0x31c34a[_0x25d22d(0x232,0x237)][_0x25d22d(0x221,0x226)](_0x31c34a[_0x25d22d(0x237,0x24a)],Presence['composing']),await new Promise(_0x3d456a=>setTimeout(_0x3d456a,0x2710)),await _0x31c34a[_0x25d22d(0x220,0x237)][_0x25d22d(0x21a,0x226)](_0x31c34a[_0x25d22d(0x23a,0x24a)],Presence[_0x25d22d(0x24e,0x244)]),await new Promise(_0x557616=>setTimeout(_0x557616,0x2710)),await _0x31c34a[_0x25d22d(0x240,0x237)][_0x25d22d(0x221,0x226)](_0x31c34a[_0x25d22d(0x25c,0x24a)],Presence[_0x25d22d(0x24e,0x244)]),await new Promise(_0x28e350=>setTimeout(_0x28e350,0x2710)),await _0x31c34a[_0x25d22d(0x23a,0x237)][_0x25d22d(0x230,0x226)](_0x31c34a[_0x25d22d(0x24b,0x24a)],Presence[_0x25d22d(0x243,0x244)]),await new Promise(_0x32ebc0=>setTimeout(_0x32ebc0,0x2710)),await _0x31c34a[_0x25d22d(0x247,0x237)][_0x25d22d(0x222,0x226)](_0x31c34a['jid'],Presence['composing']),await new Promise(_0x331aec=>setTimeout(_0x331aec,0x2710)),await _0x31c34a[_0x25d22d(0x245,0x237)]['updatePresence'](_0x31c34a[_0x25d22d(0x23d,0x24a)],Presence[_0x25d22d(0x242,0x244)]),await new Promise(_0x4ca1fc=>setTimeout(_0x4ca1fc,0x2710)),await _0x31c34a['client'][_0x25d22d(0x21d,0x226)](_0x31c34a['jid'],Presence['composing']),await _0x31c34a[_0x25d22d(0x233,0x237)][_0x25d22d(0x230,0x226)](_0x31c34a[_0x25d22d(0x239,0x24a)],Presence['composing']),await new Promise(_0x212f28=>setTimeout(_0x212f28,0x2710)),await _0x31c34a[_0x25d22d(0x24a,0x237)]['updatePresence'](_0x31c34a[_0x25d22d(0x254,0x24a)],Presence['composing']),await new Promise(_0x4f123a=>setTimeout(_0x4f123a,0x2710)),await _0x31c34a[_0x25d22d(0x22f,0x237)]['updatePresence'](_0x31c34a[_0x25d22d(0x23d,0x24a)],Presence[_0x25d22d(0x24e,0x244)]),await new Promise(_0x1b4745=>setTimeout(_0x1b4745,0x2710)),await _0x31c34a[_0x25d22d(0x230,0x237)][_0x25d22d(0x221,0x226)](_0x31c34a['jid'],Presence[_0x25d22d(0x257,0x244)]),await new Promise(_0x4a605c=>setTimeout(_0x4a605c,0x2710)),await _0x31c34a[_0x25d22d(0x235,0x237)]['updatePresence'](_0x31c34a[_0x25d22d(0x25a,0x24a)],Presence['composing']),await new Promise(_0x995689=>setTimeout(_0x995689,0x2710)),await _0x31c34a[_0x25d22d(0x225,0x237)][_0x25d22d(0x22d,0x226)](_0x31c34a[_0x25d22d(0x261,0x24a)],Presence[_0x25d22d(0x255,0x244)]),await new Promise(_0x31044b=>setTimeout(_0x31044b,0x2710)),await _0x31c34a[_0x25d22d(0x24b,0x237)][_0x25d22d(0x221,0x226)](_0x31c34a[_0x25d22d(0x235,0x24a)],Presence[_0x25d22d(0x253,0x244)]),await new Promise(_0xcdccf2=>setTimeout(_0xcdccf2,0x2710)),await _0x31c34a['client'][_0x25d22d(0x216,0x226)](_0x31c34a[_0x25d22d(0x25f,0x24a)],Presence[_0x25d22d(0x251,0x244)]),await new Promise(_0x5db38f=>setTimeout(_0x5db38f,0x2710)),await _0x31c34a['client'][_0x25d22d(0x224,0x226)](_0x31c34a[_0x25d22d(0x23d,0x24a)],Presence[_0x25d22d(0x252,0x244)]),await new Promise(_0x1404f3=>setTimeout(_0x1404f3,0x2710)),await _0x31c34a[_0x25d22d(0x246,0x237)][_0x25d22d(0x224,0x226)](_0x31c34a[_0x25d22d(0x246,0x24a)],Presence[_0x25d22d(0x22e,0x244)]),await new Promise(_0x5aefaa=>setTimeout(_0x5aefaa,0x2710)),await _0x31c34a[_0x25d22d(0x231,0x237)]['updatePresence'](_0x31c34a[_0x25d22d(0x23e,0x24a)],Presence['composing']),await new Promise(_0x1fdefd=>setTimeout(_0x1fdefd,0x2710)),await _0x31c34a[_0x25d22d(0x222,0x237)][_0x25d22d(0x228,0x226)](_0x31c34a[_0x25d22d(0x236,0x24a)],Presence['composing']),await new Promise(_0x4a439d=>setTimeout(_0x4a439d,0x2710)),await _0x31c34a[_0x25d22d(0x249,0x237)][_0x25d22d(0x224,0x226)](_0x31c34a[_0x25d22d(0x24d,0x24a)],Presence[_0x25d22d(0x23e,0x244)]),await new Promise(_0x300616=>setTimeout(_0x300616,0x2710)),await _0x31c34a[_0x25d22d(0x247,0x237)]['updatePresence'](_0x31c34a['jid'],Presence[_0x25d22d(0x23b,0x244)]),await new Promise(_0x230057=>setTimeout(_0x230057,0x2710)),await _0x31c34a[_0x25d22d(0x220,0x237)]['updatePresence'](_0x31c34a[_0x25d22d(0x234,0x24a)],Presence['composing']),await new Promise(_0x312d1a=>setTimeout(_0x312d1a,0x2710)),await _0x31c34a[_0x25d22d(0x23e,0x237)][_0x25d22d(0x217,0x226)](_0x31c34a[_0x25d22d(0x249,0x24a)],Presence[_0x25d22d(0x23f,0x244)]),await new Promise(_0x1bb39f=>setTimeout(_0x1bb39f,0x2710)),await _0x31c34a['client'][_0x25d22d(0x23a,0x226)](_0x31c34a[_0x25d22d(0x23f,0x24a)],Presence[_0x25d22d(0x23b,0x244)]),await new Promise(_0x324471=>setTimeout(_0x324471,0x2710)),await _0x31c34a[_0x25d22d(0x232,0x237)][_0x25d22d(0x223,0x226)](_0x31c34a[_0x25d22d(0x249,0x24a)],Presence['composing']),await new Promise(_0x398e7a=>setTimeout(_0x398e7a,0x2710)),await _0x31c34a[_0x25d22d(0x245,0x237)][_0x25d22d(0x22a,0x226)](_0x31c34a[_0x25d22d(0x25e,0x24a)],Presence[_0x25d22d(0x24d,0x244)]),await new Promise(_0x1224ca=>setTimeout(_0x1224ca,0x2710)),await _0x31c34a[_0x25d22d(0x23c,0x237)][_0x25d22d(0x210,0x226)](_0x31c34a[_0x25d22d(0x255,0x24a)],Presence['composing']),await new Promise(_0xa3040f=>setTimeout(_0xa3040f,0x2710)),await _0x31c34a['client']['updatePresence'](_0x31c34a[_0x25d22d(0x233,0x24a)],Presence[_0x25d22d(0x246,0x244)]),await new Promise(_0x1fc676=>setTimeout(_0x1fc676,0x2710)),await _0x31c34a[_0x25d22d(0x235,0x237)][_0x25d22d(0x222,0x226)](_0x31c34a[_0x25d22d(0x257,0x24a)],Presence[_0x25d22d(0x259,0x244)]),await new Promise(_0x2eb898=>setTimeout(_0x2eb898,0x2710)),await _0x31c34a[_0x25d22d(0x238,0x237)][_0x25d22d(0x220,0x226)](_0x31c34a[_0x25d22d(0x243,0x24a)],Presence[_0x25d22d(0x22e,0x244)]),await new Promise(_0x538e1e=>setTimeout(_0x538e1e,0x2710)),await _0x31c34a[_0x25d22d(0x226,0x237)]['updatePresence'](_0x31c34a['jid'],Presence[_0x25d22d(0x24c,0x244)]),await new Promise(_0x1c96c8=>setTimeout(_0x1c96c8,0x2710)),await _0x31c34a[_0x25d22d(0x224,0x237)][_0x25d22d(0x229,0x226)](_0x31c34a[_0x25d22d(0x24c,0x24a)],Presence[_0x25d22d(0x239,0x244)]),await new Promise(_0x5c5913=>setTimeout(_0x5c5913,0x2710)),await _0x31c34a[_0x25d22d(0x224,0x237)]['updatePresence'](_0x31c34a['jid'],Presence['composing']);else{if(_0x19ba1a[0x1]===_0x25d22d(0x239,0x23a))await _0x31c34a[_0x25d22d(0x223,0x237)][_0x25d22d(0x23b,0x226)](_0x31c34a[_0x25d22d(0x25f,0x24a)],Presence[_0x25d22d(0x21c,0x229)]),await new Promise(_0x9d24c3=>setTimeout(_0x9d24c3,0x2710)),await _0x31c34a[_0x25d22d(0x241,0x237)][_0x25d22d(0x220,0x226)](_0x31c34a[_0x25d22d(0x241,0x24a)],Presence['available']),await new Promise(_0x278a75=>setTimeout(_0x278a75,0x2710)),await _0x31c34a[_0x25d22d(0x220,0x237)][_0x25d22d(0x23a,0x226)](_0x31c34a[_0x25d22d(0x249,0x24a)],Presence[_0x25d22d(0x217,0x229)]),await new Promise(_0x517d6b=>setTimeout(_0x517d6b,0x2710)),await _0x31c34a[_0x25d22d(0x22d,0x237)][_0x25d22d(0x219,0x226)](_0x31c34a[_0x25d22d(0x243,0x24a)],Presence[_0x25d22d(0x224,0x229)]),await new Promise(_0x5e2e0b=>setTimeout(_0x5e2e0b,0x2710)),await _0x31c34a['client'][_0x25d22d(0x210,0x226)](_0x31c34a[_0x25d22d(0x25d,0x24a)],Presence['available']),await new Promise(_0x55ce14=>setTimeout(_0x55ce14,0x2710)),await _0x31c34a[_0x25d22d(0x240,0x237)][_0x25d22d(0x229,0x226)](_0x31c34a[_0x25d22d(0x239,0x24a)],Presence[_0x25d22d(0x22c,0x229)]),await new Promise(_0x8774f1=>setTimeout(_0x8774f1,0x2710)),await _0x31c34a[_0x25d22d(0x225,0x237)]['updatePresence'](_0x31c34a[_0x25d22d(0x234,0x24a)],Presence[_0x25d22d(0x22d,0x229)]),await new Promise(_0x4b65c3=>setTimeout(_0x4b65c3,0x2710)),await _0x31c34a[_0x25d22d(0x247,0x237)][_0x25d22d(0x22b,0x226)](_0x31c34a['jid'],Presence['available']),await new Promise(_0x132d22=>setTimeout(_0x132d22,0x2710)),await _0x31c34a[_0x25d22d(0x227,0x237)][_0x25d22d(0x211,0x226)](_0x31c34a[_0x25d22d(0x25e,0x24a)],Presence[_0x25d22d(0x214,0x229)]),await new Promise(_0x35b948=>setTimeout(_0x35b948,0x2710)),await _0x31c34a[_0x25d22d(0x226,0x237)]['updatePresence'](_0x31c34a['jid'],Presence[_0x25d22d(0x239,0x229)]),await new Promise(_0x4d65db=>setTimeout(_0x4d65db,0x2710)),await _0x31c34a[_0x25d22d(0x245,0x237)][_0x25d22d(0x214,0x226)](_0x31c34a[_0x25d22d(0x25a,0x24a)],Presence[_0x25d22d(0x220,0x229)]),await new Promise(_0x5f881a=>setTimeout(_0x5f881a,0x2710)),await _0x31c34a[_0x25d22d(0x233,0x237)][_0x25d22d(0x23c,0x226)](_0x31c34a[_0x25d22d(0x23f,0x24a)],Presence[_0x25d22d(0x222,0x229)]),await new Promise(_0x258be0=>setTimeout(_0x258be0,0x2710)),await _0x31c34a[_0x25d22d(0x247,0x237)]['updatePresence'](_0x31c34a[_0x25d22d(0x24c,0x24a)],Presence[_0x25d22d(0x216,0x229)]),await new Promise(_0x145b9e=>setTimeout(_0x145b9e,0x2710)),await _0x31c34a[_0x25d22d(0x234,0x237)][_0x25d22d(0x238,0x226)](_0x31c34a[_0x25d22d(0x25f,0x24a)],Presence[_0x25d22d(0x23b,0x229)]),await new Promise(_0x1d15bf=>setTimeout(_0x1d15bf,0x2710)),await _0x31c34a[_0x25d22d(0x23e,0x237)][_0x25d22d(0x238,0x226)](_0x31c34a[_0x25d22d(0x240,0x24a)],Presence['available']),await new Promise(_0x46d79b=>setTimeout(_0x46d79b,0x2710)),await _0x31c34a['client'][_0x25d22d(0x22c,0x226)](_0x31c34a[_0x25d22d(0x258,0x24a)],Presence[_0x25d22d(0x236,0x229)]),await new Promise(_0x38e077=>setTimeout(_0x38e077,0x2710)),await _0x31c34a['client']['updatePresence'](_0x31c34a[_0x25d22d(0x23f,0x24a)],Presence[_0x25d22d(0x224,0x229)]),await new Promise(_0x123b9a=>setTimeout(_0x123b9a,0x2710)),await _0x31c34a[_0x25d22d(0x246,0x237)]['updatePresence'](_0x31c34a[_0x25d22d(0x24f,0x24a)],Presence['available']),await new Promise(_0x23407d=>setTimeout(_0x23407d,0x2710)),await _0x31c34a[_0x25d22d(0x22f,0x237)][_0x25d22d(0x21c,0x226)](_0x31c34a[_0x25d22d(0x25b,0x24a)],Presence[_0x25d22d(0x239,0x229)]),await new Promise(_0x504ec6=>setTimeout(_0x504ec6,0x2710)),await _0x31c34a[_0x25d22d(0x233,0x237)][_0x25d22d(0x21a,0x226)](_0x31c34a['jid'],Presence[_0x25d22d(0x224,0x229)]),await new Promise(_0x30158f=>setTimeout(_0x30158f,0x2710)),await _0x31c34a['client'][_0x25d22d(0x210,0x226)](_0x31c34a[_0x25d22d(0x234,0x24a)],Presence[_0x25d22d(0x214,0x229)]),await new Promise(_0x5e5c70=>setTimeout(_0x5e5c70,0x2710)),await _0x31c34a[_0x25d22d(0x22b,0x237)][_0x25d22d(0x221,0x226)](_0x31c34a[_0x25d22d(0x23d,0x24a)],Presence[_0x25d22d(0x23c,0x229)]),await new Promise(_0x841276=>setTimeout(_0x841276,0x2710)),await _0x31c34a[_0x25d22d(0x227,0x237)][_0x25d22d(0x215,0x226)](_0x31c34a['jid'],Presence[_0x25d22d(0x21f,0x229)]),await new Promise(_0xfb3d7=>setTimeout(_0xfb3d7,0x2710)),await _0x31c34a[_0x25d22d(0x232,0x237)][_0x25d22d(0x216,0x226)](_0x31c34a[_0x25d22d(0x23d,0x24a)],Presence['available']),await new Promise(_0x57e4a5=>setTimeout(_0x57e4a5,0x2710)),await _0x31c34a[_0x25d22d(0x234,0x237)][_0x25d22d(0x21a,0x226)](_0x31c34a[_0x25d22d(0x24f,0x24a)],Presence['available']),await new Promise(_0x3b7d07=>setTimeout(_0x3b7d07,0x2710)),await _0x31c34a[_0x25d22d(0x248,0x237)][_0x25d22d(0x228,0x226)](_0x31c34a[_0x25d22d(0x247,0x24a)],Presence[_0x25d22d(0x21f,0x229)]),await _0x31c34a[_0x25d22d(0x22c,0x237)][_0x25d22d(0x20f,0x226)](_0x31c34a[_0x25d22d(0x23f,0x24a)],Presence['available']),await new Promise(_0x15832d=>setTimeout(_0x15832d,0x2710)),await _0x31c34a[_0x25d22d(0x23f,0x237)]['updatePresence'](_0x31c34a[_0x25d22d(0x25b,0x24a)],Presence[_0x25d22d(0x23f,0x229)]),await new Promise(_0xf79c03=>setTimeout(_0xf79c03,0x2710)),await _0x31c34a[_0x25d22d(0x22e,0x237)][_0x25d22d(0x210,0x226)](_0x31c34a[_0x25d22d(0x24c,0x24a)],Presence['available']),await new Promise(_0xb91303=>setTimeout(_0xb91303,0x2710)),await _0x31c34a[_0x25d22d(0x23c,0x237)]['updatePresence'](_0x31c34a[_0x25d22d(0x24c,0x24a)],Presence[_0x25d22d(0x227,0x229)]),await new Promise(_0x5b0e26=>setTimeout(_0x5b0e26,0x2710)),await _0x31c34a[_0x25d22d(0x23a,0x237)][_0x25d22d(0x22a,0x226)](_0x31c34a[_0x25d22d(0x24f,0x24a)],Presence[_0x25d22d(0x219,0x229)]),await new Promise(_0xe3ba7c=>setTimeout(_0xe3ba7c,0x2710)),await _0x31c34a[_0x25d22d(0x229,0x237)][_0x25d22d(0x234,0x226)](_0x31c34a[_0x25d22d(0x249,0x24a)],Presence[_0x25d22d(0x216,0x229)]),await new Promise(_0x32a83b=>setTimeout(_0x32a83b,0x2710)),await _0x31c34a[_0x25d22d(0x23e,0x237)][_0x25d22d(0x22d,0x226)](_0x31c34a['jid'],Presence[_0x25d22d(0x228,0x229)]),await new Promise(_0x3e0c68=>setTimeout(_0x3e0c68,0x2710)),await _0x31c34a[_0x25d22d(0x246,0x237)]['updatePresence'](_0x31c34a[_0x25d22d(0x25a,0x24a)],Presence[_0x25d22d(0x21d,0x229)]),await new Promise(_0xd47f8e=>setTimeout(_0xd47f8e,0x2710)),await _0x31c34a[_0x25d22d(0x23e,0x237)][_0x25d22d(0x214,0x226)](_0x31c34a[_0x25d22d(0x25b,0x24a)],Presence['available']),await new Promise(_0x5c8ea3=>setTimeout(_0x5c8ea3,0x2710)),await _0x31c34a[_0x25d22d(0x23e,0x237)][_0x25d22d(0x216,0x226)](_0x31c34a[_0x25d22d(0x248,0x24a)],Presence[_0x25d22d(0x224,0x229)]),await new Promise(_0xdcea99=>setTimeout(_0xdcea99,0x2710)),await _0x31c34a[_0x25d22d(0x24e,0x237)][_0x25d22d(0x211,0x226)](_0x31c34a['jid'],Presence[_0x25d22d(0x231,0x229)]),await new Promise(_0x159ff8=>setTimeout(_0x159ff8,0x2710)),await _0x31c34a[_0x25d22d(0x228,0x237)][_0x25d22d(0x233,0x226)](_0x31c34a[_0x25d22d(0x250,0x24a)],Presence[_0x25d22d(0x22f,0x229)]),await new Promise(_0x4084ad=>setTimeout(_0x4084ad,0x2710)),await _0x31c34a['client'][_0x25d22d(0x210,0x226)](_0x31c34a['jid'],Presence[_0x25d22d(0x220,0x229)]),await new Promise(_0x344661=>setTimeout(_0x344661,0x2710)),await _0x31c34a[_0x25d22d(0x23e,0x237)]['updatePresence'](_0x31c34a['jid'],Presence['available']),await new Promise(_0x362d58=>setTimeout(_0x362d58,0x2710)),await _0x31c34a[_0x25d22d(0x240,0x237)]['updatePresence'](_0x31c34a[_0x25d22d(0x240,0x24a)],Presence[_0x25d22d(0x22e,0x229)]),await new Promise(_0x17abf2=>setTimeout(_0x17abf2,0x2710)),await _0x31c34a[_0x25d22d(0x23b,0x237)][_0x25d22d(0x22e,0x226)](_0x31c34a[_0x25d22d(0x254,0x24a)],Presence[_0x25d22d(0x22a,0x229)]),await new Promise(_0x4ab4ee=>setTimeout(_0x4ab4ee,0x2710)),await _0x31c34a[_0x25d22d(0x23c,0x237)]['updatePresence'](_0x31c34a['jid'],Presence[_0x25d22d(0x214,0x229)]),await new Promise(_0x468341=>setTimeout(_0x468341,0x2710)),await _0x31c34a['client']['updatePresence'](_0x31c34a[_0x25d22d(0x237,0x24a)],Presence['available']),await new Promise(_0x4aca27=>setTimeout(_0x4aca27,0x2710)),await _0x31c34a[_0x25d22d(0x230,0x237)][_0x25d22d(0x225,0x226)](_0x31c34a[_0x25d22d(0x238,0x24a)],Presence[_0x25d22d(0x230,0x229)]),await new Promise(_0x5d5365=>setTimeout(_0x5d5365,0x2710)),await _0x31c34a['client'][_0x25d22d(0x22b,0x226)](_0x31c34a['jid'],Presence['available']),await new Promise(_0xc207ed=>setTimeout(_0xc207ed,0x2710)),await _0x31c34a[_0x25d22d(0x221,0x237)][_0x25d22d(0x232,0x226)](_0x31c34a[_0x25d22d(0x24d,0x24a)],Presence[_0x25d22d(0x227,0x229)]),await new Promise(_0x43353e=>setTimeout(_0x43353e,0x2710)),await _0x31c34a[_0x25d22d(0x242,0x237)][_0x25d22d(0x224,0x226)](_0x31c34a[_0x25d22d(0x254,0x24a)],Presence['available']),await new Promise(_0x327ea0=>setTimeout(_0x327ea0,0x2710)),await _0x31c34a[_0x25d22d(0x22c,0x237)]['updatePresence'](_0x31c34a[_0x25d22d(0x252,0x24a)],Presence[_0x25d22d(0x237,0x229)]),await new Promise(_0x2591f0=>setTimeout(_0x2591f0,0x2710)),await _0x31c34a[_0x25d22d(0x231,0x237)][_0x25d22d(0x210,0x226)](_0x31c34a[_0x25d22d(0x238,0x24a)],Presence[_0x25d22d(0x240,0x229)]),await new Promise(_0x1e1360=>setTimeout(_0x1e1360,0x2710)),await _0x31c34a[_0x25d22d(0x22b,0x237)][_0x25d22d(0x222,0x226)](_0x31c34a[_0x25d22d(0x23b,0x24a)],Presence[_0x25d22d(0x230,0x229)]),await new Promise(_0x54f1cc=>setTimeout(_0x54f1cc,0x2710)),await _0x31c34a[_0x25d22d(0x220,0x237)][_0x25d22d(0x22e,0x226)](_0x31c34a[_0x25d22d(0x23f,0x24a)],Presence[_0x25d22d(0x233,0x229)]);else{if(_0x19ba1a[0x1]===_0x25d22d(0x251,0x247))await _0x31c34a[_0x25d22d(0x23f,0x237)]['updatePresence'](_0x31c34a['jid'],Presence['recording']),await new Promise(_0x1d0028=>setTimeout(_0x1d0028,0x2710)),await _0x31c34a[_0x25d22d(0x220,0x237)][_0x25d22d(0x21c,0x226)](_0x31c34a[_0x25d22d(0x244,0x24a)],Presence[_0x25d22d(0x23a,0x247)]),await new Promise(_0x536ac1=>setTimeout(_0x536ac1,0x2710)),await _0x31c34a[_0x25d22d(0x24b,0x237)]['updatePresence'](_0x31c34a[_0x25d22d(0x23a,0x24a)],Presence[_0x25d22d(0x230,0x247)]),await new Promise(_0x31cac8=>setTimeout(_0x31cac8,0x2710)),await _0x31c34a['client']['updatePresence'](_0x31c34a[_0x25d22d(0x25d,0x24a)],Presence[_0x25d22d(0x240,0x247)]),await new Promise(_0x5d885d=>setTimeout(_0x5d885d,0x2710)),await _0x31c34a[_0x25d22d(0x238,0x237)]['updatePresence'](_0x31c34a['jid'],Presence[_0x25d22d(0x236,0x247)]),await new Promise(_0x4dbfdd=>setTimeout(_0x4dbfdd,0x2710)),await _0x31c34a[_0x25d22d(0x227,0x237)][_0x25d22d(0x228,0x226)](_0x31c34a[_0x25d22d(0x25b,0x24a)],Presence['recording']),await new Promise(_0x32c421=>setTimeout(_0x32c421,0x2710)),await _0x31c34a[_0x25d22d(0x240,0x237)][_0x25d22d(0x219,0x226)](_0x31c34a[_0x25d22d(0x245,0x24a)],Presence[_0x25d22d(0x246,0x247)]),await new Promise(_0x26eaa0=>setTimeout(_0x26eaa0,0x2710)),await _0x31c34a['client']['updatePresence'](_0x31c34a[_0x25d22d(0x248,0x24a)],Presence[_0x25d22d(0x243,0x247)]),await new Promise(_0x35b225=>setTimeout(_0x35b225,0x2710)),await _0x31c34a[_0x25d22d(0x244,0x237)][_0x25d22d(0x22d,0x226)](_0x31c34a[_0x25d22d(0x25a,0x24a)],Presence[_0x25d22d(0x258,0x247)]),await new Promise(_0x57b998=>setTimeout(_0x57b998,0x2710)),await _0x31c34a[_0x25d22d(0x247,0x237)][_0x25d22d(0x238,0x226)](_0x31c34a[_0x25d22d(0x257,0x24a)],Presence['recording']),await new Promise(_0x30360a=>setTimeout(_0x30360a,0x2710)),await _0x31c34a[_0x25d22d(0x24c,0x237)][_0x25d22d(0x214,0x226)](_0x31c34a['jid'],Presence[_0x25d22d(0x24c,0x247)]),await new Promise(_0x3c399e=>setTimeout(_0x3c399e,0x2710)),await _0x31c34a[_0x25d22d(0x239,0x237)]['updatePresence'](_0x31c34a['jid'],Presence[_0x25d22d(0x235,0x247)]),await new Promise(_0x56abaf=>setTimeout(_0x56abaf,0x2710)),await _0x31c34a[_0x25d22d(0x220,0x237)][_0x25d22d(0x215,0x226)](_0x31c34a['jid'],Presence[_0x25d22d(0x237,0x247)]),await new Promise(_0x4c6a43=>setTimeout(_0x4c6a43,0x2710)),await _0x31c34a['client'][_0x25d22d(0x232,0x226)](_0x31c34a[_0x25d22d(0x239,0x24a)],Presence['recording']),await new Promise(_0x1683d8=>setTimeout(_0x1683d8,0x2710)),await _0x31c34a[_0x25d22d(0x234,0x237)][_0x25d22d(0x239,0x226)](_0x31c34a[_0x25d22d(0x24b,0x24a)],Presence[_0x25d22d(0x24e,0x247)]),await new Promise(_0x5bd096=>setTimeout(_0x5bd096,0x2710)),await _0x31c34a[_0x25d22d(0x23a,0x237)][_0x25d22d(0x232,0x226)](_0x31c34a['jid'],Presence[_0x25d22d(0x24c,0x247)]),await new Promise(_0xa9fff7=>setTimeout(_0xa9fff7,0x2710)),await _0x31c34a[_0x25d22d(0x244,0x237)][_0x25d22d(0x21c,0x226)](_0x31c34a[_0x25d22d(0x25d,0x24a)],Presence['recording']),await new Promise(_0x54c61c=>setTimeout(_0x54c61c,0x2710)),await _0x31c34a[_0x25d22d(0x245,0x237)][_0x25d22d(0x239,0x226)](_0x31c34a[_0x25d22d(0x240,0x24a)],Presence['recording']),await new Promise(_0x580dfb=>setTimeout(_0x580dfb,0x2710)),await _0x31c34a[_0x25d22d(0x243,0x237)][_0x25d22d(0x237,0x226)](_0x31c34a[_0x25d22d(0x241,0x24a)],Presence['recording']),await new Promise(_0x8c0055=>setTimeout(_0x8c0055,0x2710)),await _0x31c34a['client']['updatePresence'](_0x31c34a[_0x25d22d(0x24b,0x24a)],Presence[_0x25d22d(0x255,0x247)]),await new Promise(_0x35ea4c=>setTimeout(_0x35ea4c,0x2710)),await _0x31c34a[_0x25d22d(0x242,0x237)][_0x25d22d(0x239,0x226)](_0x31c34a['jid'],Presence[_0x25d22d(0x248,0x247)]),await new Promise(_0x528ca8=>setTimeout(_0x528ca8,0x2710)),await _0x31c34a[_0x25d22d(0x22c,0x237)][_0x25d22d(0x237,0x226)](_0x31c34a[_0x25d22d(0x25b,0x24a)],Presence['recording']),await new Promise(_0x6da27c=>setTimeout(_0x6da27c,0x2710)),await _0x31c34a[_0x25d22d(0x223,0x237)][_0x25d22d(0x230,0x226)](_0x31c34a[_0x25d22d(0x23f,0x24a)],Presence[_0x25d22d(0x238,0x247)]),await new Promise(_0x57c42b=>setTimeout(_0x57c42b,0x2710)),await _0x31c34a[_0x25d22d(0x246,0x237)]['updatePresence'](_0x31c34a[_0x25d22d(0x250,0x24a)],Presence[_0x25d22d(0x258,0x247)]),await new Promise(_0x4c9742=>setTimeout(_0x4c9742,0x2710)),await _0x31c34a['client'][_0x25d22d(0x21a,0x226)](_0x31c34a[_0x25d22d(0x242,0x24a)],Presence[_0x25d22d(0x239,0x247)]),await new Promise(_0x162974=>setTimeout(_0x162974,0x2710)),await _0x31c34a[_0x25d22d(0x24d,0x237)][_0x25d22d(0x227,0x226)](_0x31c34a[_0x25d22d(0x237,0x24a)],Presence['recording']),await _0x31c34a[_0x25d22d(0x222,0x237)][_0x25d22d(0x236,0x226)](_0x31c34a[_0x25d22d(0x251,0x24a)],Presence[_0x25d22d(0x24b,0x247)]),await new Promise(_0x5ef620=>setTimeout(_0x5ef620,0x2710)),await _0x31c34a['client'][_0x25d22d(0x222,0x226)](_0x31c34a[_0x25d22d(0x24a,0x24a)],Presence['recording']),await new Promise(_0xb2d80=>setTimeout(_0xb2d80,0x2710)),await _0x31c34a[_0x25d22d(0x24a,0x237)][_0x25d22d(0x225,0x226)](_0x31c34a[_0x25d22d(0x239,0x24a)],Presence['recording']),await new Promise(_0x174b89=>setTimeout(_0x174b89,0x2710)),await _0x31c34a['client'][_0x25d22d(0x230,0x226)](_0x31c34a[_0x25d22d(0x244,0x24a)],Presence[_0x25d22d(0x240,0x247)]),await new Promise(_0x4169db=>setTimeout(_0x4169db,0x2710)),await _0x31c34a[_0x25d22d(0x243,0x237)][_0x25d22d(0x238,0x226)](_0x31c34a['jid'],Presence[_0x25d22d(0x23b,0x247)]),await new Promise(_0x4d2081=>setTimeout(_0x4d2081,0x2710)),await _0x31c34a[_0x25d22d(0x228,0x237)]['updatePresence'](_0x31c34a[_0x25d22d(0x252,0x24a)],Presence[_0x25d22d(0x241,0x247)]),await new Promise(_0x54050c=>setTimeout(_0x54050c,0x2710)),await _0x31c34a[_0x25d22d(0x24c,0x237)][_0x25d22d(0x230,0x226)](_0x31c34a[_0x25d22d(0x245,0x24a)],Presence['recording']),await new Promise(_0x253503=>setTimeout(_0x253503,0x2710)),await _0x31c34a[_0x25d22d(0x249,0x237)][_0x25d22d(0x226,0x226)](_0x31c34a[_0x25d22d(0x246,0x24a)],Presence[_0x25d22d(0x232,0x247)]),await new Promise(_0x5aca7a=>setTimeout(_0x5aca7a,0x2710)),await _0x31c34a[_0x25d22d(0x22c,0x237)][_0x25d22d(0x223,0x226)](_0x31c34a[_0x25d22d(0x239,0x24a)],Presence[_0x25d22d(0x23d,0x247)]),await new Promise(_0x3ee732=>setTimeout(_0x3ee732,0x2710)),await _0x31c34a[_0x25d22d(0x247,0x237)][_0x25d22d(0x236,0x226)](_0x31c34a['jid'],Presence['recording']),await new Promise(_0x4e3867=>setTimeout(_0x4e3867,0x2710)),await _0x31c34a['client'][_0x25d22d(0x23a,0x226)](_0x31c34a[_0x25d22d(0x257,0x24a)],Presence[_0x25d22d(0x238,0x247)]),await new Promise(_0x2eeed3=>setTimeout(_0x2eeed3,0x2710)),await _0x31c34a[_0x25d22d(0x23f,0x237)][_0x25d22d(0x20f,0x226)](_0x31c34a[_0x25d22d(0x244,0x24a)],Presence[_0x25d22d(0x24b,0x247)]),await new Promise(_0x965bf5=>setTimeout(_0x965bf5,0x2710)),await _0x31c34a[_0x25d22d(0x225,0x237)][_0x25d22d(0x21b,0x226)](_0x31c34a[_0x25d22d(0x23a,0x24a)],Presence[_0x25d22d(0x253,0x247)]),await new Promise(_0x3656fe=>setTimeout(_0x3656fe,0x2710)),await _0x31c34a[_0x25d22d(0x239,0x237)][_0x25d22d(0x236,0x226)](_0x31c34a[_0x25d22d(0x257,0x24a)],Presence['recording']),await new Promise(_0x2b02e9=>setTimeout(_0x2b02e9,0x2710)),await _0x31c34a[_0x25d22d(0x23a,0x237)][_0x25d22d(0x215,0x226)](_0x31c34a['jid'],Presence[_0x25d22d(0x256,0x247)]),await new Promise(_0xe528ae=>setTimeout(_0xe528ae,0x2710)),await _0x31c34a[_0x25d22d(0x249,0x237)][_0x25d22d(0x211,0x226)](_0x31c34a[_0x25d22d(0x246,0x24a)],Presence[_0x25d22d(0x23d,0x247)]),await new Promise(_0x3ee974=>setTimeout(_0x3ee974,0x2710)),await _0x31c34a[_0x25d22d(0x222,0x237)]['updatePresence'](_0x31c34a[_0x25d22d(0x234,0x24a)],Presence[_0x25d22d(0x232,0x247)]),await new Promise(_0x444d89=>setTimeout(_0x444d89,0x2710)),await _0x31c34a[_0x25d22d(0x248,0x237)][_0x25d22d(0x23a,0x226)](_0x31c34a[_0x25d22d(0x246,0x24a)],Presence['recording']),await new Promise(_0x455978=>setTimeout(_0x455978,0x2710)),await _0x31c34a[_0x25d22d(0x226,0x237)][_0x25d22d(0x237,0x226)](_0x31c34a['jid'],Presence[_0x25d22d(0x23e,0x247)]),await new Promise(_0x134ee9=>setTimeout(_0x134ee9,0x2710)),await _0x31c34a[_0x25d22d(0x242,0x237)][_0x25d22d(0x216,0x226)](_0x31c34a[_0x25d22d(0x25f,0x24a)],Presence[_0x25d22d(0x24b,0x247)]),await new Promise(_0x174d4d=>setTimeout(_0x174d4d,0x2710)),await _0x31c34a[_0x25d22d(0x22f,0x237)][_0x25d22d(0x216,0x226)](_0x31c34a[_0x25d22d(0x237,0x24a)],Presence['recording']),await new Promise(_0x2a27b3=>setTimeout(_0x2a27b3,0x2710)),await _0x31c34a[_0x25d22d(0x243,0x237)][_0x25d22d(0x216,0x226)](_0x31c34a[_0x25d22d(0x259,0x24a)],Presence[_0x25d22d(0x236,0x247)]),await new Promise(_0x36a3b5=>setTimeout(_0x36a3b5,0x2710)),await _0x31c34a['client']['updatePresence'](_0x31c34a[_0x25d22d(0x249,0x24a)],Presence[_0x25d22d(0x251,0x247)]),await new Promise(_0x1357e5=>setTimeout(_0x1357e5,0x2710)),await _0x31c34a[_0x25d22d(0x23d,0x237)][_0x25d22d(0x21f,0x226)](_0x31c34a['jid'],Presence[_0x25d22d(0x25e,0x247)]),await new Promise(_0x29fe41=>setTimeout(_0x29fe41,0x2710)),await _0x31c34a[_0x25d22d(0x22d,0x237)][_0x25d22d(0x23a,0x226)](_0x31c34a['jid'],Presence[_0x25d22d(0x258,0x247)]),await new Promise(_0x555c93=>setTimeout(_0x555c93,0x2710)),await _0x31c34a['client']['updatePresence'](_0x31c34a[_0x25d22d(0x24b,0x24a)],Presence['recording']);else{if(_0x19ba1a[0x1]===_0x25d22d(0x231,0x222))return await _0x31c34a[_0x25d22d(0x226,0x237)][_0x25d22d(0x217,0x226)](_0x31c34a[_0x25d22d(0x242,0x24a)],Presence[_0x25d22d(0x245,0x24d)]);else await _0x31c34a[_0x25d22d(0x23b,0x248)](Lang[_0x25d22d(0x23e,0x24c)]);}}}}});
+const Asena = require('../events');
+const {MessageType, MessageOptions, Mimetype, Presence} = require('@adiwajshing/baileys');
+
+const Language = require('../language');
+const Lang = Language.getString('scam');
+
+Asena.addCommand({pattern: 'scam ?(.*)', fromMe: true, desc: Lang.SCAM_DESC}, (async (message, match) => {
+
+    if (match[1] === '') {
+
+        return await message.sendMessage(Lang.SCAM_NOTFOUND);
+
+    } else if (match[1] === 'typing') {
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.composing)
+
+    } else if (match[1] === 'online') {
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.available)
+
+    } else if (match[1] === 'recording') {
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+        await new Promise(r => setTimeout(r, 10000));
+
+        await message.client.updatePresence(message.jid,Presence.recording)
+
+    } else if (match[1] === 'stop') {
+
+        return await message.client.updatePresence(message.jid,Presence.paused)
+
+    } else {
+
+        await message.sendMessage(Lang.SCAM_NULL);
+
+    }
+
+}));

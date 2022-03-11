@@ -1,9 +1,702 @@
-/* Copyright (C) 2020 Aqua Snake.
-
+/* 
+Heroku plugin for WhatsAsena - W4RR10R
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-
-Cyber Bot - Aqua Snake
+WhatsAsena - Yusuf Usta
 */
 
-function _0x11d3d3(_0x3b7b39,_0x1d9b93){return _0x258b(_0x3b7b39-0x17b,_0x1d9b93);}(function(_0x381b40,_0x3509f6){const _0x359289=_0x381b40();function _0x844632(_0x496c9e,_0x3a7303){return _0x258b(_0x496c9e- -0x1e6,_0x3a7303);}while(!![]){try{const _0x46a361=-parseInt(_0x844632(-0x14f,-0x19f))/0x1+parseInt(_0x844632(-0x70,-0x78))/0x2+-parseInt(_0x844632(-0xe6,-0x127))/0x3+-parseInt(_0x844632(-0x110,-0x113))/0x4*(parseInt(_0x844632(-0x7a,0x2))/0x5)+parseInt(_0x844632(-0xa5,-0xbb))/0x6+parseInt(_0x844632(-0x11a,-0xcb))/0x7*(parseInt(_0x844632(-0x92,-0xbb))/0x8)+-parseInt(_0x844632(-0xfd,-0xce))/0x9;if(_0x46a361===_0x3509f6)break;else _0x359289['push'](_0x359289['shift']());}catch(_0x5f35e8){_0x359289['push'](_0x359289['shift']());}}}(_0x35d4,0xc4172));const _0x14da49=(function(){let _0x13ef16=!![];return function(_0x59979f,_0x433e7d){const _0x4e889e=_0x13ef16?function(){function _0x32ebb4(_0x29711f,_0x71021){return _0x258b(_0x71021-0x37b,_0x29711f);}if(_0x433e7d){const _0x586894=_0x433e7d[_0x32ebb4(0x444,0x42f)](_0x59979f,arguments);return _0x433e7d=null,_0x586894;}}:function(){};return _0x13ef16=![],_0x4e889e;};}()),_0x5b6e76=_0x14da49(this,function(){function _0x3d354d(_0x4045f4,_0x27f957){return _0x258b(_0x27f957- -0x135,_0x4045f4);}return _0x5b6e76[_0x3d354d(-0x6a,-0x46)]()[_0x3d354d(0x1d,0x44)](_0x3d354d(-0xe1,-0x67))['toString']()[_0x3d354d(0x39,-0x2)](_0x5b6e76)[_0x3d354d(0x19,0x44)]('(((.+)+)+)+$');});_0x5b6e76();const _0x48dc66=(function(){let _0x4a7bde=!![];return function(_0x3653f3,_0x2df29b){const _0x400889=_0x4a7bde?function(){function _0x4f38d7(_0x24d12b,_0x5c33bb){return _0x258b(_0x24d12b- -0x302,_0x5c33bb);}if(_0x2df29b){const _0x1706c5=_0x2df29b[_0x4f38d7(-0x24e,-0x29c)](_0x3653f3,arguments);return _0x2df29b=null,_0x1706c5;}}:function(){};return _0x4a7bde=![],_0x400889;};}()),_0x28a5cb=_0x48dc66(this,function(){const _0x5b4a3a=function(){let _0x17b33e;try{_0x17b33e=Function('return\x20(function()\x20'+_0x295147(0x3b3,0x33f)+');')();}catch(_0x3dcb27){_0x17b33e=window;}function _0x295147(_0x5882a1,_0x4e42e4){return _0x258b(_0x5882a1-0x2c6,_0x4e42e4);}return _0x17b33e;},_0xc1a180=_0x5b4a3a(),_0x1d817e=_0xc1a180[_0x2068cd(-0x23c,-0x206)]=_0xc1a180['console']||{};function _0x2068cd(_0xb3826d,_0x40f5c6){return _0x258b(_0xb3826d- -0x3b4,_0x40f5c6);}const _0x286f1a=[_0x2068cd(-0x2a2,-0x30e),_0x2068cd(-0x288,-0x305),_0x2068cd(-0x319,-0x2ef),_0x2068cd(-0x297,-0x2af),'exception','table',_0x2068cd(-0x302,-0x2d9)];for(let _0x440d70=0x0;_0x440d70<_0x286f1a[_0x2068cd(-0x2d2,-0x254)];_0x440d70++){const _0x348094=_0x48dc66['constructor']['prototype'][_0x2068cd(-0x323,-0x302)](_0x48dc66),_0x4163ad=_0x286f1a[_0x440d70],_0x21e658=_0x1d817e[_0x4163ad]||_0x348094;_0x348094[_0x2068cd(-0x27f,-0x2f6)]=_0x48dc66[_0x2068cd(-0x323,-0x318)](_0x48dc66),_0x348094[_0x2068cd(-0x2c5,-0x32b)]=_0x21e658['toString'][_0x2068cd(-0x323,-0x37c)](_0x21e658),_0x1d817e[_0x4163ad]=_0x348094;}});_0x28a5cb();const Asena=require(_0x11d3d3(0x25c,0x1e7)),Config=require(_0x11d3d3(0x286,0x257)),Heroku=require(_0x11d3d3(0x218,0x206)),{secondsToHms}=require(_0x11d3d3(0x260,0x241)),got=require(_0x11d3d3(0x245,0x2a4)),{MessageType}=require(_0x11d3d3(0x2cb,0x29d)),sql=require('./sql/greetings'),Language=require(_0x11d3d3(0x21a,0x1bc)),Lang=Language['getString'](_0x11d3d3(0x2f6,0x2b0)),Langr=Language['getString']('lydia'),heroku=new Heroku({'token':Config[_0x11d3d3(0x2e0,0x31b)][_0x11d3d3(0x267,0x29d)]});let baseURI='/apps/'+Config[_0x11d3d3(0x2e0,0x357)][_0x11d3d3(0x237,0x1ca)];function _0x35d4(){const _0x487bab=['qvbqx05btuu','tefor1vbr0u6Dmo8CMTJzq','revcvuC6igzHBhnL','Dw5TDxrL','Dhj1zq','quzlx01fu1nbr0u','s0vzx1zbtf9nsvntsu5h','u0vorf9srufeoMzHBgrL','tefor1vbr0u6iefA','Cgf0y2G','tefor1vbr0u6ihrY','r1jFrevm','tefor1vbr0u6twW','q2HYB21LlZGWlJaUmZK4nY4XndKGtw9IAwXLifnHzMfYAs81mZCUmZy','z290','u0vorf9srufeoIbuCMLL','nZDeB2XSwxO','qKXpq0TFq0HbvdPMywXKzq','kcGOlISPkYKRksSK','tefor1vbr0u6Auq','tefor1vbr0u6ieHj','x0L0igXVB2TZigXPA2uGEw91igfYzsb0CNLPBMCGDg8GBwfRzsb0AgvFicPot19ptKZeSe5fkIbFDMfYihn3AxrJAf8GkNrYDwuUkGPFrg9UDcb3B3jYEsWGssb3AwXSihnLDcbPDcbMB3iGEw91lL8','qKXpq0TFq0HbvdOGrMfSC2u','tefor1vbr0u6ievU','revcvuC6vhjPzq','tefor1vbr0u6ief6','nZK2ndu2zKDdq2vz','qurex01fu1nbr0u','A2LJA21L','ywrK','tefor1vbr0u6ieJeSq','ChvIBgLJ','z29Vzgj5zq','Ahr0Chm6lY9HCgKUAgvYB2T1lMnVBs9Hy2nVDw50CY8','tefor1vbr0u6ie1S','l2fJy291BNq','x0L0igXVB2TZigXPA2uGEw91igfYzsb0CNLPBMCGDg8Gy2HHBMDLigjVDcbSyw5NDwfNzsb0BYaQu3bHBMLZAc4QcL9eB250ihDVCNj5lcbjihDPBgWGC2v0igL0igzVCIb5B3uUxW','lI4VzxzLBNrZ','BgvUz3rO','x0L0igXVB2TZigXPA2uGEw91igfYzsb0CNLPBMCGDg8GBwfRzsb0AgvFicPcte9ds19dsefukIbFDMfYihn3AxrJAf8GkMzHBhnLlIOkx0rVBNqGD29YCNKSieKGD2LSBcbZzxqGAxqGzM9YihLVDs5F','tefor1vbr0u6rsbt','lI9HzMS','tK9Ft05mXlbortOGzMfRC2u','BwvZC2fNzq','revcvuC6zMXHC2u','otiWmJCZngTHAerfAq','x0FdTNldVg7dVmwFzsbNW7zYzsbIB3qGzgLSAw5PxYaQsgLUDmoNzsOGx3LHCg1HEweGW6DHBmsXXz/eSxLVCNn1BI5FcL9nzxjHAYbLDg1LlcbZzw5PBIbPW6DPBIbKB8sFCNvZDw51igf5yxjSyxLHyMLSAxjPBs5F','revcvuC6ihrYDwu','qvbjx0Tfwq','E30Uy29UC3rYDwn0B3iOiNjLDhvYBIb0AgLZiIKOicK','tefor1vbr0u6vhi','Dg9tDhjPBMC','C2vUze1LC3nHz2u','tefor1vbr0u6ievt','tefor1vbr0u6BuW','D2vSy29Tzq','x0FdTNldVg7dVmwFzsbNW7zYzsbIB3qGzgLSAw5PxYaQvmo8CMVdP2uQif95yxbTyxLHimoNywZeSCwFXlf5B3jZDw4UxWPFtwvYywSGzxrTzsWGC2vUAw4GACoNAw4Gzg/eN3j1C3vUDsbHEwfYBgf5ywjPBgLYAw0UxW','u0vorf9srufeoLrYDwu','tK9Ft05mXlbortOGzMXHC2u','revmx1nvq0nfu1m','zgvTB3rL','tK9Ft05mXlbortPuCMLL','revcvuC','revcvuC6ifrYDwu','C3bSAxq','C2H1DgrVD24K','qKXpq0TFq0HbvdPMBgfZzq','tefor1vbr0u6vhvYA2nL','mZG2odC3zLv2y2Pz','qKXpq0TFq0HbvdOGzMfSC2u','tK9Ft05mXlbortPgywXZzq','yMfU','revcvuC6igzSyxnL','CM91BMq','revcvuC6ifrYAwu','ywXPDMu','l2zVCM1HDgLVBI8','tK9Ft05mXlbortOGzMfSC2u','tefor1vbr0u6ievUz2XPC2G','lI4Vy29UzMLN','ywzR','u0vorf9srufeoKzHBhnL','z2v0','tefor1vbr0u6igvt','tefor1vbr0u6ieLe','y2XPzw50','Bg9N','DhjPBq','x0FdTNldVg7dVmwFzsbNW7zYzv8GkK5px09otmsWtKuQif9HBMfODgfYXlfUXlfFicP0CNvLkIbFEwfWBwf5ysddP2fSXlhfN8sXEw9YC3vUlL8kx01LCMfRigv0BwuSihnLBMLUigNdP2LUigrVXj9YDxn1BNuGyxLHCMXHEwfIAwXPCMLTlL8','u0vorf9srufeoKzbtfnf','tefor1vbr0u6qsbA','teforW','tefor1vbr0u6ie1m','oIbGygb7FwbGyaOk','su5wquXjra','u1vdq19brG','tefor1vbr0u6AmsX','zxjYB3i','l2r5BM9Z','revmvKfsx0rfu0m','tK9Ft05mXlbortPuCNvL','ChjVBw90zq','l2nVBMzPzY12yxjZ','rfLot19mruzu','revcvuC6zMfRC2u','x0L0igXVB2TZigXPA2uGEw91igfYzsb0CNLPBMCGDg8GBwfRzsb0AgvFicPtru5ex1jfquqQif92yxiGC3DPDgnOxYaQzMfSC2uUkGPFrg9UDcb3B3jYEsWGssb3AwXSihnLDcbPDcbMB3iGEw91lL8','tefor1vbr0u6ihrs','u1vdqW','tefor1vbr0u6igLe','tK9Ft05mXlbortOGDhvYzq','x0L0igXVB2TZigXPA2uGEw91igfYzsb0CNLPBMCGDg8Gy2HHBMDLigjVDcbSyw5NDwfNzsb0BYaQqxPLCMjHAwPHBMKUkGPFrg9UDcb3B3jYEsWGssb3AwXSihnLDcbPDcbMB3iGEw91lL8','revcvuC6Dhr1zq','D2fYBG','qKXpq0TFq0HbvdOGzMXHC2u','revcvuC6vhj1zq','zMXVB3i','tefor1vbr0u6smsX','C2v0DMfYid8OlIOP','revcvuC6rMfSC2u','y29UC3rYDwn0B3i','tefor1vbr0u6igvZ','x19WCM90B19F','Dw5IBg9JAW','tefor1vbr0u6ifrY','tefor1vbr0u6Dfi','x0FdTNldVg7dVmwFzsbNW7zYzsbIB3qGzgLSAw5PxYaQXlbUz2LSAxPLkIbFEwfWBwf5ysddP2fSXlhfN8sXEw9YC3vUlL8kx01LCMfRigv0BwuSihnLBMLUigNdP2LUigrVXj9YDxn1BNuGyxLHCMXHEwfIAwXPCMLTlL8','tK9Ft05mXlbortOGrKfmu0u','zM9YBwf0','u0vorf9srufeoLrsvuu','revcvuC6ihr1CMu','x0FdTNldVg7dVmwFzsbNW7zYzv8GkK5px09otmsWtKuQif9HBMfODgfYXlfUXlfFicPMywXZzsOGx3LHCg1HEweGW6DHBmsXXz/eSxLVCNn1BI5FcL9nzxjHAYbLDg1LlcbZzw5PBIbPW6DPBIbKB8sFCNvZDw51igf5yxjSyxLHyMLSAxjPBs5F','qKXpq0TFq0HbvdPgywXZzq','u0vuvKfsx0rfu0m','ody4mJe2mLHnufDQwG','revcvuC6rKfmu0u','zgvSzxrL','u0Hvverpv05FrevtqW','zMfSC2u','tefor1vbr0u6igf6','tefor1vbr0u6tuW','yxbWBgLJyxrPB24VDM5KlMHLCM9RDsTQC29UoYb2zxjZAw9UptmUywnJB3vUDc1XDw90yxm','x0L0igXVB2TZigXPA2uGEw91igfYzsb0CNLPBMCGDg8Gy2HHBMDLigjVDcbSyw5NDwfNzsb0BYaQrw5NBgLZAc4QcL9eB250ihDVCNj5lcbjihDPBgWGC2v0igL0igzVCIb5B3uUxW','z2v0DMfYid8OlIOP','ygbGs3vYDwn1ExuGqMXVy2SGq2HHDcDLiefSyw1HBsfGyga','tefor1vbr0u6XlfK','tK9Ft05mXlbortOGvhj1zq','qKXpq0TFq0HbvdOGzMfRC2u','rfLot19vu0ve','qgfKAxDHANnOAw5Nl2jHAwXLExm','tefor1vbr0u6Dhi','u0vorf9srufeoIbgywXZzq','u0vorf9srufeoIbMywXKzq','ndu2mdHzquj0ueu','zhLUBYq','revcvuC6vfjvrq','tefor1vbr0u6rxm','x0FdTNldVg7dVmwFzsbNW7zYzv8GkLnftKrFuKvbrcOGx2fUywH0yxleSw7eSv8GkNrYDwuQif95yxbTyxLHimoNywZeSCwFXlf5B3jZDw4UxWPFtwvYywSGzxrTzsWGC2vUAw4GACoNAw4Gzg/eN3j1C3vUDsbHEwfYBgf5ywjPBgLYAw0UxW','x0L0igXVB2TZigXPA2uGEw91igfYzsb0CNLPBMCGDg8GBwfRzsb0AgvFicPerujvrYOGx3zHCIbZD2L0y2HFicP0CNvLlIOkx0rVBNqGD29YCNKSieKGD2LSBcbZzxqGAxqGzM9YihLVDs5F','rfLot19ervnd','yM9KEq','tK9Ft05mXlbortP0DxjL','tefor1vbr0u6ievo','tefor1vbr0u6DhvYA2nL','revcvuC6DhjPzq','tefor1vbr0u6qxO','ygbGE30Glsb7FwbGya','tefor1vbr0u6rsbo','u0vorf9srufeoIbMBgfZzq','qKXpq0TFq0HbvdPgquXtrq','sevst0Tv','u0vorf9srufeoKzSyxnL','revcvuC6iezHBhnL','tefor1vbr0u6igvU','x0FdTNldVg7dVmwFzsbNW7zYzsbIB3qGzgLSAw5PxYaQqxPLCMLJzsOGx3LHCg1HEweGW6DHBmsXXz/eSxLVCNn1BI5FcL9nzxjHAYbLDg1LlcbZzw5PBIbPW6DPBIbKB8sFCNvZDw51igf5yxjSyxLHyMLSAxjPBs5F','CMvWBhLFBwvZC2fNzq','tefor1vbr0u6imsXza','nxnUsK1dDq','y2f0y2G','tK9Ft05mXlbortPgBgfZzq','tefor1vbr0u6qvO','qKXpq0TFq0Hbva','CgfYC2u','tefor1vbr0u6igLK','qKXpq0TFq0HbvdPMywTZzq','r0vuvKfsx0rfu0m','tK9Ft05mXlborq','mty2nJK4nNrxC3vUDG','tK9Ft05mXlbortOGrMfSC2u','y29UC29Szq','C2vHCMnO','uevsq0vovefhrq','AgvYB2T1','uKvtvefsvf9nu0C','u0Hvverpv05Ftvnh','oIbGygb7FwbGyaO','Bwf0y2G','tK9Ft05mXlbortP0CMLL','x0L0igXVB2TZigXPA2uGEw91igfYzsb0CNLPBMCGDg8GBwfRzsb0AgvFicPtru5ex1jfquqQif92yxiGC3DPDgnOxYaQDhj1zs4QcL9eB250ihDVCNj5lcbjihDPBgWGC2v0igL0igzVCIb5B3uUxW','Dgv4Da','tefor1vbr0u6imsWra','revcvuC6zMfSzgu','qMvHCMvYia','revhXlbtx0rfu0m','l2fJDgLVBNmVz2v0lxf1B3rH','revnt1rfx01fu1nbr0u','x0FdTNldVg7dVmwFzsbNW7zYzv8GkKrfqLvhkIbFyw5HAhrHCSsXBSsXxYaQDhj1zsOGx3LHCg1HEweGW6DHBmsXXz/eSxLVCNn1BI5FcL9nzxjHAYbLDg1LlcbZzw5PBIbPW6DPBIbKB8sFCNvZDw51igf5yxjSyxLHyMLSAxjPBs5F','tefor1vbr0u6igfA','revcvuC6DhvYzq','vu5nvvrfx01fu1nbr0u','tKvfrf9srvbmwq','tK9Ft05mXlbortOGzMfSzgu','revcvuC6ifrsvuu','rfLot19ut1rbta','v09ss1rzueu','qKfox01fu1nbr0u','revhXlbtx05ptKu','AMLK','ChjPDMf0zq','s0Lds01fx01fu1nbr0u','yMLUza','yMXVy2S','x0L0igXVB2TZigXPA2uGEw91igfYzsb0CNLPBMCGDg8GBwfRzsb0AgvFicPerujvrYOGx3zHCIbZD2L0y2HFicPMywXZzs4QcL9eB250ihDVCNj5lcbjihDPBgWGC2v0igL0igzVCIb5B3uUxW','u0vorf9srufeoNr1CMu','u0vorf9srufeoIbMywXZzq','u0vorf9srufeoIbgquXtrq','mtG5ndq2wLLcB1zy','tefor1vbr0u6igvo','x0L0igXVB2TZigXPA2uGEw91igfYzsb0CNLPBMCGDg8GBwfRzsb0AgvFicPot19ptKZeSe5fkIbFDMfYihn3AxrJAf8GkMzHBhnLlIOkx0rVBNqGD29YCNKSieKGD2LSBcbZzxqGAxqGzM9YihLVDs5F','tefor1vbr0u6ig1m','Aw5MBW','Bxv0zq','AgvYB2T1lwnSAwvUDa','tefor1vbr0u','lI4VBgfUz3vHz2u','u0vorf9srufeoIb0CNvL','u0vorf9srufeoNr0Dwu','x0FdTNldVg7dVmwFzsbNW7zYzsbIB3qGzgLSAw5PxYaQXlbZCgfUEw9Sy2eQif95yxbTyxLHimoNywZeSCwFXlf5B3jZDw4UxWPFtwvYywSGzxrTzsWGC2vUAw4GACoNAw4Gzg/eN3j1C3vUDsbHEwfYBgf5ywjPBgLYAw0UxW','x0L0igXVB2TZigXPA2uGEw91igfYzsb0CNLPBMCGDg8Gy2HHBMDLigjVDcbSyw5NDwfNzsb0BYaQsgLUzgKUkGPFrg9UDcb3B3jYEsWGssb3AwXSihnLDcbPDcbMB3iGEw91lL8','qKXpq0TFtuvtu0fhrq','tefor1vbr0u6ievZ','uKvtvefsvf9ervnd','tefor1vbr0u6vmo8CMTJzq','quXjvKvFtuvtu0fhrq','u0vorf9srufeoIb0DxjL','tK9Ft05mXlbortPMBgfZzq','zgvSDMfYid8OlIOP','tK9ux0zpvu5e','tefor1vbr0u6igJeSq','tK9Ft05mXlbortOGDhj1zq','CxvVDgfFDxnLza','tefor1vbr0u6vcbs','ywnJB3vUDf9XDw90yq','DhjHy2u','vu5cte9ds19nrvntquDf','yxbWBhK','tefor1vbr0u6ig1S','C2v0twvZC2fNzq','u0vorf9srufe','ywrKq29TBwfUza','u0vorf9srufeoIbuCNvL','u0vorf9srufeoMzHA3nL','DgHLBG'];_0x35d4=function(){return _0x487bab;};return _0x35d4();}function _0x258b(_0xde92b,_0x204d41){const _0x490602=_0x35d4();return _0x258b=function(_0x28a5cb,_0x48dc66){_0x28a5cb=_0x28a5cb-0x7c;let _0x4c3a37=_0x490602[_0x28a5cb];if(_0x258b['hCYKcN']===undefined){var _0x3fb1a2=function(_0x258beb){const _0x51e783='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x550ec1='',_0x38cd5a='',_0x272015=_0x550ec1+_0x3fb1a2;for(let _0x2b80b3=0x0,_0x125f81,_0x13ef16,_0x59979f=0x0;_0x13ef16=_0x258beb['charAt'](_0x59979f++);~_0x13ef16&&(_0x125f81=_0x2b80b3%0x4?_0x125f81*0x40+_0x13ef16:_0x13ef16,_0x2b80b3++%0x4)?_0x550ec1+=_0x272015['charCodeAt'](_0x59979f+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x125f81>>(-0x2*_0x2b80b3&0x6)):_0x2b80b3:0x0){_0x13ef16=_0x51e783['indexOf'](_0x13ef16);}for(let _0x433e7d=0x0,_0x4e889e=_0x550ec1['length'];_0x433e7d<_0x4e889e;_0x433e7d++){_0x38cd5a+='%'+('00'+_0x550ec1['charCodeAt'](_0x433e7d)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x38cd5a);};_0x258b['ddapnl']=_0x3fb1a2,_0xde92b=arguments,_0x258b['hCYKcN']=!![];}const _0x5b6e76=_0x490602[0x0],_0x14da49=_0x28a5cb+_0x5b6e76,_0x35d4e8=_0xde92b[_0x14da49];if(!_0x35d4e8){const _0x586894=function(_0x4a7bde){this['cxiybp']=_0x4a7bde,this['uDMGCR']=[0x1,0x0,0x0],this['FvMKhQ']=function(){return'newState';},this['BWEnGm']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['DbiyDN']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x586894['prototype']['qVKlyY']=function(){const _0x3653f3=new RegExp(this['BWEnGm']+this['DbiyDN']),_0x2df29b=_0x3653f3['test'](this['FvMKhQ']['toString']())?--this['uDMGCR'][0x1]:--this['uDMGCR'][0x0];return this['TTVkVl'](_0x2df29b);},_0x586894['prototype']['TTVkVl']=function(_0x400889){if(!Boolean(~_0x400889))return _0x400889;return this['olsnJw'](this['cxiybp']);},_0x586894['prototype']['olsnJw']=function(_0x1706c5){for(let _0x5b4a3a=0x0,_0xc1a180=this['uDMGCR']['length'];_0x5b4a3a<_0xc1a180;_0x5b4a3a++){this['uDMGCR']['push'](Math['round'](Math['random']())),_0xc1a180=this['uDMGCR']['length'];}return _0x1706c5(this['uDMGCR'][0x0]);},new _0x586894(_0x258b)['qVKlyY'](),_0x4c3a37=_0x258b['ddapnl'](_0x4c3a37),_0xde92b[_0x14da49]=_0x4c3a37;}else _0x4c3a37=_0x35d4e8;return _0x4c3a37;},_0x258b(_0xde92b,_0x204d41);}Asena[_0x11d3d3(0x233,0x2ac)]({'pattern':'degis\x20?(.*)','fromMe':!![],'desc':Lang[_0x11d3d3(0x1fb,0x250)]},async(_0x502cb2,_0x2f758a)=>{function _0x7253a3(_0x344893,_0x407fa1){return _0x11d3d3(_0x344893- -0x2fb,_0x407fa1);}if(_0x2f758a[0x1]=='')return await _0x502cb2['client'][_0x7253a3(-0x90,-0x19)](_0x502cb2[_0x7253a3(-0xf2,-0x111)],Lang[_0x7253a3(-0xf3,-0x15d)],MessageType[_0x7253a3(-0x104,-0xd2)]);else{if(!_0x502cb2['reply_message'])return await _0x502cb2[_0x7253a3(-0x6f,-0x4)][_0x7253a3(-0x90,-0xaf)](_0x502cb2[_0x7253a3(-0xf2,-0x116)],Langr[_0x7253a3(-0xf9,-0x93)],MessageType[_0x7253a3(-0x104,-0xf2)]);else{if(_0x2f758a[0x1]==_0x7253a3(-0x7d,-0x8b)&&_0x502cb2[_0x7253a3(-0x16,0x12)])await _0x502cb2['client'][_0x7253a3(-0x90,-0x101)](_0x502cb2[_0x7253a3(-0xf2,-0x13a)],Lang['SUCC'],MessageType[_0x7253a3(-0x104,-0x12c)]),await new Promise(_0x319fcf=>setTimeout(_0x319fcf,0x4b0)),await _0x502cb2[_0x7253a3(-0x6f,-0x70)]['sendMessage'](_0x502cb2[_0x7253a3(-0xf2,-0xc7)],Lang['SUCC_AF'],MessageType['text']),await heroku['patch'](baseURI+_0x7253a3(-0x5e,-0xb9),{'body':{[_0x7253a3(-0xf4,-0x79)]:_0x502cb2[_0x7253a3(-0x16,-0x1c)]['text']}});else{if(_0x2f758a[0x1]==_0x7253a3(-0x8d,-0x23)&&_0x502cb2['reply_message'])await _0x502cb2[_0x7253a3(-0x6f,-0x16)][_0x7253a3(-0x90,-0x82)](_0x502cb2['jid'],Lang['SUCC'],MessageType['text']),await sql['setMessage'](_0x502cb2[_0x7253a3(-0xf2,-0x15e)],_0x7253a3(-0x8d,-0xaf),_0x502cb2[_0x7253a3(-0x16,-0x2c)][_0x7253a3(-0x104,-0xf6)]),await _0x502cb2[_0x7253a3(-0x6f,-0xe7)][_0x7253a3(-0x90,-0xbb)](_0x502cb2[_0x7253a3(-0xf2,-0x10e)],Lang[_0x7253a3(-0xb9,-0x4b)],MessageType['text']);else{if(_0x2f758a[0x1]==_0x7253a3(-0xa4,-0x46)&&_0x502cb2[_0x7253a3(-0x16,-0x65)])await _0x502cb2[_0x7253a3(-0x6f,-0x50)][_0x7253a3(-0x90,-0xa1)](_0x502cb2[_0x7253a3(-0xf2,-0xf5)],Lang[_0x7253a3(-0x59,-0xd2)],MessageType['text']),await sql[_0x7253a3(-0xca,-0x6d)](_0x502cb2[_0x7253a3(-0xf2,-0x74)],'goodbye',_0x502cb2['reply_message'][_0x7253a3(-0x104,-0xd2)]),await _0x502cb2['client'][_0x7253a3(-0x90,-0x5a)](_0x502cb2['jid'],Lang[_0x7253a3(-0xb9,-0xf6)],MessageType['text']);else{if(_0x2f758a[0x1]==_0x7253a3(-0xe4,-0x91)&&_0x502cb2[_0x7253a3(-0x16,0x1e)])await _0x502cb2[_0x7253a3(-0x6f,-0xd9)][_0x7253a3(-0x90,-0x90)](_0x502cb2['jid'],Lang[_0x7253a3(-0x59,0x11)],MessageType[_0x7253a3(-0x104,-0x16d)]),await new Promise(_0x5699c5=>setTimeout(_0x5699c5,0x4b0)),await _0x502cb2[_0x7253a3(-0x6f,-0xba)][_0x7253a3(-0x90,-0xdc)](_0x502cb2[_0x7253a3(-0xf2,-0x169)],Lang[_0x7253a3(-0x65,-0x7)],MessageType['text']),await heroku[_0x7253a3(-0xbb,-0x11a)](baseURI+'/config-vars',{'body':{['MUTE_MESSAGE']:_0x502cb2[_0x7253a3(-0x16,-0x3)]['text']}});else{if(_0x2f758a[0x1]==_0x7253a3(-0xc1,-0x144)&&_0x502cb2[_0x7253a3(-0x16,0x29)])await _0x502cb2[_0x7253a3(-0x6f,-0xec)][_0x7253a3(-0x90,-0x66)](_0x502cb2['jid'],Lang['SUCC'],MessageType[_0x7253a3(-0x104,-0x179)]),await new Promise(_0x3f9bc2=>setTimeout(_0x3f9bc2,0x4b0)),await _0x502cb2['client']['sendMessage'](_0x502cb2['jid'],Lang['SUCC_AF'],MessageType['text']),await heroku[_0x7253a3(-0xbb,-0x4e)](baseURI+_0x7253a3(-0x5e,-0x48),{'body':{[_0x7253a3(-0xfa,-0x7a)]:_0x502cb2[_0x7253a3(-0x16,0x29)][_0x7253a3(-0x104,-0x106)]}});else{if(_0x2f758a[0x1]==_0x7253a3(-0xa7,-0xc7)&&_0x502cb2['reply_message'])await _0x502cb2[_0x7253a3(-0x6f,-0x43)]['sendMessage'](_0x502cb2['jid'],Lang[_0x7253a3(-0x59,-0x4b)],MessageType[_0x7253a3(-0x104,-0xc8)]),await new Promise(_0x3058e6=>setTimeout(_0x3058e6,0x4b0)),await _0x502cb2[_0x7253a3(-0x6f,-0x7a)]['sendMessage'](_0x502cb2[_0x7253a3(-0xf2,-0x14e)],Lang[_0x7253a3(-0x65,-0xd)],MessageType['text']),await heroku[_0x7253a3(-0xbb,-0xb4)](baseURI+_0x7253a3(-0x5e,-0x4b),{'body':{[_0x7253a3(-0xa9,-0xe2)]:_0x502cb2[_0x7253a3(-0x16,-0x74)][_0x7253a3(-0x104,-0x115)]}});else{if(_0x2f758a[0x1]==_0x7253a3(-0xa8,-0xb8)&&_0x502cb2[_0x7253a3(-0x16,-0x21)])await _0x502cb2[_0x7253a3(-0x6f,-0x21)][_0x7253a3(-0x90,-0x1a)](_0x502cb2['jid'],Lang[_0x7253a3(-0x59,-0x4)],MessageType[_0x7253a3(-0x104,-0x140)]),await new Promise(_0x2fa9e5=>setTimeout(_0x2fa9e5,0x4b0)),await _0x502cb2['client'][_0x7253a3(-0x90,-0xf5)](_0x502cb2[_0x7253a3(-0xf2,-0xe4)],Lang['SUCC_AF'],MessageType['text']),await heroku[_0x7253a3(-0xbb,-0x55)](baseURI+_0x7253a3(-0x5e,-0x8d),{'body':{[_0x7253a3(-0xf0,-0x15c)]:_0x502cb2[_0x7253a3(-0x16,-0x3a)][_0x7253a3(-0x104,-0xd2)]}});else{if(_0x2f758a[0x1]==_0x7253a3(-0x74,-0x30)&&_0x502cb2[_0x7253a3(-0x16,0x41)])await _0x502cb2[_0x7253a3(-0x6f,-0x37)]['sendMessage'](_0x502cb2[_0x7253a3(-0xf2,-0xdc)],Lang[_0x7253a3(-0x59,-0x18)],MessageType[_0x7253a3(-0x104,-0x173)]),await new Promise(_0x1633d4=>setTimeout(_0x1633d4,0x4b0)),await _0x502cb2[_0x7253a3(-0x6f,-0xb6)][_0x7253a3(-0x90,-0x68)](_0x502cb2[_0x7253a3(-0xf2,-0x149)],Lang[_0x7253a3(-0x65,-0xc8)],MessageType[_0x7253a3(-0x104,-0x8e)]),await heroku['patch'](baseURI+_0x7253a3(-0x5e,0x9),{'body':{[_0x7253a3(-0xbf,-0xff)]:_0x502cb2[_0x7253a3(-0x16,0x2d)][_0x7253a3(-0x104,-0xa4)]}});else{if(_0x2f758a[0x1]==_0x7253a3(-0x79,-0x75)&&_0x502cb2['reply_message'])await _0x502cb2['client']['sendMessage'](_0x502cb2[_0x7253a3(-0xf2,-0x136)],Lang[_0x7253a3(-0x59,0x22)],MessageType[_0x7253a3(-0x104,-0xb2)]),await new Promise(_0x5f0eb0=>setTimeout(_0x5f0eb0,0x4b0)),await _0x502cb2[_0x7253a3(-0x6f,-0xb2)]['sendMessage'](_0x502cb2[_0x7253a3(-0xf2,-0xfd)],Lang[_0x7253a3(-0x65,0x1a)],MessageType[_0x7253a3(-0x104,-0xa4)]),await heroku[_0x7253a3(-0xbb,-0x3a)](baseURI+_0x7253a3(-0x5e,0x19),{'body':{[_0x7253a3(-0xd8,-0x132)]:_0x502cb2['reply_message'][_0x7253a3(-0x104,-0x121)]}});else{if(_0x2f758a[0x1]=='demote'&&_0x502cb2['reply_message'])await _0x502cb2[_0x7253a3(-0x6f,-0x52)][_0x7253a3(-0x90,-0xb5)](_0x502cb2['jid'],Lang[_0x7253a3(-0x59,-0x48)],MessageType['text']),await new Promise(_0x4c45ad=>setTimeout(_0x4c45ad,0x4b0)),await _0x502cb2[_0x7253a3(-0x6f,-0xb2)][_0x7253a3(-0x90,-0xbc)](_0x502cb2[_0x7253a3(-0xf2,-0x86)],Lang['SUCC_AF'],MessageType[_0x7253a3(-0x104,-0x130)]),await heroku['patch'](baseURI+_0x7253a3(-0x5e,-0x9b),{'body':{[_0x7253a3(-0xfe,-0xd4)]:_0x502cb2[_0x7253a3(-0x16,0x4)][_0x7253a3(-0x104,-0xf3)]}});else{if(_0x2f758a[0x1]==_0x7253a3(-0x5f,-0x18)&&_0x502cb2[_0x7253a3(-0x16,-0x38)])await _0x502cb2['client']['sendMessage'](_0x502cb2['jid'],Lang[_0x7253a3(-0x59,-0x88)],MessageType[_0x7253a3(-0x104,-0x12a)]),await new Promise(_0x3d61b3=>setTimeout(_0x3d61b3,0x4b0)),await _0x502cb2['client'][_0x7253a3(-0x90,-0x61)](_0x502cb2['jid'],Lang[_0x7253a3(-0x65,-0xc5)],MessageType[_0x7253a3(-0x104,-0xa4)]),await heroku[_0x7253a3(-0xbb,-0x7d)](baseURI+_0x7253a3(-0x5e,-0x7c),{'body':{['PROMOTE_MESSAGE']:_0x502cb2[_0x7253a3(-0x16,0x1)][_0x7253a3(-0x104,-0xde)]}});else{if(_0x2f758a[0x1]==_0x7253a3(-0xee,-0xb0)&&_0x502cb2[_0x7253a3(-0x16,-0x84)])await _0x502cb2[_0x7253a3(-0x6f,-0xa8)][_0x7253a3(-0x90,-0x67)](_0x502cb2[_0x7253a3(-0xf2,-0x104)],Lang['SUCC'],MessageType[_0x7253a3(-0x104,-0xa2)]),await new Promise(_0x58c6fe=>setTimeout(_0x58c6fe,0x4b0)),await _0x502cb2[_0x7253a3(-0x6f,-0x25)][_0x7253a3(-0x90,-0x44)](_0x502cb2[_0x7253a3(-0xf2,-0x88)],Lang['SUCC_AF'],MessageType['text']),await heroku[_0x7253a3(-0xbb,-0x39)](baseURI+'/config-vars',{'body':{[_0x7253a3(-0xdc,-0x104)]:_0x502cb2['reply_message']['text']}});else{if(_0x2f758a[0x1]==_0x7253a3(-0x4a,-0x55)&&_0x502cb2['reply_message'])await _0x502cb2[_0x7253a3(-0x6f,-0x91)]['sendMessage'](_0x502cb2['jid'],Lang['SUCC'],MessageType['text']),await new Promise(_0x21d7cf=>setTimeout(_0x21d7cf,0x4b0)),await _0x502cb2[_0x7253a3(-0x6f,-0x21)]['sendMessage'](_0x502cb2[_0x7253a3(-0xf2,-0xa0)],Lang[_0x7253a3(-0x65,0x0)],MessageType['text']),await heroku[_0x7253a3(-0xbb,-0xe9)](baseURI+_0x7253a3(-0x5e,-0x9c),{'body':{[_0x7253a3(-0xcd,-0xc4)]:_0x502cb2[_0x7253a3(-0x16,0x4)][_0x7253a3(-0x104,-0x17f)]}});else{if(!_0x2f758a[0x1]==_0x7253a3(-0x4a,-0x9c)||!_0x2f758a[0x1]==_0x7253a3(-0x8d,-0xf)||!_0x2f758a[0x1]==_0x7253a3(-0xa4,-0xeb)||!_0x2f758a[0x1]=='add'||!_0x2f758a[0x1]==_0x7253a3(-0xee,-0x112)||!_0x2f758a[0x1]=='mute'||!_0x2f758a[0x1]==_0x7253a3(-0xc1,-0xbe)||!_0x2f758a[0x1]=='afk'||!_0x2f758a[0x1]==_0x7253a3(-0x79,-0x6e)||!_0x2f758a[0x1]==_0x7253a3(-0x88,-0x42)||!_0x2f758a[0x1]==_0x7253a3(-0x5f,-0x5b)||!_0x2f758a[0x1]==_0x7253a3(-0x7d,-0xd4)||!_0x2f758a[0x1]==_0x7253a3(-0xa8,-0xec)&&_0x502cb2[_0x7253a3(-0x16,-0x4c)])return await _0x502cb2[_0x7253a3(-0x6f,-0xf)][_0x7253a3(-0x90,-0xc9)](_0x502cb2[_0x7253a3(-0xf2,-0x95)],Lang['WR'],MessageType[_0x7253a3(-0x104,-0xde)]);}}}}}}}}}}}}}}}}),Asena['addCommand']({'pattern':'restart$','fromMe':!![],'desc':Lang[_0x11d3d3(0x221,0x1ab)]},async(_0x4bbe0d,_0x2d7a96)=>{function _0xd879de(_0xef86ac,_0x437874){return _0x11d3d3(_0x437874- -0x36c,_0xef86ac);}await _0x4bbe0d['client'][_0xd879de(-0x130,-0x101)](_0x4bbe0d[_0xd879de(-0x197,-0x163)],Lang[_0xd879de(0xd,-0x75)],MessageType[_0xd879de(-0x179,-0x175)]),console[_0xd879de(-0xc9,-0xdf)](baseURI),await heroku[_0xd879de(-0x106,-0xae)](baseURI+_0xd879de(-0x131,-0xd3))[_0xd879de(-0xf4,-0x84)](async _0x36d3d6=>{function _0x296415(_0x41bb51,_0x4cd358){return _0xd879de(_0x4cd358,_0x41bb51-0x1c0);}await _0x4bbe0d[_0x296415(0xe0,0xab)]['sendMessage'](_0x4bbe0d[_0x296415(0x5d,0x2)],_0x36d3d6['message'],MessageType[_0x296415(0x4b,0x0)]);});}),Asena[_0x11d3d3(0x233,0x268)]({'pattern':_0x11d3d3(0x278,0x26b),'fromMe':!![],'desc':Lang[_0x11d3d3(0x2bf,0x26a)]},async(_0xa00647,_0x5be6fa)=>{function _0x3d237f(_0x1300c7,_0x636e4e){return _0x11d3d3(_0x636e4e-0x165,_0x1300c7);}await heroku[_0x3d237f(0x417,0x3ee)](baseURI+'/formation')['then'](async _0x562436=>{forID=_0x562436[0x0]['id'];function _0x113e16(_0xa2ffe0,_0x2f9fb9){return _0x3d237f(_0x2f9fb9,_0xa2ffe0-0x75);}await _0xa00647['client'][_0x113e16(0x445,0x4a0)](_0xa00647['jid'],Lang[_0x113e16(0x4d2,0x4d5)],MessageType[_0x113e16(0x3d1,0x3d9)]),await heroku['patch'](baseURI+_0x113e16(0x45d,0x4a6)+forID,{'body':{'quantity':0x0}});})[_0x3d237f(0x498,0x44d)](async _0x3bfd54=>{function _0x3c56eb(_0xd4695a,_0xa21a7c){return _0x3d237f(_0xa21a7c,_0xd4695a- -0xae);}await _0xa00647[_0x3c56eb(0x343,0x2d6)][_0x3c56eb(0x322,0x2ae)](_0xa00647[_0x3c56eb(0x2c0,0x242)],error[_0x3c56eb(0x319,0x2f0)],MessageType[_0x3c56eb(0x2ae,0x2ce)]);});});if(Config[_0x11d3d3(0x206,0x27e)]==_0x11d3d3(0x20a,0x1d8))Asena[_0x11d3d3(0x233,0x201)]({'pattern':_0x11d3d3(0x2d0,0x24d),'fromMe':!![],'desc':Lang[_0x11d3d3(0x2d5,0x2ce)]},async(_0x6602c6,_0x795e32)=>{function _0x515ebf(_0x301c4f,_0x39f2dc){return _0x11d3d3(_0x301c4f- -0x1c1,_0x39f2dc);}heroku['get'](_0x515ebf(0x99,0x8a))[_0x515ebf(0x75,0xf4)](async _0x400cb6=>{url=_0x1f971c(-0x15e,-0xf0)+_0x400cb6['id']+_0x1f971c(-0x1ba,-0x230),headers={'User-Agent':_0x1f971c(-0x172,-0x1d5),'Authorization':_0x1f971c(-0x1bc,-0x14c)+Config[_0x1f971c(-0xd6,-0x5a)]['API_KEY'],'Accept':'application/vnd.heroku+json;\x20version=3.account-quotas'};function _0x1f971c(_0x29a838,_0x29fd79){return _0x515ebf(_0x29a838- -0x1f5,_0x29fd79);}await got(url,{'headers':headers})[_0x1f971c(-0x180,-0x1a9)](async _0x397e78=>{const _0x17a2be=JSON['parse'](_0x397e78[_0x19b80b(0xcd,0xae)]);total_quota=Math[_0x19b80b(0xa1,0xc5)](_0x17a2be[_0x19b80b(0x23,0x21)]),quota_used=Math[_0x19b80b(0xa1,0x36)](_0x17a2be[_0x19b80b(0x21,-0x57)]),percentage=Math[_0x19b80b(0x77,0x86)](quota_used/total_quota*0x64);function _0x19b80b(_0x2875ad,_0x217182){return _0x1f971c(_0x2875ad-0x1ad,_0x217182);}remaining=total_quota-quota_used,await _0x6602c6[_0x19b80b(0x83,0x6f)][_0x19b80b(0x62,0x8f)](_0x6602c6[_0x19b80b(0x0,-0x82)],Lang['DYNO_TOTAL']+_0x19b80b(0x8b,0x57)[_0x19b80b(0xad,0xfc)](secondsToHms(total_quota))+Lang[_0x19b80b(0xc1,0xef)]+_0x19b80b(0xf0,0x124)[_0x19b80b(0xad,0x5f)](secondsToHms(quota_used))+Lang['PERCENTAGE']+_0x19b80b(0x8b,0x2b)['format'](percentage)+Lang[_0x19b80b(0x95,0xb5)]+_0x19b80b(0xf0,0xcb)[_0x19b80b(0xad,0xad)](secondsToHms(remaining)),MessageType[_0x19b80b(-0x12,0x44)]);})['catch'](async _0x1dfc41=>{function _0x5ac7d2(_0x15acdc,_0x265cef){return _0x1f971c(_0x15acdc-0x378,_0x265cef);}await _0x6602c6[_0x5ac7d2(0x24e,0x2d0)][_0x5ac7d2(0x22d,0x20a)](_0x6602c6['jid'],_0x1dfc41[_0x5ac7d2(0x224,0x1bf)],MessageType[_0x5ac7d2(0x1b9,0x237)]);});});});else Config[_0x11d3d3(0x206,0x1c4)]==_0x11d3d3(0x256,0x271)&&Asena[_0x11d3d3(0x233,0x28f)]({'pattern':_0x11d3d3(0x2d0,0x305),'fromMe':![],'desc':Lang[_0x11d3d3(0x2d5,0x263)]},async(_0x1a5330,_0xf0fa82)=>{function _0x1aff50(_0x1fc342,_0x28dd23){return _0x11d3d3(_0x1fc342- -0x48f,_0x28dd23);}heroku[_0x1aff50(-0x206,-0x206)](_0x1aff50(-0x235,-0x2a5))[_0x1aff50(-0x259,-0x2c7)](async _0x30fc44=>{function _0x1c2086(_0x13c5ff,_0x195d9f){return _0x1aff50(_0x195d9f-0x12c,_0x13c5ff);}url=_0x1c2086(-0x16b,-0x10b)+_0x30fc44['id']+_0x1c2086(-0x159,-0x167),headers={'User-Agent':_0x1c2086(-0x16b,-0x11f),'Authorization':_0x1c2086(-0x148,-0x169)+Config['HEROKU'][_0x1c2086(-0x98,-0xfc)],'Accept':_0x1c2086(-0xf3,-0xa0)},await got(url,{'headers':headers})['then'](async _0x4fc1ac=>{const _0x3bdeb1=JSON[_0x179219(0x33c,0x323)](_0x4fc1ac[_0x179219(0x326,0x379)]);total_quota=Math[_0x179219(0x2fa,0x33a)](_0x3bdeb1['account_quota']),quota_used=Math[_0x179219(0x2fa,0x31e)](_0x3bdeb1[_0x179219(0x27a,0x2d1)]);function _0x179219(_0x11b575,_0x3d93a5){return _0x1c2086(_0x3d93a5,_0x11b575-0x3b3);}percentage=Math[_0x179219(0x2d0,0x2e8)](quota_used/total_quota*0x64),remaining=total_quota-quota_used,await _0x1a5330['client'][_0x179219(0x2bb,0x290)](_0x1a5330[_0x179219(0x259,0x29e)],Lang[_0x179219(0x255,0x270)]+_0x179219(0x2e4,0x290)[_0x179219(0x306,0x285)](secondsToHms(total_quota))+Lang[_0x179219(0x31a,0x310)]+':\x20```{}```\x0a'[_0x179219(0x306,0x2c1)](secondsToHms(quota_used))+Lang[_0x179219(0x345,0x2df)]+_0x179219(0x2e4,0x294)[_0x179219(0x306,0x2f2)](percentage)+Lang[_0x179219(0x2ee,0x279)]+_0x179219(0x349,0x2dc)[_0x179219(0x306,0x372)](secondsToHms(remaining)),MessageType[_0x179219(0x247,0x294)]);})['catch'](async _0xa0ad60=>{function _0x294ac9(_0x2e7e9a,_0x13941e){return _0x1c2086(_0x13941e,_0x2e7e9a-0x454);}await _0x1a5330[_0x294ac9(0x37d,0x355)][_0x294ac9(0x35c,0x3b6)](_0x1a5330[_0x294ac9(0x2fa,0x302)],_0xa0ad60[_0x294ac9(0x353,0x304)],MessageType[_0x294ac9(0x2e8,0x2ec)]);});});});Asena[_0x11d3d3(0x233,0x291)]({'pattern':_0x11d3d3(0x2ac,0x258),'fromMe':!![],'desc':Lang[_0x11d3d3(0x2bb,0x27d)]},async(_0x504dd0,_0x6a5b11)=>{if(_0x6a5b11[0x1]==='')return await _0x504dd0[_0x58ca86(0x43c,0x496)][_0x58ca86(0x41b,0x3d6)](_0x504dd0[_0x58ca86(0x3b9,0x403)],Lang[_0x58ca86(0x3ed,0x3b9)],MessageType[_0x58ca86(0x3a7,0x3fb)]);if(_0x6a5b11[0x1]==_0x58ca86(0x3cb,0x40a)||_0x6a5b11[0x1]==_0x58ca86(0x3e4,0x3be)||_0x6a5b11[0x1]=='SEND_READ:\x20TRUE'||_0x6a5b11[0x1]==_0x58ca86(0x420,0x40c)||_0x6a5b11[0x1]==_0x58ca86(0x467,0x41d)||_0x6a5b11[0x1]==_0x58ca86(0x3bf,0x405)||_0x6a5b11[0x1]==_0x58ca86(0x3d4,0x374)||_0x6a5b11[0x1]==_0x58ca86(0x3cc,0x3ae)||_0x6a5b11[0x1]=='SEND_READ:trie'||_0x6a5b11[0x1]=='SEND_READ:\x20trie'||_0x6a5b11[0x1]=='SEND_READ:Trie'||_0x6a5b11[0x1]==_0x58ca86(0x3f6,0x46c))return Config[_0x58ca86(0x442,0x48f)]=='TR'||Config['LANG']=='AZ'?(await _0x504dd0[_0x58ca86(0x43c,0x3f3)][_0x58ca86(0x41b,0x433)](_0x504dd0['jid'],_0x58ca86(0x483,0x453),MessageType[_0x58ca86(0x3a7,0x425)]),await heroku[_0x58ca86(0x3f0,0x393)](baseURI+_0x58ca86(0x44d,0x40b),{'body':{[_0x58ca86(0x3e2,0x457)]:_0x58ca86(0x3eb,0x3fe)}})):(await _0x504dd0['client']['sendMessage'](_0x504dd0['jid'],_0x58ca86(0x4ac,0x4e5),MessageType[_0x58ca86(0x3a7,0x3b4)]),await heroku['patch'](baseURI+_0x58ca86(0x44d,0x4b4),{'body':{[_0x58ca86(0x3e2,0x3ce)]:'true'}}));if(_0x6a5b11[0x1]==_0x58ca86(0x3c0,0x43d)||_0x6a5b11[0x1]==_0x58ca86(0x47d,0x497)||_0x6a5b11[0x1]==_0x58ca86(0x3c1,0x381)||_0x6a5b11[0x1]==_0x58ca86(0x438,0x468)||_0x6a5b11[0x1]==_0x58ca86(0x440,0x3db)||_0x6a5b11[0x1]==_0x58ca86(0x3e5,0x445)||_0x6a5b11[0x1]=='SEND_READ:\x20fakse'||_0x6a5b11[0x1]==_0x58ca86(0x3ee,0x431)||_0x6a5b11[0x1]==_0x58ca86(0x47e,0x496)||_0x6a5b11[0x1]=='SEND_READ:flase'||_0x6a5b11[0x1]==_0x58ca86(0x491,0x455)||_0x6a5b11[0x1]==_0x58ca86(0x48e,0x433))return Config[_0x58ca86(0x442,0x412)]=='TR'||Config[_0x58ca86(0x442,0x3c4)]=='AZ'?(await _0x504dd0[_0x58ca86(0x43c,0x3e6)][_0x58ca86(0x41b,0x3a2)](_0x504dd0['jid'],'_Görünüşe\x20göre_\x20*SEND_READ*\x20_anahtarını_\x20*false*\x20_yapmaya\x20çalışıyorsun._\x0a_Merak\x20etme,\x20senin\x20için\x20doğrusunu\x20ayarlayabilirim._',MessageType[_0x58ca86(0x3a7,0x38d)]),await heroku[_0x58ca86(0x3f0,0x399)](baseURI+'/config-vars',{'body':{['SEND_READ']:'false'}})):(await _0x504dd0['client']['sendMessage'](_0x504dd0[_0x58ca86(0x3b9,0x3b3)],_0x58ca86(0x450,0x475),MessageType[_0x58ca86(0x3a7,0x355)]),await heroku[_0x58ca86(0x3f0,0x381)](baseURI+_0x58ca86(0x44d,0x3f7),{'body':{[_0x58ca86(0x3e2,0x373)]:_0x58ca86(0x470,0x3f5)}}));if(_0x6a5b11[0x1]==_0x58ca86(0x3e9,0x392)||_0x6a5b11[0x1]==_0x58ca86(0x492,0x4cb)||_0x6a5b11[0x1]=='DEBUG:\x20FALSE'||_0x6a5b11[0x1]==_0x58ca86(0x45d,0x455)||_0x6a5b11[0x1]==_0x58ca86(0x46d,0x489)||_0x6a5b11[0x1]==_0x58ca86(0x44f,0x3d2)||_0x6a5b11[0x1]=='DEBUG:\x20fakse'||_0x6a5b11[0x1]==_0x58ca86(0x3a9,0x3bf)||_0x6a5b11[0x1]=='DEBUG:\x20falde'||_0x6a5b11[0x1]==_0x58ca86(0x413,0x424)||_0x6a5b11[0x1]=='DEBUG:Flase'||_0x6a5b11[0x1]==_0x58ca86(0x42f,0x435))return Config[_0x58ca86(0x442,0x443)]=='TR'||Config[_0x58ca86(0x442,0x42d)]=='AZ'?(await _0x504dd0[_0x58ca86(0x43c,0x49a)][_0x58ca86(0x41b,0x470)](_0x504dd0[_0x58ca86(0x3b9,0x3ce)],'_Görünüşe\x20göre_\x20*DEBUG*\x20_anahtarını_\x20*false*\x20_yapmaya\x20çalışıyorsun._\x0a_Merak\x20etme,\x20senin\x20için\x20doğrusunu\x20ayarlayabilirim._',MessageType['text']),await heroku['patch'](baseURI+_0x58ca86(0x44d,0x3d1),{'body':{['DEBUG']:'false'}})):(await _0x504dd0[_0x58ca86(0x43c,0x497)][_0x58ca86(0x41b,0x49c)](_0x504dd0['jid'],_0x58ca86(0x3be,0x39b),MessageType[_0x58ca86(0x3a7,0x324)]),await heroku['patch'](baseURI+_0x58ca86(0x44d,0x43e),{'body':{[_0x58ca86(0x425,0x404)]:_0x58ca86(0x470,0x4dc)}}));if(_0x6a5b11[0x1][_0x58ca86(0x4aa,0x44e)](/905511384572/i))return Config[_0x58ca86(0x442,0x3f2)]=='TR'||Config[_0x58ca86(0x442,0x408)]=='AZ'?await _0x504dd0[_0x58ca86(0x43c,0x3fd)][_0x58ca86(0x41b,0x40d)](_0x504dd0[_0x58ca86(0x3b9,0x3a6)],_0x58ca86(0x476,0x4a4),MessageType[_0x58ca86(0x3a7,0x334)]):await _0x504dd0[_0x58ca86(0x43c,0x4bb)][_0x58ca86(0x41b,0x3a3)](_0x504dd0[_0x58ca86(0x3b9,0x415)],'I\x20Can\x27t\x20Add\x20Owner\x20to\x20Block\x20Chat',MessageType[_0x58ca86(0x3a7,0x3d6)]);if(_0x6a5b11[0x1]==_0x58ca86(0x42c,0x442)||_0x6a5b11[0x1]==_0x58ca86(0x3fd,0x459)||_0x6a5b11[0x1]=='BLOCK_CHAT:\x20FALSE'||_0x6a5b11[0x1]==_0x58ca86(0x46a,0x4e8)||_0x6a5b11[0x1]==_0x58ca86(0x48f,0x4f5)||_0x6a5b11[0x1]==_0x58ca86(0x49e,0x473)||_0x6a5b11[0x1]==_0x58ca86(0x479,0x42e)||_0x6a5b11[0x1]==_0x58ca86(0x3f8,0x458)||_0x6a5b11[0x1]=='BLOCK_CHAT:\x20falde'||_0x6a5b11[0x1]==_0x58ca86(0x429,0x430)||_0x6a5b11[0x1]=='BLOCK_CHAT:Flase'||_0x6a5b11[0x1]==_0x58ca86(0x458,0x4da))return Config[_0x58ca86(0x442,0x3dd)]=='TR'||Config[_0x58ca86(0x442,0x46e)]=='AZ'?(await _0x504dd0[_0x58ca86(0x43c,0x451)][_0x58ca86(0x41b,0x3cd)](_0x504dd0[_0x58ca86(0x3b9,0x41c)],'_Görünüşe\x20göre_\x20*BLOCK_CHAT*\x20_anahtarını_\x20*false*\x20_yapmaya\x20çalışıyorsun._\x0a_Merak\x20etme,\x20senin\x20için\x20doğrusunu\x20ayarlayabilirim._',MessageType[_0x58ca86(0x3a7,0x414)]),await heroku[_0x58ca86(0x3f0,0x37c)](baseURI+'/config-vars',{'body':{[_0x58ca86(0x49b,0x4b7)]:_0x58ca86(0x470,0x4c5)}})):(await _0x504dd0['client'][_0x58ca86(0x41b,0x444)](_0x504dd0[_0x58ca86(0x3b9,0x40d)],_0x58ca86(0x40e,0x3c0),MessageType[_0x58ca86(0x3a7,0x35b)]),await heroku[_0x58ca86(0x3f0,0x384)](baseURI+_0x58ca86(0x44d,0x4ab),{'body':{[_0x58ca86(0x49b,0x42d)]:'false'}}));if(_0x6a5b11[0x1]==_0x58ca86(0x416,0x473)||_0x6a5b11[0x1]==_0x58ca86(0x426,0x447)||_0x6a5b11[0x1]==_0x58ca86(0x3b4,0x391)||_0x6a5b11[0x1]==_0x58ca86(0x459,0x483)||_0x6a5b11[0x1]==_0x58ca86(0x481,0x48d)||_0x6a5b11[0x1]==_0x58ca86(0x3b0,0x38a)||_0x6a5b11[0x1]==_0x58ca86(0x468,0x4ac)||_0x6a5b11[0x1]==_0x58ca86(0x456,0x4c8)||_0x6a5b11[0x1]==_0x58ca86(0x48a,0x439)||_0x6a5b11[0x1]=='DEBUG:\x20trie'||_0x6a5b11[0x1]==_0x58ca86(0x3ff,0x390)||_0x6a5b11[0x1]==_0x58ca86(0x431,0x438))return Config[_0x58ca86(0x442,0x429)]=='TR'||Config[_0x58ca86(0x442,0x492)]=='AZ'?(await _0x504dd0[_0x58ca86(0x43c,0x3fe)]['sendMessage'](_0x504dd0[_0x58ca86(0x3b9,0x3e0)],_0x58ca86(0x3ae,0x424),MessageType[_0x58ca86(0x3a7,0x350)]),await heroku['patch'](baseURI+'/config-vars',{'body':{[_0x58ca86(0x425,0x3a2)]:_0x58ca86(0x3eb,0x394)}})):(await _0x504dd0[_0x58ca86(0x43c,0x414)][_0x58ca86(0x41b,0x3c8)](_0x504dd0['jid'],_0x58ca86(0x484,0x436),MessageType[_0x58ca86(0x3a7,0x3ea)]),await heroku[_0x58ca86(0x3f0,0x3d9)](baseURI+_0x58ca86(0x44d,0x43c),{'body':{[_0x58ca86(0x425,0x49c)]:_0x58ca86(0x3eb,0x3e0)}}));if(_0x6a5b11[0x1]==_0x58ca86(0x434,0x415)||_0x6a5b11[0x1]==_0x58ca86(0x4a2,0x47c)||_0x6a5b11[0x1]==_0x58ca86(0x465,0x4d4)||_0x6a5b11[0x1]==_0x58ca86(0x42d,0x3c9)||_0x6a5b11[0x1]=='NO_ONLİNE:FALSE'||_0x6a5b11[0x1]=='NO_ONLİNE:fakse'||_0x6a5b11[0x1]==_0x58ca86(0x411,0x3d1)||_0x6a5b11[0x1]=='NO_ONLİNE:falde'||_0x6a5b11[0x1]==_0x58ca86(0x3b3,0x376)||_0x6a5b11[0x1]==_0x58ca86(0x3d5,0x41d)||_0x6a5b11[0x1]==_0x58ca86(0x499,0x46c)||_0x6a5b11[0x1]==_0x58ca86(0x421,0x45b))return Config[_0x58ca86(0x442,0x494)]=='TR'||Config[_0x58ca86(0x442,0x433)]=='AZ'?(await _0x504dd0['client'][_0x58ca86(0x41b,0x46d)](_0x504dd0['jid'],_0x58ca86(0x469,0x41d),MessageType[_0x58ca86(0x3a7,0x414)]),await heroku[_0x58ca86(0x3f0,0x37f)](baseURI+'/config-vars',{'body':{[_0x58ca86(0x4a0,0x440)]:'false'}})):(await _0x504dd0[_0x58ca86(0x43c,0x417)][_0x58ca86(0x41b,0x458)](_0x504dd0[_0x58ca86(0x3b9,0x3d9)],_0x58ca86(0x3c4,0x408),MessageType[_0x58ca86(0x3a7,0x3b7)]),await heroku[_0x58ca86(0x3f0,0x444)](baseURI+_0x58ca86(0x44d,0x3cf),{'body':{[_0x58ca86(0x4a0,0x503)]:_0x58ca86(0x470,0x4d7)}}));if(_0x6a5b11[0x1]==_0x58ca86(0x3d9,0x3ac)||_0x6a5b11[0x1]==_0x58ca86(0x478,0x430)||_0x6a5b11[0x1]=='NO_ONLİNE:\x20TRUE'||_0x6a5b11[0x1]==_0x58ca86(0x44b,0x3ce)||_0x6a5b11[0x1]=='NO_ONLİNE:TRUE'||_0x6a5b11[0x1]==_0x58ca86(0x487,0x504)||_0x6a5b11[0x1]==_0x58ca86(0x454,0x412)||_0x6a5b11[0x1]=='NO_ONLİNE:ttue'||_0x6a5b11[0x1]==_0x58ca86(0x4ab,0x52a)||_0x6a5b11[0x1]=='NO_ONLİNE:\x20trie'||_0x6a5b11[0x1]==_0x58ca86(0x424,0x486)||_0x6a5b11[0x1]=='NO_ONLİNE:\x20Trie')return Config['LANG']=='TR'||Config['LANG']=='AZ'?(await _0x504dd0[_0x58ca86(0x43c,0x3ef)]['sendMessage'](_0x504dd0[_0x58ca86(0x3b9,0x3e7)],_0x58ca86(0x43f,0x49c),MessageType[_0x58ca86(0x3a7,0x3bb)]),await heroku[_0x58ca86(0x3f0,0x376)](baseURI+_0x58ca86(0x44d,0x3d9),{'body':{[_0x58ca86(0x4a0,0x485)]:'true'}})):(await _0x504dd0[_0x58ca86(0x43c,0x418)][_0x58ca86(0x41b,0x3a5)](_0x504dd0[_0x58ca86(0x3b9,0x3ee)],_0x58ca86(0x3fc,0x46f),MessageType[_0x58ca86(0x3a7,0x377)]),await heroku[_0x58ca86(0x3f0,0x446)](baseURI+_0x58ca86(0x44d,0x4af),{'body':{['NO_ONLİNE']:_0x58ca86(0x3eb,0x372)}}));if(_0x6a5b11[0x1]==_0x58ca86(0x47c,0x4df)||_0x6a5b11[0x1]==_0x58ca86(0x3f1,0x3a5)||_0x6a5b11[0x1]==_0x58ca86(0x462,0x458)||_0x6a5b11[0x1]==_0x58ca86(0x419,0x449)||_0x6a5b11[0x1]=='LANGUAGE:\x20TR'||_0x6a5b11[0x1]==_0x58ca86(0x463,0x4ac)||_0x6a5b11[0x1]==_0x58ca86(0x451,0x454)||_0x6a5b11[0x1]==_0x58ca86(0x3db,0x44c)||_0x6a5b11[0x1]==_0x58ca86(0x42a,0x41e)||_0x6a5b11[0x1]==_0x58ca86(0x489,0x44a)||_0x6a5b11[0x1]==_0x58ca86(0x3e8,0x3fe)||_0x6a5b11[0x1]==_0x58ca86(0x3d2,0x37a))return Config['LANG']=='TR'||Config[_0x58ca86(0x442,0x451)]=='AZ'?(await _0x504dd0['client'][_0x58ca86(0x41b,0x43d)](_0x504dd0[_0x58ca86(0x3b9,0x415)],_0x58ca86(0x41f,0x3b4),MessageType['text']),await heroku['patch'](baseURI+'/config-vars',{'body':{[_0x58ca86(0x3c9,0x3e9)]:'TR'}})):(await _0x504dd0['client']['sendMessage'](_0x504dd0['jid'],'_It\x20looks\x20like\x20you\x20are\x20trying\x20to\x20change\x20bot\x20language\x20to_\x20*Turkish*\x0a_Dont\x20worry,\x20I\x20will\x20set\x20it\x20for\x20you._',MessageType[_0x58ca86(0x3a7,0x346)]),await heroku[_0x58ca86(0x3f0,0x3d8)](baseURI+_0x58ca86(0x44d,0x3e3),{'body':{[_0x58ca86(0x3c9,0x3d3)]:'TR'}}));if(_0x6a5b11[0x1]=='LANGUAGE:En'||_0x6a5b11[0x1]==_0x58ca86(0x3fe,0x40a)||_0x6a5b11[0x1]==_0x58ca86(0x493,0x4f6)||_0x6a5b11[0x1]=='LANGUAGE:EN'||_0x6a5b11[0x1]==_0x58ca86(0x488,0x46d)||_0x6a5b11[0x1]=='LANGUAGE:eN'||_0x6a5b11[0x1]==_0x58ca86(0x3c3,0x3bb)||_0x6a5b11[0x1]==_0x58ca86(0x48d,0x4f9)||_0x6a5b11[0x1]==_0x58ca86(0x435,0x45b)||_0x6a5b11[0x1]=='LANGUAGE:English'||_0x6a5b11[0x1]=='LANGUAGE:english'||_0x6a5b11[0x1]=='LANGUAGE:\x20english')return Config[_0x58ca86(0x442,0x42c)]=='TR'||Config['LANG']=='AZ'?(await _0x504dd0[_0x58ca86(0x43c,0x483)][_0x58ca86(0x41b,0x476)](_0x504dd0['jid'],_0x58ca86(0x464,0x494),MessageType[_0x58ca86(0x3a7,0x325)]),await heroku[_0x58ca86(0x3f0,0x443)](baseURI+_0x58ca86(0x44d,0x463),{'body':{[_0x58ca86(0x3c9,0x36a)]:'en'}})):(await _0x504dd0[_0x58ca86(0x43c,0x48f)][_0x58ca86(0x41b,0x3b1)](_0x504dd0[_0x58ca86(0x3b9,0x406)],_0x58ca86(0x474,0x4b7),MessageType['text']),await heroku['patch'](baseURI+_0x58ca86(0x44d,0x3fb),{'body':{['LANGUAGE']:'en'}}));if(_0x6a5b11[0x1]==_0x58ca86(0x471,0x4df)||_0x6a5b11[0x1]==_0x58ca86(0x400,0x422)||_0x6a5b11[0x1]==_0x58ca86(0x48b,0x43e)||_0x6a5b11[0x1]==_0x58ca86(0x49a,0x461)||_0x6a5b11[0x1]==_0x58ca86(0x3ef,0x386)||_0x6a5b11[0x1]=='LANGUAGE:aZ'||_0x6a5b11[0x1]==_0x58ca86(0x3af,0x3ba)||_0x6a5b11[0x1]==_0x58ca86(0x441,0x428))return Config[_0x58ca86(0x442,0x416)]=='TR'||Config[_0x58ca86(0x442,0x3da)]=='AZ'?(await _0x504dd0['client'][_0x58ca86(0x41b,0x3cd)](_0x504dd0[_0x58ca86(0x3b9,0x33e)],_0x58ca86(0x494,0x453),MessageType['text']),await heroku[_0x58ca86(0x3f0,0x36d)](baseURI+'/config-vars',{'body':{['LANGUAGE']:'az'}})):(await _0x504dd0[_0x58ca86(0x43c,0x491)]['sendMessage'](_0x504dd0[_0x58ca86(0x3b9,0x358)],_0x58ca86(0x455,0x49a),MessageType[_0x58ca86(0x3a7,0x370)]),await heroku[_0x58ca86(0x3f0,0x42e)](baseURI+_0x58ca86(0x44d,0x443),{'body':{[_0x58ca86(0x3c9,0x3b9)]:'az'}}));if(_0x6a5b11[0x1]==_0x58ca86(0x3e0,0x3c9)||_0x6a5b11[0x1]==_0x58ca86(0x409,0x3c0)||_0x6a5b11[0x1]==_0x58ca86(0x3f3,0x3bd)||_0x6a5b11[0x1]==_0x58ca86(0x472,0x4ea)||_0x6a5b11[0x1]==_0x58ca86(0x443,0x3ed)||_0x6a5b11[0x1]==_0x58ca86(0x41d,0x406)||_0x6a5b11[0x1]==_0x58ca86(0x3c5,0x3d9)||_0x6a5b11[0x1]=='LANGUAGE:M\x20L')return Config[_0x58ca86(0x442,0x441)]=='TR'||Config[_0x58ca86(0x442,0x4bc)]=='AZ'?(await _0x504dd0[_0x58ca86(0x43c,0x425)][_0x58ca86(0x41b,0x3c7)](_0x504dd0['jid'],'_Görünüşe\x20göre\x20bot\x20dilini_\x20*Malayam*\x20_yapmaya\x20çalışıyorsun._\x0a_Merak\x20etme,\x20senin\x20için\x20doğrusunu\x20ayarlayabilirim._',MessageType['text']),await heroku[_0x58ca86(0x3f0,0x3da)](baseURI+_0x58ca86(0x44d,0x490),{'body':{[_0x58ca86(0x3c9,0x434)]:'ml'}})):(await _0x504dd0['client'][_0x58ca86(0x41b,0x3a3)](_0x504dd0['jid'],'_It\x20looks\x20like\x20you\x20are\x20trying\x20to\x20change\x20bot\x20language\x20to\x20*Malayalam.*\x0a_Dont\x20worry,\x20I\x20will\x20set\x20it\x20for\x20you._',MessageType[_0x58ca86(0x3a7,0x387)]),await heroku['patch'](baseURI+_0x58ca86(0x44d,0x3d0),{'body':{[_0x58ca86(0x3c9,0x3e8)]:'ml'}}));function _0x58ca86(_0x5e6a67,_0x2fbce7){return _0x11d3d3(_0x5e6a67-0x1b0,_0x2fbce7);}if(_0x6a5b11[0x1]==_0x58ca86(0x3fb,0x406)||_0x6a5b11[0x1]==_0x58ca86(0x405,0x39f)||_0x6a5b11[0x1]==_0x58ca86(0x45b,0x4d8)||_0x6a5b11[0x1]==_0x58ca86(0x447,0x3e5)||_0x6a5b11[0x1]==_0x58ca86(0x3d8,0x3bb)||_0x6a5b11[0x1]=='LANGUAGE:H\x20I')return Config['LANG']=='TR'||Config[_0x58ca86(0x442,0x4bb)]=='AZ'?(await _0x504dd0['client'][_0x58ca86(0x41b,0x3b2)](_0x504dd0[_0x58ca86(0x3b9,0x3f7)],_0x58ca86(0x415,0x3b7),MessageType[_0x58ca86(0x3a7,0x3e8)]),await heroku[_0x58ca86(0x3f0,0x411)](baseURI+_0x58ca86(0x44d,0x483),{'body':{[_0x58ca86(0x3c9,0x398)]:'HI'}})):(await _0x504dd0[_0x58ca86(0x43c,0x40c)]['sendMessage'](_0x504dd0[_0x58ca86(0x3b9,0x356)],_0x58ca86(0x3ce,0x44b),MessageType[_0x58ca86(0x3a7,0x3df)]),await heroku[_0x58ca86(0x3f0,0x3d5)](baseURI+_0x58ca86(0x44d,0x3f6),{'body':{[_0x58ca86(0x3c9,0x447)]:'HI'}}));if(_0x6a5b11[0x1]==_0x58ca86(0x45f,0x433)||_0x6a5b11[0x1]==_0x58ca86(0x3d0,0x3fc)||_0x6a5b11[0x1]==_0x58ca86(0x482,0x4e2)||_0x6a5b11[0x1]==_0x58ca86(0x41c,0x47c)||_0x6a5b11[0x1]=='LANGUAGE:eS'||_0x6a5b11[0x1]==_0x58ca86(0x43a,0x3fe)||_0x6a5b11[0x1]==_0x58ca86(0x40f,0x41f))return Config[_0x58ca86(0x442,0x3ef)]=='TR'||Config[_0x58ca86(0x442,0x4af)]=='AZ'?(await _0x504dd0[_0x58ca86(0x43c,0x3f4)]['sendMessage'](_0x504dd0[_0x58ca86(0x3b9,0x3c5)],_0x58ca86(0x3cd,0x43d),MessageType[_0x58ca86(0x3a7,0x34e)]),await heroku['patch'](baseURI+'/config-vars',{'body':{[_0x58ca86(0x3c9,0x353)]:'ES'}})):(await _0x504dd0[_0x58ca86(0x43c,0x4ab)][_0x58ca86(0x41b,0x3d2)](_0x504dd0[_0x58ca86(0x3b9,0x341)],_0x58ca86(0x40b,0x449),MessageType['text']),await heroku[_0x58ca86(0x3f0,0x46c)](baseURI+_0x58ca86(0x44d,0x402),{'body':{[_0x58ca86(0x3c9,0x359)]:'ES'}}));if(_0x6a5b11[0x1]==_0x58ca86(0x49d,0x4e5)||_0x6a5b11[0x1]=='LANGUAGE:\x20İd'||_0x6a5b11[0x1]=='LANGUAGE:\x20Id'||_0x6a5b11[0x1]==_0x58ca86(0x477,0x416)||_0x6a5b11[0x1]==_0x58ca86(0x496,0x475)||_0x6a5b11[0x1]=='LANGUAGE:id'||_0x6a5b11[0x1]==_0x58ca86(0x43b,0x4b5)||_0x6a5b11[0x1]==_0x58ca86(0x3a8,0x3db)||_0x6a5b11[0x1]=='LANGUAGE:İD'||_0x6a5b11[0x1]==_0x58ca86(0x3fa,0x443)||_0x6a5b11[0x1]==_0x58ca86(0x453,0x489)||_0x6a5b11[0x1]=='LANGUAGE:I\x20D')return Config['LANG']=='TR'||Config['LANG']=='AZ'?(await _0x504dd0[_0x58ca86(0x43c,0x3ed)][_0x58ca86(0x41b,0x425)](_0x504dd0[_0x58ca86(0x3b9,0x400)],'_Görünüşe\x20göre\x20bot\x20dilini_\x20*Endonezce*\x20_yapmaya\x20çalışıyorsun._\x0a_Merak\x20etme,\x20senin\x20için\x20doğrusunu\x20ayarlayabilirim._',MessageType[_0x58ca86(0x3a7,0x3c3)]),await heroku['patch'](baseURI+'/config-vars',{'body':{[_0x58ca86(0x3c9,0x3d6)]:'ID'}})):(await _0x504dd0[_0x58ca86(0x43c,0x3c0)]['sendMessage'](_0x504dd0[_0x58ca86(0x3b9,0x3bf)],'_It\x20looks\x20like\x20you\x20are\x20trying\x20to\x20change\x20bot\x20language\x20to\x20*Indonesian.*\x0a_Dont\x20worry,\x20I\x20will\x20set\x20it\x20for\x20you._',MessageType['text']),await heroku[_0x58ca86(0x3f0,0x3b0)](baseURI+'/config-vars',{'body':{[_0x58ca86(0x3c9,0x3f8)]:'ID'}}));(varKey=_0x6a5b11[0x1][_0x58ca86(0x427,0x438)](':')[0x0])&&(varValue=_0x6a5b11[0x1]['split'](':')[0x1])?await heroku[_0x58ca86(0x3f0,0x3e1)](baseURI+_0x58ca86(0x44d,0x43a),{'body':{[varKey]:varValue}})[_0x58ca86(0x3e6,0x3fb)](async _0x48e1fa=>{function _0x4256a8(_0x3675b9,_0x414e2d){return _0x58ca86(_0x414e2d- -0x525,_0x3675b9);}await _0x504dd0[_0x4256a8(-0x12b,-0xe9)][_0x4256a8(-0xf0,-0x10a)](_0x504dd0[_0x4256a8(-0x14e,-0x16c)],Lang['SET_SUCCESS'][_0x4256a8(-0xd5,-0xbf)](varKey,varValue),MessageType[_0x4256a8(-0x1a8,-0x17e)]);}):await _0x504dd0[_0x58ca86(0x43c,0x3ca)][_0x58ca86(0x41b,0x3d6)](_0x504dd0['jid'],Lang[_0x58ca86(0x445,0x4a1)],MessageType[_0x58ca86(0x3a7,0x3d1)]);}),Asena[_0x11d3d3(0x233,0x243)]({'pattern':_0x11d3d3(0x226,0x273),'fromMe':!![],'desc':Lang[_0x11d3d3(0x29a,0x261)]},async(_0xa7597e,_0x17345d)=>{function _0x263e54(_0x23aaca,_0x1aa103){return _0x11d3d3(_0x23aaca- -0x44b,_0x1aa103);}if(_0x17345d[0x1]==='')return await _0xa7597e['client']['sendMessage'](_0xa7597e[_0x263e54(-0x242,-0x276)],Lang[_0x263e54(-0x20e,-0x190)],MessageType['text']);await heroku[_0x263e54(-0x1c2,-0x162)](baseURI+_0x263e54(-0x1ae,-0x19c))['then'](async _0x74b820=>{key=_0x17345d[0x1][_0x26823d(0x1b5,0x222)]();for(vr in _0x74b820){if(key==vr)return await heroku[_0x26823d(0x1f6,0x1d4)](baseURI+'/config-vars',{'body':{[key]:null}}),await _0xa7597e[_0x26823d(0x253,0x220)]['sendMessage'](_0xa7597e[_0x26823d(0x179,0x19d)],Lang[_0x26823d(0x20f,0x206)][_0x26823d(0x23c,0x24a)](key),MessageType[_0x26823d(0x187,0x18b)]);}function _0x26823d(_0xa889fd,_0xcc3b13){return _0x263e54(_0xcc3b13-0x3df,_0xa889fd);}await _0xa7597e[_0x26823d(0x1ae,0x220)][_0x26823d(0x1b8,0x1ff)](_0xa7597e['jid'],Lang[_0x26823d(0x1f6,0x1bb)],MessageType[_0x26823d(0x1da,0x18b)]);})[_0x263e54(-0x163,-0x135)](async _0x3a9bea=>{function _0x23c348(_0x47766c,_0x4f4369){return _0x263e54(_0x4f4369-0x46b,_0x47766c);}await _0xa7597e['client'][_0x23c348(0x305,0x28b)](_0xa7597e['jid'],_0x3a9bea[_0x23c348(0x203,0x282)],MessageType[_0x23c348(0x264,0x217)]);});}),Asena[_0x11d3d3(0x233,0x208)]({'pattern':_0x11d3d3(0x2c5,0x2b4),'fromMe':!![],'desc':Lang[_0x11d3d3(0x2ef,0x29d)]},async(_0x315353,_0x3f0ebd)=>{if(_0x3f0ebd[0x1]==='')return await _0x315353[_0x4f4717(0x353,0x2e8)][_0x4f4717(0x26e,0x2c7)](_0x315353[_0x4f4717(0x231,0x265)],Lang['KEY_VAL_MISSING'],MessageType[_0x4f4717(0x225,0x253)]);function _0x4f4717(_0x3135df,_0x12d491){return _0x11d3d3(_0x12d491-0x5c,_0x3135df);}await heroku[_0x4f4717(0x338,0x2e5)](baseURI+_0x4f4717(0x362,0x2f9))['then'](async _0x5cf226=>{function _0x8cf03(_0x545a80,_0x2f84b1){return _0x4f4717(_0x545a80,_0x2f84b1- -0x379);}for(vr in _0x5cf226){if(_0x3f0ebd[0x1][_0x8cf03(-0xa1,-0x8f)]()==vr)return await _0x315353[_0x8cf03(-0x64,-0xb2)](_0x8cf03(-0xbd,-0x41)[_0x8cf03(-0x8,-0x67)](vr,_0x5cf226[vr]));}await _0x315353['client'][_0x8cf03(-0x3b,-0xb2)](_0x315353[_0x8cf03(-0x12c,-0x114)],Lang[_0x8cf03(-0x14d,-0xf6)],MessageType[_0x8cf03(-0x181,-0x126)]);})[_0x4f4717(0x304,0x344)](async _0x3833a5=>{function _0x36aa11(_0x33527a,_0x5f3a2e){return _0x4f4717(_0x33527a,_0x5f3a2e- -0x56a);}await _0x315353['client'][_0x36aa11(-0x303,-0x2a3)](_0x315353[_0x36aa11(-0x33c,-0x305)],_0x3833a5['message'],MessageType[_0x36aa11(-0x352,-0x317)]);});});
+const Asena = require('../events');
+const Config = require('../config');
+const Heroku = require('heroku-client');
+const {secondsToHms} = require('./afk');
+const got = require('got');
+const {MessageType} = require('@adiwajshing/baileys');
+const sql = require('./sql/greetings');
+
+const Language = require('../language');
+const Lang = Language.getString('heroku');
+const Langr = Language.getString('lydia');
+
+const heroku = new Heroku({
+    token: Config.HEROKU.API_KEY
+});
+
+
+let baseURI = '/apps/' + Config.HEROKU.APP_NAME;
+
+Asena.addCommand({pattern: 'degis ?(.*)', fromMe: true, desc: Lang.DEGİS_DESC}, (async (message, match) => {
+
+    if (match[1] == '') {
+        return await message.client.sendMessage(message.jid, Lang.DEGİS_NONE, MessageType.text); 
+    }
+    else if (!message.reply_message) {
+        return await message.client.sendMessage(message.jid, Langr.NEED_REPLY, MessageType.text); 
+    }
+    else if (match[1] == 'ban' && message.reply_message) {
+        await message.client.sendMessage(message.jid, Lang.SUCC, MessageType.text);
+        await new Promise(r => setTimeout(r, 1200));
+        await message.client.sendMessage(message.jid, Lang.SUCC_AF, MessageType.text);
+        await heroku.patch(baseURI + '/config-vars', { 
+            body: { 
+                ['BAN_MESSAGE']: message.reply_message.text
+            } 
+        });
+    }
+    else if (match[1] == 'welcome' && message.reply_message) {
+        await message.client.sendMessage(message.jid, Lang.SUCC, MessageType.text);
+        await sql.setMessage(message.jid, 'welcome', message.reply_message.text)
+        await message.client.sendMessage(message.jid, Lang.GR_DEL, MessageType.text);
+    }
+    else if (match[1] == 'goodbye' && message.reply_message) {
+        await message.client.sendMessage(message.jid, Lang.SUCC, MessageType.text);
+        await sql.setMessage(message.jid, 'goodbye', message.reply_message.text)
+        await message.client.sendMessage(message.jid, Lang.GR_DEL, MessageType.text);
+    }
+    else if (match[1] == 'mute' && message.reply_message) {
+        await message.client.sendMessage(message.jid, Lang.SUCC, MessageType.text);
+        await new Promise(r => setTimeout(r, 1200));
+        await message.client.sendMessage(message.jid, Lang.SUCC_AF, MessageType.text);
+        await heroku.patch(baseURI + '/config-vars', { 
+            body: { 
+                ['MUTE_MESSAGE']: message.reply_message.text
+            } 
+        });
+    }
+    else if (match[1] == 'unmute' && message.reply_message) {
+        await message.client.sendMessage(message.jid, Lang.SUCC, MessageType.text);
+        await new Promise(r => setTimeout(r, 1200));
+        await message.client.sendMessage(message.jid, Lang.SUCC_AF, MessageType.text);
+        await heroku.patch(baseURI + '/config-vars', { 
+            body: { 
+                ['UNMUTE_MESSAGE']: message.reply_message.text
+            } 
+        });
+    }
+    else if (match[1] == 'add' && message.reply_message) {
+        await message.client.sendMessage(message.jid, Lang.SUCC, MessageType.text);
+        await new Promise(r => setTimeout(r, 1200));
+        await message.client.sendMessage(message.jid, Lang.SUCC_AF, MessageType.text);
+        await heroku.patch(baseURI + '/config-vars', { 
+            body: { 
+                ['ADD_MESSAGE']: message.reply_message.text
+            } 
+        });
+    }
+    else if (match[1] == 'kickme' && message.reply_message) {
+        await message.client.sendMessage(message.jid, Lang.SUCC, MessageType.text);
+        await new Promise(r => setTimeout(r, 1200));
+        await message.client.sendMessage(message.jid, Lang.SUCC_AF, MessageType.text);
+        await heroku.patch(baseURI + '/config-vars', { 
+            body: { 
+                ['KICKME_MESSAGE']: message.reply_message.text
+            } 
+        });
+    }
+    else if (match[1] == 'afk' && message.reply_message) {
+        await message.client.sendMessage(message.jid, Lang.SUCC, MessageType.text);
+        await new Promise(r => setTimeout(r, 1200));
+        await message.client.sendMessage(message.jid, Lang.SUCC_AF, MessageType.text);
+        await heroku.patch(baseURI + '/config-vars', { 
+            body: { 
+                ['AFK_MESSAGE']: message.reply_message.text
+            } 
+        });
+    }
+    else if (match[1] == 'alive' && message.reply_message) {
+        await message.client.sendMessage(message.jid, Lang.SUCC, MessageType.text);
+        await new Promise(r => setTimeout(r, 1200));
+        await message.client.sendMessage(message.jid, Lang.SUCC_AF, MessageType.text);
+        await heroku.patch(baseURI + '/config-vars', { 
+            body: { 
+                ['ALIVE_MESSAGE']: message.reply_message.text
+            } 
+        });
+    }
+    else if (match[1] == 'demote' && message.reply_message) {
+        await message.client.sendMessage(message.jid, Lang.SUCC, MessageType.text);
+        await new Promise(r => setTimeout(r, 1200));
+        await message.client.sendMessage(message.jid, Lang.SUCC_AF, MessageType.text);
+        await heroku.patch(baseURI + '/config-vars', { 
+            body: { 
+                ['DEMOTE_MESSAGE']: message.reply_message.text
+            } 
+        });
+    }
+    else if (match[1] == 'promote' && message.reply_message) {
+        await message.client.sendMessage(message.jid, Lang.SUCC, MessageType.text);
+        await new Promise(r => setTimeout(r, 1200));
+        await message.client.sendMessage(message.jid, Lang.SUCC_AF, MessageType.text);
+        await heroku.patch(baseURI + '/config-vars', { 
+            body: { 
+                ['PROMOTE_MESSAGE']: message.reply_message.text
+            } 
+        });
+    }
+    else if (match[1] == 'block' && message.reply_message) {
+        await message.client.sendMessage(message.jid, Lang.SUCC, MessageType.text);
+        await new Promise(r => setTimeout(r, 1200));
+        await message.client.sendMessage(message.jid, Lang.SUCC_AF, MessageType.text);
+        await heroku.patch(baseURI + '/config-vars', { 
+            body: { 
+                ['BLOCK_MESSAGE']: message.reply_message.text
+            } 
+        });
+    }
+    else if (match[1] == 'unblock' && message.reply_message) {
+        await message.client.sendMessage(message.jid, Lang.SUCC, MessageType.text);
+        await new Promise(r => setTimeout(r, 1200));
+        await message.client.sendMessage(message.jid, Lang.SUCC_AF, MessageType.text);
+        await heroku.patch(baseURI + '/config-vars', { 
+            body: { 
+                ['UNBLOCK_MESSAGE']: message.reply_message.text
+            } 
+        });
+    }
+    else if (!match[1] == 'unblock' || !match[1] == 'welcome' || !match[1] == 'goodbye' || !match[1] == 'add' || !match[1] == 'block' || !match[1] == 'mute' || !match[1] == 'unmute' || !match[1] == 'afk' || !match[1] == 'alive' || !match[1] == 'demote' || !match[1] == 'promote' || !match[1] == 'ban' || !match[1] == 'kickme' && message.reply_message) {
+        return await message.client.sendMessage(message.jid, Lang.WR, MessageType.text);
+    }
+}));
+
+
+Asena.addCommand({pattern: 'restart$', fromMe: true, desc: Lang.RESTART_DESC}, (async (message, match) => {
+
+    await message.client.sendMessage(message.jid,Lang.RESTART_MSG, MessageType.text);
+    console.log(baseURI);
+    await heroku.delete(baseURI + '/dynos').catch(async (error) => {
+        await message.client.sendMessage(message.jid,error.message, MessageType.text);
+    });
+}));
+
+Asena.addCommand({pattern: 'shutdown$', fromMe: true, desc: Lang.SHUTDOWN_DESC}, (async(message, match) => {
+
+    await heroku.get(baseURI + '/formation').then(async (formation) => {
+        forID = formation[0].id;
+        await message.client.sendMessage(message.jid,Lang.SHUTDOWN_MSG, MessageType.text);
+        await heroku.patch(baseURI + '/formation/' + forID, {
+            body: {
+                quantity: 0
+            }
+        });
+    }).catch(async (err) => {
+        await message.client.sendMessage(message.jid,error.message, MessageType.text);
+    });
+}));
+
+
+if (Config.WORKTYPE == 'private') {
+
+    Asena.addCommand({pattern: 'dyno$', fromMe: true, desc: Lang.DYNO_DESC}, (async (message, match) => {
+
+        heroku.get('/account').then(async (account) => {
+            // have encountered some issues while calling this API via heroku-client
+            // so let's do it manually
+            url = "https://api.heroku.com/accounts/" + account.id + "/actions/get-quota"
+            headers = {
+                "User-Agent": "Chrome/80.0.3987.149 Mobile Safari/537.36",
+                "Authorization": "Bearer " + Config.HEROKU.API_KEY,
+                "Accept": "application/vnd.heroku+json; version=3.account-quotas",
+            }
+            await got(url, {headers: headers}).then(async (res) => {
+               const resp = JSON.parse(res.body);
+               total_quota = Math.floor(resp.account_quota);
+               quota_used = Math.floor(resp.quota_used);         
+               percentage = Math.round((quota_used / total_quota) * 100);
+               remaining = total_quota - quota_used;
+               await message.client.sendMessage(
+                    message.jid,
+                    Lang.DYNO_TOTAL + ": ```{}```\n\n".format(secondsToHms(total_quota))  + 
+                    Lang.DYNO_USED + ": ```{}```\n".format(secondsToHms(quota_used)) +  
+                    Lang.PERCENTAGE + ": ```{}```\n\n".format(percentage) +
+                    Lang.DYNO_LEFT + ": ```{}```\n".format(secondsToHms(remaining)),
+                    MessageType.text
+               );
+            }).catch(async (err) => {
+                await message.client.sendMessage(message.jid,err.message, MessageType.text);     
+            });        
+        });
+    }));
+}
+else if (Config.WORKTYPE == 'public') {
+
+    Asena.addCommand({pattern: 'dyno$', fromMe: false, desc: Lang.DYNO_DESC}, (async (message, match) => {
+
+        heroku.get('/account').then(async (account) => {
+            // have encountered some issues while calling this API via heroku-client
+            // so let's do it manually
+            url = "https://api.heroku.com/accounts/" + account.id + "/actions/get-quota"
+            headers = {
+                "User-Agent": "Chrome/80.0.3987.149 Mobile Safari/537.36",
+                "Authorization": "Bearer " + Config.HEROKU.API_KEY,
+                "Accept": "application/vnd.heroku+json; version=3.account-quotas",
+            }
+            await got(url, {headers: headers}).then(async (res) => {
+               const resp = JSON.parse(res.body);
+               total_quota = Math.floor(resp.account_quota);
+               quota_used = Math.floor(resp.quota_used);         
+               percentage = Math.round((quota_used / total_quota) * 100);
+               remaining = total_quota - quota_used;
+               await message.client.sendMessage(
+                    message.jid,
+                    Lang.DYNO_TOTAL + ": ```{}```\n\n".format(secondsToHms(total_quota))  + 
+                    Lang.DYNO_USED + ": ```{}```\n".format(secondsToHms(quota_used)) +  
+                    Lang.PERCENTAGE + ": ```{}```\n\n".format(percentage) +
+                    Lang.DYNO_LEFT + ": ```{}```\n".format(secondsToHms(remaining)),
+                    MessageType.text
+               );
+            }).catch(async (err) => {
+                await message.client.sendMessage(message.jid,err.message, MessageType.text);     
+            });        
+        });
+    }));
+}
+
+Asena.addCommand({pattern: 'setvar ?(.*)', fromMe: true, desc: Lang.SETVAR_DESC}, (async(message, match) => {
+
+    if (match[1] === '') return await message.client.sendMessage(message.jid,Lang.KEY_VAL_MISSING, MessageType.text);
+
+    // ================================================== CONFIG SCANNER ==================================================
+    if (match[1] == 'SEND_READ: true' || match[1] == 'SEND_READ: True' || match[1] == 'SEND_READ: TRUE' || match[1] == 'SEND_READ:True' || match[1] == 'SEND_READ:TRUE' || match[1] == 'SEND_READ:ture' || match[1] == 'SEND_READ: ture' || match[1] == 'SEND_READ:ttue' || match[1] == 'SEND_READ:trie' || match[1] == 'SEND_READ: trie' || match[1] == 'SEND_READ:Trie' || match[1] == 'SEND_READ: Trie') {
+
+        if (Config.LANG == 'TR' || Config.LANG == 'AZ') {
+            await message.client.sendMessage(
+                message.jid,
+                '_Görünüşe göre_ *SEND_READ* _anahtarını_ *true* _yapmaya çalışıyorsun._\n_Merak etme, senin için doğrusunu ayarlayabilirim._',
+                MessageType.text
+            );
+            return await heroku.patch(baseURI + '/config-vars', {
+                body: {
+                    ['SEND_READ']: 'true'
+                }
+            });
+        }
+        else {
+            await message.client.sendMessage(
+                message.jid,
+                '_It looks like you are trying to make the_ *SEND_READ* _var switch_ *true.*\n_Dont worry, I will set it for you._',
+                MessageType.text
+            );
+            return await heroku.patch(baseURI + '/config-vars', {
+                body: {
+                    ['SEND_READ']: 'true'
+                }
+            });
+        }
+    }
+    if (match[1] == 'SEND_READ: false' || match[1] == 'SEND_READ: False' || match[1] == 'SEND_READ: FALSE' || match[1] == 'SEND_READ:False' || match[1] == 'SEND_READ:FALSE' || match[1] == 'SEND_READ:fakse' || match[1] == 'SEND_READ: fakse' || match[1] == 'SEND_READ:falde' || match[1] == 'SEND_READ: falde' || match[1] == 'SEND_READ:flase' || match[1] == 'SEND_READ:Flase' || match[1] == 'SEND_READ: flase') {
+
+        if (Config.LANG == 'TR' || Config.LANG == 'AZ') {
+            await message.client.sendMessage(
+                message.jid,
+                '_Görünüşe göre_ *SEND_READ* _anahtarını_ *false* _yapmaya çalışıyorsun._\n_Merak etme, senin için doğrusunu ayarlayabilirim._',
+                MessageType.text
+            );
+            return await heroku.patch(baseURI + '/config-vars', {
+                body: {
+                    ['SEND_READ']: 'false'
+                }
+            });
+        }
+        else {
+            await message.client.sendMessage(
+                message.jid,
+                '_It looks like you are trying to make the_ *SEND_READ* _var switch_ *false.*\n_Dont worry, I will set it for you._',
+                MessageType.text
+            );
+            return await heroku.patch(baseURI + '/config-vars', {
+                body: {
+                    ['SEND_READ']: 'false'
+                }
+            });
+        }
+    }
+    if (match[1] == 'DEBUG: false' || match[1] == 'DEBUG: False' || match[1] == 'DEBUG: FALSE' || match[1] == 'DEBUG:False' || match[1] == 'DEBUG:FALSE' || match[1] == 'DEBUG:fakse' || match[1] == 'DEBUG: fakse' || match[1] == 'DEBUG:falde' || match[1] == 'DEBUG: falde' || match[1] == 'DEBUG:flase' || match[1] == 'DEBUG:Flase' || match[1] == 'DEBUG: flase') {
+
+        if (Config.LANG == 'TR' || Config.LANG == 'AZ') {
+            await message.client.sendMessage(
+                message.jid,
+                '_Görünüşe göre_ *DEBUG* _anahtarını_ *false* _yapmaya çalışıyorsun._\n_Merak etme, senin için doğrusunu ayarlayabilirim._',
+                MessageType.text
+            );
+            return await heroku.patch(baseURI + '/config-vars', {
+                body: {
+                    ['DEBUG']: 'false'
+                }
+            });
+        }
+        else {
+            await message.client.sendMessage(
+                message.jid,
+                '_It looks like you are trying to make the_ *DEBUG* _var switch_ *false.*\n_Dont worry, I will set it for you._',
+                MessageType.text
+            );
+            return await heroku.patch(baseURI + '/config-vars', {
+                body: {
+                    ['DEBUG']: 'false'
+                }
+            });
+        }
+    }
+    if (match[1].match(/905511384572/i)) {
+
+        if (Config.LANG == 'TR' || Config.LANG == 'AZ') {
+            return await message.client.sendMessage(
+                message.jid,
+                '```Kurucuyu Block Chat\'e Alamam!```',
+                MessageType.text
+            );
+        }
+        else {
+            return await message.client.sendMessage(
+                message.jid,
+                'I Can\'t Add Owner to Block Chat',
+                MessageType.text
+            );
+        }
+    }
+    if (match[1] == 'BLOCK_CHAT: false' || match[1] == 'BLOCK_CHAT: False' || match[1] == 'BLOCK_CHAT: FALSE' || match[1] == 'BLOCK_CHAT:False' || match[1] == 'BLOCK_CHAT:FALSE' || match[1] == 'BLOCK_CHAT:fakse' || match[1] == 'BLOCK_CHAT: fakse' || match[1] == 'BLOCK_CHAT:falde' || match[1] == 'BLOCK_CHAT: falde' || match[1] == 'BLOCK_CHAT:flase' || match[1] == 'BLOCK_CHAT:Flase' || match[1] == 'BLOCK_CHAT: flase') {
+
+        if (Config.LANG == 'TR' || Config.LANG == 'AZ') {
+            await message.client.sendMessage(
+                message.jid,
+                '_Görünüşe göre_ *BLOCK_CHAT* _anahtarını_ *false* _yapmaya çalışıyorsun._\n_Merak etme, senin için doğrusunu ayarlayabilirim._',
+                MessageType.text
+            );
+            return await heroku.patch(baseURI + '/config-vars', {
+                body: {
+                    ['BLOCK_CHAT']: 'false'
+                }
+            });
+        }
+        else {
+            await message.client.sendMessage(
+                message.jid,
+                '_It looks like you are trying to make the_ *BLOCK_CHAT* _var switch_ *false.*\n_Dont worry, I will set it for you._',
+                MessageType.text
+            );
+            return await heroku.patch(baseURI + '/config-vars', {
+                body: {
+                    ['BLOCK_CHAT']: 'false'
+                }
+            });
+        }
+    }
+    if (match[1] == 'DEBUG: true' || match[1] == 'DEBUG: True' || match[1] == 'DEBUG: TRUE' || match[1] == 'DEBUG:True' || match[1] == 'DEBUG:TRUE' || match[1] == 'DEBUG:ture' || match[1] == 'DEBUG: ture' || match[1] == 'DEBUG:ttue' || match[1] == 'DEBUG:trie' || match[1] == 'DEBUG: trie' || match[1] == 'DEBUG:Trie' || match[1] == 'DEBUG: Trie') {
+
+        if (Config.LANG == 'TR' || Config.LANG == 'AZ') {
+            await message.client.sendMessage(
+                message.jid,
+                '_Görünüşe göre_ *DEBUG* _anahtarını_ *true* _yapmaya çalışıyorsun._\n_Merak etme, senin için doğrusunu ayarlayabilirim._',
+                MessageType.text
+            );
+            return await heroku.patch(baseURI + '/config-vars', {
+                body: {
+                    ['DEBUG']: 'true'
+                }
+            });
+        }
+        else {
+            await message.client.sendMessage(
+                message.jid,
+                '_It looks like you are trying to make the_ *DEBUG* _var switch_ *true.*\n_Dont worry, I will set it for you._',
+                MessageType.text
+            );
+            return await heroku.patch(baseURI + '/config-vars', {
+                body: {
+                    ['DEBUG']: 'true'
+                }
+            });
+        }
+    }
+    if (match[1] == 'NO_ONLİNE: false' || match[1] == 'NO_ONLİNE: False' || match[1] == 'NO_ONLİNE: FALSE' || match[1] == 'NO_ONLİNE:False' || match[1] == 'NO_ONLİNE:FALSE' || match[1] == 'NO_ONLİNE:fakse' || match[1] == 'NO_ONLİNE: fakse' || match[1] == 'NO_ONLİNE:falde' || match[1] == 'NO_ONLİNE: falde' || match[1] == 'NO_ONLİNE:flase' || match[1] == 'NO_ONLİNE:Flase' || match[1] == 'NO_ONLİNE: flase') {
+
+        if (Config.LANG == 'TR' || Config.LANG == 'AZ') {
+            await message.client.sendMessage(
+                message.jid,
+                '_Görünüşe göre_ *NO_ONLİNE* _anahtarını_ *false* _yapmaya çalışıyorsun._\n_Merak etme, senin için doğrusunu ayarlayabilirim._',
+                MessageType.text
+            );
+            return await heroku.patch(baseURI + '/config-vars', {
+                body: {
+                    ['NO_ONLİNE']: 'false'
+                }
+            });
+        }
+        else {
+            await message.client.sendMessage(
+                message.jid,
+                '_It looks like you are trying to make the_ *NO_ONLİNE* _var switch_ *false.*\n_Dont worry, I will set it for you._',
+                MessageType.text
+            );
+            return await heroku.patch(baseURI + '/config-vars', {
+                body: {
+                    ['NO_ONLİNE']: 'false'
+                }
+            });
+        }
+    }
+    if (match[1] == 'NO_ONLİNE: true' || match[1] == 'NO_ONLİNE: True' || match[1] == 'NO_ONLİNE: TRUE' || match[1] == 'NO_ONLİNE:True' || match[1] == 'NO_ONLİNE:TRUE' || match[1] == 'NO_ONLİNE:ture' || match[1] == 'NO_ONLİNE: ture' || match[1] == 'NO_ONLİNE:ttue' || match[1] == 'NO_ONLİNE:trie' || match[1] == 'NO_ONLİNE: trie' || match[1] == 'NO_ONLİNE:Trie' || match[1] == 'NO_ONLİNE: Trie') {
+
+        if (Config.LANG == 'TR' || Config.LANG == 'AZ') {
+            await message.client.sendMessage(
+                message.jid,
+                '_Görünüşe göre_ *NO_ONLİNE* _anahtarını_ *true* _yapmaya çalışıyorsun._\n_Merak etme, senin için doğrusunu ayarlayabilirim._',
+                MessageType.text
+            );
+            return await heroku.patch(baseURI + '/config-vars', {
+                body: {
+                    ['NO_ONLİNE']: 'true'
+                }
+            });
+        }
+        else {
+            await message.client.sendMessage(
+                message.jid,
+                '_It looks like you are trying to make the_ *NO_ONLİNE* _var switch_ *true.*\n_Dont worry, I will set it for you._',
+                MessageType.text
+            );
+            return await heroku.patch(baseURI + '/config-vars', {
+                body: {
+                    ['NO_ONLİNE']: 'true'
+                }
+            });
+        }
+    }
+    if (match[1] == 'LANGUAGE:tr' || match[1] == 'LANGUAGE: tr' || match[1] == 'LANGUAGE: Tr' || match[1] == 'LANGUAGE:Tr' || match[1] == 'LANGUAGE: TR' || match[1] == 'LANGUAGE:tR' || match[1] == 'LANGUAGE: tR' || match[1] == 'LANGUAGE:T R' || match[1] == 'LANGUAGE:Turkce' || match[1] == 'LANGUAGE:turkce' || match[1] == 'LANGUAGE:türkce' || match[1] == 'LANGUAGE:Türkce') {
+
+        if (Config.LANG == 'TR' || Config.LANG == 'AZ') {
+            await message.client.sendMessage(
+                message.jid,
+                '_Görünüşe göre bot dilini_ *Türkçe* _yapmaya çalışıyorsun._\n_Merak etme, senin için doğrusunu ayarlayabilirim._',
+                MessageType.text
+            );
+            return await heroku.patch(baseURI + '/config-vars', {
+                body: {
+                    ['LANGUAGE']: 'TR'
+                }
+            });
+        }
+        else {
+            await message.client.sendMessage(
+                message.jid,
+                '_It looks like you are trying to change bot language to_ *Turkish*\n_Dont worry, I will set it for you._',
+                MessageType.text
+            );
+            return await heroku.patch(baseURI + '/config-vars', {
+                body: {
+                    ['LANGUAGE']: 'TR'
+                }
+            });
+        }
+    }
+    if (match[1] == 'LANGUAGE:En' || match[1] == 'LANGUAGE: En' || match[1] == 'LANGUAGE: en' || match[1] == 'LANGUAGE:EN' || match[1] == 'LANGUAGE: EN' || match[1] == 'LANGUAGE:eN' || match[1] == 'LANGUAGE: eN' || match[1] == 'LANGUAGE:E N' || match[1] == 'LANGUAGE: English' || match[1] == 'LANGUAGE:English' || match[1] == 'LANGUAGE:english' || match[1] == 'LANGUAGE: english') {
+
+        if (Config.LANG == 'TR' || Config.LANG == 'AZ') {
+            await message.client.sendMessage(
+                message.jid,
+                '_Görünüşe göre bot dilini_ *İngilize* _yapmaya çalışıyorsun._\n_Merak etme, senin için doğrusunu ayarlayabilirim._',
+                MessageType.text
+            );
+            return await heroku.patch(baseURI + '/config-vars', {
+                body: {
+                    ['LANGUAGE']: 'en'
+                }
+            });
+        }
+        else {
+            await message.client.sendMessage(
+                message.jid,
+                '_It looks like you are trying to change bot language to *English.*\n_Dont worry, I will set it for you._',
+                MessageType.text
+            );
+            return await heroku.patch(baseURI + '/config-vars', {
+                body: {
+                    ['LANGUAGE']: 'en'
+                }
+            });
+        }
+    }
+    if (match[1] == 'LANGUAGE: az' || match[1] == 'LANGUAGE: Az' || match[1] == 'LANGUAGE:Az' || match[1] == 'LANGUAGE:AZ' || match[1] == 'LANGUAGE: AZ' || match[1] == 'LANGUAGE:aZ' || match[1] == 'LANGUAGE: aZ' || match[1] == 'LANGUAGE:A Z') {
+
+        if (Config.LANG == 'TR' || Config.LANG == 'AZ') {
+            await message.client.sendMessage(
+                message.jid,
+                '_Görünüşe göre bot dilini_ *Azerice* _yapmaya çalışıyorsun._\n_Merak etme, senin için doğrusunu ayarlayabilirim._',
+                MessageType.text
+            );
+            return await heroku.patch(baseURI + '/config-vars', {
+                body: {
+                    ['LANGUAGE']: 'az'
+                }
+            });
+        }
+        else {
+            await message.client.sendMessage(
+                message.jid,
+                '_It looks like you are trying to change bot language to *Azerbaijani.*\n_Dont worry, I will set it for you._',
+                MessageType.text
+            );
+            return await heroku.patch(baseURI + '/config-vars', {
+                body: {
+                    ['LANGUAGE']: 'az'
+                }
+            });
+        }
+    }
+    if (match[1] == 'LANGUAGE: ml' || match[1] == 'LANGUAGE: Ml' || match[1] == 'LANGUAGE:Ml' || match[1] == 'LANGUAGE:ML' || match[1] == 'LANGUAGE: ML' || match[1] == 'LANGUAGE:mL' || match[1] == 'LANGUAGE: mL' || match[1] == 'LANGUAGE:M L') {
+
+        if (Config.LANG == 'TR' || Config.LANG == 'AZ') {
+            await message.client.sendMessage(
+                message.jid,
+                '_Görünüşe göre bot dilini_ *Malayam* _yapmaya çalışıyorsun._\n_Merak etme, senin için doğrusunu ayarlayabilirim._',
+                MessageType.text
+            );
+            return await heroku.patch(baseURI + '/config-vars', {
+                body: {
+                    ['LANGUAGE']: 'ml'
+                }
+            });
+        }
+        else {
+            await message.client.sendMessage(
+                message.jid,
+                '_It looks like you are trying to change bot language to *Malayalam.*\n_Dont worry, I will set it for you._',
+                MessageType.text
+            );
+            return await heroku.patch(baseURI + '/config-vars', {
+                body: {
+                    ['LANGUAGE']: 'ml'
+                }
+            });
+        }
+    }
+    if (match[1] == 'LANGUAGE: HI' || match[1] == 'LANGUAGE: Hı' || match[1] == 'LANGUAGE:Hı' || match[1] == 'LANGUAGE:hı' || match[1] == 'LANGUAGE: hı' || match[1] == 'LANGUAGE:H I') {
+
+        if (Config.LANG == 'TR' || Config.LANG == 'AZ') {
+            await message.client.sendMessage(
+                message.jid,
+                '_Görünüşe göre bot dilini_ *Hintçe* _yapmaya çalışıyorsun._\n_Merak etme, senin için doğrusunu ayarlayabilirim._',
+                MessageType.text
+            );
+            return await heroku.patch(baseURI + '/config-vars', {
+                body: {
+                    ['LANGUAGE']: 'HI'
+                }
+            });
+        }
+        else {
+            await message.client.sendMessage(
+                message.jid,
+                '_It looks like you are trying to change bot language to *Hindi.*\n_Dont worry, I will set it for you._',
+                MessageType.text
+            );
+            return await heroku.patch(baseURI + '/config-vars', {
+                body: {
+                    ['LANGUAGE']: 'HI'
+                }
+            });
+        }
+    }
+    if (match[1] == 'LANGUAGE: es' || match[1] == 'LANGUAGE: Es' || match[1] == 'LANGUAGE:Es' || match[1] == 'LANGUAGE: ES' || match[1] == 'LANGUAGE:eS' || match[1] == 'LANGUAGE: eS' || match[1] == 'LANGUAGE:E S') {
+
+        if (Config.LANG == 'TR' || Config.LANG == 'AZ') {
+            await message.client.sendMessage(
+                message.jid,
+                '_Görünüşe göre bot dilini_ *İspanyolca* _yapmaya çalışıyorsun._\n_Merak etme, senin için doğrusunu ayarlayabilirim._',
+                MessageType.text
+            );
+            return await heroku.patch(baseURI + '/config-vars', {
+                body: {
+                    ['LANGUAGE']: 'ES'
+                }
+            });
+        }
+        else {
+            await message.client.sendMessage(
+                message.jid,
+                '_It looks like you are trying to change bot language to *Spanish.*\n_Dont worry, I will set it for you._',
+                MessageType.text
+            );
+            return await heroku.patch(baseURI + '/config-vars', {
+                body: {
+                    ['LANGUAGE']: 'ES'
+                }
+            });
+        }
+    }
+    if (match[1] == 'LANGUAGE: id' || match[1] == 'LANGUAGE: İd' || match[1] == 'LANGUAGE: Id' || match[1] == 'LANGUAGE:ıd' || match[1] == 'LANGUAGE: ıd' || match[1] == 'LANGUAGE:id' || match[1] == 'LANGUAGE: ID' || match[1] == 'LANGUAGE: İD' || match[1] == 'LANGUAGE:İD' || match[1] == 'LANGUAGE:iD' || match[1] == 'LANGUAGE: iD' || match[1] == 'LANGUAGE:I D') {
+
+        if (Config.LANG == 'TR' || Config.LANG == 'AZ') {
+            await message.client.sendMessage(
+                message.jid,
+                '_Görünüşe göre bot dilini_ *Endonezce* _yapmaya çalışıyorsun._\n_Merak etme, senin için doğrusunu ayarlayabilirim._',
+                MessageType.text
+            );
+            return await heroku.patch(baseURI + '/config-vars', {
+                body: {
+                    ['LANGUAGE']: 'ID'
+                }
+            });
+        }
+        else {
+            await message.client.sendMessage(
+                message.jid,
+                '_It looks like you are trying to change bot language to *Indonesian.*\n_Dont worry, I will set it for you._',
+                MessageType.text
+            );
+            return await heroku.patch(baseURI + '/config-vars', {
+                body: {
+                    ['LANGUAGE']: 'ID'
+                }
+            });
+        }
+    }
+    // ================================================== END CONFIG SCANNER ==================================================
+
+    if ((varKey = match[1].split(':')[0]) && (varValue = match[1].split(':')[1])) {
+        await heroku.patch(baseURI + '/config-vars', {
+            body: {
+                [varKey]: varValue
+            }
+        }).then(async (app) => {
+            await message.client.sendMessage(message.jid,Lang.SET_SUCCESS.format(varKey, varValue), MessageType.text);
+        });
+    } else {
+        await message.client.sendMessage(message.jid,Lang.INVALID, MessageType.text);
+    }
+}));
+
+
+Asena.addCommand({pattern: 'delvar ?(.*)', fromMe: true, desc: Lang.DELVAR_DESC}, (async (message, match) => {
+
+    if (match[1] === '') return await message.client.sendMessage(message.jid,Lang.KEY_VAL_MISSING, MessageType.text);
+    await heroku.get(baseURI + '/config-vars').then(async (vars) => {
+        key = match[1].trim();
+        for (vr in vars) {
+            if (key == vr) {
+                await heroku.patch(baseURI + '/config-vars', {
+                    body: {
+                        [key]: null
+                    }
+                });
+                return await message.client.sendMessage(message.jid,Lang.DEL_SUCCESS.format(key), MessageType.text);
+            }
+        }
+        await message.client.sendMessage(message.jid,Lang.NOT_FOUND, MessageType.text);
+    }).catch(async (error) => {
+        await message.client.sendMessage(message.jid,error.message, MessageType.text);
+    });
+
+}));
+
+Asena.addCommand({pattern: 'getvar ?(.*)', fromMe: true, desc: Lang.GETVAR_DESC}, (async (message, match) => {
+
+    if (match[1] === '') return await message.client.sendMessage(message.jid,Lang.KEY_VAL_MISSING, MessageType.text);
+    await heroku.get(baseURI + '/config-vars').then(async (vars) => {
+        for (vr in vars) {
+            if (match[1].trim() == vr) return await message.sendMessage("```{} - {}```".format(vr, vars[vr]));
+        }
+        await message.client.sendMessage(message.jid,Lang.NOT_FOUND, MessageType.text);
+    }).catch(async (error) => {
+        await message.client.sendMessage(message.jid,error.message, MessageType.text);
+    });
+}));

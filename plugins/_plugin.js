@@ -1,9 +1,159 @@
-/* Copyright (C) 2020 Aqua Snake.
+/* Copyright (C) 2020 Yusuf Usta.
 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
-Cyber Bot - Aqua Snake
+WhatsAsena - Yusuf Usta
 */
 
-(function(_0x5d5d42,_0x24b2bc){const _0x1ae5f1=_0x5d5d42();function _0x2d40a9(_0x4fccd5,_0x173c46){return _0x5b6d(_0x173c46- -0x1d5,_0x4fccd5);}while(!![]){try{const _0x4155a8=parseInt(_0x2d40a9(-0x106,-0x11d))/0x1*(parseInt(_0x2d40a9(-0x134,-0x150))/0x2)+parseInt(_0x2d40a9(-0xf3,-0x126))/0x3+-parseInt(_0x2d40a9(-0x178,-0x151))/0x4*(parseInt(_0x2d40a9(-0xb1,-0xe9))/0x5)+-parseInt(_0x2d40a9(-0xf7,-0x119))/0x6*(-parseInt(_0x2d40a9(-0x130,-0x142))/0x7)+-parseInt(_0x2d40a9(-0x18a,-0x165))/0x8+parseInt(_0x2d40a9(-0x162,-0x129))/0x9+parseInt(_0x2d40a9(-0x137,-0x156))/0xa;if(_0x4155a8===_0x24b2bc)break;else _0x1ae5f1['push'](_0x1ae5f1['shift']());}catch(_0x2afcf1){_0x1ae5f1['push'](_0x1ae5f1['shift']());}}}(_0x39ee,0x9a46a));const _0x50b353=(function(){let _0xc3352e=!![];return function(_0x1c0db1,_0x4863f4){const _0x57f276=_0xc3352e?function(){if(_0x4863f4){const _0x6bc492=_0x4863f4['apply'](_0x1c0db1,arguments);return _0x4863f4=null,_0x6bc492;}}:function(){};return _0xc3352e=![],_0x57f276;};}());function _0xe402ed(_0x42756a,_0x3d044e){return _0x5b6d(_0x42756a- -0x1d4,_0x3d044e);}const _0x193c9b=_0x50b353(this,function(){function _0xd60838(_0x496f91,_0x93ee4a){return _0x5b6d(_0x93ee4a-0x34a,_0x496f91);}return _0x193c9b[_0xd60838(0x406,0x431)]()[_0xd60838(0x414,0x3da)](_0xd60838(0x407,0x42c))[_0xd60838(0x442,0x431)]()[_0xd60838(0x3ba,0x3e4)](_0x193c9b)[_0xd60838(0x3ca,0x3da)](_0xd60838(0x462,0x42c));});_0x193c9b();const _0x171028=(function(){let _0x12dd1f=!![];return function(_0x43d9ae,_0x5eea95){const _0x3d018d=_0x12dd1f?function(){function _0x41a0e9(_0x19e2c6,_0x4e19f7){return _0x5b6d(_0x19e2c6-0x384,_0x4e19f7);}if(_0x5eea95){const _0x378c75=_0x5eea95[_0x41a0e9(0x3f9,0x42d)](_0x43d9ae,arguments);return _0x5eea95=null,_0x378c75;}}:function(){};return _0x12dd1f=![],_0x3d018d;};}()),_0x29cd8e=_0x171028(this,function(){const _0x1f014a=function(){let _0x391f85;function _0x4c6ce7(_0x2a387d,_0x45e5bb){return _0x5b6d(_0x2a387d- -0x1aa,_0x45e5bb);}try{_0x391f85=Function('return\x20(function()\x20'+_0x4c6ce7(-0x11d,-0xee)+');')();}catch(_0x256e55){_0x391f85=window;}return _0x391f85;},_0x29cab6=_0x1f014a(),_0x57a7dc=_0x29cab6['console']=_0x29cab6[_0xdd1c30(0x202,0x1ce)]||{};function _0xdd1c30(_0x42aee1,_0x1b188a){return _0x5b6d(_0x1b188a-0xf7,_0x42aee1);}const _0x28fcab=[_0xdd1c30(0x1c9,0x1c0),'warn',_0xdd1c30(0x18f,0x17f),_0xdd1c30(0x1a8,0x1dd),_0xdd1c30(0x1a7,0x17d),'table',_0xdd1c30(0x14a,0x166)];for(let _0x42c2f7=0x0;_0x42c2f7<_0x28fcab[_0xdd1c30(0x1ef,0x1b4)];_0x42c2f7++){const _0x185abd=_0x171028['constructor'][_0xdd1c30(0x148,0x17a)][_0xdd1c30(0x1bc,0x1ad)](_0x171028),_0x16a8b1=_0x28fcab[_0x42c2f7],_0x1066a5=_0x57a7dc[_0x16a8b1]||_0x185abd;_0x185abd[_0xdd1c30(0x171,0x165)]=_0x171028[_0xdd1c30(0x190,0x1ad)](_0x171028),_0x185abd[_0xdd1c30(0x1eb,0x1de)]=_0x1066a5[_0xdd1c30(0x1f3,0x1de)]['bind'](_0x1066a5),_0x57a7dc[_0x16a8b1]=_0x185abd;}});_0x29cd8e();const Asena=require(_0xe402ed(-0x120,-0x105)),Heroku=require('heroku-client'),Config=require(_0xe402ed(-0xf9,-0xcc)),{MessageType}=require('@adiwajshing/baileys'),got=require(_0xe402ed(-0x105,-0x127)),fs=require('fs'),Db=require(_0xe402ed(-0x15b,-0x190)),Language=require(_0xe402ed(-0x133,-0x14d)),Lang=Language[_0xe402ed(-0x115,-0xeb)]('_plugin'),NLang=Language[_0xe402ed(-0x115,-0x136)](_0xe402ed(-0x100,-0xd7));let msg=Config[_0xe402ed(-0x143,-0x103)]=='TR'||Config[_0xe402ed(-0x143,-0x135)]=='AZ'?'*Bu\x20Plugin\x20Resmi\x20Olarak\x20Onaylanmıştır!*\x20✅':_0xe402ed(-0x112,-0x10f),unmsg=Config['LANG']=='TR'||Config[_0xe402ed(-0x143,-0x168)]=='AZ'?_0xe402ed(-0x11d,-0xee):_0xe402ed(-0x13d,-0x172);const heroku=new Heroku({'token':Config['HEROKU']['API_KEY']});let baseURI='/apps/'+Config[_0xe402ed(-0xf7,-0x12b)][_0xe402ed(-0xeb,-0xe2)];function _0x5b6d(_0x46a5dd,_0x235327){const _0x207d0a=_0x39ee();return _0x5b6d=function(_0x29cd8e,_0x171028){_0x29cd8e=_0x29cd8e-0x6d;let _0x3a7cbf=_0x207d0a[_0x29cd8e];if(_0x5b6d['WldYZb']===undefined){var _0x7fed2f=function(_0x5b6dd0){const _0x192aea='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x16849d='',_0x143c9b='',_0x18d435=_0x16849d+_0x7fed2f;for(let _0x9ab0c2=0x0,_0x11a62d,_0xc3352e,_0x1c0db1=0x0;_0xc3352e=_0x5b6dd0['charAt'](_0x1c0db1++);~_0xc3352e&&(_0x11a62d=_0x9ab0c2%0x4?_0x11a62d*0x40+_0xc3352e:_0xc3352e,_0x9ab0c2++%0x4)?_0x16849d+=_0x18d435['charCodeAt'](_0x1c0db1+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x11a62d>>(-0x2*_0x9ab0c2&0x6)):_0x9ab0c2:0x0){_0xc3352e=_0x192aea['indexOf'](_0xc3352e);}for(let _0x4863f4=0x0,_0x57f276=_0x16849d['length'];_0x4863f4<_0x57f276;_0x4863f4++){_0x143c9b+='%'+('00'+_0x16849d['charCodeAt'](_0x4863f4)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x143c9b);};_0x5b6d['WARERh']=_0x7fed2f,_0x46a5dd=arguments,_0x5b6d['WldYZb']=!![];}const _0x193c9b=_0x207d0a[0x0],_0x50b353=_0x29cd8e+_0x193c9b,_0x39eea4=_0x46a5dd[_0x50b353];if(!_0x39eea4){const _0x6bc492=function(_0x12dd1f){this['HgUwcb']=_0x12dd1f,this['kjEFig']=[0x1,0x0,0x0],this['FAPuZE']=function(){return'newState';},this['YPEBzw']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['MsYMdn']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x6bc492['prototype']['vlPBzw']=function(){const _0x43d9ae=new RegExp(this['YPEBzw']+this['MsYMdn']),_0x5eea95=_0x43d9ae['test'](this['FAPuZE']['toString']())?--this['kjEFig'][0x1]:--this['kjEFig'][0x0];return this['UmCaZH'](_0x5eea95);},_0x6bc492['prototype']['UmCaZH']=function(_0x3d018d){if(!Boolean(~_0x3d018d))return _0x3d018d;return this['EteKGY'](this['HgUwcb']);},_0x6bc492['prototype']['EteKGY']=function(_0x378c75){for(let _0x1f014a=0x0,_0x29cab6=this['kjEFig']['length'];_0x1f014a<_0x29cab6;_0x1f014a++){this['kjEFig']['push'](Math['round'](Math['random']())),_0x29cab6=this['kjEFig']['length'];}return _0x378c75(this['kjEFig'][0x0]);},new _0x6bc492(_0x5b6d)['vlPBzw'](),_0x3a7cbf=_0x5b6d['WARERh'](_0x3a7cbf),_0x46a5dd[_0x50b353]=_0x3a7cbf;}else _0x3a7cbf=_0x39eea4;return _0x3a7cbf;},_0x5b6d(_0x46a5dd,_0x235327);}function _0x39ee(){const _0x5c5d86=['nJe0BunsB3Ly','zxHJzxb0Aw9U','uKvnt1zfx0rfu0m','Aw5MBW','su5tvefmtf9ervnd','l3jVB3qVv2HHDhnbC2vUyur1CgXPy2f0zwqVCgX1z2LUCY8','BwvZC2fNzs5JBgLLBNqUDxnLCI5QAwq','Dw5HzMzPBMzV','E30Uy29UC3rYDwn0B3iOiNjLDhvYBIb0AgLZiIKOicK','zMLUzefSBa','kKj1ifbSDwDPBIbAyxjHCMZeSsbpBgr1Xj91BMrHBIbzW7XRBgvUzw1LEIeQ','C2vHCMnO','teforW','CMvTB3zLkd86ihWKksGUkIK','mtGZmZn2vM9XyuG','yM9KEq','CxvVDgvKtwvZC2fNzq','zgf0yvzHBhvLCW','kLrOAxmGugX1z2LUigLZBID0ie9MzMLJAwfSBhKGqxbWCM92zwqHkIdINyW','z3jVDxbezw1VDgvbzg1PBG','BMfTzq','y29UC3rYDwn0B3i','C3rHCNrZv2L0Aa','AgvYB2T1lMrLBgv0zq','lMLUC3rHBgWGAhr0Chm6lY9NAxn0lMDPDgH1yNvZzxjJB250zw50lMnVBs9bCxvHlvnUywTLlZHKngvIm2yZnJi4ywzJy2mXytGZytnJnwzHyMq4mdqY','kLzHCM9Syw4GugX1z2LUBgvYAsbuzwTYyxiGwCo8A2XLEwvTzxPZAw4HkG','Ag9ZDa','y29TBwfUzhmUBwfW','lI4VBgfUz3vHz2u','su5tvefmtevex0zst01FuKvnt1rf','quzurvjFvvbeqvrf','l3nXBc9UB3rLCW','C2vUze1LC3nHz2u','z3jVDxbjBNzPDgvdB2rL','y29TBwL0C1SNywXSj10UBwfW','BMvVzMv0y2G','BgLTAxq','l3nXBc9SEwrPyq','y2XPzw50','mti5mdCZnvj2uKfdBa','kLLVDsbdyw5UB3qGsw5ZDgfSBcb0AguGu2fTzsbqBhvNAw4GmIbuAw1LCYeQ','y2f0y2G','mtC4mty4ofjcD2XWtW','BwvZC2fNzs5JBgLLBNqUDxnLCI5Uyw1L','zM9YBwf0','z3jVDxbtzxr0Aw5Nq2HHBMDL','z3jVDxbmzwf2zq','lI4VzxzLBNrZ','yMXVy2TvC2vY','yMLUza','kKj1ifbSDwDPBIbszxnTAsbezCsFAwXKAxiHkIdINyW','mZKWnMT3BLnvrG','lMPZ','igbGya','ugX1z2LUrei','mtGXmKf4BhLUrG','BgvUz3rO','twvZC2fNzvr5CguUBg9JyxrPB24','z2v0u3rYAw5N','Aw5ZDgfSBca/kc4Qkq','l2r5BM9Z','kLrOAxmGugX1z2LUigLZie9MzMLJAwfSBhKGqxbWCM92zwqHkIdINiu','z3jVDxbbzgq','DxbKyxrLuhjVzMLSzvbPy3r1CMu','su5wquXjrf9qtfvhsu4','tK9FueXvr0Lo','Bgv2zwW','qxf1ys1tBMfRzq','Bg9N','ywrKq29TBwfUza','kKf5BSsXifbSDwDPBMKGmIbezwzHifNdVgTSzw1LEwv6C2LUAxOHkG','v0fstG','zgvZDhjVEq','zNmUDw5SAw5Ru3LUyW','z290','zgvSzxrL','ygbG','revmrvrfra','z2LZDc5NAxrODwj1C2vYy29UDgvUDc5JB20','DxbKyxrLCG','y2fJAgu','z2LZDc5NAxrODwiUy29T','y29UC29Szq','su5tvefmteve','Dw5SAw5Ru3LUyW','CMfUzg9T','lI4Vy29UzMLN','l3jHDW','sevst0Tv','zNmU','tK9ux0zpvu5ex1bmvuDjtG','l3nXBc9WBhvNAw4','ygbGoIa','kcGOlISPkYKRksSK','tKvfrf9qtfvhsu4','kKrHBMDLCIbmzxzLBcbVzIbjBNn0ywXSzwqGugX1z2LUoIOGxYu','kLNdVgTSzw5LBIbqBhvNAw5PBIbuzwHSAwTLierLCMvJzxnPoIOGxYu','zxjYB3i','Dg9tDhjPBMC','z3jVDxbszw1VDMu','qvbqx05btuu','AMLKCY5WDxnO','C3vIC3rYAw5N','odK2ntb6svPTuxG','kLrOAxmGugX1z2LUienHBM5VDcbczsbjBNn0ywXSzwqGqxmGsxqGsxmGsgfYBwz1BceQ','x19WCM90B19F','DhjHy2u','nZK5nZKYoe5NuLrcEG','AgvYB2T1lNbHDgnO','kLLVDsbdyw50ifjLAw5ZDgfSBcbfEgLZDgLUzYbqBhvNAw5ZisO','Aw5JBhvKzxm','tKvfrf9vuKW','yxbWBhK','Dgv4Da','qNvMzMvY','DxjS','lI9ZCwWVCgX1z2LU','su5wquXjrf9vuKW','kKj1ifbSDwDPBIbhW7X2zw5SAwSGu8sXBSsXCSsXBSsXiehfN8sXEw9YisOkkLPHCMfYBmsXBmsXAYbzW7X6zgvZAtOQif8L','Bwf0y2G','vu5prKy','tgfUz3vHz2uUz2v0u3rYAw5NkcDZExn0zw1FC3rHDhmNkq','mta1ntC0mhfbtgDUwG','AMLK','BwfW','twf0Ac5YB3vUzcGOBMv3ierHDguOksKUz2v0vgLTzsGPic8GmtaWmcK','ChjVDg90ExbL','mJy4Cwrrq0P1'];_0x39ee=function(){return _0x5c5d86;};return _0x39ee();}var LANG={'unaffinfo':Config['LANG']=='TR'||Config[_0xe402ed(-0x143,-0x137)]=='AZ'?_0xe402ed(-0xef,-0xeb):_0xe402ed(-0xf0,-0x112),'harmful':Config[_0xe402ed(-0x143,-0x131)]=='TR'||Config[_0xe402ed(-0x143,-0x10a)]=='AZ'?_0xe402ed(-0x145,-0x144):_0xe402ed(-0x167,-0x1a2),'duplicate':Config[_0xe402ed(-0x143,-0x119)]=='TR'||Config[_0xe402ed(-0x143,-0x172)]=='AZ'?_0xe402ed(-0x109,-0xd7):_0xe402ed(-0x127,-0x12d),'limit':Config[_0xe402ed(-0x143,-0x109)]=='TR'||Config['LANG']=='AZ'?_0xe402ed(-0x159,-0x146):'*This\x20Plugin\x20Exceeds\x20Security\x20Limit!*\x0a*Percentage\x20of\x20Harm:*\x20_%','imside':Config[_0xe402ed(-0x143,-0x149)]=='TR'||Config[_0xe402ed(-0x143,-0x144)]=='AZ'?_0xe402ed(-0x136,-0x16e):_0xe402ed(-0x162,-0x133)};Asena[_0xe402ed(-0x10a,-0x129)]({'pattern':_0xe402ed(-0x114,-0x13a),'fromMe':!![],'desc':Lang[_0xe402ed(-0x14b,-0x155)],'warn':Lang[_0xe402ed(-0x108,-0x142)]},async(_0x13cbf2,_0x4e5400)=>{function _0x27f7ab(_0x2bdf9e,_0x275efb){return _0xe402ed(_0x275efb-0x3dc,_0x2bdf9e);}if(_0x4e5400[0x1]=='')return await _0x13cbf2[_0x27f7ab(0x285,0x2b3)][_0x27f7ab(0x2b8,0x2ad)](_0x13cbf2['jid'],Lang[_0x27f7ab(0x27d,0x27c)]+_0x27f7ab(0x286,0x2a5),MessageType[_0x27f7ab(0x266,0x27e)]);try{var _0x516250=new URL(_0x4e5400[0x1]);}catch{return await _0x13cbf2['client']['sendMessage'](_0x13cbf2['jid'],Lang[_0x27f7ab(0x267,0x282)],txt);}_0x516250[_0x27f7ab(0x27b,0x2a7)]===_0x27f7ab(0x2bf,0x2de)?(_0x516250[_0x27f7ab(0x27d,0x2a7)]=_0x27f7ab(0x2ca,0x2db),_0x516250=_0x516250[_0x27f7ab(0x2b7,0x2ef)]()+_0x27f7ab(0x2c0,0x2e4)):_0x516250=_0x516250[_0x27f7ab(0x306,0x2ef)]();var _0x22c0cf=await got(_0x516250);if(_0x22c0cf['statusCode']==0xc8){var _0x4dac59=_0x22c0cf['body'][_0x27f7ab(0x284,0x284)](/addCommand\({.*pattern: ["'](.*)["'].*}/);_0x4dac59[_0x27f7ab(0x2f1,0x2c5)]>=0x1?_0x4dac59='__'+_0x4dac59[0x1]:_0x4dac59='__'+Math[_0x27f7ab(0x2b2,0x2e2)]()[_0x27f7ab(0x302,0x2ef)](0x24)[_0x27f7ab(0x2d5,0x2f3)](0x8);fs['writeFileSync']('./plugins/'+_0x4dac59+_0x27f7ab(0x2ed,0x2c1),_0x22c0cf[_0x27f7ab(0x267,0x29c)]);try{require('./'+_0x4dac59);}catch(_0x14a4de){return fs[_0x27f7ab(0x2d3,0x2e1)]('/root/WhatsAsenaDuplicated/plugins/'+_0x4dac59+_0x27f7ab(0x2cd,0x2c1)),await _0x13cbf2['client'][_0x27f7ab(0x2e2,0x2ad)](_0x13cbf2[_0x27f7ab(0x2bc,0x288)],Lang[_0x27f7ab(0x2f9,0x2cd)]+_0x27f7ab(0x2de,0x2c2)+_0x14a4de+_0x27f7ab(0x2a3,0x2d9),MessageType['text']);}var _0x319e76={'level':0x5};if(_0x22c0cf['body'][_0x27f7ab(0x260,0x27b)](_0x27f7ab(0x2c5,0x2e6)))_0x319e76[_0x27f7ab(0x308,0x2cf)]=_0x319e76[_0x27f7ab(0x2b6,0x2cf)]+0x8;if(_0x22c0cf[_0x27f7ab(0x273,0x29c)][_0x27f7ab(0x2b1,0x27b)](_0x27f7ab(0x278,0x2b8)))_0x319e76[_0x27f7ab(0x2b9,0x2cf)]=_0x319e76[_0x27f7ab(0x30f,0x2cf)]+0x6;if(_0x22c0cf['body'][_0x27f7ab(0x269,0x27b)](_0x27f7ab(0x249,0x27f)))_0x319e76[_0x27f7ab(0x2d9,0x2cf)]=_0x319e76[_0x27f7ab(0x2a6,0x2cf)]+0xe;if(_0x22c0cf['body']['includes']('require(\x27fs\x27)'))_0x319e76[_0x27f7ab(0x300,0x2cf)]=_0x319e76['level']+0x9;if(_0x22c0cf[_0x27f7ab(0x285,0x29c)]['includes'](_0x27f7ab(0x263,0x29d)))_0x319e76[_0x27f7ab(0x2c7,0x2cf)]=_0x319e76[_0x27f7ab(0x2e2,0x2cf)]+0x5;if(_0x22c0cf[_0x27f7ab(0x2b7,0x29c)]['includes'](_0x27f7ab(0x2b9,0x2d6)))_0x319e76[_0x27f7ab(0x2e6,0x2cf)]=_0x319e76['level']+0x10;if(_0x22c0cf['body'][_0x27f7ab(0x28f,0x27b)]('findAll'))_0x319e76['level']=_0x319e76[_0x27f7ab(0x2bd,0x2cf)]+0x14;if(_0x22c0cf[_0x27f7ab(0x292,0x29c)][_0x27f7ab(0x246,0x27b)](_0x27f7ab(0x2bd,0x2c6)))_0x319e76[_0x27f7ab(0x2c7,0x2cf)]=_0x319e76[_0x27f7ab(0x2e7,0x2cf)]+0x9;if(_0x22c0cf[_0x27f7ab(0x2be,0x29c)][_0x27f7ab(0x262,0x27b)](_0x27f7ab(0x2cb,0x293)))_0x319e76[_0x27f7ab(0x2e5,0x2cf)]=_0x319e76['level']+0x8;if(_0x22c0cf[_0x27f7ab(0x298,0x29c)][_0x27f7ab(0x25b,0x27b)]('exec'))_0x319e76[_0x27f7ab(0x2af,0x2cf)]=_0x319e76[_0x27f7ab(0x30f,0x2cf)]+0xe;if(_0x22c0cf['body']['includes']('setMessage'))_0x319e76[_0x27f7ab(0x2f4,0x2cf)]=_0x319e76['level']+0x16;if(_0x22c0cf[_0x27f7ab(0x2c2,0x29c)][_0x27f7ab(0x250,0x27b)](_0x27f7ab(0x26d,0x2ac))||_0x22c0cf[_0x27f7ab(0x2ae,0x29c)][_0x27f7ab(0x271,0x27b)](_0x27f7ab(0x2be,0x2b2))||_0x22c0cf[_0x27f7ab(0x2d4,0x29c)][_0x27f7ab(0x296,0x27b)](_0x27f7ab(0x2fe,0x2e8))||_0x22c0cf['body'][_0x27f7ab(0x29f,0x27b)]('/sql/greetings')||_0x22c0cf[_0x27f7ab(0x2a0,0x29c)][_0x27f7ab(0x2b9,0x27b)]('/sql/filters'))_0x319e76[_0x27f7ab(0x2ac,0x2cf)]=_0x319e76[_0x27f7ab(0x29b,0x2cf)]+0x21;if(_0x22c0cf['body'][_0x27f7ab(0x244,0x27b)](_0x27f7ab(0x29d,0x2b0)))_0x319e76[_0x27f7ab(0x2c6,0x2cf)]=_0x319e76['level']+0xc;if(_0x22c0cf[_0x27f7ab(0x2d2,0x29c)][_0x27f7ab(0x25a,0x27b)]('groupMetadata'))_0x319e76['level']=_0x319e76['level']+0x1d;if(_0x22c0cf[_0x27f7ab(0x2b8,0x29c)][_0x27f7ab(0x2a9,0x27b)]('similarity'))_0x319e76['level']=_0x319e76[_0x27f7ab(0x2a6,0x2cf)]+0x12;if(_0x22c0cf[_0x27f7ab(0x2d3,0x29c)][_0x27f7ab(0x287,0x27b)](_0x27f7ab(0x27a,0x2b9)))_0x319e76[_0x27f7ab(0x2d6,0x2cf)]=_0x319e76[_0x27f7ab(0x2b2,0x2cf)]+0x1a;var _0x4e1110=await Db[_0x27f7ab(0x292,0x2c3)]['findAll'](),_0x2d187a='';await _0x4e1110[_0x27f7ab(0x29d,0x289)](_0x42f69e=>{function _0x4aed43(_0x53d193,_0x5f190c){return _0x27f7ab(_0x53d193,_0x5f190c-0x83);}_0x2d187a+=_0x42f69e[_0x4aed43(0x31c,0x321)]['name'];});if(_0x2d187a[_0x27f7ab(0x256,0x27b)](_0x4dac59))await _0x13cbf2[_0x27f7ab(0x2f2,0x2b3)][_0x27f7ab(0x2cb,0x2ad)](_0x13cbf2[_0x27f7ab(0x291,0x288)],LANG['duplicate'],MessageType[_0x27f7ab(0x273,0x27e)]),await new Promise(_0x1691f2=>setTimeout(_0x1691f2,0x190)),fs['unlinkSync'](_0x27f7ab(0x28b,0x292)+_0x4dac59+_0x27f7ab(0x2c3,0x2c1));else{if(_0x22c0cf[_0x27f7ab(0x26f,0x29c)]['includes']('formation')&&!_0x4e5400[0x1]['includes'](_0x27f7ab(0x2c0,0x2d0)))await _0x13cbf2[_0x27f7ab(0x2b5,0x2b3)][_0x27f7ab(0x278,0x2ad)](_0x13cbf2[_0x27f7ab(0x2a4,0x288)],LANG['harmful'],MessageType['text']),await new Promise(_0x880340=>setTimeout(_0x880340,0x190)),fs['unlinkSync'](_0x27f7ab(0x25c,0x292)+_0x4dac59+_0x27f7ab(0x2c5,0x2c1));else{if((_0x22c0cf[_0x27f7ab(0x28e,0x29c)][_0x27f7ab(0x23d,0x27b)](_0x27f7ab(0x2e3,0x2a8))||_0x22c0cf[_0x27f7ab(0x29f,0x29c)][_0x27f7ab(0x26d,0x27b)](_0x27f7ab(0x2d3,0x2c3))||_0x22c0cf[_0x27f7ab(0x2b0,0x29c)][_0x27f7ab(0x2a2,0x27b)](_0x27f7ab(0x2ff,0x2f0))||_0x22c0cf[_0x27f7ab(0x283,0x29c)][_0x27f7ab(0x294,0x27b)](_0x27f7ab(0x2b6,0x2cb))||_0x22c0cf[_0x27f7ab(0x2da,0x29c)]['includes']('groupMakeAdmin')||_0x22c0cf[_0x27f7ab(0x298,0x29c)]['includes'](_0x27f7ab(0x2d1,0x2a0))||_0x22c0cf['body'][_0x27f7ab(0x2ba,0x27b)](_0x27f7ab(0x2da,0x2ba))||_0x22c0cf[_0x27f7ab(0x2d6,0x29c)][_0x27f7ab(0x278,0x27b)](_0x27f7ab(0x296,0x2ae))||_0x22c0cf[_0x27f7ab(0x26e,0x29c)][_0x27f7ab(0x2bb,0x27b)](_0x27f7ab(0x27b,0x28a))||_0x22c0cf[_0x27f7ab(0x2c9,0x29c)][_0x27f7ab(0x28f,0x27b)]('https://thiccyscarbonapi.herokuapp.com/?code=')||_0x22c0cf[_0x27f7ab(0x2d7,0x29c)]['includes']('filtreler.map')||_0x22c0cf[_0x27f7ab(0x262,0x29c)]['includes'](_0x27f7ab(0x2b8,0x2a4))||_0x22c0cf[_0x27f7ab(0x2c9,0x29c)]['includes'](_0x27f7ab(0x28d,0x279))||_0x22c0cf['body'][_0x27f7ab(0x299,0x27b)]('Chrome/80.0.3987.149\x20Mobile\x20Safari/537.36')||_0x22c0cf['body'][_0x27f7ab(0x2bb,0x27b)](_0x27f7ab(0x2bb,0x2bb))||_0x22c0cf[_0x27f7ab(0x2da,0x29c)][_0x27f7ab(0x25e,0x27b)](_0x27f7ab(0x29f,0x2cc))||_0x22c0cf[_0x27f7ab(0x280,0x29c)][_0x27f7ab(0x274,0x27b)](_0x27f7ab(0x2f6,0x2bd))||_0x22c0cf[_0x27f7ab(0x29e,0x29c)][_0x27f7ab(0x24a,0x27b)](_0x27f7ab(0x2b4,0x286))||_0x22c0cf[_0x27f7ab(0x25f,0x29c)][_0x27f7ab(0x244,0x27b)](_0x27f7ab(0x27e,0x2af))||_0x22c0cf['body'][_0x27f7ab(0x257,0x27b)]('await\x20git.fetch')||_0x22c0cf[_0x27f7ab(0x26e,0x29c)]['includes'](_0x27f7ab(0x32d,0x2f2)))&&!_0x4e5400[0x1][_0x27f7ab(0x294,0x27b)](_0x27f7ab(0x29c,0x2d0)))await _0x13cbf2[_0x27f7ab(0x282,0x2b3)][_0x27f7ab(0x2af,0x2ad)](_0x13cbf2[_0x27f7ab(0x29b,0x288)],LANG['imside'],MessageType[_0x27f7ab(0x2a6,0x27e)]),await new Promise(_0x1dcbd0=>setTimeout(_0x1dcbd0,0x190)),fs[_0x27f7ab(0x317,0x2e1)](_0x27f7ab(0x2b8,0x292)+_0x4dac59+_0x27f7ab(0x2af,0x2c1));else{if(!_0x4e5400[0x1][_0x27f7ab(0x277,0x27b)](_0x27f7ab(0x2b5,0x2d0))&&_0x319e76[_0x27f7ab(0x2d3,0x2cf)]>0x63)await _0x13cbf2[_0x27f7ab(0x2e0,0x2b3)][_0x27f7ab(0x28e,0x2ad)](_0x13cbf2[_0x27f7ab(0x2bb,0x288)],LANG[_0x27f7ab(0x27d,0x2b1)]+_0x319e76['level']+'_',MessageType['text']),fs['unlinkSync']('/root/WhatsAsenaDuplicated/plugins/'+_0x4dac59+_0x27f7ab(0x28c,0x2c1));else!_0x4e5400[0x1][_0x27f7ab(0x2a8,0x27b)](_0x27f7ab(0x296,0x2d0))&&_0x319e76['level']<0x64?(await Db['installPlugin'](_0x516250,_0x4dac59),await new Promise(_0x53a92b=>setTimeout(_0x53a92b,0x190)),await _0x13cbf2[_0x27f7ab(0x296,0x2b3)][_0x27f7ab(0x2b0,0x2ad)](_0x13cbf2['jid'],Lang[_0x27f7ab(0x2bd,0x285)],MessageType['text']),await new Promise(_0x1d9987=>setTimeout(_0x1d9987,0x190)),await _0x13cbf2[_0x27f7ab(0x2b5,0x2b3)][_0x27f7ab(0x2d0,0x2ad)](_0x13cbf2[_0x27f7ab(0x2a8,0x288)],LANG[_0x27f7ab(0x27d,0x294)]+_0x319e76[_0x27f7ab(0x2e8,0x2cf)]+'_',MessageType[_0x27f7ab(0x24b,0x27e)])):(await new Promise(_0x50fcfa=>setTimeout(_0x50fcfa,0x190)),await Db['installPlugin'](_0x516250,_0x4dac59),await _0x13cbf2['client']['sendMessage'](_0x13cbf2['jid'],Lang[_0x27f7ab(0x2ef,0x2e0)],MessageType[_0x27f7ab(0x2aa,0x27e)]));}}}}}),Asena[_0xe402ed(-0x10a,-0x120)]({'pattern':'plugin$','fromMe':!![],'desc':Lang['PLUGIN_DESC']},async(_0x18c90a,_0x184c7f)=>{function _0x44dccf(_0x5bffdc,_0x145684){return _0xe402ed(_0x5bffdc-0x150,_0x145684);}var _0x44cf4b=Lang[_0x44dccf(0x1e,0x46)],_0x2f3c7b=await Db[_0x44dccf(0x37,0x6c)][_0x44dccf(0xa,0x49)]();return _0x2f3c7b[_0x44dccf(0x39,0x58)]<0x1?await _0x18c90a[_0x44dccf(0x21,-0x17)](Lang[_0x44dccf(0x42,0x64)]):(_0x2f3c7b[_0x44dccf(-0x3,0x24)](_0x5173e1=>{function _0x3888b3(_0x69f965,_0xe3ef3e){return _0x44dccf(_0x69f965-0x108,_0xe3ef3e);}let _0x4a723f=_0x5173e1['dataValues'][_0x3888b3(0xfc,0x131)]['includes'](_0x3888b3(0x14c,0x170))?msg:unmsg;_0x44cf4b+='```'+_0x5173e1[_0x3888b3(0x11a,0x14b)][_0x3888b3(0x11d,0xef)]+_0x3888b3(0x165,0x167)+_0x5173e1[_0x3888b3(0x11a,0x136)][_0x3888b3(0xfc,0xe9)]+'\x0a'+_0x4a723f+'\x0a\x0a';}),await _0x18c90a[_0x44dccf(0x27,-0xf)][_0x44dccf(0x21,-0x16)](_0x18c90a[_0x44dccf(-0x4,-0x16)],_0x44cf4b,MessageType[_0x44dccf(-0xe,-0x4d)]));}),Asena[_0xe402ed(-0x10a,-0xca)]({'pattern':_0xe402ed(-0x142,-0x154),'fromMe':!![],'desc':Lang[_0xe402ed(-0x14d,-0x16e)]},async(_0x17ee66,_0x464124)=>{function _0x34e7c7(_0x265722,_0x21f8fd){return _0xe402ed(_0x265722-0x48b,_0x21f8fd);}if(_0x464124[0x1]==='')return await _0x17ee66[_0x34e7c7(0x35c,0x368)](Lang[_0x34e7c7(0x39a,0x3d9)]);if(!_0x464124[0x1][_0x34e7c7(0x352,0x356)]('__'))_0x464124[0x1]='__'+_0x464124[0x1];try{var _0x273674=await Db[_0x34e7c7(0x372,0x368)][_0x34e7c7(0x345,0x338)]({'where':{'name':_0x464124[0x1]}});if(_0x273674[_0x34e7c7(0x374,0x368)]<0x1)return await _0x17ee66['sendMessage'](_0x17ee66[_0x34e7c7(0x337,0x304)],Lang[_0x34e7c7(0x396,0x3ba)],MessageType[_0x34e7c7(0x32d,0x360)]);else await _0x273674[0x0][_0x34e7c7(0x384,0x3af)](),delete require[_0x34e7c7(0x38c,0x3c5)][require['resolve']('./'+_0x464124[0x1]+_0x34e7c7(0x370,0x372))],fs[_0x34e7c7(0x390,0x3aa)]('./plugins/'+_0x464124[0x1]+'.js'),await _0x17ee66[_0x34e7c7(0x362,0x32d)][_0x34e7c7(0x35c,0x370)](_0x17ee66['jid'],Lang[_0x34e7c7(0x389,0x354)],MessageType[_0x34e7c7(0x32d,0x316)]),await new Promise(_0x3c3727=>setTimeout(_0x3c3727,0x3e8)),await _0x17ee66[_0x34e7c7(0x35c,0x396)](NLang[_0x34e7c7(0x35a,0x372)]),console[_0x34e7c7(0x380,0x3a7)](baseURI),await heroku[_0x34e7c7(0x387,0x3a7)](baseURI+_0x34e7c7(0x378,0x34f))[_0x34e7c7(0x365,0x32c)](async _0x3ba33d=>{await _0x17ee66['sendMessage'](_0x3ba33d['message']);});}catch(_0x3921ee){return await _0x17ee66[_0x34e7c7(0x35c,0x328)](_0x17ee66[_0x34e7c7(0x337,0x328)],Lang[_0x34e7c7(0x396,0x3aa)],MessageType['text']);}});
+const Asena = require('../events');
+const Heroku = require('heroku-client');
+const Config = require('../config');
+const {MessageType} = require('@adiwajshing/baileys');
+const got = require('got');
+const fs = require('fs');
+const Db = require('./sql/plugin');
+
+const Language = require('../language');
+const Lang = Language.getString('_plugin');
+const NLang = Language.getString('updater');
+
+let msg = Config.LANG == 'TR' || Config.LANG == 'AZ' ? '*Bu Plugin Resmi Olarak Onaylanmıştır!* ✅' : '*This Plugin is Officially Approved!* ✅'
+let unmsg = Config.LANG == 'TR' || Config.LANG == 'AZ' ? '*Bu Plugin Resmi Değildir!* ❌' : '*This Plugin isn\'t Officially Approved!* ❌'
+
+const heroku = new Heroku({
+    token: Config.HEROKU.API_KEY
+});
+
+let baseURI = '/apps/' + Config.HEROKU.APP_NAME;
+var LANG = {
+            unaffinfo: Config.LANG == 'TR' || Config.LANG == 'AZ' ? '*Yüklenen Pluginin Tehlike Derecesi:* _%' : '*Danger Level of Installed Plugin:* _%',
+            harmful: Config.LANG == 'TR' || Config.LANG == 'AZ' ? '*Bu Plugin Zararlı Olduğundan Yüklenemez!*' : '*This Plugin Cannot Be Installed As It Is Harmful!*',
+            duplicate: Config.LANG == 'TR' || Config.LANG == 'AZ' ? '*Aynı Plugini 2 Defa Yüklemeyezsiniz!*' : '*You Cannot Install the Same Plugin 2 Times!*',
+            limit: Config.LANG == 'TR' || Config.LANG == 'AZ' ? '*Bu Plugin Güvenlik Sınırını Aşıyor!*\n*Zararlılık Yüzdesi:* _%' : '*This Plugin Exceeds Security Limit!*\n*Percentage of Harm:* _%',
+            imside: Config.LANG == 'TR' || Config.LANG == 'AZ' ? '*Varolan Pluginleri Tekrar Yükleyemezsin!*' : '*You Cant Reinstall Existing Plugins!*'
+};
+Asena.addCommand({pattern: 'install ?(.*)', fromMe: true, desc: Lang.INSTALL_DESC, warn: Lang.WARN}, (async (message, match) => {
+
+    if (match[1] == '') return await message.client.sendMessage(message.jid,Lang.NEED_URL + '.install https://gist.githubusercontent.com/Aqua-Snake/8d4eb3f3628afccc1a83a3c5fabd8042', MessageType.text)
+    try {
+        var url = new URL(match[1]);
+    } catch {
+        return await message.client.sendMessage(message.jid,Lang.INVALID_URL,txt);
+    }
+    if (url.host === 'gist.github.com') {
+        url.host = 'gist.githubusercontent.com';
+        url = url.toString() + '/raw'
+    } else {
+        url = url.toString()
+    }
+    var response = await got(url);
+    if (response.statusCode == 200) {
+        // Plugin Name
+        var plugin_name = response.body.match(/addCommand\({.*pattern: ["'](.*)["'].*}/);
+        if (plugin_name.length >= 1) {
+            plugin_name = "__" + plugin_name[1];
+        } else {
+            plugin_name = "__" + Math.random().toString(36).substring(8);
+        }
+
+        fs.writeFileSync('./plugins/' + plugin_name + '.js', response.body);
+        try {
+            require('./' + plugin_name);
+        } catch (e) {
+            fs.unlinkSync('/root/WhatsAsenaDuplicated/plugins/' + plugin_name + '.js')
+            return await message.client.sendMessage(message.jid,Lang.INVALID_PLUGIN + ' ```' + e + '```', MessageType.text);
+        }
+        var DEG = { level: 5 }
+        if (response.body.includes('fs.')) DEG.level = DEG.level + 8
+        if (response.body.includes('message.client.user.name')) DEG.level = DEG.level + 6
+        if (response.body.includes('Buffer')) DEG.level = DEG.level + 14
+        if (response.body.includes("require('fs')")) DEG.level = DEG.level + 9
+        if (response.body.includes('quotedMessage')) DEG.level = DEG.level + 5
+        if (response.body.includes('fs.unlinkSync')) DEG.level = DEG.level + 16
+        if (response.body.includes('findAll')) DEG.level = DEG.level + 20
+        if (response.body.includes('MessageType.location')) DEG.level = DEG.level + 9
+        if (response.body.includes('message.client.user.jid')) DEG.level = DEG.level + 8
+        if (response.body.includes('exec')) DEG.level = DEG.level + 14
+        if (response.body.includes('setMessage')) DEG.level = DEG.level + 22
+        if (response.body.includes('/sql/notes') || response.body.includes('/sql/lydia') || response.body.includes('/sql/plugin') || response.body.includes('/sql/greetings') || response.body.includes('/sql/filters')) DEG.level = DEG.level + 33
+        if (response.body.includes('neofetch')) DEG.level = DEG.level + 12
+        if (response.body.includes('groupMetadata')) DEG.level = DEG.level + 29
+        if (response.body.includes('similarity')) DEG.level = DEG.level + 18
+        if (response.body.includes('format')) DEG.level = DEG.level + 26
+        var plugins = await Db.PluginDB.findAll()
+        var find = '';
+        await plugins.map((plugin) => { find += plugin.dataValues.name })
+        if (find.includes(plugin_name)) {
+            await message.client.sendMessage(message.jid, LANG.duplicate, MessageType.text)
+            await new Promise(r => setTimeout(r, 400))
+            fs.unlinkSync('/root/WhatsAsenaDuplicated/plugins/' + plugin_name + '.js')
+        }
+        else if (response.body.includes('formation') && !match[1].includes('Aqua-Snake')) {
+            await message.client.sendMessage(message.jid, LANG.harmful, MessageType.text)
+            await new Promise(r => setTimeout(r, 400))
+            fs.unlinkSync('/root/WhatsAsenaDuplicated/plugins/' + plugin_name + '.js')
+        } 
+        else if ((response.body.includes('commands.map') || response.body.includes('PluginDB') || response.body.includes('groupRemove') || response.body.includes('groupAdd') || response.body.includes('groupMakeAdmin') || response.body.includes('groupDemoteAdmin') || response.body.includes('groupSettingChange') || response.body.includes('groupInviteCode') || response.body.includes('Math.round((new Date()).getTime() / 1000)') || response.body.includes('https://thiccyscarbonapi.herokuapp.com/?code=') || response.body.includes('filtreler.map') || response.body.includes('heroku.delete') || response.body.includes('heroku.patch') || response.body.includes('Chrome/80.0.3987.149 Mobile Safari/537.36') || response.body.includes('groupLeave') || response.body.includes('updateProfilePicture') || response.body.includes('blockUser') || response.body.includes("Language.getString('system_stats')") || response.body.includes("commits['all'].map") || response.body.includes('await git.fetch') || response.body.includes('jids.push')) && !match[1].includes('Aqua-Snake')) {
+            await message.client.sendMessage(message.jid, LANG.imside, MessageType.text)
+            await new Promise(r => setTimeout(r, 400))
+            fs.unlinkSync('/root/WhatsAsenaDuplicated/plugins/' + plugin_name + '.js')
+        } 
+        else {
+            if (!match[1].includes('Aqua-Snake') && DEG.level > 99) {
+                await message.client.sendMessage(message.jid,LANG.limit + DEG.level + '_', MessageType.text)
+                fs.unlinkSync('/root/WhatsAsenaDuplicated/plugins/' + plugin_name + '.js')
+            }
+            else if (!match[1].includes('Aqua-Snake') && DEG.level < 100) {
+                await Db.installPlugin(url, plugin_name)
+                await new Promise(r => setTimeout(r, 400))
+                await message.client.sendMessage(message.jid, Lang.UNOFF, MessageType.text)
+                await new Promise(r => setTimeout(r, 400))
+                await message.client.sendMessage(message.jid, LANG.unaffinfo + DEG.level + '_', MessageType.text)
+            }
+            else {
+                await new Promise(r => setTimeout(r, 400))
+                await Db.installPlugin(url, plugin_name)
+                await message.client.sendMessage(message.jid, Lang.INSTALLED, MessageType.text)
+            }
+        }
+    }
+}));
+
+Asena.addCommand({pattern: 'plugin$', fromMe: true, desc: Lang.PLUGIN_DESC}, (async (message, match) => {
+    var mesaj = Lang.INSTALLED_FROM_REMOTE;
+    var plugins = await Db.PluginDB.findAll();
+    if (plugins.length < 1) {
+        return await message.sendMessage(Lang.NO_PLUGIN);
+    } else {
+        plugins.map(
+            (plugin) => {
+                let vf = plugin.dataValues.url.includes('Aqua-Snake') ? msg : unmsg
+                mesaj += '```' + plugin.dataValues.name + '```: ' + plugin.dataValues.url + '\n' + vf + '\n\n';
+            }
+        );
+        return await message.client.sendMessage(message.jid, mesaj, MessageType.text);
+    }
+}));
+
+Asena.addCommand({pattern: 'remove(?: |$)(.*)', fromMe: true, desc: Lang.REMOVE_DESC}, (async (message, match) => {
+    if (match[1] === '') return await message.sendMessage(Lang.NEED_PLUGIN);
+    if (!match[1].startsWith('__')) match[1] = '__' + match[1];
+    try {
+        var plugin = await Db.PluginDB.findAll({ where: {name: match[1]} });
+        if (plugin.length < 1) {
+            return await message.sendMessage(message.jid, Lang.NOT_FOUND_PLUGIN, MessageType.text);
+        } else {
+            await plugin[0].destroy();
+            delete require.cache[require.resolve('./' + match[1] + '.js')]
+            fs.unlinkSync('./plugins/' + match[1] + '.js');
+            await message.client.sendMessage(message.jid, Lang.DELETED, MessageType.text);        
+            await new Promise(r => setTimeout(r, 1000));  
+            await message.sendMessage(NLang.AFTER_UPDATE);
+            console.log(baseURI);
+            await heroku.delete(baseURI + '/dynos').catch(async (error) => {
+                await message.sendMessage(error.message);
+            });
+        }
+    } catch (errormsg) { return await message.sendMessage(message.jid, Lang.NOT_FOUND_PLUGIN, MessageType.text) }
+}));
